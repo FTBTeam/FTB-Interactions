@@ -1,20 +1,30 @@
 <!--
-Thanks for wanting to report an issue you've found. Please delete
-this text and fill in the template below. If unsure about something, just do as
-best as you're able. Thank you!
-Note: any external modifications to this modpack will render all support useless,
-ie; adding mods like optifine to the modpack! So please remove all added content, 
-re-test bug/issue and resubmit!
+Thanks for reporting an issue you've found. Please delete
+this text and fill in the template below as best as you can, even if you are unsure.
+Note: We do not offer support to any external modifications to this modpack, such as using mods like optifine or plugins like sponge  
 -->
 
-* **Modpack Version**: <!-- you must provide the version of the pack this issue happened -->
+## Modpack Version: 
+<!-- Required -->
 
-* **Issue**: <!-- detailed description of the issue -->
+## Bug Report:
+<!-- Bugs: Describe the current behavior -->
 
-* **Link to Log or Crash File Paste**: <!-- please use http://paste.feed-the-beast.com/ to paste the text of your log/crash file -->
+## Expected Behavior/Suggestions:
+<!-- Bugs: Describe the expected behavior -->
+<!-- Suggestions: Tell us how it should be -->
 
-* **Is it Repeatable?**: <!-- can you repeat the issue -->
+## Is It Repeatable? Steps to Reproduce: 
+<!--- Video evidence to reproduce is preferred, otherwise list steps below-->
+1.
+2.
+<!--- Add more if needed -->
 
-* **Mod/s Affected**: <!-- optional; if any mods are causing the direct issue please provide the name/version of the mod -->
+## Link to Log or Crash File Paste**: 
+<!-- Use http://paste.feed-the-beast.com/ to paste the text of your log/crash file -->
 
-* **Known Fix**: <!-- optional; if you know of a fix please let me know! Thanks -->
+## Mod/s Affected: 
+<!-- optional; list an mods confirmed to cause the issue -->
+
+## Known Fix: 
+<!-- optional; if you know of a fix please let me know! Thanks -->
