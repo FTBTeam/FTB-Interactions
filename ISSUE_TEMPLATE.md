@@ -21,7 +21,7 @@ Note: We do not offer support to any external modifications to this modpack, suc
 <!--- Add more if needed -->
 
 ## Link to Log or Crash File Paste**: 
-<!-- Use http://paste.feed-the-beast.com/ to paste the text of your log/crash file -->
+<!-- Use https://paste.feed-the-beast.com/ to paste the text of your log/crash file -->
 
 ## Mod/s Affected: 
 <!-- optional; list an mods confirmed to cause the issue -->
