@@ -319,7 +319,7 @@ autoclave.recipeBuilder()
     .inputs(<ore:dustDilithium> * 1)
     .fluidInputs([<liquid:astralsorcery.liquidstarlight> * 50])
     .duration(100)
-	.outputs(<libvulpes:productcrystal>)
+	.outputs(<libvulpes:productgem>)
     .EUt(24)
     .buildAndRegister();
 
