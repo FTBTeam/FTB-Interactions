@@ -1,0 +1,50 @@
+{
+  "weight": 0,
+  "density": 0.8,
+  "max_height": 90,
+  "min_height": 5,
+  "vein_populator": {
+    "type": "surface_block",
+    "block": {
+      "block": "plants2:cosmetic_1",
+      "type" : "agapanthus_a"
+    },
+    "min_amount": 12,
+    "max_amount": 14
+  },
+  "biome_modifier": {
+    "type": "biome_map",
+	"advancedrocketry:moon": -200,
+	"advancedrocketry:moondark": -200,
+    "advancedrocketry:alien forest": -200,
+    "advancedrocketry:oceanspires": -200,
+	"advancedrocketry:hotdryrock": -200,
+	"advancedrocketry:crystalchasms": -200,	
+    "minecraft:swampland": 100,
+    "minecraft:mutated_swampland": 100,
+    "traverse:green_swamp": 100
+  },
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      13,
+      13
+    ]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 60,
+          "value": "ore:apatite"
+        },
+        {
+          "weight": 40,
+          "value": "ore:phosphor"
+        }
+      ]
+    }
+  }
+}

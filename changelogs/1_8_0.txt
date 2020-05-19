@@ -1,0 +1,53 @@
+1.8.0 Update
+Mod additons:
+Added enchantTable mod to retain lapis in enchanting tables
+
+Mod updates
+	Zen triggers updated - Fixes enderchicken shedding
+	Animus to 2.1.3
+	SFM to 2.0.16
+	crafttweaker to 4.1.19
+	Zensummoning to 1.0.15
+	Modular Machinery 1.10.0
+		Now has native GTCE implementation, no longer need CEU
+	Modular Diversity to 1.3
+	Fastbench to 1.7.2
+	Gregtech updated to minor version 1.8.2.415 to include many changes and fixes, see GT changelogs for specifics
+		All multiblock turbines now require 4x more fuel
+		Multiblock turbines need the max amount of fuel at the start, they no longer provide 'partial energy'
+		Large Steam turbines now cap at 12.8k EU/t
+		Gas turbines now cap at ~32k eu/t
+		Plasma turbines can now reach up to ~48k eu/t
+	Iron chests to 7.0.69.845
+	Just enough harvestcraft to 1.6.4
+	Shadows of Greg updated to 2.8.0
+	Quark updated to 1.5-159
+	Statskeeper updated to 3.1.13
+	Xaeros minimap to 1.17.1
+	Xaeros worldmap to 1.3.5
+	Wizardry to 0.10.7
+	Simpletrophies to 1.2.1
+	Resizing potion to 2.1.1
+	Mekanism to 9.7.7.378
+	Astral sorcery to 1.10.19
+	Deep Mob Learning to 2.5.2
+	Librarian lib to 4.19.1
+
+
+Config Changes
+	fixed fluid rarities issues in neromantic prime
+	fixed rftools config formatting errors to match new expected formatting
+
+Quest Changes
+knocked out over 20+ issues related to questbook, no new quests added just bug fixes
+
+Recipe Changes:
+	All chickens eggs are moved off the Composer to crafting grid due to NBT sensitivity, now require burnt emerald (made in Composer)
+	Midnight dust recipe addition
+	reverted plutonium fluid in improved nether/ender eyes back to radon
+	HV pump assembly recipe now properly uses molten steel instead of bronze
+	fixed infinite concrete loop
+	fixed phosphor ore not spawning in meteors
+	updated hundreds of scripts to support new tiered output bonuses for gregtech
+	malachite and chalcopyrite copper output
+	

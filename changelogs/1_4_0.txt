@@ -1,0 +1,83 @@
+Mod Update:
+	apotheosis 1.9.3
+	astral sorcery 1.10.17
+	botania tweaks 1.8.5
+	cyclic 1.19.6
+	ftblib 5.4.1.96
+	ftbquests 1.5.1.146
+	ftbutilities 5.4.0.94
+	mekanism 9.7.2.373
+	jei 4.15.0.278
+	oreExcavation 1.4.140
+	pickleTweaks 2.1.3
+	RusticThaumaturgy 4.4a
+	ThermalLogistics 0.2-22
+	togetherForever 1.0.12-22
+
+Mod Additions:
+	KnowledgeShare - allows thaumcraft knowledge sharing
+	Insomnia to avoid sleeping (Crying Obsidian will be removed in NEXT / 1.5.0 update)
+
+Config updates:
+	cobwebs no longer remove enchantments
+	Thaumic JEI aspects should hopefully be working now
+	wizardry mana generation is no longer being controlled by cofh and has passed back to wizardry control
+	Blaze explosions added by roughmobs has been disabled due to issues with them blowing up their loot
+	creosote can now be poured in world
+	creosote now acts as fuel for petropetunia
+	removed some loot that is no longer in the pack from dungeons
+	space mob staging can no longer be skipped by going directly to luna
+	
+	
+Recipes Changes:
+	Added automation of Rustic crops to fluid extractor
+	Added Cooking oil to olive oil in fluid extractor
+	increased tungsten chance from deconglomerator by double
+	lowered required TNT needed for neutronium compression by 4x
+	Astral sorcery starlight altar recipes should no longer consume buckets
+	removed mekanism energy tablets from the pack and all recipes
+	bismuth ore can now be converted from stibnite by transmutation
+	common tartaric gem alternate recipe added, avaialle at tier 2 bloodmagic with infusion crafting
+	peace candles can now be crafted pre-space flight	
+	added a recipe to convert gt oxygen/hydrogen into mek hydrogen/oxygen
+	fixed recipec conflict with sodium hydroxide
+	signalum dust is no longer smeltable in the furnace
+	Alumite can now be properly crafting without conflicting with aluminium
+	fixed fluid extract 32eu/t recipes, lowered to 30eu/t to account for cable loss
+	removed steam electrolysis recipe
+	added a galium path to ae formation and annihilation cores, demon will recipe now yields more
+	moved storage buses, terminals and me chests to early HV tier, full AE system minus autocrafting should now be avaialble pre-space
+	New earlier draconium infused obsidian
+	Potentiometer recipe made much earlier
+	added elementium to EBF
+	Draconium infused recipe
+	fixed recipes for awakened draconium ingots
+	removed duplicate wheat maceration recipe
+	fixed duplicate blaze mesh forge hammer recipe
+	unified tinkers/gtce glass amounts to 144mb instead of 1000mb
+	added recipe for osgloglass
+	elementium can now be deblockified properly
+	Added DE tablet to guide chisel group
+	Deprecated DE Ingot, switch to GTCE variant
+	Re-balanced dislocator recipe
+	Re-balanced iron bar macerator output so it isn't infinite loop
+	infinity chicken centrifuging moved to base HV tier
+	Removed Methane from Applies (Apple juice recipe conflict)
+	Beds to set spawnpoints are enabled again
+	Corrected so that centrifuging ashes gives Carbon Dust
+
+Quests:
+	Heavy Fuel quest depends now on crystallized oil quest
+	Removed Livingrock quest reward from crystralized menril chunk
+	Removed the need of LV mixer in Disel Quest (it uses MV mixer anyways)
+	added quests for scuba tank, rotarycondestrator, mek jetpack and hanglider in party gear
+	fixed infinity chicken nbt matching for quest turn in
+	switched iron drum reward with tungstensteel drum
+	resolved candle questline dependencies
+	Trophies are now claimed once per team instead of per person
+	
+	
+
+Misc:
+	Added custom extruder item and recipes (thanks to Damien for the mold texture/idea)
+	WARNING: next update crying obsidian will be removed in favor of beds returning, we're giving a week notice so people have time to get a bed down before then.

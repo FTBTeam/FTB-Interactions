@@ -1,0 +1,30 @@
+{
+	"cell": {
+		"max_quantity": 64,
+		"allow_sneak_right_click_stack_insertion": true
+	},
+	"particle_count_activated": 1.0,
+	"particle_count_max": 6,
+	"particle_count_mob_poof": 50,
+	"non_upgraded_delay": {
+		"min": 500.0,
+		"max": 1000.0
+	},
+	"non_upgraded_range": 4,
+	"upgrade_delay_effectiveness": {
+		"min": 0.8,
+		"max": 1.0
+	},
+	"upgrade_range_effectiveness": 1,
+	"poof_chance": {
+		"min": 0.001,
+		"max": 3.0E-4
+	},
+	"whitelisted_creatures": null,
+	"blacklisted_creatures": null,
+	"max_upgrades": {
+		"range": 16,
+		"delay": 16,
+		"efficiency": 16
+	}
+}

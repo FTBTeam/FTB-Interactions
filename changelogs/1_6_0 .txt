@@ -1,0 +1,84 @@
+Generic Mod Updates:
+	Apotheosis to 1.9.4 (update to 1.10 might take a while due to native balance changes)
+	Compact Machines to 3.0.18
+	CreativeCore (LittleTiles Library) to v1.9.45
+	Deep Mob Learning to 2.5.1
+	Fastworkbench to 1.7.1 
+	FTBLib to 1.5.2
+	FTBQuests to 1.5.2
+	Quark to 1.5-150
+	RandomPatches to 1.15.1.0
+	RandomTweaks to 2.5.0.5
+	SimplyLight to 0.7.0
+	Toast Control to 1.8.1
+	Weirding Gadgets to 2.1.16
+	Zen Summoning to 1.0.13
+	
+Material Mod Updates
+	Mekanism to 9.7.4
+		Pipe performance improvements
+	RFTools to 7.71
+		Modular Storage Block now has comparator functions similar to a chest
+	Rough Mob 2 to 2.0.15
+		Fixes a crash when fake players attacks entities
+	Thermal Logistics to 0.0-23
+		Fixed dupe and client crash bug
+	Super Factory Manager 2.0.12 to 2.0.13
+		Fixed dupe bug
+
+	GregTech update is delayed due to balance breaking (more so than it is already) issues regarding turbines. We do not recommend updating to latest GTCE, we are currently working on a PR.
+
+	Deep mob learning update fixes a ton of bugs in the mod and improves overall stability. 
+
+Mods Added:
+	Capability Adapters - small mod for ME and Compact Machine integration
+
+Quests:
+	- 'Youv'e urned this' ignores NBT of Acqueous Accumulator, can be completed now
+	- AR Machine Structures have a circuit to prevent recipe conflicts
+	- removed radon cell as quest reward
+	- Removed Holding IV Satchel Quest
+	- Added quest text to check JEI about usable generator fuels
+	- updated together forever quest commands
+
+Recipes:
+	- AA Phantom boosters use blocks of enderpearl instead of ender casings
+	- AA Item Repairer disabled and hidden from JEI
+	- Handy bag no longer requires Holding IV Satchel due to nightmare ID situation
+	- Removed upgrade recipe to make Holding IV satchels for similar reason
+	- fixed lithium battery recipe
+	- removed signalum and enderium dust melting recipes in smeltery
+	- enderium and signalum dust mixer recipes are 30eu/t to account for cable loss
+	- remove mana diamond block conversion from standard diamonds
+	- added industrial machine chassis recipe 
+		* impulse hopper now craftable
+		* Funky Locomotion movers now craftable
+		* wireless charging antennas craftable
+	- removed Mekanism energy tablet 
+	- Added ZLogic Controller Recipe
+		* Farming Station now craftable
+		* Killer Joe now craftable (we still recommend DML, will look into balance suggestions)
+	- Slice and Splice disabled (redundant)
+	- Removed Sagmill and Grinding Balls rom JEI (redundant)
+	- Disabled several unused mid/endgame capacitors from EIO addons
+	- Removed Little Tiles storage lock
+	- Thorium is no longer obtainable from coal
+	- Cardboard box uses TE sawdust instead of Mekanism sawdust (unobtainable before)
+
+Misc:
+	The One Probe
+		Due to constant inquiry, we have distributed a ONE-TIME set of The One Probe configs that is recommended with the pack. We normally encourage players to manage their own clientside configs.
+		- added gregtech:machine so you can view contents and internal tank of all GT machines, crates, and drums
+		- Probe is not needed for extended tooltip
+		- Thermal Expansion Cache automatically shows
+		- All gregtech machines automatically show
+		- Sneak to show other container contents
+		- Mob Potion effects still require sneaking
+	
+	Blood Magic
+		- disabled well of suffering in favor of ritual of culling
+		- disabled night imperfect ritual
+
+	Doomlike Dungeons
+		- Thaumatorium now correctly loads as dungeon loot
+		- Impulse itemducts replaced old logistics pipes (unused) in dungeon loot 

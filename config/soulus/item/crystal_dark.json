@@ -1,0 +1,25 @@
+{
+	"particle_count": 50,
+	"prick_chance": 0.001,
+	"prick_amount": 1,
+	"prick_effects": [
+		{
+			"effect": "nausea",
+			"duration": 100,
+			"chance": 1.0
+		},
+		{
+			"effect": "wither",
+			"duration": 200,
+			"chance": 1.0
+		}
+	],
+	"held_effects": [
+		{
+			"effect": "slowness",
+			"duration": 100,
+			"chance": 1.0
+		}
+	],
+	"stack_size": 16
+}

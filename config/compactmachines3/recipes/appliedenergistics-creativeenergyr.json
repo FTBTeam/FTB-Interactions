@@ -1,0 +1,90 @@
+  {
+	  "name": "appliedenergistics2:creativeenergycell",
+	  
+	  "target-item": "appliedenergistics2:creative_energy_cell",
+	  "target-count": 1,
+	  "duration": 200,
+	  "catalyst": "gregtech:meta_item_1",
+	  "catalyst-meta": "32598",
+
+  "input-types": {
+    "a": {
+      "id": "appliedenergistics2:dense_energy_cell",
+      "meta": 0
+    },
+    "b": {
+      "id": "avaritia:block_resource",
+      "meta": 2
+    },
+    "c": {
+      "id": "thermalfoundation:glass",
+      "meta": 7
+    },
+    "d": {
+      "id": "avaritia:block_resource",
+      "meta": 1
+    }
+  },
+  "input-nbt": {
+    "a:A": {
+      "nbt": "{proxy:{p:0,g:1334L,k:-1L},id:\"appliedenergistics2:dense_energy_cell\",internalCurrentPower:0.0d}"
+    },
+    "a:B": {
+      "nbt": "{proxy:{p:0,g:1335L,k:-1L},id:\"appliedenergistics2:dense_energy_cell\",internalCurrentPower:0.0d}"
+    }
+  },
+  "shape": [
+    [
+      [
+        "a:A",
+        "a:A",
+        "a:A"
+      ],
+      [
+        "a:A",
+        "c",
+        "a:A"
+      ],
+      [
+        "a:A",
+        "a:A",
+        "a:A"
+      ]
+    ],
+    [
+      [
+        "b",
+        "c",
+        "b"
+      ],
+      [
+        "c",
+        "d",
+        "c"
+      ],
+      [
+        "b",
+        "c",
+        "b"
+      ]
+    ],
+    [
+      [
+        "a:B",
+        "a:B",
+        "a:B"
+      ],
+      [
+        "a:B",
+        "c",
+        "a:B"
+      ],
+      [
+        "a:B",
+        "a:B",
+        "a:B"
+      ]
+    ]
+  ]
+
+}

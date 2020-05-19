@@ -1,0 +1,44 @@
+1.9.1 Hotfix
+Fixed a crash related to zen events
+updated advanced rocketry planetary xmls to use biome mappings instead of hardcoded ids, should fix some biome issues for people. (The planets may need to be regenerated if you 
+have previously generated incorrect ids) 
+Mana input hatches have been lowered to 1 mana pool internal buffer from 10
+updated randompatches
+
+
+1.9.0 Update
+IMPORTANT: Any update from 1.8+ will cause Super factory managers to lose their programming due to a fundamental change in the way the mod handles data. 
+The new change allows for higher numbers and stocking with the SFM and is a needed breaking change to improve the mod overall. Please make sure your players
+have had a chance to copy down their programs to avoid any added hassle for this important update.
+
+Mod updates:
+clean view to v1b
+CEU to 1.0.4.0
+forgeline to 1.8.2
+FTBLib and FTBQuests updated
+JEI to 4.15.0.283
+Mekanism to 9.7.8.379
+Modular diversity to 1.5
+passwordlib to 2.1.44
+randomtweaks to 2.5.0.6
+randompatches to 1.16.2.1
+soulus to 4.2.2-160ded6
+wirelesscrafting terminal to 3.12.93
+wizardry to 0.10.8
+Xaeros minimap to 1.17.2
+Zen summoning to 1.0.16
+
+Config Changes:
+Wizardry config updates
+Modular Diversity json recipes updated to reflect new daylight syntax
+zen events will now use a raw update method to allow the enderchicken to still shed neutronium while held by a physidillic prime (spoiler alert)
+
+Quest Changes:
+several bug fixes, no new quests 
+
+Recipe Changes:
+Importer/exporter crafts from integrated dynamics now requires redstone
+burnt emerald crafting should now work as expected
+covered superconducting cables now use 144mb of ptfe each instead of 100
+all sky cauldron recipes should be working again
+

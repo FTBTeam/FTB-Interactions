@@ -1,0 +1,17 @@
+Hotfix:
+	Fix astral sorcery fluid rarities config, extraneous zero was pushing max beyond max int occasionally causing sporadic crashes
+	
+
+Non Critical: 
+	Recipe fix for rotten egg
+	Pam Dough Recipe in Mixing Basin shortened to one flour/salt since mixing basin cared 	about order of inputs.
+	Thaumium Dust now smelts in PBF and EBF
+	added bonus chance to occasionally find crystallized oil with the prime
+	Moved steamturbine controller recipe to euclydes gating
+	cyclic sprinklers are now easier to craft
+	spirits can now be summoned outside of the void world
+	thaumium dust can now be remelted
+	fluxbore quest should now work correctly
+	fixed recipe conflict with rustic chains and deadlymonster reinforcement
+	fixed questgiver quest in ayo technology
+	

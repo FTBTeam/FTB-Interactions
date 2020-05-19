@@ -1,0 +1,81 @@
+New Forge Version Required: 
+	 forge-14.23.5.2836
+
+Mod Update:
+	Advanced Rocketry => 1.5.0.137
+	Apotheosis => 1.9.2
+	Astral Sorcery => 1.10.15
+		IMPORTANT NOTICE: This version includes a new command: "/as migrate-data" - This converts some old, imperformant data format to a new format. For larger worlds, please make sure you BACKUP your world before doing that! It might take a long time if your world is larger keep that in mind!
+		Fast performance increases for world saving
+	Botania => r1.10-361
+	Building Gadgets => 2.6.8
+	Ceramics => 1.3.7
+	Compact machines => 3.0.17-b267
+	CreativeCore => 1.9.43
+	Cyclic => 1.19.3
+	Discord => 1.0.9
+	FTBlib => 5.4.1.95
+	FTBQuests => 1.5.1.144
+	JEI => 4.15.0.277
+	Industrial Foregoing => 1.12.12
+		Fixes a conveyor belt crash.
+	LittleTiles => 1.5.0-pre134
+	OpenBlocks => 1.8.1
+	OpenModsLib => 0.12.2
+	p455w0rdslib => 2.1.44
+	Mekanism => 
+	RebornCore => 3.13.12.447
+	RusticThaumaturgy => 4.4
+	Soulus => 4.2.1
+	topaddons => 1.11.0
+	ZenTriggers => 1.0.7
+
+	
+Config updates:
+disabled cyclic fluid collector
+Neuromatic prime can now occasionally harvest crystalized oil or normal oil (chunk based)
+Lowered durability of enderium tools and rotors
+
+
+Recipes Changes:
+Lowered resin cost of producing rubber from resin
+Fixed pam's dough in mixer, now produces 4x more and no salt water conflict
+Salt water is now produced in a chemical reactor due to dough conflict
+Fixed Satchel Upgrade recipe so that its back to Holding IV instead of Insight IV
+lumium dust now takes 7 glowstone worth of liquid glowstone instead of a bucket worth
+unstable mana cost for all DML drop processing has been lowered by 10x
+Botania relics are now craftable in the Alchemical matter infuser
+Fixed recipe conflict with Rustic/Deadly monsters chain
+Skycauldron now properly oredicts draconium blocks
+Enderium glass now uses GT enderium
+Super conducting cables up to 16x are now craftable
+removed conversion between gt ore and vanilla variants
+added gt base ore conversion from variants for diamonds, emerald, lapis and redstone
+added gt base ore starlight infusion processing for gt diamond, emerald, lapis and redstone ore
+
+Quests:
+fixed stibnite for life quest
+fixed questgiver quest
+Reordered Steel Ingot so Easier Steeling is dependent on it
+Reorganized Cryogenic Hydrogen/Oxygen quests in space tabs and removed redundant quests
+fixed alchemy array/infinity dust ordering
+fixed thaumcraft auromancy research grant command
+added EBF amperage explanation to EBF quest
+added quest warning about mutant steve griefing blocks
+changed wording on fake electrical engineering to no longer imply all circuits are craftable at that tier
+fixed typos in ebf questline
+fixed rocket fuel chain quest
+removed duplicate cataplant quest
+add a quest for candles in the void tab
+better explained how to use liquid dirt
+better explained hammer smashing ore processing
+
+
+Misc:
+Fixed enderchicken not properly being detected in liquid antimatter
+Fixed infused wood tooltip
+Fixed Frozen dungeons not spawning
+lowered burn time of pressed wax substantially + blocks
+moved solar panels until very late until their output is fixed in gtce
+removed essentia values from satchels to prevent accidental melting
+Added disabled tooltip to Tinkers Smeltery Contoller

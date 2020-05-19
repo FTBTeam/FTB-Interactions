@@ -1,0 +1,12 @@
+Hotfix Update
+
+Generic Changes
+	GTCE Silicon no longer has EMC.
+
+Mod Updates
+	Astral Sorcery to 1.10.18 to enable better logging and debugging
+
+Recipe:
+	GTCE and Tinkers smeltery no longer have infinite glass loops, however other recipes that still use glass will need to be adjusted to the 1k mb of glass = 1 block.
+
+

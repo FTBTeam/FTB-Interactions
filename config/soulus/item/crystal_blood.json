@@ -1,0 +1,22 @@
+{
+	"particle_count": 50,
+	"required_blood": 1000,
+	"prick_amount": 9,
+	"prick_worth": 90,
+	"creature_prick_required_health": 9999999,
+	"creature_prick_amount": 1,
+	"creature_prick_worth": 3,
+	"prick_effects": [
+		{
+			"effect": "hunger",
+			"duration": 100,
+			"chance": 1.0
+		},
+		{
+			"effect": "nausea",
+			"duration": 200,
+			"chance": 1.0
+		}
+	],
+	"stack_size": 16
+}

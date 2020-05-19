@@ -1,0 +1,18 @@
+{
+    "machine": "mana_extrapolator",
+    "registryName": "mana_to_liquid",
+    "recipeTime": 1,
+    "requirements": [
+		{
+			"type": "mana",
+			"io-type": "input",
+			"mana": 1000
+		},
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "mana_fluid",
+			"amount": 100
+        }
+    ]
+}

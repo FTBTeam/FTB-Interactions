@@ -1,0 +1,65 @@
+{
+    "machine": "infernal_deconglomerator",
+    "registryName": "lava_and_stuf",
+    "recipeTime": 100,
+    "requirements": [
+		{
+			"type": "mana",
+			"io-type": "input",
+			"mana": 500
+		},
+		{
+
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 64
+        },		
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "lava",
+			"amount": 250
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:netherrack",
+			"amount": 1
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:gold_nugget",
+            "amount": 1,
+            "chance": 0.025			
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@25",
+            "amount": 1,
+            "chance": 0.01
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@13",
+            "amount": 1,
+            "chance": 0.01
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@106",
+            "amount": 1,
+            "chance": 0.05			
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@65",
+            "amount": 1,
+            "chance": 0.15			
+		}		
+    ]
+}

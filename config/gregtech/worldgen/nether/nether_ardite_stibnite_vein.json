@@ -1,0 +1,45 @@
+{
+  "weight": 80,
+  "density": 0.3,
+  "max_height": 150,
+  "min_height": 30,
+  "dimension_filter": [
+    "is_nether"
+  ],
+  "vein_populator": {
+    "type": "surface_block",
+    "block": {
+      "block": "plants2:nether_harvest",
+      "type": "magma"
+    },
+    "min_amount": 3,
+    "max_amount": 5
+  },
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      16,
+      17
+    ]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 40,
+          "value": "ore:sulfur"
+        },
+        {
+          "weight": 35,
+          "value": "ore:stibnite"
+        },
+        {
+          "weight": 25,
+          "value": "ore_dict:oreArdite"
+        }
+      ]
+    }
+  }
+}

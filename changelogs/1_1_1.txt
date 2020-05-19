@@ -1,0 +1,6 @@
+Hotfix:
+Randomtweaks mod downgraded due to crash on servers
+Tinker's compliment update to match tinker's new TE for melter
+
+Noncritical:
+Apotheosis enchantment levels and powers udpated

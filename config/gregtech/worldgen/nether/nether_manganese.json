@@ -1,0 +1,49 @@
+{
+  "weight": 70,
+  "density": 0.5,
+  "max_height": 40,
+  "min_height": 5,
+  "dimension_filter": [
+    "is_nether"
+  ],
+  "vein_populator": {
+    "type": "surface_block",
+    "block": {
+      "block": "plants2:nether_harvest",
+      "type": "magma"
+    },
+    "min_amount": 3,
+    "max_amount": 5
+  },
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      13,
+      13
+    ]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 30,
+          "value": "ore:grossular"
+        },
+        {
+          "weight": 30,
+          "value": "ore:spessartine"
+        },
+        {
+          "weight": 30,
+          "value": "ore:pyrolusite"
+        },
+        {
+          "weight": 10,
+          "value": "ore:tantalite"
+        }
+      ]
+    }
+  }
+}

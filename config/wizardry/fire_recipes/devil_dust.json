@@ -1,0 +1,9 @@
+{
+  "input": {
+    "item": "projecte:item.pe_covalence_dust",
+    "data": 0
+  },
+  "output": {
+    "item": "wizardry:devil_dust"
+  }
+}

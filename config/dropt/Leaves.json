@@ -1,0 +1,56 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "traverse:red_autumnal_leaves:*",
+            "minecraft:leaves:*",
+            "minecraft:leaves2:*",
+            "ic2:leaves:*",
+            "integrateddynamics:menril_leaves",
+            "traverse:brown_autumnal_leaves:*",
+            "traverse:orange_autumnal_leaves:*",
+            "traverse:yellow_autumnal_leaves:*",
+            "traverse:fir_leaves",
+            "wizardry:wisdom_leaves",
+            "plants2:nether_leaves",
+            "plants2:nether_leaves:1",
+            "plants2:leaves_0:*",
+            "plants2:crystal_leaves:*",
+            "plants2:bush",
+            "plants2:bush:*",
+            "integrateddynamics:menril_leaves:*",
+            "randomthings:spectreleaf:*",
+            "rustic:leaves:*",
+            "rustic:leaves_apple:*",
+            "thaumcraft:leaves_greatwood",
+            "thaumcraft:leaves_silverwood"
+          ]
+        }
+      },
+      "replaceStrategy": "ADD",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 25
+            }
+          },
+          "item": {
+            "items": [
+              "minecraft:stick"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 75
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

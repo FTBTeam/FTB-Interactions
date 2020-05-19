@@ -1,0 +1,96 @@
+{
+	  "name": "appliedenergistics2:denseEnergy",
+	  
+	  "target-item": "appliedenergistics2:dense_energy_cell",
+	  "target-count": 1,
+	  "duration": 200,
+	  "catalyst": "minecraft:redstone",
+	  
+  "input-types": {
+    "a": {
+      "id": "minecraft:glass",
+      "meta": 0
+    },
+    "b": {
+      "id": "appliedenergistics2:fluix_block",
+      "meta": 0
+    },
+    "c": {
+      "id": "appliedenergistics2:energy_cell",
+      "meta": 0
+    }
+  },
+  "input-nbt": {
+    "c:A": {
+      "nbt": "{proxy:{p:0,g:1296L,k:-1L},id:\"appliedenergistics2:energy_cell\",internalCurrentPower:0.0d}"
+    },
+    "c:B": {
+      "nbt": "{proxy:{p:0,g:1301L,k:-1L},id:\"appliedenergistics2:energy_cell\",internalCurrentPower:0.0d}"
+    },
+    "c:C": {
+      "nbt": "{proxy:{p:0,g:1299L,k:-1L},id:\"appliedenergistics2:energy_cell\",internalCurrentPower:0.0d}"
+    },
+    "c:D": {
+      "nbt": "{proxy:{p:0,g:1298L,k:-1L},id:\"appliedenergistics2:energy_cell\",internalCurrentPower:0.0d}"
+    },
+    "c:E": {
+      "nbt": "{proxy:{p:0,g:1294L,k:-1L},id:\"appliedenergistics2:energy_cell\",internalCurrentPower:0.0d}"
+    },
+    "c:F": {
+      "nbt": "{proxy:{p:0,g:1297L,k:-1L},id:\"appliedenergistics2:energy_cell\",internalCurrentPower:0.0d}"
+    }
+  },
+  "shape": [
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "c:B",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "b",
+        "c:C",
+        "b"
+      ],
+      [
+        "c:A",
+        "b",
+        "c:F"
+      ],
+      [
+        "b",
+        "c:D",
+        "b"
+      ]
+    ],
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "c:E",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ]
+  ]
+}

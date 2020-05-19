@@ -1,0 +1,88 @@
+{
+  "weight": 0,
+  "density": 0.6,
+  "max_height": 120,
+  "min_height": 5,
+  "vein_populator": {
+    "type": "surface_block",
+    "block": {
+      "block": "plants2:cosmetic_3",
+      "type": "isolepis_b"
+    },
+    "min_amount": 12,
+    "max_amount": 14
+  },
+  "biome_modifier": {
+    "type": "biome_map",
+    "minecraft:jungle": 80,
+    "advancedrocketry:moon": -200,
+    "advancedrocketry:moondark": -200,
+    "advancedrocketry:alien forest": -200,
+    "advancedrocketry:oceanspires": -200,
+    "advancedrocketry:hotdryrock": -200,
+    "advancedrocketry:crystalchasms": -200,
+    "minecraft:mutated_jungle": 80,
+    "traverse:mini_jungle": 80,
+    "minecraft:jungle_hills": 80,
+    "minecraft:jungle_edge": 80,
+    "minecraft:mutated_jungle_edge": 80,
+    "traverse:snowy_coniferous_forest": 80,
+    "traverse:autumnal_woods": 80,
+    "traverse:autumnal_wooded_hills": 80,
+    "traverse:temperate_rainforest": 80,
+    "minecraft:redwood_taiga": 80,
+    "minecraft:mutated_redwood_taiga": 80,
+    "minecraft:redwood_taiga_hills": 80,
+    "minecraft:mutated_redwood_taiga_hills": 80,
+    "minecraft:forest": 80,
+    "minecraft:mutated_forest": 80,
+    "traverse:forested_hills": 80,
+    "minecraft:birch_forest": 80,
+    "minecraft:mutated_birch_forest": 80,
+    "minecraft:mutated_birch_forest_hills": 80,
+    "traverse:birch_forested_hills": 80,
+    "integrateddynamics:biome_meneglin": 80,
+    "minecraft:swampland": 80,
+    "minecraft:mutated_swampland": 80,
+    "traverse:green_swamp": 80,
+    "traverse:lush_hills": 80,
+    "minecraft:roofed_forest": 80,
+    "minecraft:mutated_roofed_forest": 80,
+    "traverse:woodlands": 80
+  },
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      13,
+      13
+    ]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 20,
+          "value": "ore:bentonite"
+        },
+        {
+          "weight": 30,
+          "value": "ore:magnesite"
+        },
+        {
+          "weight": 30,
+          "value": "ore:olivine"
+        },
+        {
+          "weight": 10,
+          "value": "ore_dict:oreGreenSapphire"
+        },
+        {
+          "weight": 20,
+          "value": "ore_dict:oreTerraInfused"
+        }
+      ]
+    }
+  }
+}

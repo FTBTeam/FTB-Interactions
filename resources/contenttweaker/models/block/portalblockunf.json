@@ -1,0 +1,21 @@
+{
+    "textures": {
+        "0": "blocks/bedrock",
+        "1": "contenttweaker:blocks/foreground2"
+    },
+    "elements": [
+		{
+            "name": "Cube",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 16.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#1"},
+                "east": { "texture": "#1"},
+                "south": { "texture": "#1"},
+                "west": { "texture": "#1"},
+                "up": { "texture": "#0"},
+                "down": { "texture": "#0"}
+            }
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+  "populate": {
+    "chaos_vein": {
+      "distribution": "uniform",
+      "generator": {
+        "type": "plate",
+        "block": [
+          {
+            "name": "gregtech:ore_iridium_0",
+            "properties": {
+              "stone_type": "endstone"
+            },
+            "weight": 40
+          },
+          {
+            "name": "gregtech:ore_platinum_0",
+            "properties": {
+              "stone_type": "endstone"
+            },
+            "weight": 40
+          },
+          {
+            "name": "gregtech:ore_palladium_0",
+            "properties": {
+              "stone_type": "endstone"
+            },
+            "weight": 20
+          }
+        ],
+        "material": "minecraft:end_stone",
+        "radius": 16,
+        "height": 3
+      },
+      "cluster-count": 1,
+      "chunk-chance": 20,
+      "min-height": 150,
+      "max-height": 200,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "END"
+          }
+        ]
+      },
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          1
+        ]
+      }
+    }
+  }
+}

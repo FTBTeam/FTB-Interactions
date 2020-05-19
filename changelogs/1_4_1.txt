@@ -1,0 +1,26 @@
+Server owners: This is an easy mini update if you're already on 1.4, 
+you only need to update your resources and scripts folder, and config/ftbquest folders
+all other config and mods remain unchanged
+	
+Recipes Changes:
+Menril wood returned to standard log oredictionary
+New Menril crystal item added, 4x extracted from each menril log
+Menril crystals now centrifuge for previous menril byproducts
+Menril now centrifuges as normal wood
+Ae2 terminal now requires palis and restonia crystals instead of annihilation/formation cores
+Arcane stone recipe now makes 4 per caft instead of 1
+Building gadget no longer requires the removed Mekanism energy tablet
+rftools peace module now specifically requires a broken flare spawner
+a special recipe for broken flare spawner was added to enable future use of the soul binder+De cores
+added a fluid extractor recipe for molten infinity from infinity eggs
+sharpening kits have been added to the chisel cast group
+
+
+Quests:
+Enhanced canola quest now reflects the requirement of menril crystals instead of logs
+Added quest for time in a bottle
+Added quest for philostone mob randomizing
+
+Misc:
+	Added 1k storage cells to nether dungeons
+	WARNING: next update crying obsidian will be removed in favor of beds returning, we're giving a week notice so people have time to get a bed down before then.

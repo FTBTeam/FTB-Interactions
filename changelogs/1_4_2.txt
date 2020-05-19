@@ -1,0 +1,13 @@
+Critical:
+	* Melee attacks on blazes were crashing servers ever since their explosion ability was turned off - to temporarily fix this 
+
+Minor: 
+	* GTCE Pumps in Assembling machines now use 648 mb of molten metal instead of 628
+	* Added Hazelnut to listAllnut oredict type
+
+
+
+Server owners: This is an easy mini update if you're already on 1.4.1, 
+you only need to update your resources and scripts folder, and config/ftbquest folders
+all other config and mods remain unchanged
+	

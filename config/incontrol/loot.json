@@ -1,0 +1,14 @@
+[
+  {
+    "mob": "thaumcraft:eldritchgolem",
+    "remove": "thaumcraft:primordial_pearl"
+  },
+   {
+    "mob": "thaumcraft:cultistportalgreater",
+    "remove": "thaumcraft:primordial_pearl"
+  },
+  {
+    "mob": "thaumcraft:cultistportallesser",
+    "remove": "thaumcraft:primordial_pearl"
+  }  
+]

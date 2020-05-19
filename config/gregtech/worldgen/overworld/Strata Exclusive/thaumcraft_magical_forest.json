@@ -1,0 +1,64 @@
+{
+  "weight": 0,
+  "density": 0.6,
+  "max_height": 80,
+  "min_height": 40,
+  "vein_populator": {
+    "type": "surface_block",
+    "block": {
+      "block": "plants2:cosmetic_5",
+      "type" : "star_of_bethlehem"
+    },
+    "min_amount": 12,
+    "max_amount": 14
+  },
+  "biome_modifier": {
+    "type": "biome_map",
+	"advancedrocketry:moon": -200,
+	"advancedrocketry:moondark": -200,
+    "advancedrocketry:alien forest": -200,
+    "advancedrocketry:oceanspires": -200,
+	"advancedrocketry:hotdryrock": -200,
+	"advancedrocketry:crystalchasms": -200,	
+    "thaumcraft:magical_forest": 50
+  },
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      14,
+      17
+    ]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 50,
+          "value": "ore_dict:oreTerraInfused"
+        },
+        {
+          "weight": 50,
+          "value": "ore_dict:oreAerInfused"
+        },
+        {
+          "weight": 50,
+          "value": "ore_dict:oreIgnisInfused"
+        },
+        {
+          "weight": 50,
+          "value": "ore_dict:oreAquaInfused"
+        },
+        {
+          "weight": 50,
+          "value": "ore_dict:oreEntropyInfused"
+        },
+        {
+          "weight": 50,
+          "value": "ore_dict:oreOrdoInfused"
+        }
+      ]
+    }
+  }
+}

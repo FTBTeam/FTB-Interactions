@@ -1,0 +1,11 @@
+{
+	"input": {
+		"item": "minecraft:clay"
+	},
+	"output": {
+		"item": "gregtech:meta_item_2",
+		"data": 32016,
+		"count": 1
+	},
+	"duration": 200
+}

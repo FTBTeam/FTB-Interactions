@@ -1,0 +1,40 @@
+{
+  "catalystStack": {
+    "registryName": {
+      "domain": "astralsorcery",
+      "path": "blockcustomore"
+    },
+    "meta": 1
+  },
+  "components": [
+    {
+      "weight": 400,
+      "oreName": "stone"
+    },
+	{
+      "weight": 200,
+      "oreName": "blockSkystone"
+    },
+    {
+      "weight": 180,
+      "oreName": "oreAstralStarmetal"
+    },
+    {
+      "weight": 50,
+      "oreName": "oreRockCrystal"
+    },	
+    {
+      "weight": 140,
+      "oreName": "oreQuartzBlack"
+    },
+    {
+      "weight": 220,
+      "oreName": "oreAluminium"
+    }	
+  ],
+  "explosionStrength": 50.0,
+  "radius": 5,
+  "maxWeight": 1080,
+  "version": 3,
+  "cost": 1000000
+}

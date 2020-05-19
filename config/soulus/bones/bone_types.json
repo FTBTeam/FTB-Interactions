@@ -1,0 +1,39 @@
+{
+	"bone_types": [
+		{
+			"name": "NORMAL",
+			"item_bone": "soulus:bone_normal",
+			"item_chunk": "soulus:bone_chunk_normal"
+		},
+		{
+			"name": "DRY",
+			"item_bone": "soulus:bone_dry",
+			"item_chunk": "soulus:bone_chunk_dry"
+		},
+		{
+			"name": "FUNGAL",
+			"item_bone": "soulus:bone_fungal",
+			"item_chunk": "soulus:bone_chunk_fungal"
+		},
+		{
+			"name": "FROZEN",
+			"item_bone": "soulus:bone_frozen",
+			"item_chunk": "soulus:bone_chunk_frozen"
+		},
+		{
+			"name": "SCALE",
+			"item_bone": "soulus:bone_scale",
+			"item_chunk": "soulus:bone_chunk_scale"
+		},
+		{
+			"name": "NETHER",
+			"item_bone": "soulus:bone_nether",
+			"item_chunk": "soulus:bone_chunk_nether"
+		},
+		{
+			"name": "ENDER",
+			"item_bone": "soulus:bone_ender",
+			"item_chunk": "soulus:bone_chunk_ender"
+		}
+	]
+}

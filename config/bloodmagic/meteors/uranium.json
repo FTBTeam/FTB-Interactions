@@ -1,0 +1,60 @@
+{
+  "catalystStack": {
+    "registryName": {
+      "domain": "actuallyadditions",
+      "path": "block_misc"
+    },
+    "meta": 2
+  },
+  "components": [
+    {
+      "weight": 400,
+      "oreName": "oreThorium"
+    },
+    {
+      "weight": 200,
+      "oreName": "oreGlauconite"
+    },
+    {
+      "weight": 140,
+      "oreName": "oreSulfur"
+    },
+    {
+      "weight": 70,
+      "oreName": "orePitchblende"
+    },
+    {
+      "weight": 60,
+      "oreName": "orePhosphor"
+    },
+    {
+      "weight": 60,
+      "oreName": "oreEntropyInfused"
+    },
+    {
+      "weight": 60,
+      "oreName": "oreOrdoInfused"
+    },
+    {
+      "weight": 60,
+      "oreName": "oreIgnisInfused"
+    },
+    {
+      "weight": 60,
+      "oreName": "oreAquaInfused"
+    },
+    {
+      "weight": 60,
+      "oreName": "oreTerraInfused"
+    },	
+    {
+      "weight": 60,
+      "oreName": "oreAerInfused"
+    }
+  ],
+  "explosionStrength": 50.0,
+  "radius": 7,
+  "maxWeight": 1080,
+  "version": 3,
+  "cost": 500000
+}

@@ -1,0 +1,69 @@
+{
+	"fossils": {
+		"soulus:fossil_netherrack_ender": {
+			"type": "ender",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_sand": {
+			"type": "dry",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_sand_red_scale": {
+			"type": "scale",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_sand_ender": {
+			"type": "ender",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_dirt_ender": {
+			"type": "ender",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_dirt_frozen": {
+			"type": "frozen",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_sand_scale": {
+			"type": "scale",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_dirt_fungal": {
+			"type": "fungal",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_dirt": {
+			"type": "normal",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_end_stone": {
+			"type": "ender",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_netherrack": {
+			"type": "nether",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_sand_red_dry": {
+			"type": "dry",
+			"min": 2,
+			"max": 6
+		},
+		"soulus:fossil_gravel_scale": {
+			"type": "scale",
+			"min": 2,
+			"max": 6
+		}
+	}
+}

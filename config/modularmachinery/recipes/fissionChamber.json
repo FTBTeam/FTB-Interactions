@@ -1,0 +1,30 @@
+{
+  "machine": "photonuclear_fission_chamber",
+  "registryName": "steam_from_uranium",
+  "recipeTime": 1,
+  "requirements": [
+    {
+      "type": "meklaser",
+      "io-type": "input",
+      "energy": 2048
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "uraniumhexafluoride",
+      "amount": 1
+    },
+    {
+      "type": "fluid",
+      "io-type": "input",
+      "fluid": "water",
+      "amount": 2500
+    },
+    {
+      "type": "fluid",
+      "io-type": "output",
+      "fluid": "steam",
+      "amount": 67200
+    }
+  ]
+}

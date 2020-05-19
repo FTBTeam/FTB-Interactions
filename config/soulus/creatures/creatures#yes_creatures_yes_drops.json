@@ -1,0 +1,67 @@
+{
+  "*": {
+    "*": {
+      "minecraft:skeleton": {
+        "spawn_chance": 1.0,
+        "drops": {
+          "all": {
+            "has_xp": true,
+            "whitelisted_drops": [
+              "*"
+            ],
+            "blacklisted_drops": [
+              "soulus:bone_normal"
+            ]
+          }
+        }
+      },
+      "minecraft:stray": {
+        "spawn_chance": 1.0,
+        "drops": {
+          "all": {
+            "has_xp": true,
+            "whitelisted_drops": [
+              "*"
+            ],
+            "blacklisted_drops": [
+              "soulus:bone_frozen"
+            ]
+          }
+        }
+      },
+      "minecraft:wither_skeleton": {
+        "spawn_chance": 1.0,
+        "drops": {
+          "all": {
+            "has_xp": true,
+            "whitelisted_drops": [
+              "*"
+            ],
+            "blacklisted_drops": [
+              "soulus:bone_nether"
+            ]
+          }
+        }
+      },
+      "*": {
+        "spawn_chance": 1.0,
+        "drops": {
+          "all": {
+            "has_xp": true,
+            "whitelisted_drops": [
+              "*"
+            ],
+            "blacklisted_drops": [
+              "soulus:bone_normal",
+              "soulus:bone_frozen",
+              "soulus:bone_nether",
+              "soulus:bone_dry",
+              "soulus:bone_fungal",
+              "soulus:bone_ender"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+    "foods": [
+        {
+            "name": "minecraft:golden_apple",
+            "meta": 1,
+            "hunger": 20,
+            "saturationModifier": 0.5
+        },
+        {
+            "name": "xlfoodmod:hamburger",
+            "meta": 0,
+            "hunger": 11,
+            "saturationModifier": 0.5
+        },
+        {
+            "name": "xlfoodmod:cheeseburger",
+            "meta": 0,
+            "hunger": 13,
+            "saturationModifier": 0.5
+        },
+        {
+            "name": "xlfoodmod:salty_chips",
+            "meta": 0,
+            "hunger": 2,
+            "saturationModifier": 1.0
+        },
+        {
+            "name": "xlfoodmod:spicy_chips",
+            "meta": 0,
+            "hunger": 2,
+            "saturationModifier": 1.0
+        },
+        {
+            "name": "xlfoodmod:oreo_cookie",
+            "meta": 0,
+            "hunger": 4,
+            "saturationModifier": 1.0
+        },
+        {
+            "name": "xlfoodmod:oreo_cake",
+            "meta": 0,
+            "hunger": 20,
+            "saturationModifier": 1.0
+        },
+        {
+            "name": "minecraft:cake",
+            "meta": 0,
+            "hunger": 16,
+            "saturationModifier": 1.0
+        },
+        {
+            "name": "xlfoodmod:chicken_salad",
+            "meta": 0,
+            "hunger": 14,
+            "saturationModifier": 1.0
+        },
+        {
+            "name": "xlfoodmod:caesar_salad",
+            "meta": 0,
+            "hunger": 12,
+            "saturationModifier": 1.0
+        },
+        {
+            "name": "xlfoodmod:taco_salad",
+            "meta": 0,
+            "hunger": 12,
+            "saturationModifier": 1.0
+        },
+        {
+            "name": "xlfoodmod:brownie",
+            "meta": 0,
+            "hunger": 8,
+            "saturationModifier": 0.5
+        },
+        {
+            "name": "xlfoodmod:chocolate_pie",
+            "meta": 0,
+            "hunger": 16,
+            "saturationModifier": 0.5
+        }, 
+        {
+            "name": "plants2:pineapple",
+            "meta": 0,
+            "hunger": 3,
+            "saturationModifier": 1.0
+        }, 
+        {
+            "name": "rustic:tomato",
+            "meta": 0,
+            "hunger": 1,
+            "saturationModifier": 0.5
+        }
+    ]
+}

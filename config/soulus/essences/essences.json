@@ -1,0 +1,767 @@
+{
+  "essences": [
+    {
+      "essence": "minecraft:bat",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:bat": {
+          "min": 1,
+          "max": 1,
+          "chance": 0.1
+        }
+      }
+    },
+    {
+      "essence": "minecraft:chicken",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 8.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:chicken": {
+          "min": 1,
+          "max": 1,
+          "chance": 0.2
+        }
+      }
+    },
+    {
+      "essence": "minecraft:cow",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 8.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:cow": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.4
+        }
+      }
+    },
+    {
+      "essence": "minecraft:pig",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 6.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:pig": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.3
+        }
+      }
+    },
+    {
+      "essence": "minecraft:rabbit",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 4.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:rabbit": {
+          "min": 1,
+          "max": 1,
+          "chance": 0.1
+        }
+      }
+    },
+    {
+      "essence": "minecraft:sheep",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 6.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:sheep": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.4
+        }
+      }
+    },
+    {
+      "essence": "minecraft:skeleton",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 3.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:skeleton": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.7
+        }
+      }
+    },
+    {
+      "essence": "minecraft:spider",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 5.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:villager",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:villager": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.6
+        }
+      }
+    },
+    {
+      "essence": "NONE",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "normal",
+        "drop_weight": 5.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:cave_spider",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "dry",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:horse",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "dry",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:horse": {
+          "min": 1,
+          "max": 3,
+          "chance": 0.6
+        }
+      }
+    },
+    {
+      "essence": "minecraft:husk",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "dry",
+        "drop_weight": 5.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:husk": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.3
+        }
+      }
+    },
+    {
+      "essence": "minecraft:llama",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "dry",
+        "drop_weight": 10.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:llama": {
+          "min": 1,
+          "max": 3,
+          "chance": 0.5
+        }
+      }
+    },
+    {
+      "essence": "NONE",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "dry",
+        "drop_weight": 30.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:mooshroom",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "fungal",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:mooshroom": {
+          "min": 1,
+          "max": 3,
+          "chance": 0.6
+        }
+      }
+    },
+    {
+      "essence": "minecraft:ocelot",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "fungal",
+        "drop_weight": 10.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:ocelot": {
+          "min": 1,
+          "max": 1,
+          "chance": 0.3
+        }
+      }
+    },
+    {
+      "essence": "minecraft:parrot",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "fungal",
+        "drop_weight": 10.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:parrot": {
+          "min": 1,
+          "max": 1,
+          "chance": 0.2
+        }
+      }
+    },
+    {
+      "essence": "minecraft:vindication_illager",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "fungal",
+        "drop_weight": 5.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": {
+        "minecraft:vindication_illager": 10.0,
+        "minecraft:evocation_illager": 1.0
+      },
+      "loot": {
+        "minecraft:vindication_illager": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.6
+        },
+        "minecraft:evocation_illager": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.6
+        }
+      }
+    },
+    {
+      "essence": "minecraft:witch",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "fungal",
+        "drop_weight": 5.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:witch": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.6
+        }
+      }
+    },
+    {
+      "essence": "minecraft:zombie",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "fungal",
+        "drop_weight": 20.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": {
+        "minecraft:zombie_horse": 1.0,
+        "minecraft:zombie": 100.0,
+        "minecraft:zombie_villager": 10.0
+      },
+      "loot": {
+        "minecraft:zombie_horse": {
+          "min": 1,
+          "max": 3,
+          "chance": 0.6
+        },
+        "minecraft:zombie": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.3
+        },
+        "minecraft:zombie_villager": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.5
+        }
+      }
+    },
+    {
+      "essence": "NONE",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "fungal",
+        "drop_weight": 20.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:snowman",
+      "name": null,
+      "colors": {
+        "primary": 16777215,
+        "secondary": 14913565
+      },
+      "bones": {
+        "type": "frozen",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:stray",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "frozen",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:stray": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.5
+        }
+      }
+    },
+    {
+      "essence": "minecraft:wolf",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "frozen",
+        "drop_weight": 5.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:wolf": {
+          "min": 1,
+          "max": 1,
+          "chance": 0.2
+        }
+      }
+    },
+    {
+      "essence": "minecraft:polar_bear",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "frozen",
+        "drop_weight": 10.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:polar_bear": {
+          "min": 1,
+          "max": 3,
+          "chance": 0.6
+        }
+      }
+    },
+    {
+      "essence": "NONE",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "frozen",
+        "drop_weight": 10.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:silverfish",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "scale",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:silverfish": {
+          "min": 1,
+          "max": 1,
+          "chance": 0.2
+        }
+      }
+    },
+    {
+      "essence": "minecraft:squid",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "scale",
+        "drop_weight": 20.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:squid": {
+          "min": 1,
+          "max": 1,
+          "chance": 0.2
+        }
+      }
+    },
+    {
+      "essence": "minecraft:guardian",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "scale",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:guardian": {
+          "min": 1,
+          "max": 3,
+          "chance": 0.8
+        }
+      }
+    },
+    {
+      "essence": "NONE",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "scale",
+        "drop_weight": 10.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:zombie_pigman",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "nether",
+        "drop_weight": 20.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:zombie_pigman": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.5
+        }
+      }
+    },
+    {
+      "essence": "minecraft:blaze",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "nether",
+        "drop_weight": 3.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:blaze": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.6
+        }
+      }
+    },
+    {
+      "essence": "minecraft:wither_skeleton",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "nether",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:wither_skeleton": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.7
+        }
+      }
+    },
+    {
+      "essence": "minecraft:ghast",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "nether",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:ghast": {
+          "min": 3,
+          "max": 6,
+          "chance": 1.0
+        }
+      }
+    },
+    {
+      "essence": "NONE",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "nether",
+        "drop_weight": 10.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:shulker",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "ender",
+        "drop_weight": 1.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:endermite",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "ender",
+        "drop_weight": 15.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:endermite": {
+          "min": 1,
+          "max": 1,
+          "chance": 0.1
+        }
+      }
+    },
+    {
+      "essence": "minecraft:creeper",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "ender",
+        "drop_weight": 10.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:creeper": {
+          "min": 1,
+          "max": 2,
+          "chance": 0.4
+        }
+      }
+    },
+    {
+      "essence": "minecraft:enderman",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "ender",
+        "drop_weight": 2.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": {
+        "minecraft:enderman": {
+          "min": 1,
+          "max": 4,
+          "chance": 0.8
+        }
+      }
+    },
+    {
+      "essence": "NONE",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "ender",
+        "drop_weight": 20.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:slime",
+      "name": null,
+      "colors": null,
+      "bones": null,
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:villager_golem",
+      "name": null,
+      "colors": {
+        "primary": 13749192,
+        "secondary": 6984011
+      },
+      "bones": null,
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "minecraft:magma_cube",
+      "name": null,
+      "colors": null,
+      "bones": null,
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "thermalfoundation:blizz",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "FROZEN",
+        "drop_weight": 8.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "thermalfoundation:blitz",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "DRY",
+        "drop_weight": 8.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    },
+    {
+      "essence": "thermalfoundation:basalz",
+      "name": null,
+      "colors": null,
+      "bones": {
+        "type": "DRY",
+        "drop_weight": 8.0
+      },
+      "soulbook_quantity": 16,
+      "spawns": null,
+      "loot": null
+    }
+  ]
+}

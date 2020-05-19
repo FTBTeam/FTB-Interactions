@@ -1,0 +1,67 @@
+No critical fixes.
+
+BugFixes:
+Fixed Crying Obsidian not spawning players in Overworld by altering JED dimension rules
+Added Marimophosis recipe
+Buffed Obsidian Shears recipe
+Fixed Holding Satchel Recipe due to enchantment ID shift
+Made Soulus Composer Cells cheaper, Oscillating Gears require Aluminium instead of Titanium
+Soulus Bone Chunks need life essence instead of UUMatter
+NeuroCPU requires positive and neutral matter instead of UUMatter
+Decreased pyrotheum and cryotheum costs for ore multiplication by half
+Decreasing mana pool generation by 33% (turned up too high from before)
+Fixed typo in loading tooltip
+Removing redundant Soulus recipe replacements
+Fixed Mountain and Forest Troll Leather Leggings and Boots
+Switching thermal alloys to their GTCE variants for consistency, deprecated items have a conversion recipe
+Fixed duplicate cassiterite recipe in Squeezer
+Changed Lumium color slightly to not look horrible (failed)
+Added smelting recipes in melter to some early ores that were overlooked
+Allowed Comparators to use Quartzite, should make Thermal Logistics available in LV
+Added more held light sources such as Menril Torches, and Candles to Dynamic Lighting
+Remove and hid basic tier laser engraver - all recipes exceed its voltage.
+New I&F Serpernt Armor Recipes
+Removed significantly easier radon recipe from Noble Gas centrifuge
+Cleaned up simple_dungeon loottables, so Greatwood Chest loot isn't progression breaking
+Added optimal Energy Crystal autoclave recipe with starlight
+Added cassiterite to oreEx blacklist
+Loottable MM blueprints now have correct tooltip
+Fixed recipe conflcit with lunar full moon page
+Removed Cobalt Brass requirement from GTCE sawblade
+AA player interface removed in favor of RT interface
+Nerfed Lowgrade Charcoal burn value from 6400 to 1360
+RFTools block now use GTCE machine hulls instead of disabled RFTools fframes
+FTBU autoshutdown is now OFF by default
+Fix attacked cooldown issue by turning it off in RT configs
+Cyberware should now keep on death
+Turned off debug gamestage output in console
+Added all aluminum ores to the OreEx blacklist
+Added honey automation, fresh milk/water are now moved to Artisan Worktable and GTCE due to dupe with Cooking for Blockheads
+Wooden Form is now available without GTCE saw, allowing clay casts a bit earlier
+Added LittleTiles tools to a chisel group similar to Guidebooks, starts with LT Chisel
+Changed Lumium color, deprecated TF Alloys and recipes now use GTCE variants
+Fixed recipes errors with Terrasteel armors
+
+
+
+Relevant Mod updates:
+	Artisan Worktable update to fix right click itemstack output
+	Animus ritual of culling now kills mobs with potions effects
+	Industrial Foregoing Extractors no longer remove armor from mobs (neat but too OP)
+	PickleTweaks Colored Cobblestone should now render properly
+	Added Nooby's Force Void World so that servers don't have to change server.properties
+	Added Shadow's Squeezer Patch to fix Squeezer being inoperabble with low serverside TPS
+
+
+Quest Changes
+	Added Vacuum freezer description and sample parts
+	Added Moon oregen quests and reorganized space tab for clarity
+	Added MM blueprint quests related to where you can loot them
+	Quest warning that certain mobs will ignore light levels when you unlock Space
+	Came up with more bad names for mob quests
+	Edited Coke Oven quest for the proper amounts
+	Adding Checkmark quests to ones that didn't have it originally.
+	Fixed a redundant description for Olivine and Terra Vein descriptions
+	Removed Salts overworld quest (salts vein is only on moon)
+	Added steam bucket quest in Ayo Tech
+

@@ -1,0 +1,7 @@
+{
+	"particle_count_teleport": 15,
+	"particle_count_teleport_item": 4,
+	"non_upgraded_range": 16,
+	"upgrade_range_effectiveness": 1,
+	"teleport_chance": 0.01
+}

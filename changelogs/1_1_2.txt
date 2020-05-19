@@ -1,0 +1,12 @@
+Sorry for all the bugs, this update was a lot more troublesome than anticipated.
+
+Mod Updates:
+	Downgraded Thaumic JEI due to catalysts not appearing
+
+Hotfix:
+Fix for Apotheosis config file that was occasionally causing a crash with zombie spawners on servers
+
+Questbook
+	Removed duplicate cataplant quest
+	Switched to GTCE coal ore in Ligma coal quest
+	Switched to regular GTCE iron ore instead of gravel iron ore in copper quest

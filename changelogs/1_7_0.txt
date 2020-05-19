@@ -1,0 +1,36 @@
+1.7.0 Update
+
+Config Changes
+	XU2 Creative mill is now harvestable by non-creative players
+	Quark no longer shows invalid item slots when you shift click (can re-enable ingame menu)
+
+Generic Changes
+	Added tooltip to Thaumcraft Celestial Notes that they can only be crafted
+
+Material Mod Updates
+	Blood Magic updated to 2.4.1 that fixes a gravity entity issue
+	Xaero's Minimap updated to 1.16.8
+	LibrarianLib updated to 4.18 to help fix some crashes (note this update includes an atlas dump of textures into the pack directory, it's just big image for debugging purposes, and shouldn't take up more than 10mb, it will not have a performance problem)
+
+	All other mod updates are misc or minor, we do not recommend updating mods manually on the server, just importing it from the server files.
+
+	GTCE Update is still delayed, we apologize about that, still working on PR's to get the turbine fixes in. Shadows of Greg will be updated appropriately at the same time.
+
+	Modular Machinery update is still delayed until Modular Diversity updates.
+
+Quest Changes
+	TNT Quest requires Gelled Toluene quest which requires Fluid Solidifer (it was nonsensically ordered before)
+
+Recipe Changes:
+	Quartzite clumps from mixer crush to 2 Crushed Quartzite ores (before it was 1)
+	Removed redundant empowered oil recipe in the distillery (distillery inherits distillation tower recipes)
+	Bauxite Clumps from mixer crush to 3 Crushed Bauxite ores (before it was 1)
+	Botania Elementium blocks can be crafted into GTCE Elementium Blocks
+	Handy Bag (Large) requires 7500 starlight now, allowing it to be crafted (before was 8000)
+	Added Sphalerite electrolyzing into zinc/sulfur recipe (not sure why it was gone in the first place)
+	Removed Flux Crystal recipe from Fluid Transposer
+	Flux Crystal in TE Transposer uses same amount of energy and materials as Chemical Bath Recipe
+	Added TiCon arrow shaft recipes to extruder (still not sure why casting doesnt work)
+	Added ZPM Field Generator recipe
+	Quartzite, Glass dust, and other glass derivatives like panes now fluid extract to the new glass standard (1k mb per glass block)
+	

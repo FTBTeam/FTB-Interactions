@@ -1,0 +1,36 @@
+{
+    "machine": "botanical_fishery",
+    "registryName": "botanical_fish",
+    "recipeTime": 10,
+    "requirements": [ 
+		{
+			"type": "mana",
+			"io-type": "input",
+			"mana": 55
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:fish",
+            "chance": 0.4
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:fish@1",
+            "chance": 0.3
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:fish@2",
+            "chance": 0.15
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:fish@3",
+            "chance": 0.05
+		}
+	]
+}

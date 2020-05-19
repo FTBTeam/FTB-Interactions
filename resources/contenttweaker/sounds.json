@@ -1,0 +1,20 @@
+{
+  "8bitbegin": {
+    "sounds": [
+      {
+        "name": "contenttweaker:8bitbegin",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.contenttweaker.8bitbegin"
+  },
+  "tekmenu": {
+    "sounds": [
+      {
+        "name": "contenttweaker:tekmenu",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitle.contenttweaker.tekmenu"
+  }
+}

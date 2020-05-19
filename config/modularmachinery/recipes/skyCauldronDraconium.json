@@ -1,0 +1,36 @@
+{
+	"machine": "sky_cauldron",
+	"registryName": "sky_cauldron_draconium",
+	"recipeTime": 1200,
+	"requirements": [{
+			"type": "meklaser",
+			"io-type": "input",
+			"energy": 2000000
+		},
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "ore:blockDraconium",
+			"amount": 1
+		},
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "fluxnetworks:flux",
+			"amount": 4
+		},
+		{
+			"type": "fluid",
+			"io-type": "input",
+			"fluid": "astralsorcery.liquidstarlight",
+			"amount": 50000
+		},
+		{
+			"type": "item",
+			"io-type": "output",
+			"item": "draconicevolution:draconium_block@1",
+			"amount": 1
+		}
+
+	]
+}

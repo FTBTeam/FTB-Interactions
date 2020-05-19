@@ -1,0 +1,57 @@
+{
+  "weight": 0,
+  "density": 0.8,
+  "max_height": 120,
+  "min_height": 5,
+  "vein_populator": {
+    "type": "surface_block",
+    "block": {
+      "block": "plants2:cosmetic_3",
+      "type": "epipogium_a"
+    },
+    "min_amount": 12,
+    "max_amount": 14
+  },
+  "biome_modifier": {
+    "type": "biome_map",
+    "advancedrocketry:moon": -200,
+    "advancedrocketry:moondark": -200,
+    "advancedrocketry:alien forest": -200,
+    "advancedrocketry:oceanspires": -200,
+    "advancedrocketry:hotdryrock": -200,
+    "advancedrocketry:crystalchasms": -200,
+    "minecraft:jungle": 50,
+    "minecraft:mutated_jungle": 50,
+    "traverse:mini_jungle": 50,
+    "minecraft:jungle_hills": 50,
+    "minecraft:jungle_edge": 50,
+    "minecraft:mutated_jungle_edge": 50
+  },
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      14,
+      14
+    ]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 30,
+          "value": "ore:brown_limonite"
+        },
+        {
+          "weight": 10,
+          "value": "ore:nickel"
+        },
+        {
+          "weight": 30,
+          "value": "ore:iron"
+        }
+      ]
+    }
+  }
+}

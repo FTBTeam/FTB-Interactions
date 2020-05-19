@@ -1,0 +1,42 @@
+{
+  "weight": 0,
+  "density": 0.7,
+  "max_height": 40,
+  "min_height": 5,
+  "biome_modifier": {
+    "type": "biome_map",
+    "advancedrocketry:alien forest": 50,
+    "advancedrocketry:oceanspires": 50
+  },
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      14,
+      13
+    ]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 30,
+          "value": "ore:galena"
+        },
+        {
+          "weight": 10,
+          "value": "ore_dict:oreBlueTopaz"
+        },
+        {
+          "weight": 50,
+          "value": "ore:aluminium"
+        },
+        {
+          "weight": 30,
+          "value": "ore:sphalerite"
+        }
+      ]
+    }
+  }
+}

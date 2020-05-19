@@ -1,0 +1,79 @@
+{
+  "weight": 60,
+  "density": 0.3,
+  "max_height": 90,
+  "min_height": 5,
+  "vein_populator": {
+    "type": "surface_block",
+    "block": {
+      "block": "plants2:cosmetic_1",
+      "type": "agapanthus_a"
+    },
+    "min_amount": 3,
+    "max_amount": 5
+  },
+  "biome_modifier": {
+    "type": "biome_map",
+    "minecraft:jungle": -60,
+    "advancedrocketry:moon": -200,
+    "advancedrocketry:moondark": -200,
+    "advancedrocketry:alien forest": -200,
+    "advancedrocketry:oceanspires": -200,
+    "advancedrocketry:hotdryrock": -200,
+    "advancedrocketry:crystalchasms": -200,
+    "minecraft:mutated_jungle": -60,
+    "traverse:mini_jungle": -60,
+    "minecraft:jungle_hills": -60,
+    "minecraft:jungle_edge": -60,
+    "minecraft:mutated_jungle_edge": -60,
+    "minecraft:swampland": -60,
+    "minecraft:mutated_swampland": -60,
+    "traverse:green_swamp": -60,
+    "minecraft:ice_flats": -60,
+    "minecraft:mutated_ice_flats": -60,
+    "minecraft:ice_mountains": -60,
+    "minecraft:taiga_cold": -60,
+    "minecraft:mutated_taiga_cold": -60,
+    "minecraft:mutated_taiga": -60,
+    "traverse:snowy_coniferous_forest": -60,
+    "minecraft:frozen_river": -60,
+    "traverse:glacier": -60,
+    "traverse:glacier_spikes": -60,
+    "minecraft:desert": -60,
+    "traverse:mountainous_desert": -60,
+    "minecraft:mutated_desert": -60,
+    "minecraft:mesa": -60,
+    "minecraft:mutated_mesa": -60,
+    "minecraft:mesa_rock": -60,
+    "traverse:canyon": -60,
+    "traverse:red_desert": -60,
+    "minecraft:plains": -60,
+    "minecraft:mutated_plains": -60,
+    "traverse:woodlands": -60,
+    "traverse:meadow": -60,
+    "traverse:arid_highland": -60
+  },
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      13,
+      13
+    ]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 60,
+          "value": "ore:apatite"
+        },
+        {
+          "weight": 40,
+          "value": "ore:phosphor"
+        }
+      ]
+    }
+  }
+}

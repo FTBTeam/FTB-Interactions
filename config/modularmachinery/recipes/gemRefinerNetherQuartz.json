@@ -1,0 +1,30 @@
+{
+    "machine": "gem_refiner",
+    "registryName": "gem_refiner_NetherQuartz",
+    "recipeTime": 240,
+    "requirements": [ 
+		{
+			"type": "mana",
+			"io-type": "input",
+			"mana": 1000
+		},
+		{
+			"type": "mekheat",
+			"io-type": "input",
+			"temperatureRequiredMin": 750,
+			"temperature": 700
+		},		
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:gemNetherQuartz",
+            "amount": 2
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "ore:gemFlawlessNetherQuartz"
+		}
+
+	]
+}

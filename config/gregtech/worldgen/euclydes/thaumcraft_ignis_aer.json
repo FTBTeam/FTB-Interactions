@@ -1,0 +1,34 @@
+{
+  "weight": 0,
+  "density": 0.6,
+  "max_height": 80,
+  "min_height": 40,
+  "biome_modifier": {
+    "type": "biome_map",
+    "advancedrocketry:alien forest": 80,
+    "advancedrocketry:oceanspires": 80
+  },
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      14,
+      17
+    ]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 50,
+          "value": "ore_dict:oreIgnisInfused"
+        },
+        {
+          "weight": 50,
+          "value": "ore_dict:oreAerInfused"
+        }
+      ]
+    }
+  }
+}

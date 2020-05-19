@@ -1,0 +1,44 @@
+contenttweaker.part.enriched_egg=%s Enriched Egg
+
+tile.contenttweaker.portalBlockt.name=Overworld Portal Block
+tile.contenttweaker.portalBlockUnt.name=Nether Portal Block
+
+tile.contenttweaker.destabilized_well.name=Destabilized Well
+tile.contenttweaker.energized_well.name=Energized Well
+
+item.contenttweaker.overworldessencel.name=Overworld Essence (Day)
+item.contenttweaker.overworldessencer.name=Overworld Essence (Night)
+item.contenttweaker.skystoneLense.name=Skystone Lense
+item.contenttweaker.infinityegg.name=Infinity Egg
+item.contenttweaker.tekmenu.name=Tek's Abomination by TeknoAXE
+item.contenttweaker.smallgearextrudershape.name=Extruder Shape (Small Gear)
+
+fluid.molten_sand=Molten Sand
+fluid.diluted_sulfuric_acid=Diluted Sulfuric Acid
+fluid.hydrogen_sulfide=Hydrogen Sulfide
+fluid.polyethylene=Polyethylene
+fluid.polytetrafluoroethylene=Polytetrafluoroethylene (Teflon)
+fluid.sulfuric_diesel=Sulfuric Diesel
+fluid.sulfuric_gasoline=Sulfuric Gasoline
+fluid.sulfuric_kerosene=Sulfuric Kerosene
+fluid.sulfuric_lpg=Sulfuric LPG
+fluid.sulfuric_naphtha=Sulfuric Naphtha
+fluid.tolulene=Tolulene
+
+entity.apatitechicken.name=Apatite Chicken
+entity.bentonitechicken.name=Bentonite Chicken
+entity.glauconitechicken.name=Glauconite Chicken
+entity.graphitechicken.name=Graphite Chicken
+entity.grossularchicken.name=Grossular Chicken
+entity.magnesiumchicken.name=Magnesium Chicken
+entity.manganesechicken.name=Manganese Chicken
+entity.monazitechicken.name=Monazite Chicken
+entity.phosphorchicken.name=Phosphor Chicken
+entity.soapstonechicken.name=Soapstone Chicken
+entity.spessartinechicken.name=Spessartine Chicken
+entity.stibnitechicken.name=Stibnite Chicken
+entity.tantalumchicken.name=Tantalum Chicken
+entity.vanadiumchicken.name=Vanadium Chicken
+entity.niobiumchicken.name=Niobium Chicken
+entity.infinitychicken.name=Infinity Chicken
+entity.ftbchicken.name=FTB Chicken

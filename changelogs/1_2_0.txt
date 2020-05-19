@@ -1,0 +1,97 @@
+Critical Update:
+	GTCE has removed its radioactivity enchantment. Server operators will need to `/fml confirm` their server after updating.
+
+	This has resulted in a enchantment ID shift - the most relevant one being that equipment enchanted with soulbound will lose it.
+
+
+Removed Ice and Fire Silver Ingot and Nugget properly in favor GTCE counterparts
+Deprecated Pam's Salt in favor of Mekanism / GTCE variants
+
+ID Variable card should now still be able to be copied and cleared in crafting grid.
+Lowered NeuroCPU from ZPM voltage to LuV Voltage
+Re-added a GT ash -> Carbon centrifurge recipe
+Can cook GT Pig iron into TC Pig iron
+Tiny charcoal can now be cut frfom water powered saw
+Removed recipe that lets you craft Nether Portal Blocks into other cosmetic Stable Stone
+Edited JED dimensions gamerule to force refresh cyberware_keepCyberware gamerule to true
+Added GTCE Basalt to Chisel Basalt Group
+Added recipe for Damascus Steel
+Fixed oredicts for aevitas and mineralis
+Increased stack size of all GTCE motors to 64
+Lowered water cost for tofu processing in workbench
+Buffed output yield on crystalized and empowered oil
+Added recipe for creative tinkers tool modifier
+Added Drop of Evil lightwell recipe for liquid nightmares
+Added Phytogenic Insolator support for Crystal/Dark Crystal wood/chunks
+Buffed XU2 Dolly recipe to be earlier
+Pam's Gardens now actually spread
+Buff Improved Coke Oven (roughly 20% more output)
+Improved coke oven now highly favors coked coal production over charcoal production
+Blizz and Basaltz powder recipes added to Chemical Bath, removed transposer recipes
+Added GTCE Pig iron to Tinkers Pig Iron
+Neuromatic prime will now pull up to 4 million buckets of oil from newly generated chunks that contain oil
+dragon flute recipe has been made earlier game to call back hippogiphs etc
+rotten eggs no longer drop from chickens and instead are craftable in a crucible
+tiny glowstone crafting recipe in the alchemy array now yields 5 tiny dust per craft
+increased the yield of the photonuclear fission chamber
+
+
+
+
+Notable Mod Updates:
+	Apotheosis
+		Hell infused bookshelves should retain enchantmetns when broken with Silk Touch
+		New Enchantment - Occult Aversion
+		Shield Bash no longer triggers when shield is in off hand
+
+	Draconic Evolution
+		Fixed ore rarely generating in the rings even when disabled
+
+	RandomTweaks
+		Fixed custom 'ding' sound being reset on startup
+
+	GTCe 365 -> GTCE 387
+		Water electrolysis now uses correct amount of energy
+		Removed Radon as Noble Gas Centrifuge byproduct
+		Large Boilers received some buffs
+		Monazite -> Helium is now removed (might be re-added for pack purposes)
+		Indium Gallium Phospide crafting recipe outputs 3 instead of 6
+		Minor buff to item collectors
+
+	Shadows of Greg 2.3 -> 2.5
+		Removed duplicate bentonite recipe
+		More efficient red alloy recipes for higher voltages
+		Boiler upgrades are now less expensive than normal recipes
+		Solidifier for glass tubes
+		Glowstone blocks in compressor
+		Removed duplicate ethylene recipe
+
+	JEI
+		Category removal should not have any more problems
+
+	RandomTweaks
+		Can use torches to burn cobwebs
+		Handles no night vision flashing now, making NONVFlash mod redundant and removed
+	
+	Pam's Harvestcraft
+		https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2696248
+
+	Thermal Logistics
+		Crafters no longer consume the entire tool when crafting and use durability instead
+
+	Xaero's Minimap
+		Waypoints can now be shared to the server with share button
+
+
+Mod Additions
+	Simply Lights
+
+Mod Removals
+	No Night Vision Flash (now handled by Random Tweaks)
+
+
+Questbook
+	Removed Kill Villager task and added alternative emerald task for players in pacifist voidworld route
+	270+ new quest rewards were added (pls stop complaining, questbook is supposed to be supplemental anyways)
+	Added warnings about flux and warp in the TC quest lines
+	several new questlines added including the new microcrafting hell questline in Ayo technology

@@ -1,0 +1,57 @@
+{
+    "machine": "infernal_deconglomerator",
+    "registryName": "moonstone_and_stuf",
+    "recipeTime": 160,
+    "requirements": [
+		{
+			"type": "mana",
+			"io-type": "input",
+			"mana": 500
+		},
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 120
+        },		
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "petrotheum",
+			"amount": 72
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "advancedrocketry:moonturf",
+			"amount": 1
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@33",
+            "amount": 1,
+            "chance": 0.05
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@12",
+            "amount": 1,
+            "chance": 0.0625
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@3",
+            "amount": 1,
+            "chance": 0.01
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@274",
+            "amount": 1,
+            "chance": 0.025			
+		}
+    ]
+}

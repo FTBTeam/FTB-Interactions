@@ -1,0 +1,36 @@
+{
+	"machine": "sky_cauldron",
+	"registryName": "sky_cauldron_pearl2",
+	"recipeTime": 600,
+	"requirements": [{
+			"type": "meklaser",
+			"io-type": "input",
+			"energy": 20000
+		},
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "thaumcraft:primordial_pearl@2",
+			"amount": 1
+		},
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "projecte:item.pe_covalence_dust@2",
+			"amount": 3
+		},
+		{
+			"type": "fluid",
+			"io-type": "input",
+			"fluid": "astralsorcery.liquidstarlight",
+			"amount": 10000
+		},
+		{
+			"type": "item",
+			"io-type": "output",
+			"item": "thaumcraft:primordial_pearl",
+			"amount": 1
+		}
+
+	]
+}

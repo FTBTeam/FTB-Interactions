@@ -1,0 +1,175 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:diamond_ore:0"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "minecraft:diamond_ore:0"
+            ]
+          },
+          "xpReplaceStrategy": "REPLACE"
+        }
+      ]
+    },
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:lapis_ore:0"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "minecraft:lapis_ore:0"
+            ]
+          },
+          "xpReplaceStrategy": "REPLACE"
+        }
+      ]
+    },
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:coal_ore:0"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "minecraft:coal_ore:0"
+            ]
+          },
+          "xpReplaceStrategy": "REPLACE"
+        }
+      ]
+    },
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "appliedenergistics2:quartz_ore:0"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "appliedenergistics2:quartz_ore:0"
+            ]
+          },
+          "xpReplaceStrategy": "REPLACE"
+        }
+      ]
+    },
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:quartz_ore:0"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "minecraft:quartz_ore:0"
+            ]
+          },
+          "xpReplaceStrategy": "REPLACE"
+        }
+      ]
+    },
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "nex:ore_quartz:1"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "nex:ore_quartz:1"
+            ]
+          },
+          "xpReplaceStrategy": "REPLACE"
+        }
+      ]
+    },
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "nex:ore_quartz:3"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "nex:ore_quartz:3"
+            ]
+          },
+          "xpReplaceStrategy": "REPLACE"
+        }
+      ]
+    },
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "thaumcraft:ore_quartz"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "thaumcraft:ore_quartz"
+            ]
+          },
+          "xpReplaceStrategy": "REPLACE"
+        }
+      ]
+    },
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:emerald_ore:0"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "minecraft:emerald_ore:0"
+            ]
+          },
+          "xpReplaceStrategy": "REPLACE"
+        }
+      ]
+    }
+  ]
+}

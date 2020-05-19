@@ -1,0 +1,43 @@
+{
+  "weight": 0,
+  "density": 1.0,
+  "max_height": 50,
+  "min_height": 20,
+  "priority": -100,
+  "count_as_vein": false,
+  "generation_predicate": "any",
+  "vein_populator": {
+    "type": "fluid_spring",
+    "chance": 1.00
+  },
+  "biome_modifier": {
+    "type": "biome_map",
+    "advancedrocketry:moon": -200,
+    "advancedrocketry:moondark": -200,
+    "advancedrocketry:alien forest": -200,
+    "advancedrocketry:oceanspires": -200,
+    "advancedrocketry:hotdryrock": -200,
+    "advancedrocketry:crystalchasms": -200,
+    "traverse:red_desert": 500,
+    "minecraft:deep_ocean": 400
+  },
+  "generator": {
+    "type": "sphere",
+    "radius": [
+      8,
+      12
+    ]
+  },
+  "filler": {
+    "type": "ignore_bedrock",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 100,
+          "value": "block:gregtech:fluid.oil"
+        }
+      ]
+    }
+  }
+}

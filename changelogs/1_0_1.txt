@@ -1,0 +1,29 @@
+Critical Fix: Initial configs had wizardry mana pools not properly generating in the overworld. To correct this we  have moved the mana pool generation to COFH world and enabled retrogen. 
+For servers that have already been pregenerated there maye be some small amount of tps hit while new pools are retrogenerated but we anticipate the impact to be minimal. 
+
+BugFixes:
+quest updates and fixes
+inreased dropchance of bones from fishmans net
+removed and hid smeltery controller from jei to avoid confusion
+removed ender lasso from dungeon loot
+removed and hid ender lasso/crystals from jei
+fixed pulverized obsidian oredict issue preventing basalz production
+fixed typo in ae press tooltip
+petrotheum and aerotheum moved to mixer recipes
+removed and hid compressed sawdust
+added quartz block shapecraft recipe back in
+fixed little tiles chisel/smart wrench recipe conflict
+fixed fluxed electrum blast furnace recipe missing
+fixed potash smelting to skystone
+fixed ic chip assembler recipe conflicting with clocks
+setting COFH retrogen to true (reset to false in next 2 updates?)
+mana pool json in dim 100 to replace wizardry configs
+restore wizardry config
+removing slime health buff, as it was making tiny slimes spawn with 20 hp, still might not solve the problem
+differntiating between coal and charcoal in squeezer
+disabling all spawner modifiers, again since apoth updated its config format
+Merge remote-tracking branch 'origin/master'
+fixed tooltip with wrong xp amount
+added minetogether files to ingore
+disable spawner silk touching
+

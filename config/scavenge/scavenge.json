@@ -1,0 +1,57 @@
+{
+	"block_pools" :
+	[
+		{
+			"name": "InfinityGrains",
+			"type":
+			{
+				"type": "block",
+				"name": "minecraft:bedrock"
+			},
+			"clicktype": "left",
+			"properties":
+			[
+				{
+					"type": "require_item",
+					"name": "minecraft:flint"
+				},
+				{
+					"type": "consume_item",
+					"amount": "1",
+					"chance": "80"
+				},
+				{
+					"type": "require_XP",
+					"required": "true",
+					"value": "4"
+				},
+				{
+					"type": "add_XP",
+					"amount": "4",
+					"remove": "true"
+				},
+				{
+					"type": "require_player",
+					"require": "true"
+				}
+			],
+			"drops":
+			[
+				{
+					"name": "enderio:block_infinity_fog",
+						"disableJEI": false,
+						"meta": "0",
+						"chance": 65
+				}
+			],
+			"messages":
+			[
+				{
+					"id": "require_sneak",
+					"message": "Player requires to sneak"
+				}
+			]
+		}
+	]
+}
+ 

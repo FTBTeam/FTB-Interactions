@@ -1,0 +1,260 @@
+{
+	"veins": [
+		{
+			"block": "soulus:fossil_dirt",
+			"replace": "minecraft:dirt",
+			"chances": 300,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [],
+			"biome_types_blacklist": [
+				"NETHER",
+				"OCEAN",
+				"END",
+				"VOID"
+			]
+		},
+		{
+			"block": "soulus:fossil_dirt_fungal",
+			"replace": "minecraft:dirt",
+			"chances": 300,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"WET",
+				"DENSE"
+			],
+			"biome_types_blacklist": []
+		},
+		{
+			"block": "soulus:fossil_dirt_frozen",
+			"replace": "minecraft:dirt",
+			"chances": 300,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"COLD"
+			],
+			"biome_types_blacklist": []
+		},
+		{
+			"block": "soulus:fossil_dirt_ender",
+			"replace": "minecraft:dirt",
+			"chances": 100,
+			"size": {
+				"min": 2.0,
+				"max": 5.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [],
+			"biome_types_blacklist": [
+				"NETHER",
+				"OCEAN",
+				"END",
+				"VOID"
+			]
+		},
+		{
+			"block": "soulus:fossil_gravel_scale",
+			"replace": "minecraft:gravel",
+			"chances": 30,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"OCEAN"
+			],
+			"biome_types_blacklist": []
+		},
+		{
+			"block": "soulus:fossil_sand",
+			"replace": "minecraft:sand@0",
+			"chances": 50,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"HOT",
+				"DRY"
+			],
+			"biome_types_blacklist": [
+				"NETHER"
+			]
+		},
+		{
+			"block": "soulus:fossil_sand_scale",
+			"replace": "minecraft:sand@0",
+			"chances": 30,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"WATER",
+				"HOT"
+			],
+			"biome_types_blacklist": [
+				"NETHER"
+			]
+		},
+		{
+			"block": "soulus:fossil_sand_ender",
+			"replace": "minecraft:sand@0",
+			"chances": 4,
+			"size": {
+				"min": 2.0,
+				"max": 5.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"HOT",
+				"DRY"
+			],
+			"biome_types_blacklist": [
+				"NETHER"
+			]
+		},
+		{
+			"block": "soulus:fossil_sand_red_dry",
+			"replace": "minecraft:sand@1",
+			"chances": 50,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"HOT",
+				"DRY"
+			],
+			"biome_types_blacklist": [
+				"NETHER"
+			]
+		},
+		{
+			"block": "soulus:fossil_sand_red_scale",
+			"replace": "minecraft:sand@1",
+			"chances": 30,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"HOT",
+				"DRY"
+			],
+			"biome_types_blacklist": [
+				"NETHER"
+			]
+		},
+		{
+			"block": "soulus:fossil_netherrack",
+			"replace": "minecraft:netherrack",
+			"chances": 300,
+			"size": {
+				"min": 3.0,
+				"max": 7.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"NETHER"
+			],
+			"biome_types_blacklist": []
+		},
+		{
+			"block": "soulus:fossil_netherrack_ender",
+			"replace": "minecraft:netherrack",
+			"chances": 10,
+			"size": {
+				"min": 2.0,
+				"max": 5.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"NETHER"
+			],
+			"biome_types_blacklist": []
+		},
+		{
+			"block": "soulus:fossil_end_stone",
+			"replace": "minecraft:end_stone",
+			"chances": 300,
+			"size": {
+				"min": 4.0,
+				"max": 9.0
+			},
+			"height": {
+				"min": 0.0,
+				"max": 255.0
+			},
+			"dimension": null,
+			"biome_types_whitelist": [
+				"END"
+			],
+			"biome_types_blacklist": []
+		}
+	]
+}

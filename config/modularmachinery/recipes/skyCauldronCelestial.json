@@ -1,0 +1,48 @@
+{
+	"machine": "sky_cauldron",
+	"registryName": "sky_cauldron_celestial",
+	"recipeTime": 1200,
+	"requirements": [{
+			"type": "meklaser",
+			"io-type": "input",
+			"energy": 1500
+		},
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "astralsorcery:itemcelestialcrystal",
+			"amount": 1
+		},
+		{
+			"type": "item",
+			"io-type": "input",
+			"item": "ore:dustStarmetal",
+			"amount": 12
+		},
+		{
+			"type": "fluid",
+			"io-type": "input",
+			"fluid": "astralsorcery.liquidstarlight",
+			"amount": 10000
+		},
+		{
+			"type": "item",
+			"io-type": "output",
+			"nbt": {
+				"astralsorcery": {
+					"crystalProperties": {
+						"collectiveCapability": "100",
+						"size": "450",
+						"fract": "0",
+						"purity": "100",
+						"sizeOverride": "-1"
+					}
+				}
+
+			},
+			"item": "astralsorcery:itemcelestialcrystal",
+			"amount": 1
+		}
+
+	]
+}

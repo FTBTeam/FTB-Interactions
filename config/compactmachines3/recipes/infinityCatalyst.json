@@ -1,0 +1,156 @@
+  {
+	  "name": "infinityCatalyst",
+	  
+	  "target-item": "avaritia:resource",
+	  "target-meta": "5",
+	  "target-count": 1,
+	  "duration": 250,
+	  "catalyst": "avaritia:resource",
+	  "catalyst-meta": "4",
+		
+	  
+  "input-types": {
+    "a": {
+      "id": "actuallyadditions:block_crystal_empowered",
+      "meta": 2
+    },
+    "b": {
+      "id": "gregtech:compressed_15",
+      "meta": 15
+    },
+    "c": {
+      "id": "avaritia:block_resource",
+      "meta": 0
+    },
+    "d": {
+      "id": "fluxnetworks:fluxblock",
+      "meta": 0
+    },
+    "e": {
+      "id": "thermalfoundation:glass_alloy",
+      "meta": 7
+    },
+    "f": {
+      "id": "thaumcraft:metal_alchemical_advanced",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      [
+        "_",
+        "_",
+        "_",
+        "_",
+        "_"
+      ],
+      [
+        "_",
+        "_",
+        "a",
+        "_",
+        "_"
+      ],
+      [
+        "_",
+        "_",
+        "_",
+        "_",
+        "_"
+      ]
+    ],
+    [
+      [
+        "_",
+        "_",
+        "_",
+        "_",
+        "_"
+      ],
+      [
+        "_",
+        "b",
+        "d",
+        "b",
+        "_"
+      ],
+      [
+        "_",
+        "_",
+        "_",
+        "_",
+        "_"
+      ]
+    ],
+    [
+      [
+        "_",
+        "_",
+        "e",
+        "_",
+        "_"
+      ],
+      [
+        "a",
+        "c",
+        "f",
+        "c",
+        "a"
+      ],
+      [
+        "_",
+        "_",
+        "e",
+        "_",
+        "_"
+      ]
+    ],
+    [
+      [
+        "_",
+        "_",
+        "_",
+        "_",
+        "_"
+      ],
+      [
+        "_",
+        "b",
+        "d",
+        "b",
+        "_"
+      ],
+      [
+        "_",
+        "_",
+        "_",
+        "_",
+        "_"
+      ]
+    ],
+    [
+      [
+        "_",
+        "_",
+        "_",
+        "_",
+        "_"
+      ],
+      [
+        "_",
+        "_",
+        "a",
+        "_",
+        "_"
+      ],
+      [
+        "_",
+        "_",
+        "_",
+        "_",
+        "_"
+      ]
+    ]
+  ]
+
+}

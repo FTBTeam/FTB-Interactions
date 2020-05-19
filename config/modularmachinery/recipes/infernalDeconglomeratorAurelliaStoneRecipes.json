@@ -1,0 +1,70 @@
+{
+    "machine": "infernal_deconglomerator",
+    "registryName": "infinity_egg",
+    "recipeTime": 380,
+    "requirements": [
+		{
+			"type": "mana",
+			"io-type": "input",
+			"mana": 500
+		},
+		{
+
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 120
+        },		
+        {
+            "type": "fluid",
+            "io-type": "output",
+            "fluid": "mana",
+			"amount": 100
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:infinityegg",
+			"amount": 1
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@2309",
+            "amount": 2
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@2076",
+            "amount": 3
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@2053",
+            "amount": 1,
+            "chance": 0.175
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@2074",
+            "amount": 1,
+            "chance": 0.165			
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@2207",
+            "amount": 1,
+            "chance": 0.10			
+		},
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "gregtech:meta_item_1@1031",
+            "amount": 1,
+            "chance": 0.10			
+		}		
+	]
+}

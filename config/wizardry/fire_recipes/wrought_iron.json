@@ -1,0 +1,11 @@
+{
+	"input": {
+		"item": "minecraft:iron_ingot"
+	},
+	"output": {
+		"item": "gregtech:meta_item_1",
+		"data": 10197,
+		"count": 1
+	},
+	"duration": 400
+}

@@ -1,0 +1,64 @@
+Generic Mod Updates:
+	AutoRegLib v1.3-26 to v1.3-28
+	BNBGamingCore 10.0 to 11.0
+	BNBGamingLib 17.5 to 17.6
+	CommonCapabilities 2.1.0 to 2.2.1
+		Better Thermal Suite integration
+	Creative Corev 1.9.43 to 1.9.44
+	Cyclic 1.19.6 to 1.19.8
+	CyclopsCore 1.0.6 to 1.2.0
+	FastWorkBench 1.6.1 to 1.7.0
+	FTBLib 96 to 97
+	FTBQuests 146 to 149
+	FTUtilities 94 to 95
+	InControl 3.9.6 to 3.9.7
+	IntegratedDynamics 1.0.8 to 1.0.11
+	IntegratedTunnels 1.6.7  to 1.6.8
+	LibVulpes 54 to 56
+	LittleTiles pre134 to pre135
+	LLibrary 1.7.18 to 1.7.19	
+	Patchouli 18 to 19
+	Thaumic Energistics 2.2.1 to 2.2.2
+	Xaeros Minimap 1.16.3 to 1.16.6
+	Wizardry 0.9.9 to 0.10.0
+
+
+Material Mod Updates
+	Thaumic JEI 1.5.8 to 1.6.0
+		If you don't have the research for a recipe, there will now be an icon in JEI warning you.
+
+Quests:
+	Some overworld mob quests required to kill 100 mobs instead of one. These tasks are mostly there for informative purposes.
+	Quests to visit space, euclydes, and aurelia is a checkmark due to FTBQ dimensional detection issues.
+		Dimensional staging trigger is still automatic.
+
+Recipes:
+	- Mekanism Liquid Oxygen/Hydrogen uses circuit configuration 5 instead of 1 to prevent conflict
+	- Added Topaz, Red Garnet, Jasper to the squeezer and removed furnace smelting
+	- Disabled Cyclic's new melter
+	- Added porcelain faucet to clay kiln
+	- added more basin dough recipes so order doesnt matter
+	- nerfed pulerizing beacons so it doesn't output nether star dust
+
+Misc:
+	Modular Machinery
+		- all craftable blueprints no longer require a blueprint in the controller (can still store it there)
+		- machines with lootable only blueprints still require them in controller
+
+		Mana Extrapolator:
+			Hatches can be replaced by livingrock bricks, you can make an extrapolator with no hatches if you want but it will do nothing. No longer need at minimum 4 input/output mana/fluid hatches.
+
+		Improved Coke Oven:
+			Hatches are all interchangable and can be in any position. Still need a minimum of one item input, fluid output, and item output to do anything useful.
+
+		Alchemical Matter Infuser
+			Input/output busses are interchangable, once again you'll need a minimum of one input/output bus each to do anything.
+
+	OreEx
+		- add Topaz, Red Garnet, and Japser to the blacklist (gems in the copper gem veins)
+
+	JEI
+		- unhid liquid dirt clay bucket, empty clay bucket, and water clay bucket from JEI Blacklist
+
+	
+	Saereth's been very sick recently, wish him well.
