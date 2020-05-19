@@ -293,8 +293,7 @@ var simpleDungeonDisabled as string[][string] = {
 		"minecraft:coal",
 		"minecraft:melon_seeds",
 		"minecraft:pumpkin_seeds",
-		"minecraft:beetroot_seeds",
-		"iceandfire:manuscript"
+		"minecraft:beetroot_seeds"
 	],
 	"pool2" : [
 		"minecraft:gunpowder",
