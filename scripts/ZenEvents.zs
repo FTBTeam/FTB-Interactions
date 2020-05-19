@@ -13,15 +13,16 @@ import crafttweaker.block.IMaterial;
 
 print("---------------Zen Events Start------------------");
 
-Handler.setRawInterval(10); 
-Handler.onEntityUpdateRaw(
+Handler.onEntityUpdate(
 		PredicateBuilder.create()
+			.isInBlockArea(<blockstate:animus:blockfluidantimatter>.block,3,3,3,3)
+			.isInstanceOf("mightyenderchicken:ent_EnderChicken")
+			.isRandom(0.1)
+			.isNthTick(10)
 			.isRemote()
 			.negateLatest()
-			.isRandom(0.1)
-			.isInstanceOf("mightyenderchicken:ent_EnderChicken")
-			.isInBlockArea(<blockstate:animus:blockfluidantimatter>.block,3,3,3,3)
 		,function(event as EntityLivingUpdateEvent){
+		//print ("event triggered correctly for enderchicken");
 		val neutron = <avaritia:resource:2>;
 		if(isNull(neutron)) {
 		print("neutron is null in event");
@@ -35,4 +36,3 @@ Handler.onEntityUpdateRaw(
 		event.entityLivingBase.health -= 5;
 	}
 );
-
