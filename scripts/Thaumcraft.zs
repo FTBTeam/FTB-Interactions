@@ -381,6 +381,20 @@ mods.thaumcraft.ArcaneWorkbench.registerShapedRecipe("thaumometer", "", 20, [], 
 	[null, <ore:plateGold>, null]
 	]);
 
+
+# Add Crafting Recipe for Ancient Pillars, since forming them is bugged.
+mods.thaumcraft.ArcaneWorkbench.registerShapedRecipe("Ancient Pillar", "INFUSIONANCIENT", 100, [<aspect:ordo> *8], <thaumcraft:pillar_ancient> * 4, 
+    [[<thaumcraft:stone_ancient>,<thaumcraft:stone_ancient>,<thaumcraft:stone_ancient>],
+    [<thaumcraft:stone_ancient>,<thaumcraft:salis_mundus>,<thaumcraft:stone_ancient>],
+    [<thaumcraft:stone_ancient>,<thaumcraft:stone_ancient>,<thaumcraft:stone_ancient>]]
+    );
+# Add Crafting Recipe for Eldritch Pillars, since forming them is bugged.
+mods.thaumcraft.ArcaneWorkbench.registerShapedRecipe("Eldritch Pillar", "INFUSIONELDRITCH", 200, [<aspect:ordo> *16], <thaumcraft:pillar_eldritch> * 4, 
+    [[<thaumcraft:stone_eldritch_tile>,<thaumcraft:stone_eldritch_tile>,<thaumcraft:stone_eldritch_tile>],
+    [<thaumcraft:stone_eldritch_tile>,<thaumcraft:salis_mundus>,<thaumcraft:stone_eldritch_tile>],
+    [<thaumcraft:stone_eldritch_tile>,<thaumcraft:stone_eldritch_tile>,<thaumcraft:stone_eldritch_tile>]]
+    );
+
 	#void seed
 mods.bloodmagic.TartaricForge.addRecipe(<thaumcraft:void_seed>*4,[<thaumcraft:ingot>,<actuallyadditions:block_misc:2>,<quark:black_ash>,<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "vitium"}]})], 500, 200);
 
