@@ -2,6 +2,9 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import mods.artisanworktables.builder.RecipeBuilder;
 import mods.gregtech.recipe.RecipeMap;
+import crafttweaker.events.IEventManager;
+import crafttweaker.event.IBlockEvent;
+
 
 print("------------------Misc Start---------------");
 
@@ -36,6 +39,13 @@ recipes.addShapeless(<architecturecraft:chisel>, [<chisel:chisel_iron>]);
 
 recipes.addShapeless(<littletiles:chisel>, [<architecturecraft:chisel>]);
 
+
+	#Cancel event to stop portal from breaking //Contributed by iComputerfreak
+	events.onBlockBreak(function(event as crafttweaker.event.BlockBreakEvent) {
+    if (event.block.definition.id == "dimensionalcontrol:dimensional_portal") {
+        event.cancel();
+    }
+});
 
 	#quark wither ash
 	recipes.addShapeless(<quark:black_ash>, [<minecraft:skull:1>]);
