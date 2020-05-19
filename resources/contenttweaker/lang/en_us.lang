@@ -42,3 +42,15 @@ entity.vanadiumchicken.name=Vanadium Chicken
 entity.niobiumchicken.name=Niobium Chicken
 entity.infinitychicken.name=Infinity Chicken
 entity.ftbchicken.name=FTB Chicken
+
+tile.contenttweaker.entropy_infused_ore.name=Entropy-Infused Ore
+tile.contenttweaker.ordo_infused_ore.name=Ordo-Infused Ore
+tile.contenttweaker.ignis_infused_ore.name=Ignis-Infused Ore
+tile.contenttweaker.aqua_infused_ore.name=Aqua-Infused Ore
+tile.contenttweaker.aer_infused_ore.name=Aer-Infused Ore
+tile.contenttweaker.terra_infused_ore.name=Terra-Infused Ore
+tile.contenttweaker.saltpeter_ore.name=Saltpeter Ore
+tile.contenttweaker.salt_ore.name=Salt Ore
+tile.contenttweaker.biotite_block.name=Block of Biotite
+tile.contenttweaker.lepidolite_ore.name=Lepidolite Ore
+tile.contenttweaker.rock_salt_ore.name=Rock Salt Ore
