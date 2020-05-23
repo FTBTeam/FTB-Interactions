@@ -175,6 +175,11 @@ mods.jei.JEI.hide(<libvulpes:productrod:6>);
 mods.jei.JEI.hide(<libvulpes:productrod:7>);
 mods.jei.JEI.hide(<libvulpes:productboule:3>);
 
+	#Removing AR rods from ore directory to prevent JEI from placing them in crafting benches
+<ore:stickIridium>.remove(<libvulpes:productrod:10>);
+<ore:stickCopper>.remove(<libvulpes:productrod:4>);
+<ore:stickSteel>.remove(<libvulpes:productrod:6>);
+<ore:stickTitanium>.remove(<libvulpes:productrod:7>);
 
 	#hide nuggets
 mods.jei.JEI.hide(<libvulpes:productnugget:10>);
