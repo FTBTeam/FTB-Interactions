@@ -35,7 +35,7 @@
 	  },
 	  "input-nbt": {
 		"b:A": {
-		  "nbt": "{hasRedstone:2,\"def:6\":{id:\"appliedenergistics2:part\",Count:1b,Damage:16s},id:\"appliedenergistics2:blockcablebus\",\"extra:6\":{part:{p:0,g:1204L,k:-1L},usedChannels:0b}}"
+		  "nbt": "{hasRedstone:2,\"def:6\":{id:\"appliedenergistics2:part\",Count:1b,Damage:36s},id:\"appliedenergistics2:blockcablebus\",\"extra:6\":{part:{p:0,g:1204L,k:-1L},usedChannels:0b}}"
 		},
 		"c:A": {
 		  "nbt": "{proxy:{p:0,g:1220L,k:-1L},core:0b,forward:\"NORTH\",id:\"appliedenergistics2:crafting_monitor\",up:\"UP\",paintedColor:16b}"
