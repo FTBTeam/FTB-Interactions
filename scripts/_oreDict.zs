@@ -1300,6 +1300,9 @@ for i in toolSaws {
 	<ore:toolAxe>.add(i);
 }
 
+	#Crystal Chunks
+	<ore:crystalChunk>.add(<plants2:generic:8>);
+	<ore:crystalChunk>.add(<plants2:generic:6>);
 
 	#standard vis
 <ore:visCrystals>.add(<thaumcraft:crystal_essence>);
