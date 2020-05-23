@@ -371,12 +371,6 @@ for i in glowstoneToUnregister {
 	//print("-------------------------End altar ----------------------------");
 
 
-	<netherbackport:netheriteblock>.addTooltip(format.darkRed("Used as Tier 3 Blood Altar Caps"));
-	<appliedenergistics2:smooth_sky_stone_block>.addTooltip(format.darkRed("Used as Tier 4 Blood Altar Caps"));
-	<cyclicmagic:beacon_potion>.addTooltip(format.darkRed("Used as Tier 5 Blood Altar Caps"));
-	<bloodmagic:decorative_brick:2>.addTooltip(format.darkRed("Used as Tier 6 Blood Altar Caps"));
-
-
 	#crystal clusters
 	recipes.remove(<bloodmagic:decorative_brick:2>);
 	recipes.addShaped(<bloodmagic:decorative_brick:2>,
