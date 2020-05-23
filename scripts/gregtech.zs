@@ -112,6 +112,20 @@ macerator.findRecipe(8,
 	
 	
 	
+	#Remove GT Chests
+var generalDisabled as IItemStack[] = [
+	<gregtech:machine:802>,
+	<gregtech:machine:803>,
+	<gregtech:machine:804>,
+	<gregtech:machine:805>,
+	<gregtech:machine:806>
+	
+];
+
+for i in generalDisabled {
+	mods.jei.JEI.removeAndHide(i);
+}
+	
 	#Lutetium in Pulverizer
 macerator.findRecipe(12, 
 	[<ore:crushedCentrifugedThorium>.firstItem],
