@@ -54,4 +54,4 @@ recipes.addShaped(<netherbackport:netheritearmorbody>.withTag({ench: [{lvl: 2 as
 recipes.addShaped(<netherbackport:netheritearmorhelmet>.withTag({ench: [{lvl: 2 as short, id: 63 as short}], RepairCost: 1}), [[<ore:screwThaumium>.firstItem, <netherbackport:netheriteingot>, <ore:screwThaumium>.firstItem],[<netherbackport:netheriteingot>, <minecraft:iron_helmet>, <netherbackport:netheriteingot>], [<ore:screwThaumium>.firstItem, <netherbackport:netheriteingot>, <ore:screwThaumium>.firstItem]]);
 
 	#Enchanted Netherite Sword
-recipes.addShaped(<netherbackport:netheritesword>, [[null, <netherbackport:netheriteingot>, null],[<netherbackport:netheriteingot>, <minecraft:diamond_sword>, <netherbackport:netheriteingot>], [null, <netherbackport:netheriteingot>, null]]);
+recipes.addShaped(<netherbackport:netheritesword>.withTag({ench: [{lvl: 2 as short, id: 63 as short}], RepairCost: 1}), [[null, <netherbackport:netheriteingot>, null],[<netherbackport:netheriteingot>, <minecraft:diamond_sword>, <netherbackport:netheriteingot>], [null, <netherbackport:netheriteingot>, null]]);
