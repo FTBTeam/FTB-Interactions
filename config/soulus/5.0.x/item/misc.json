@@ -1,0 +1,38 @@
+{
+	"glue": {
+		"always_edible": true,
+		"amount": 1,
+		"saturation": 0.0,
+		"duration": 32,
+		"quantity": 1,
+		"effects": [
+			{
+				"effect": "nausea",
+				"duration": 200,
+				"chance": 1.0,
+				"tiered": false
+			}
+		]
+	},
+	"bonemeal_nether": {
+		"particle_count": 50
+	},
+	"sledgehammer": {
+		"durability": 256
+	},
+	"bone_chunks": {
+		"particle_count": 3.0,
+		"particle_count_max": 48,
+		"sneak_to_marrow_full_stack": false,
+		"xp": {
+			"min": -8.0,
+			"max": 4.0
+		}
+	},
+	"emerald_bloody": {
+		"villager_drop_amount": {
+			"min": -10.0,
+			"max": 3.0
+		}
+	}
+}

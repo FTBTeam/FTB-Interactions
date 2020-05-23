@@ -1,0 +1,9 @@
+{
+	"particle_count": 1.0,
+	"non_upgraded_range": 4,
+	"upgrade_range_effectiveness": 2,
+	"max_upgrades": {
+		"range": 16,
+		"count": 16
+	}
+}

@@ -1,0 +1,160 @@
+{
+	"fossils": {
+		"soulus:fossil_netherrack_ender": {
+			"type": "ENDER",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 3.0,
+				"max": 7.0
+			}
+		},
+		"soulus:fossil_sand": {
+			"type": "DRY",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 0.0,
+				"max": 2.0
+			}
+		},
+		"soulus:fossil_sand_red_scale": {
+			"type": "SCALE",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 0.0,
+				"max": 2.0
+			}
+		},
+		"soulus:fossil_sand_ender": {
+			"type": "ENDER",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 3.0,
+				"max": 7.0
+			}
+		},
+		"soulus:fossil_dirt_ender": {
+			"type": "ENDER",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 3.0,
+				"max": 7.0
+			}
+		},
+		"soulus:fossil_dirt_frozen": {
+			"type": "FROZEN",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 0.0,
+				"max": 2.0
+			}
+		},
+		"soulus:fossil_sand_scale": {
+			"type": "SCALE",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 0.0,
+				"max": 2.0
+			}
+		},
+		"soulus:fossil_dirt_fungal": {
+			"type": "FUNGAL",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 0.0,
+				"max": 2.0
+			}
+		},
+		"soulus:fossil_dirt": {
+			"type": "NORMAL",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 0.0,
+				"max": 2.0
+			}
+		},
+		"soulus:fossil_end_stone": {
+			"type": "ENDER",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 3.0,
+				"max": 7.0
+			}
+		},
+		"soulus:fossil_netherrack": {
+			"type": "NETHER",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 2.0,
+				"max": 5.0
+			}
+		},
+		"soulus:fossil_sand_red_dry": {
+			"type": "DRY",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 0.0,
+				"max": 2.0
+			}
+		},
+		"soulus:fossil_gravel_scale": {
+			"type": "SCALE",
+			"chunks": {
+				"min": 2.0,
+				"max": 6.0
+			},
+			"full_bone_chance": 0.03,
+			"xp": {
+				"min": 1.0,
+				"max": 4.0
+			}
+		}
+	}
+}

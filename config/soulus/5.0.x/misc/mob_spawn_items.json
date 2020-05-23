@@ -1,0 +1,9 @@
+{
+	"mob_spawn_items": [
+		"minecraft:spawn_egg",
+		"thermalexpansion:morb",
+		"enderio:item_soul_vial",
+		"extrautilities:golden_lasso",
+		"industrialforegoing:mob_imprisonment_tool"
+	]
+}
