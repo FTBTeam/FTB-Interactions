@@ -579,8 +579,28 @@ blast_furnace.recipeBuilder()
 
 	#infernal furnace bonuses
 	val steelStack = <ore:nuggetSteel>.firstItem *3;
+	val copperNug = <ore:nuggetCopper>.firstItem;
+	val tinNug = <ore:nuggetTin>.firstItem;
+	val leadNug = <ore:nuggetLead>.firstItem;
+	val silverNug = <ore:nuggetSilver>.firstItem;
+	
 	mods.thaumcraft.SmeltingBonus.addSmeltingBonus(<enderio:item_alloy_endergy_ingot>, steelStack % 100);
 
+
+	#Fix native ore cluser bonus smelting giving thaumcraft nuggets
+		//Copper
+	mods.thaumcraft.SmeltingBonus.removeSmeltingBonus(<thaumcraft:cluster:2>, <thaumcraft:nugget:1>);
+	mods.thaumcraft.SmeltingBonus.addSmeltingBonus(<thaumcraft:cluster:2>, copperNug % 25);
+		//Tin
+	mods.thaumcraft.SmeltingBonus.removeSmeltingBonus(<thaumcraft:cluster:3>, <thaumcraft:nugget:2>);
+	mods.thaumcraft.SmeltingBonus.addSmeltingBonus(<thaumcraft:cluster:2>, tinNug % 25);		
+		//Silver
+	mods.thaumcraft.SmeltingBonus.removeSmeltingBonus(<thaumcraft:cluster:4>, <thaumcraft:nugget:3>);
+	mods.thaumcraft.SmeltingBonus.addSmeltingBonus(<thaumcraft:cluster:4>, silverNug % 25);	
+		//Lead
+	mods.thaumcraft.SmeltingBonus.removeSmeltingBonus(<thaumcraft:cluster:5>, <thaumcraft:nugget:5>);
+	mods.thaumcraft.SmeltingBonus.addSmeltingBonus(<thaumcraft:cluster:5>, leadNug % 25);
+	
 	#celestial papers
 	mods.astralsorcery.Altar.addAttunementAltarRecipe("thaumcraft:celestial_notes9", <thaumcraft:celestial_notes:9>, 300, 600, [
 	null,<ore:dustLunar>,null,
