@@ -42,6 +42,9 @@ val cutting_saw = mods.gregtech.recipe.RecipeMap.getByName("cutting_saw");
 val assembly_line = mods.gregtech.recipe.RecipeMap.getByName("assembly_line");
 val distillery = mods.gregtech.recipe.RecipeMap.getByName("distillery");
 val distillation_tower = mods.gregtech.recipe.RecipeMap.getByName("distillery");
+
+	#Remove useless LV Thermal Centrifuge
+mods.jei.JEI.removeAndHide(<gregtech:machine:460>);
 	
 recipes.addShaped(<gregtech:meta_tool:7>.withTag({"GT.ToolStats": {PrimaryMaterial: "rubber", MaxDurability: 256, DigSpeed: 4.0 as float, AttackDamage: 1.0 as float, HarvestLevel: 1}}), 
 	[[<ore:itemRubber>, <ore:itemRubber>, null],
@@ -111,6 +114,20 @@ macerator.findRecipe(8,
 	.remove();
 	
 	
+	
+	#Remove GT Chests
+var generalDisabled as IItemStack[] = [
+	<gregtech:machine:802>,
+	<gregtech:machine:803>,
+	<gregtech:machine:804>,
+	<gregtech:machine:805>,
+	<gregtech:machine:806>
+	
+];
+
+for i in generalDisabled {
+	mods.jei.JEI.removeAndHide(i);
+}
 	
 	#Lutetium in Pulverizer
 macerator.findRecipe(12, 
@@ -394,7 +411,7 @@ assembler.recipeBuilder()
 
 assembler.recipeBuilder()
 		.inputs(<meta_tile_entity:gregtech:large_boiler.titanium>, <ore:cableGtSingleAluminium> *4, <ore:circuitLudicrous> *4)
-		.outputs(<meta_tile_entity:gregtech:large_boiler.tungsten>)
+		.outputs(<meta_tile_entity:gregtech:large_boiler.tungstensteel>)
 		.duration(150)
 		.EUt(8)
 		.buildAndRegister();
@@ -1655,10 +1672,11 @@ for gas, gasCracked in steamCrackerMap {
 
 	#high tier circuits
 	#Neuro CPU
-assembly_line.findRecipe(80000, [<ore:foilSiliconRubber>.firstItem * 64, <metaitem:stemcells> * 8, <metaitem:component.glass.tube> * 8, 
-	<ore:plateGold>.firstItem * 8, <ore:plateStainlessSteel>.firstItem * 4, <metaitem:board.wetware>],
-	[<liquid:sterilized_growth_medium> * 250, <liquid:uumatter> * 100, <liquid:water> * 250, <liquid:lava> * 1000])
-	.remove();
+//assembly_line.findRecipe(80000, [<ore:foilSiliconRubber>.firstItem * 64, <metaitem:stemcells> * 8, <metaitem:component.glass.tube> * 8, 
+//	<ore:plateGold>.firstItem * 8, <ore:plateStainlessSteel>.firstItem * 4, <metaitem:board.wetware>],
+//	[<liquid:sterilized_growth_medium> * 250, <liquid:uumatter> * 100, <liquid:water> * 250, <liquid:lava> * 1000])
+//	.remove();
+
 assembly_line.recipeBuilder()
 	.inputs([<ore:foilSiliconRubber>.firstItem * 64, <waterstrainer:super_worm>, <metaitem:component.glass.tube> * 8, 
 	<ore:plateGold>.firstItem * 8, <ore:plateStainlessSteel>.firstItem * 4, <metaitem:board.wetware>])
@@ -1719,15 +1737,6 @@ assembly_line.recipeBuilder()
 		
 
 	#wetware processor - <gregtech:meta_item_2:32498> - <ore:circuitMaster> 
-assembler.findRecipe(6560000, [<metaitem:component.smd.capacitor>*2,<metaitem:component.smd.transistor>*2, 
-	<ore:wireFineYttriumBariumCuprate>.firstItem *2, <metaitem:board.wetware>,
-	<metaitem:crystal.central_processing_unit>, <metaitem:plate.nano_central_processing_unit> ], 
-	[<liquid:soldering_alloy> * 144]).remove();		
-assembler.findRecipe(6560000, [<metaitem:component.smd.capacitor>*2,<metaitem:component.smd.transistor>*2, 
-	<ore:wireFineYttriumBariumCuprate>.firstItem *2, <metaitem:board.wetware>,
-	<metaitem:crystal.central_processing_unit>, <metaitem:plate.nano_central_processing_unit> ], 
-	[<liquid:tin> * 288]).remove();		
-
 assembly_line.recipeBuilder()
 	.inputs(<metaitem:component.smd.capacitor>*2,<metaitem:component.smd.transistor>*2, <metaitem:component.smd.diode>, <ore:wireFineYttriumBariumCuprate>.firstItem *2, <metaitem:processor.neuro>,
 	<metaitem:crystal.central_processing_unit>, <metaitem:plate.nano_central_processing_unit>)

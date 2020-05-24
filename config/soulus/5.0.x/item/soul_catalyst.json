@@ -1,0 +1,8 @@
+{
+	"required_essence": 256,
+	"xp": {
+		"min": 10.0,
+		"max": 20.0
+	},
+	"stack_size": 16
+}

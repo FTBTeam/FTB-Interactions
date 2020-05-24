@@ -58,6 +58,17 @@ val solidifier = mods.gregtech.recipe.RecipeMap.getByName("fluid_solidifier");
 	mods.jei.JEI.removeAndHide(<enderio:item_endergy_conduit:2>);
 	mods.jei.JEI.removeAndHide(<enderio:item_endergy_conduit:3>);
 	
+	
+	#Obelisk and Xp rod
+	recipes.remove(<enderio:block_experience_obelisk>);
+	recipes.remove(<enderio:item_xp_transfer>);
+
+
+	recipes.addShaped(<enderio:block_experience_obelisk>, 
+	[[null, <enderio:item_xp_transfer>, null],[<enderio:item_alloy_endergy_ingot:1>, <enderio:block_tank>, <enderio:item_alloy_endergy_ingot:1>], [<enderio:item_alloy_ingot:7>, <enderio:item_material:53>, <enderio:item_alloy_ingot:7>]]);
+
+	recipes.addShaped(<enderio:item_xp_transfer>, [[null, null, <enderio:item_alloy_ingot:7>],[null, <enderio:item_alloy_endergy_ingot:1>, null], [<enderio:item_alloy_ingot:7>, null, null]]);
+	
 	#slicensplice
 	mods.jei.JEI.removeAndHide(<enderio:block_decoration2:9>);
 	mods.jei.JEI.removeAndHide(<enderio:block_slice_and_splice>);
@@ -369,7 +380,13 @@ alloyer.recipeBuilder()
     .EUt(12)
     .buildAndRegister();	
 	
-
+	#Crystalline Alloy Ingot
+	alloyer.recipeBuilder()
+    .inputs(<ore:crystalChunk>, <ore:dustDiamond>*4)
+    .outputs(<ore:ingotCrystallineAlloy>.firstItem)
+    .duration(80)
+    .EUt(42)
+    .buildAndRegister();
 
 	
 	#crude steel cooks into slag
@@ -379,12 +396,12 @@ alloyer.recipeBuilder()
 
 	#soularium
 blast_furnace.recipeBuilder()
-    .inputs(<minecraft:soul_sand>, <ore:ingotGold>)
-    .fluidInputs([<liquid:hydrogen> * 500])
+    .inputs(<minecraft:soul_sand>, <netherbackport:netheriteingot>)
+    .fluidInputs([<liquid:nitrogen> * 500])
     .outputs(<enderio:item_alloy_ingot:7>)
     .property("temperature", 1700)
-    .duration(100)
-    .EUt(480)
+    .duration(220)
+    .EUt(120)
     .buildAndRegister();
 
 	#dark steel

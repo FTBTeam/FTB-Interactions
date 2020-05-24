@@ -1,0 +1,32 @@
+{
+	"fortress": {
+		"*": {
+			"type": "blazing",
+			"midnight_jewel": true
+		}
+	},
+	"*": {
+		"*": {
+			"type": "normal",
+			"midnight_jewel": true
+		}
+	},
+	"mineshaft": {
+		"*": {
+			"type": "spooky",
+			"midnight_jewel": true
+		}
+	},
+	"stronghold": {
+		"*": {
+			"type": "ender",
+			"midnight_jewel": true
+		}
+	},
+	"mansion": {
+		"*": {
+			"type": "earthy",
+			"midnight_jewel": true
+		}
+	}
+}

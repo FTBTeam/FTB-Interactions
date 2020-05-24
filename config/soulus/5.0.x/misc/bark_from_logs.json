@@ -1,0 +1,7 @@
+{
+	"bark_chance": 0.01,
+	"log_whitelist": [
+		"minecraft:log",
+		"minecraft:log2"
+	]
+}

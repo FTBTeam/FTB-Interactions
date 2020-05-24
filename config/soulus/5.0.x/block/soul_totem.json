@@ -1,0 +1,15 @@
+{
+	"particle_count_in": 1.0,
+	"soul_catalyst_fuel_time": 11000,
+	"efficiency_upgrades_range": {
+		"min": 1.0,
+		"max": 0.3
+	},
+	"is_chunkloader": true,
+	"can_disable_with_redstone": true,
+	"kickstart_fuel_use": 1000,
+	"max_upgrades": {
+		"soul_catalyst": 1,
+		"efficiency": 16
+	}
+}

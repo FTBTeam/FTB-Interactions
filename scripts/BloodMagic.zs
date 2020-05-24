@@ -80,17 +80,17 @@ chemReactor.recipeBuilder()
 
 	#ritualdiviner
 	recipes.remove(<bloodmagic:ritual_diviner>);
-mods.astralsorcery.Altar.addAttunementAltarRecipe("interactions:ritualdiviner", <bloodmagic:ritual_diviner>, 250, 200, [
+	mods.astralsorcery.Altar.addAttunementAltarRecipe("interactions:ritualdiviner", <bloodmagic:ritual_diviner>, 250, 200, [
 	<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "ignis"}]}), <ore:manaDiamond>, <ore:manaDiamond>,
 	<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "terra"}]}), <ore:livingwoodTwig>, <ore:manaDiamond>,
 	<thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aqua"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aer"}]}), <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "ordo"}]}),
 	<bloodmagic:slate>,<bloodmagic:slate>,null,null]);
 
 	#altar block tooltips
-<appliedenergistics2:smooth_sky_stone_block>.addTooltip(format.darkRed("Used as Tier 3 Blood Altar Caps"));
-<ore:blockTitanium>.firstItem.addTooltip(format.darkRed("Used as Tier 4 Blood Altar Caps"));
-<cyclicmagic:beacon_potion>.addTooltip(format.darkRed("Used as Tier 5 Blood Altar Caps"));
-<bloodmagic:decorative_brick:2>.addTooltip(format.darkRed("Used as Tier 6 Blood Altar Caps"));
+	<netherbackport:netheriteblock>.addTooltip(format.darkRed("Used as Tier 3 Blood Altar Caps"));
+	<appliedenergistics2:smooth_sky_stone_block>.addTooltip(format.darkRed("Used as Tier 4 Blood Altar Caps"));
+	<cyclicmagic:beacon_potion>.addTooltip(format.darkRed("Used as Tier 5 Blood Altar Caps"));
+	<bloodmagic:decorative_brick:2>.addTooltip(format.darkRed("Used as Tier 6 Blood Altar Caps"));
 
 	#hellfireForge
 recipes.remove(<bloodmagic:soul_forge>);
@@ -354,17 +354,13 @@ for i in glowstoneToUnregister {
 }
 
 	//print("-------------------------adding glowstone tiles to altar ----------------------------");
-	AnimusPlugin.addComponentMapping(<blockstate:appliedenergistics2:smooth_sky_stone_block>, "GLOWSTONE");
-
+	
+	AnimusPlugin.addComponentMapping(<blockstate:netherbackport:netheriteblock:>, "GLOWSTONE");
+	
 	//print("-------------------------removing bloodstone tiles from altar ----------------------------");
 
-	AnimusPlugin.removeComponentMapping(<blockstate:bloodmagic:decorative_brick>,"BLOODSTONE"); //t4
-	AnimusPlugin.removeComponentMapping(<blockstate:bloodmagic:decorative_brick:type=bloodstone_brick>,"BLOODSTONE"); //t4
-
+	AnimusPlugin.addComponentMapping(<blockstate:appliedenergistics2:smooth_sky_stone_block>, "BLOODSTONE");
 	mods.jei.JEI.removeAndHide(<bloodmagic:decorative_brick:1>);
-
-	//print("-------------------------adding bloodstone tiles to altar ----------------------------");
-	AnimusPlugin.addComponentMapping(<blockstate:gregtech:compressed_3:variant=titanium>, "BLOODSTONE");
 
 	//print("-------------------------removing beacon tiles from altar ----------------------------");
 	AnimusPlugin.removeComponentMapping(<blockstate:minecraft:beacon>,"BEACON"); //t5
@@ -373,6 +369,7 @@ for i in glowstoneToUnregister {
 	AnimusPlugin.addComponentMapping(<blockstate:cyclicmagic:beacon_potion>, "BEACON");
 
 	//print("-------------------------End altar ----------------------------");
+
 
 	#crystal clusters
 	recipes.remove(<bloodmagic:decorative_brick:2>);
