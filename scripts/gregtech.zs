@@ -42,6 +42,9 @@ val cutting_saw = mods.gregtech.recipe.RecipeMap.getByName("cutting_saw");
 val assembly_line = mods.gregtech.recipe.RecipeMap.getByName("assembly_line");
 val distillery = mods.gregtech.recipe.RecipeMap.getByName("distillery");
 val distillation_tower = mods.gregtech.recipe.RecipeMap.getByName("distillery");
+
+	#Remove useless LV Thermal Centrifuge
+mods.jei.JEI.removeAndHide(<gregtech:machine:460>);
 	
 recipes.addShaped(<gregtech:meta_tool:7>.withTag({"GT.ToolStats": {PrimaryMaterial: "rubber", MaxDurability: 256, DigSpeed: 4.0 as float, AttackDamage: 1.0 as float, HarvestLevel: 1}}), 
 	[[<ore:itemRubber>, <ore:itemRubber>, null],
