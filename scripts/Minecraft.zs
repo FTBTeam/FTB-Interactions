@@ -301,6 +301,9 @@ RecipeBuilder.get("basic")
 	.addTool(<ore:artisanHammers>, 10)
 	.addOutput(<minecraft:bucket>)
 	.create();
+	
+	#Attempt to force readd Bucket
+	mods.jei.JEI.addItem(<minecraft:bucket>);
 
 	#mushroom
 	mods.bloodmagic.AlchemyArray.addRecipe(<minecraft:red_mushroom>, <minecraft:mycelium>, <rustic:cloudsbluff>);
