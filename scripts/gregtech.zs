@@ -61,6 +61,13 @@ macerator.findRecipe(8,
 	[null])
 	.remove();
 
+	#remote GT Wheat
+	recipes.removeByRecipeName("gregtech:wheat_to_dust");
+	
+	#GT Flour to Pam's Flour
+	recipes.addShaped(<harvestcraft:flouritem>, [[null, null, null],[null, <gregtech:meta_item_1:2345>, null], [null, null, null]]);
+	
+
 macerator.recipeBuilder()
 	.inputs(<minecraft:beacon>)
 	.outputs(<ore:dustGlass>.firstItem * 5)
