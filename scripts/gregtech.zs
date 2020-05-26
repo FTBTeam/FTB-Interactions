@@ -1478,6 +1478,71 @@ for i in gemDisable {
 	recipes.remove(i);
 }
 
+#gem rod removal
+var gemRodDisable as IItemStack[]= [
+	<ore:stickAlmandine>.firstItem,
+	<ore:stickRutile>.firstItem,
+	<ore:stickBlueTopaz>.firstItem,
+	<ore:stickVinteum>.firstItem,
+	<ore:stickGarnetYellow>.firstItem,
+	<ore:stickGarnetRed>.firstItem,
+	<ore:stickAmethyst>.firstItem,
+	<ore:stickOpal>.firstItem,
+	<ore:stickOlivine>.firstItem,
+	<ore:stickJasper>.firstItem,
+	<ore:stickTopaz>.firstItem,
+	<ore:stickTanzanite>.firstItem,
+	<ore:stickSapphire>.firstItem,
+	<ore:stickRuby>.firstItem
+	];
+
+for i in gemRodDisable {
+	mods.jei.JEI.removeAndHide(i);
+}
+
+#gem long rod removal
+var gemLongRodDisable as IItemStack[]= [
+	<ore:stickLongAlmandine>.firstItem,
+	<ore:stickLongRutile>.firstItem,
+	<ore:stickLongBlueTopaz>.firstItem,
+	<ore:stickLongVinteum>.firstItem,
+	<ore:stickLongGarnetYellow>.firstItem,
+	<ore:stickLongGarnetRed>.firstItem,
+	<ore:stickLongAmethyst>.firstItem,
+	<ore:stickLongOpal>.firstItem,
+	<ore:stickLongOlivine>.firstItem,
+	<ore:stickLongJasper>.firstItem,
+	<ore:stickLongTopaz>.firstItem,
+	<ore:stickLongTanzanite>.firstItem,
+	<ore:stickLongSapphire>.firstItem,
+	<ore:stickLongRuby>.firstItem
+	];
+
+for i in gemLongRodDisable {
+	mods.jei.JEI.removeAndHide(i);
+}
+
+#gem Bolt removal
+var gemBoltDisable as IItemStack[]= [
+	<ore:boltAlmandine>.firstItem,
+	<ore:boltRutile>.firstItem,
+	<ore:boltBlueTopaz>.firstItem,
+	<ore:boltVinteum>.firstItem,
+	<ore:boltGarnetYellow>.firstItem,
+	<ore:boltGarnetRed>.firstItem,
+	<ore:boltAmethyst>.firstItem,
+	<ore:boltOpal>.firstItem,
+	<ore:boltOlivine>.firstItem,
+	<ore:boltJasper>.firstItem,
+	<ore:boltTopaz>.firstItem,
+	<ore:boltTanzanite>.firstItem,
+	<ore:boltSapphire>.firstItem,
+	<ore:boltRuby>.firstItem
+	];
+
+for i in gemBoltDisable {
+	mods.jei.JEI.removeAndHide(i);
+}
 
 	#Starter Cables being Added to Assembler
 var carpetCableFixSingle as IOreDictEntry[IOreDictEntry] = {
