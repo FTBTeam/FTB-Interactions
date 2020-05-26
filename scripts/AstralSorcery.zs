@@ -18,7 +18,7 @@ print("---------------Astral Sorcery Start------------------");
 val autoclave = mods.gregtech.recipe.RecipeMap.getByName("autoclave");
 val alloyer = mods.gregtech.recipe.RecipeMap.getByName("alloy_smelter");
 val macerator = mods.gregtech.recipe.RecipeMap.getByName("macerator");
-//<forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000});
+
 val starlightBucket = <forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000});
 val starlightFluidStack = <liquid:astralsorcery.liquidstarlight>;
 val resonatingGem = <astralsorcery:itemcraftingcomponent:4>;
@@ -71,6 +71,9 @@ val sootyMarble = <astralsorcery:blockblackmarble>;
 
 	#lava from lava crystal
 	mods.astralsorcery.Lightwell.addLiquefaction(<bloodmagic:lava_crystal>, <liquid:lava>, 1, 200, 0);
+
+	#infused planks
+	recipes.removeByRecipeName("astralsorcery:shapeless/infused_wood_planks");
 
 	#resonating gem
 	mods.astralsorcery.StarlightInfusion.removeInfusion(resonatingGem);
