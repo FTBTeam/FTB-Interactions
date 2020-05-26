@@ -237,7 +237,7 @@ SummoningDirector.addSummonInfo(
 	#spirit - cannot be summoned in void world
 SummoningDirector.addSummonInfo(
 	SummoningInfo.create()
-		.setCatalyst(<soulus:emerald_burnt>)
+		.setCatalyst(<wizardry:blackened_spirit>)
 		.setMutator(function(attempt as SummoningAttempt) {
 			if (attempt.world.dimension != 0) {
 				attempt.message = "Spirits rise from the void!";

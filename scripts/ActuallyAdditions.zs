@@ -43,17 +43,7 @@ forgeHammer.recipeBuilder()
     .EUt(24)
     .buildAndRegister();
 
-	#Bat Wing
-	#Smart Chicken
-Composer.recipe("batwing",<actuallyadditions:item_misc:15>)
-		.setTime(1)
-		.setShaped([
-			[<harvestcraft:hardenedleatheritem>, null, <harvestcraft:hardenedleatheritem>],
-			[null, <botania:manaresource:1>, null],
-			[null, <bloodmagic:component:8>, null]])
-		.setMobsRequired({ "minecraft:bat": 1})
-		.create();	
-	
+
 	#Crafter on a Stick
 mods.jei.JEI.removeAndHide(<actuallyadditions:item_crafter_on_a_stick>);
 mods.jei.JEI.removeAndHide(<actuallyadditions:block_leaf_generator>);
