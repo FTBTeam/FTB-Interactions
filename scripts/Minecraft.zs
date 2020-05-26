@@ -406,7 +406,7 @@ recipes.removeByRegex("minecraft:furnace");
 <minecraft:furnace>.addTooltip(format.darkRed("If you simply must have one... "));
 <minecraft:furnace>.addTooltip(format.darkRed("Sprinkling some Salis mundis on firebricks will do the trick."));
 
-SalisMundus.addSingleConversion(<blockstate:gregtech:metal_casing:variatnt=primitive_bricks>.block, <minecraft:furnace>);
+SalisMundus.addSingleConversion(<blockstate:gregtech:metal_casing:variant=primitive_bricks>.block, <minecraft:furnace>);
 
 	#Gold Ingot
 recipes.remove(<minecraft:gold_ingot>);
