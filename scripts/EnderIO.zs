@@ -44,6 +44,9 @@ val solidifier = mods.gregtech.recipe.RecipeMap.getByName("fluid_solidifier");
 
 	mods.jei.JEI.addItem(<enderio:item_broken_spawner>.withTag({entityId: "astralsorcery:entityflare"}));
 	
+	
+	<enderio:block_farm_station>.addTooltip(format.darkRed("***Do not use with GT Axes***."));
+	
 	#high tier RF cabling
 	mods.jei.JEI.removeAndHide(<enderio:item_endergy_conduit:11>);
 	mods.jei.JEI.removeAndHide(<enderio:item_endergy_conduit:10>);
