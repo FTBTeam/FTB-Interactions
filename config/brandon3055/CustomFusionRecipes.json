@@ -97,27 +97,6 @@
 		"ore:ingotCosmicNeutronium",		
 		"ore:ingotCosmicNeutronium"
         ]
-    },
-    {
-        "mode": "ADD",
-        "result": "enderutilities:enderpart,1,81",
-        "catalyst": "enderutilities:enderpart,1,80",
-        "energy": 22100000,
-        "tier": 3,
-        "ingredients": [
-		"draconicevolution:chaotic_core",
-		"draconicevolution:chaotic_core",
-		"avaritia:block_resource,32,1",
-		"avaritia:block_resource,32,1",
-		"avaritia:block_resource,16,0",
-		"avaritia:block_resource,16,0",
-		"draconicevolution:awakened_core,8,0",
-		"draconicevolution:awakened_core,8,0",
-		"gregtech:meta_item_2,1,32501",
-		"gregtech:meta_item_2,1,32501",
-		"contenttweaker:overworldessencer",		
-		"contenttweaker:overworldessencel"
-        ]
     },	
     {
         "mode": "ADD",

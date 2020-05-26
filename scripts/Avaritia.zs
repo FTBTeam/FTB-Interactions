@@ -105,6 +105,25 @@ mods.tconstruct.Melting.addRecipe(<liquid:infinity>*144, <contenttweaker:infinit
     .EUt(30720)
     .buildAndRegister();
 	
+	#Creative Key
+	assembly_line.recipeBuilder()
+	.inputs(
+	<enderutilities:enderpart:80>,
+	<draconicevolution:chaotic_core>*2,
+	<avaritia:block_resource:1>*64,
+	<avaritia:block_resource>*32,
+	<draconicevolution:awakened_core>*16,
+	<ore:circuitMAX>*2,
+	<contenttweaker:overworldessencel>,
+	<contenttweaker:overworldessencer>,
+	<metaitem:field.generator.iv>*4
+	)
+    .outputs(<enderutilities:enderpart:81>)
+	.fluidInputs([<fluid:mana> * 16000, <fluid:lubricant> * 2000, <fluid:polytetrafluoroethylene> * 12000, <fluid:crystalline_alloy> * 10000])
+    .duration(18000)
+    .EUt(300000)
+    .buildAndRegister();
+	
 	#ingots from nuggets
 	implosion.recipeBuilder()
     .inputs(<avaritia:resource:3>*9)
