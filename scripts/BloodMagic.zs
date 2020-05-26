@@ -70,7 +70,7 @@ mods.rustic.Condenser.addRecipe(flightPotion, featherPotion, <wizardry:sky_dust>
 
 	#simple catalyst
 
-chemReactor.recipeBuilder()
+mixer.recipeBuilder()
 	.inputs(<minecraft:nether_wart>*10, <minecraft:redstone>*10,<metaitem:gelled_toluene>)
 	.fluidInputs([<liquid:lifeessence> * 5000])
 	.outputs(<bloodmagic:component:29>*10)
