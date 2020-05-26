@@ -144,6 +144,14 @@ recipes.remove(<actuallyadditions:item_misc:6>);
     .EUt(48)
     .buildAndRegister();
 	
+	#knife and knife related food
+	mods.jei.JEI.removeAndHide(<actuallyadditions:item_misc:2>);
+	mods.jei.JEI.removeAndHide(<actuallyadditions:item_misc:3>);
+	mods.jei.JEI.removeAndHide(<actuallyadditions:item_knife>);
+	mods.jei.JEI.removeAndHide(<actuallyadditions:item_food:5>);
+	mods.jei.JEI.removeAndHide(<actuallyadditions:item_food:4>);
+	mods.jei.JEI.removeAndHide(<actuallyadditions:item_food:2>);
+	
 	#Toast o' Chocolate
 recipes.remove(<actuallyadditions:item_food:19>);
 recipes.addShapeless(<actuallyadditions:item_food:19>, [<harvestcraft:toastitem>, <ore:foodChocolatebar>]);
