@@ -164,7 +164,7 @@ mods.tconstruct.Melting.addRecipe(<liquid:infinity>*144, <contenttweaker:infinit
 	
 		#Infinity pick
 	assembly_line.recipeBuilder()
-	.inputs(<draconicevolution:draconic_pick>, <ore:plateNaquadahAlloy>*3, <metaitem:field.generator.iv>)
+	.inputs(<draconicevolution:draconic_pick>, <ore:plateNaquadahAlloy>*3, <metaitem:field.generator.iv>, <avaritia:resource:4>)
     .outputs(<avaritia:infinity_pickaxe>)
 	.fluidInputs([<fluid:infinity> * 432, <fluid:lubricant> * 250])
     .duration(600)
@@ -173,7 +173,7 @@ mods.tconstruct.Melting.addRecipe(<liquid:infinity>*144, <contenttweaker:infinit
 
 		#Infinity hoe
 	assembly_line.recipeBuilder()
-	.inputs(<draconicevolution:draconic_hoe>, <ore:plateNaquadahAlloy>*3, <metaitem:field.generator.iv>)
+	.inputs(<draconicevolution:draconic_hoe>, <ore:plateNaquadahAlloy>*3, <metaitem:field.generator.iv>, <avaritia:resource:4>)
     .outputs(<avaritia:infinity_hoe>)
 	.fluidInputs([<fluid:infinity> * 288, <fluid:lubricant> * 250])
     .duration(600)
@@ -182,7 +182,7 @@ mods.tconstruct.Melting.addRecipe(<liquid:infinity>*144, <contenttweaker:infinit
 	
 	#Infinity axe
 	assembly_line.recipeBuilder()
-	.inputs(<draconicevolution:draconic_axe>, <ore:plateNaquadahAlloy>*3, <metaitem:field.generator.iv>)
+	.inputs(<draconicevolution:draconic_axe>, <ore:plateNaquadahAlloy>*3, <metaitem:field.generator.iv>, <avaritia:resource:4>)
     .outputs(<avaritia:infinity_axe>)
 	.fluidInputs([<fluid:infinity> * 432, <fluid:lubricant> * 250])
     .duration(600)
@@ -191,7 +191,7 @@ mods.tconstruct.Melting.addRecipe(<liquid:infinity>*144, <contenttweaker:infinit
 
 	#Infinity shovel
 	assembly_line.recipeBuilder()
-	.inputs(<draconicevolution:draconic_shovel>, <ore:plateNaquadahAlloy>*3, <metaitem:field.generator.iv>)
+	.inputs(<draconicevolution:draconic_shovel>, <ore:plateNaquadahAlloy>*3, <metaitem:field.generator.iv>, <avaritia:resource:4>)
     .outputs(<avaritia:infinity_shovel>)
 	.fluidInputs([<fluid:infinity> * 144, <fluid:lubricant> * 250])
     .duration(600)
