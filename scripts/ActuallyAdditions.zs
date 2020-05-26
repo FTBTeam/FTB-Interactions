@@ -138,7 +138,7 @@ mods.jei.JEI.removeAndHide(<actuallyadditions:block_miner>);
 recipes.remove(<actuallyadditions:item_misc:6>);
 	assembler.recipeBuilder()
 	.inputs(<ore:wireFineElectrum>*2, <ore:ringRoseGold>)
-	.fluidInputs([<liquid:glowstone> * 1000])
+	.fluidInputs([<liquid:glowstone> * 1296])
     .outputs(<actuallyadditions:item_misc:6>)
     .duration(100)
     .EUt(48)

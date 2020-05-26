@@ -63,7 +63,7 @@ val blast_furnace = mods.gregtech.recipe.RecipeMap.getByName("blast_furnace");
 	recipes.remove(<redstonearsenal:material>);
 	mixer.recipeBuilder()
     .inputs(<ore:dustSterlingSilver>,<ore:dustRoseGold>)
-    .fluidInputs([<liquid:redstone> * 1000])
+    .fluidInputs([<liquid:redstone> * 1296])
     .outputs(<redstonearsenal:material>*2)
     .duration(120)
     .EUt(48)
@@ -73,7 +73,7 @@ val blast_furnace = mods.gregtech.recipe.RecipeMap.getByName("blast_furnace");
 	recipes.remove(<redstonearsenal:material:160>);
 	chemical_bath .recipeBuilder()
     .inputs(<ore:manaDiamond>)
-    .fluidInputs([<liquid:redstone> * 1000])
+    .fluidInputs([<liquid:redstone> * 1296])
     .outputs(<redstonearsenal:material:160>)
     .duration(440)
     .EUt(24)
