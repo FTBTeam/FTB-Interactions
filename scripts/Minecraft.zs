@@ -1,6 +1,7 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import mods.artisanworktables.builder.RecipeBuilder;
+import mods.thaumcraft.SalisMundus;
 
 print("---------------Minecraft Start------------------");
 
@@ -404,6 +405,10 @@ recipes.remove(<minecraft:ender_pearl>);
 	#Furnace
 recipes.removeByRegex("minecraft:furnace");
 <minecraft:furnace>.addTooltip(format.darkRed("Can be looted in villages."));
+<minecraft:furnace>.addTooltip(format.darkRed("If you simply must have one... "));
+<minecraft:furnace>.addTooltip(format.darkRed("Sprinkling some Salis mundis on firebricks will do the trick."));
+
+SalisMundus.addSingleConversion(<blockstate:gregtech:metal_casing:variatnt=primitive_bricks>.block, <minecraft:furnace>);
 
 	#Gold Ingot
 recipes.remove(<minecraft:gold_ingot>);
