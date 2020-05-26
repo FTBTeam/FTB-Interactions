@@ -179,6 +179,12 @@ chemReactor.recipeBuilder()
     .buildAndRegister();
 	
 	
+	#Cluster Mills
+	mods.jei.JEI.removeAndHide(<gregtech:machine:2008>);	
+	mods.jei.JEI.removeAndHide(<gregtech:machine:2009>);	
+	mods.jei.JEI.removeAndHide(<gregtech:machine:2010>);	
+	mods.jei.JEI.removeAndHide(<gregtech:machine:2011>);	
+	
 	#platinum sludge
 chemReactor.findRecipe(30, [<ore:crushedPurifiedChalcopyrite>.firstItem], [<liquid:nitric_acid> * 1000]).remove();
 chemReactor.findRecipe(30, [<ore:crushedPurifiedPentlandite>.firstItem], [<liquid:nitric_acid> * 1000]).remove();
