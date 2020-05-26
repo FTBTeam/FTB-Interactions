@@ -1,6 +1,7 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 import mods.artisanworktables.builder.RecipeBuilder;
+import mods.thaumcraft.SalisMundus;
 
 print("---------------Minecraft Start------------------");
 
@@ -141,7 +142,6 @@ recipes.addShaped(<minecraft:hopper>,
 	#f Cleanup
 var ironIngotCleanup as IItemStack[] = [
 	<actuallyadditions:item_dust:0>,
-	<soulus:dust_iron>,
 	<appliedenergistics2:material:49>,
 	<actuallyadditions:item_misc:20>,
 	<libvulpes:productdust:1>,
@@ -168,7 +168,6 @@ recipes.addShaped(<minecraft:iron_door>,
 var goldIngotCleanup as IItemStack[] = [
 	<libvulpes:productdust:2>,
 	<enderio:item_material:25>,
-	<soulus:dust_gold>,
 	<mekanism:dust:1>,
 	<bloodmagic:component:20>,
 	<actuallyadditions:item_dust:1>,
@@ -315,7 +314,7 @@ RecipeBuilder.get("basic")
 RecipeBuilder.get("basic")
 	.setShaped([
 		[<ore:blockSlimeGrass>, <ore:blockSlimeGrass>, <ore:blockSlimeGrass>],
-		[<ore:blockSlimeGrass>, <soulus:bone_meal_nether>, <ore:blockSlimeGrass>],
+		[<ore:blockSlimeGrass>, <wizardry:blackened_spirit>, <ore:blockSlimeGrass>],
 		[<ore:blockSlimeGrass>, <ore:blockSlimeGrass>, <ore:blockSlimeGrass>]])
 	.addTool(<ore:toolCutters>, 10)
 	.addOutput(<minecraft:mycelium>*9)
@@ -404,6 +403,10 @@ recipes.remove(<minecraft:ender_pearl>);
 	#Furnace
 recipes.removeByRegex("minecraft:furnace");
 <minecraft:furnace>.addTooltip(format.darkRed("Can be looted in villages."));
+<minecraft:furnace>.addTooltip(format.darkRed("If you simply must have one... "));
+<minecraft:furnace>.addTooltip(format.darkRed("Sprinkling some Salis mundis on firebricks will do the trick."));
+
+SalisMundus.addSingleConversion(<blockstate:gregtech:metal_casing:variant=primitive_bricks>.block, <minecraft:furnace>);
 
 	#Gold Ingot
 recipes.remove(<minecraft:gold_ingot>);

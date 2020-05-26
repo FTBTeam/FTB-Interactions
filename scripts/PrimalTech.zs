@@ -30,6 +30,9 @@ print("---------------Primal Start------------------");
     .addOutput(<actuallyadditions:item_misc:11> * 2)
     .create();
 
+	#Wheat in anvil
+	
+
 	#Bone Axe
 
 recipes.remove(<primal_tech:bone_axe>);

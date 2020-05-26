@@ -236,7 +236,7 @@ for i in pipesDisabled {
 	mods.thermalexpansion.Transposer.removeFillRecipe(<thermaldynamics:duct_64>, <liquid:ender>);
 	assembler.recipeBuilder()
     .inputs(<thermaldynamics:duct_64>)
-	.fluidInputs([<liquid:ender> * 144])
+	.fluidInputs([<liquid:ender> * 125])
     .outputs([<thermaldynamics:duct_64:2>])
     .duration(280)
     .EUt(48)

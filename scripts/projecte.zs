@@ -177,6 +177,11 @@ recipes.addShaped(<projecte:item.pe_klein_star>,
 	recipes.removeByRecipeName("projecte:item.pe_fuel_0");
 	recipes.removeByRecipeName("projecte:item.pe_fuel_1");
 	recipes.removeByRecipeName("projecte:item.pe_fuel_2");
+	
+	
+	#Alchemical bags
+	recipes.removeByRecipeName("projecte:item.pe_alchemical_bag_0");
+	<projecte:item.pe_alchemical_bag>.addTooltip(format.darkRed("Uncraftable, dungeon loot only"));
 
 	#stealing redmatter block for our portal
 	recipes.remove(<projecte:matter_block:1>);

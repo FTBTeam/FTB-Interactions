@@ -70,7 +70,7 @@ mods.rustic.Condenser.addRecipe(flightPotion, featherPotion, <wizardry:sky_dust>
 
 	#simple catalyst
 
-chemReactor.recipeBuilder()
+mixer.recipeBuilder()
 	.inputs(<minecraft:nether_wart>*10, <minecraft:redstone>*10,<metaitem:gelled_toluene>)
 	.fluidInputs([<liquid:lifeessence> * 5000])
 	.outputs(<bloodmagic:component:29>*10)
@@ -276,7 +276,7 @@ RecipeBuilder.get("basic")
 	.setShaped([
 		[<projecte:item.pe_covalence_dust>, <ore:dustAsh>, <projecte:item.pe_covalence_dust>],
 		[<projecte:item.pe_covalence_dust>, <minecraft:sugar>, <projecte:item.pe_covalence_dust>],
-		[<projecte:item.pe_covalence_dust>, <soulus:bone_meal_nether>, <projecte:item.pe_covalence_dust>]])
+		[<projecte:item.pe_covalence_dust>, <wizardry:blackened_spirit> , <projecte:item.pe_covalence_dust>]])
 	.addTool(<ore:artisanHammers>, 10)
 	.setFluid(<liquid:water>*1000)
 	.addOutput(<bloodmagic:arcane_ashes>)

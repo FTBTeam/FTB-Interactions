@@ -61,6 +61,13 @@ macerator.findRecipe(8,
 	[null])
 	.remove();
 
+	#remote GT Wheat
+	recipes.removeByRecipeName("gregtech:wheat_to_dust");
+	
+	#GT Flour to Pam's Flour
+	recipes.addShaped(<harvestcraft:flouritem>, [[null, null, null],[null, <gregtech:meta_item_1:2345>, null], [null, null, null]]);
+	
+
 macerator.recipeBuilder()
 	.inputs(<minecraft:beacon>)
 	.outputs(<ore:dustGlass>.firstItem * 5)
@@ -153,6 +160,15 @@ recipes.addShaped(<ore:craftingDiamondBlade>.firstItem, [
 mixer.findRecipe(8, [<ore:itemSalt>.firstItem], [<liquid:water> * 1000]).remove();	
 chemReactor.findRecipe(30, [<ore:dustNetherQuartz>.firstItem*3, <ore:dustSodium>.firstItem], [<liquid:water> * 1000]).remove();	
 
+	#duplicate sodium sulfide
+	mixer.findRecipe(30, [<ore:dustSodium>.firstItem*2, <ore:dustSulfur>.firstItem], null).remove();	
+	mixer.recipeBuilder()
+	.inputs(<ore:dustSodium>.firstItem*2, <ore:dustSulfur>.firstItem)
+	.outputs(<ore:dustSulfur>.firstItem)
+	.duration(60)
+	.EUt(30)
+	.buildAndRegister();
+
 	#Salt water
 chemReactor.recipeBuilder()
 	.inputs(<ore:itemSalt>)
@@ -162,6 +178,12 @@ chemReactor.recipeBuilder()
     .EUt(18)
     .buildAndRegister();
 	
+	
+	#Cluster Mills
+	mods.jei.JEI.removeAndHide(<gregtech:machine:2008>);	
+	mods.jei.JEI.removeAndHide(<gregtech:machine:2009>);	
+	mods.jei.JEI.removeAndHide(<gregtech:machine:2010>);	
+	mods.jei.JEI.removeAndHide(<gregtech:machine:2011>);	
 	
 	#platinum sludge
 chemReactor.findRecipe(30, [<ore:crushedPurifiedChalcopyrite>.firstItem], [<liquid:nitric_acid> * 1000]).remove();
@@ -1751,6 +1773,39 @@ assembly_line.recipeBuilder()
 	.EUt(30720)
 	.buildAndRegister();
 
+
+	#Wetware Mainframe
+assembly_line.findRecipe(600000000, [<ore:foilSiliconRubber>.firstItem * 64, 
+	<metaitem:component.smd.capacitor> * 32,
+	<metaitem:component.smd.resistor> * 32,
+	<metaitem:component.smd.transistor> * 32,
+	<metaitem:component.smd.diode> * 32,
+	<metaitem:plate.random_access_memory> * 16,
+	<ore:wireGtDoubleSuperconductor>.firstItem * 16,
+	<metaitem:circuit.wetware_super_computer> * 8,
+	<ore:frameGtTritanium>.firstItem * 4,
+	<metaitem:component.small_coil>*4],
+	[<liquid:soldering_alloy> * 2880, <liquid:water> * 10000])
+	.remove();
+
+assembly_line.recipeBuilder()
+	.inputs(
+	<ore:foilSiliconRubber>.firstItem * 64, 
+	<metaitem:component.smd.capacitor> * 32,
+	<metaitem:component.smd.resistor> * 32,
+	<metaitem:component.smd.transistor> * 36,
+	<metaitem:component.smd.diode> * 32,
+	<metaitem:plate.random_access_memory> * 16,
+	<ore:wireGtDoubleSuperconductor>.firstItem * 16,
+	<metaitem:circuit.wetware_super_computer> * 8,
+	<ore:frameGtTritanium>.firstItem * 4
+	)
+	.fluidInputs([<liquid:soldering_alloy> * 2880, <liquid:water> * 10000])
+	.outputs([<metaitem:circuit.wetware_mainframe>])
+	.duration(2000)
+	.EUt(300000)
+	.buildAndRegister();
+
 	# Wetware supercomputer - <gregtech:meta_item_2:32500> - <metaitem:circuit.wetware_super_computer>
 assembler.findRecipe(13760000, [<ore:wireFineYttriumBariumCuprate>.firstItem *6, <metaitem:component.smd.diode>*4, 
 	<metaitem:plate.nor_memory_chip> *4, <metaitem:plate.random_access_memory>*4, <ore:circuitUltimate>.firstItem*3, <metaitem:board.wetware>*2], [<liquid:tin> * 288]).remove();
@@ -2191,30 +2246,7 @@ cutting_saw.recipeBuilder()
 	//titanium small gear
 	extruder.recipeBuilder().inputs([<ore:ingotTungstenSteel>]).notConsumable(<contenttweaker:smallgearextrudershape>).outputs([<ore:gearSmallTungstenSteel>.firstItem]).duration(130).EUt(64).buildAndRegister();    //tungstensteel small gear
 	
-	#ZPM Field Generator
-	
-assembly_line.recipeBuilder()
-	.inputs([
-		<ore:wireFineOsmium> * 64,
-		<ore:wireFineOsmium> * 64,
-		<ore:wireFineOsmium> * 64,
-		<ore:wireFineOsmium> * 64,
-		<ore:wireFineOsmium> * 64,
-		<ore:wireFineOsmium> * 64,
-		<ore:wireFineOsmium> * 64,
-		<ore:wireFineOsmium> * 64,
-		<metaitem:processor.neuro> * 16,
-		<ore:plateHsse> * 6,
-		<ore:frameGtHsse>,
-		<metaitem:emitter.zpm> * 4,
-		<metaitem:quantumstar> * 4,
-		<ore:circuitInsane> * 16,
-		<ore:cableGtOctalVanadiumGallium> * 8])
-	.fluidInputs([<liquid:soldering_alloy> * 1152])
-	.outputs([<metaitem:field.generator.zpm>])
-	.duration(600)
-	.EUt(122880)
-	.buildAndRegister();
+
 
 
 print("----------------Gregtech End-------------------");

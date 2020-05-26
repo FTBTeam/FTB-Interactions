@@ -1,6 +1,12 @@
 [
   {
   	"dimension": 0,
+	"mob": ["minecraft:zombie_villager", "minecraft:chicken","minecraft:cow","minecraft:sheep","minecraft:pig","minecraft:llama","emberroot:deers","minecraft:ocelot","minecraft:parrot", "minecraft:spider", "minecraft:squid"   ],
+	"block": "minecraft:air",
+    "result": "default"
+  },
+  {
+  	"dimension": 0,
     "result": "deny"
   }
 ]

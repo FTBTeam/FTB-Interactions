@@ -38,11 +38,14 @@ val solidifier = mods.gregtech.recipe.RecipeMap.getByName("fluid_solidifier");
 
 	#broken spawner recipe
 	recipes.addShaped(<enderio:item_broken_spawner>.withTag({entityId: "astralsorcery:entityflare"}), 
-	[[<minecraft:iron_bars>, <soulus:bars_endersteel>, <minecraft:iron_bars>],
+	[[<minecraft:iron_bars>, <deepmoblearning:living_matter_extraterrestrial>, <minecraft:iron_bars>],
 	[<actuallyadditions:item_misc:20>, <astralsorcery:itemcraftingcomponent:4>, <actuallyadditions:item_misc:20>], 
-	[<minecraft:iron_bars>, <soulus:bars_endersteel>, <minecraft:iron_bars>]]);
+	[<minecraft:iron_bars>, <deepmoblearning:living_matter_extraterrestrial>, <minecraft:iron_bars>]]);
 
 	mods.jei.JEI.addItem(<enderio:item_broken_spawner>.withTag({entityId: "astralsorcery:entityflare"}));
+	
+	
+	<enderio:block_farm_station>.addTooltip(format.darkRed("***Do not use with GT Axes***."));
 	
 	#high tier RF cabling
 	mods.jei.JEI.removeAndHide(<enderio:item_endergy_conduit:11>);

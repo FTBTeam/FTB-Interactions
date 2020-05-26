@@ -219,7 +219,7 @@ SummoningDirector.addSummonInfo(
 	#Squid
 SummoningDirector.addSummonInfo(
 	SummoningInfo.create()
-		.setCatalyst(<minecraft:fish>)
+		.setCatalyst(<minecraft:fish>)		
 		.setReagents([<wizardry:devil_dust>, <actuallyadditions:item_water_bowl>, <primal_tech:bone_shard>])
 		.addMob(MobInfo.create()
 			.setMob("minecraft:squid")
@@ -237,7 +237,7 @@ SummoningDirector.addSummonInfo(
 	#spirit - cannot be summoned in void world
 SummoningDirector.addSummonInfo(
 	SummoningInfo.create()
-		.setCatalyst(<soulus:emerald_burnt>)
+		.setCatalyst(<wizardry:blackened_spirit>)
 		.setMutator(function(attempt as SummoningAttempt) {
 			if (attempt.world.dimension != 0) {
 				attempt.message = "Spirits rise from the void!";
