@@ -160,6 +160,15 @@ recipes.addShaped(<ore:craftingDiamondBlade>.firstItem, [
 mixer.findRecipe(8, [<ore:itemSalt>.firstItem], [<liquid:water> * 1000]).remove();	
 chemReactor.findRecipe(30, [<ore:dustNetherQuartz>.firstItem*3, <ore:dustSodium>.firstItem], [<liquid:water> * 1000]).remove();	
 
+	#duplicate sodium sulfide
+	mixer.findRecipe(30, [<ore:dustSodium>.firstItem*2, <ore:dustSulfur>.firstItem], null).remove();	
+	mixer.recipeBuilder()
+	.inputs(<ore:dustSodium>.firstItem*2, <ore:dustSulfur>.firstItem)
+	.outputs(<ore:dustSulfur>.firstItem)
+	.duration(60)
+	.EUt(30)
+	.buildAndRegister();
+
 	#Salt water
 chemReactor.recipeBuilder()
 	.inputs(<ore:itemSalt>)
