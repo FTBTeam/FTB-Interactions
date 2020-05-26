@@ -184,6 +184,14 @@ SummoningDirector.addSummonInfo(
 SummoningDirector.addSummonInfo(
 	SummoningInfo.create()
 		.setCatalyst(<minecraft:flint>)
+		.setMutator(function(attempt as SummoningAttempt) {
+			if (attempt.world.dimension != 0) {
+				attempt.message = "They're everywhere!";
+			} else {
+				attempt.success = false;
+				attempt.message = "Something about this world is interfering with hostile enemies being summoned.";
+			}
+		})			
 		.setReagents([<wizardry:devil_dust>, <minecraft:string> * 2, <primal_tech:bone_shard>])
 		.addMob(MobInfo.create()
 			.setMob("minecraft:spider")
@@ -219,7 +227,15 @@ SummoningDirector.addSummonInfo(
 	#Squid
 SummoningDirector.addSummonInfo(
 	SummoningInfo.create()
-		.setCatalyst(<minecraft:fish>)
+		.setCatalyst(<minecraft:fish>)		
+		.setMutator(function(attempt as SummoningAttempt) {
+			if (attempt.world.dimension != 0) {
+				attempt.message = "Squish!";
+			} else {
+				attempt.success = false;
+				attempt.message = "This world is completely devoid of oceanic life to summon.";
+			}
+		})	
 		.setReagents([<wizardry:devil_dust>, <actuallyadditions:item_water_bowl>, <primal_tech:bone_shard>])
 		.addMob(MobInfo.create()
 			.setMob("minecraft:squid")
