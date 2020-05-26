@@ -276,7 +276,7 @@ RecipeBuilder.get("basic")
 	.setShaped([
 		[<projecte:item.pe_covalence_dust>, <ore:dustAsh>, <projecte:item.pe_covalence_dust>],
 		[<projecte:item.pe_covalence_dust>, <minecraft:sugar>, <projecte:item.pe_covalence_dust>],
-		[<projecte:item.pe_covalence_dust>, <soulus:bone_meal_nether>, <projecte:item.pe_covalence_dust>]])
+		[<projecte:item.pe_covalence_dust>, <wizardry:blackened_spirit> , <projecte:item.pe_covalence_dust>]])
 	.addTool(<ore:artisanHammers>, 10)
 	.setFluid(<liquid:water>*1000)
 	.addOutput(<bloodmagic:arcane_ashes>)

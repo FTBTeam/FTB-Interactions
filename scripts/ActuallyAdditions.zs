@@ -6,7 +6,6 @@ import mods.thermalexpansion.Insolator;
 import mods.botaniatweaks.Agglomeration;
 import mods.thaumcraft.ArcaneWorkbench;
 import mods.botaniatweaks.AgglomerationRecipe;
-import mods.soulus.Composer;
 
 print("---------------Actually Additions Start------------------");
 

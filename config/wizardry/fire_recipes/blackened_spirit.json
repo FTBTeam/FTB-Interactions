@@ -1,0 +1,11 @@
+{
+	"input": {
+		"item": "minecraft:dye",
+		"data": 15
+	},
+	"output": {
+		"item": "wizardry:blackened_spirit",
+		"count": 1
+	},
+	"duration": 600
+}

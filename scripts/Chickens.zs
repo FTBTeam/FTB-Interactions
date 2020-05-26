@@ -1,6 +1,5 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-import mods.soulus.Composer;
 
 print("---------------Chickens Start------------------");
 
@@ -97,46 +96,7 @@ var eggRecipeMap as IItemStack[][string] = {
 	"contenttweaker:niobiumchicken" : [vitreus, pride]
 };
 
-furnace.remove(<soulus:emerald_burnt>);
-Composer.recipe("interactions:burnt_emerald", <soulus:emerald_burnt>)
-		.setTime(1)
-		.setShaped([
-			[null, <minecraft:soul_sand>, null],
-			[<minecraft:soul_sand>, <minecraft:emerald>, <minecraft:soul_sand>],
-			[null, <minecraft:soul_sand>, null]])
-		.setMobsRequired({ "minecraft:chicken": 1})
-		.create();
 		
-	#Chickens
-for chicken, ingredients in eggRecipeMap {
-	recipes.addShaped(<chickens:spawn_egg>.withTag({ChickenType: {id: chicken}}), [
-			[null, ingredients[1], null],
-			[null, <soulus:emerald_burnt>, null],
-			[ingredients[0], <minecraft:egg>, voidCrystal]]);
-
-	/*Composer.recipe(chicken + "_eggrecipe", 
-	<chickens:spawn_egg>.withTag({ChickenType: {id: chicken}}))
-		.setTime(1)
-		.setShaped([
-			[null, ingredients[1], null],
-			[null, bindingReagent, null],
-			[ingredients[0], <minecraft:egg>, voidCrystal]])
-		.setMobsRequired({ "minecraft:chicken": 2})
-		.create();
-	*/
-}
-
-	#Smart Chicken
-Composer.recipe("chickens:smartchicken" + "_eggrecipe", 
-	<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:smartchicken"}}))
-		.setTime(1)
-		.setShaped([
-			[null, <rftools:smartwrench>, null],
-			[null, <minecraft:egg>, null],
-			[null, <thermalfoundation:wrench>, null]])
-		.setMobsRequired({ "minecraft:chicken": 2})
-		.create();
-
 	
 
 

@@ -287,14 +287,12 @@ var dustsDisabled as IItemStack[][IOreDictEntry] = {
 		<enderio:item_material:25>,
 		<mekanism:dust:1>,
 		<libvulpes:productdust:2>,
-		<thermalfoundation:material:1>,
-		<soulus:dust_gold>
+		<thermalfoundation:material:1>
 	],
 
 	#dustIron
 	<ore:dustIron>: [
 		<libvulpes:productdust:1>,
-		<soulus:dust_iron>,
 		<mekanism:dust>,
 		<enderio:item_material:24>,
 		<bloodmagic:component:19>,
@@ -436,7 +434,6 @@ for i in dirtyDustsDisabled {
 
 
 <ore:dustObsidian>.add(<thermalfoundation:material:770>);
-<ore:dustNiobium>.add(<soulus:dust_niobium>);
 <ore:dustArdite>.add(<enderio:item_material:30>);
 	#Removing outside of loop since it needs to say visible
 <ore:dustDraconium>.remove(<draconicevolution:draconium_dust>);
@@ -585,7 +582,6 @@ for oreDictEntry, items in ingotsDisabled {
 	oreDictEntry.removeItems(items);
 }
 
-<ore:ingotNiobium>.add(<soulus:ingot_niobium>);
 
 ////////////////////////
 //	     Sticks       //
