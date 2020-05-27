@@ -1133,6 +1133,17 @@ recipes.addShaped(<meta_tile_entity:gregtech:multi_furnace>, [
 	[<ore:circuitHigh>, <gregtech:metal_casing:2>, <ore:circuitHigh>],
 	[<ore:cableGtSingleAnnealedCopper>, <ore:circuitHigh>, <ore:cableGtSingleAnnealedCopper>]]);
 
+
+	#remove primitive blast furnace recipes
+	for recipe in RecipeMaps.getPrimitiveBlastFurnaceRecipes() {
+    recipe.remove();
+	}
+	
+	//remove Primitive blast furnace block
+	mods.jei.JEI.removeAndHide(<gregtech:machine:510>);
+
+
+
 	#Primitive blast bricks
 recipes.remove(<gregtech:metal_casing:1>);
 RecipeBuilder.get("basic")
@@ -1283,7 +1294,7 @@ var cokeOvenInterface = <gregtech:machine:527> as IBlock;
 cokeOvenInterface.definition.setHarvestLevel("pickaxe", 1);	
 	
     #Steel Ingot
-<ore:ingotSteel>.firstItem.addTooltip(format.darkRed("Can be made in the Primitive Blast Furnace"));
+<ore:ingotSteel>.firstItem.addTooltip(format.darkRed("Can be made in the infernal furnace from Steel ingots"));
 // findRecipe(long voltage, IItemHandlerModifiable inputs, IMultipleTankHandler/List<FluidStack> fluidInputs)
 RecipeMap.getByName("blast_furnace").findRecipe(120, [<ore:ingotIron>.firstItem], [<liquid:oxygen> * 1000]).remove();
 RecipeMap.getByName("blast_furnace").recipeBuilder()

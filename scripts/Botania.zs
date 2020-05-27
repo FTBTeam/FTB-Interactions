@@ -636,6 +636,9 @@ RecipeBuilder.get("basic")
 mods.botania.PureDaisy.removeRecipe(<botania:livingwood>);
 mods.botania.PureDaisy.addRecipe(<astralsorcery:blockinfusedwood:6>,<botania:livingwood>, 150);
 	
+	#Netherrack
+mods.botania.PureDaisy.addRecipe(<gregtech:metal_casing:1>,<minecraft:nether_brick>, 150);	
+	
 	#living rock
 mods.botania.PureDaisy.removeRecipe(<botania:livingrock>);
 mods.botania.PureDaisy.addRecipe(<gregtech:concrete>, <botania:livingrock>, 150);

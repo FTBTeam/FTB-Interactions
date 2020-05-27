@@ -48,6 +48,14 @@ arditeOre.definition.setHarvestLevel("pickaxe", 3);
 	#remove ardite ore smelting
 mods.tconstruct.Melting.removeRecipe(<liquid:ardite>, <tconstruct:ore:1>);
 
+	val arditeStack = <tconstruct:nuggets:1> *3;
+
+	#ardite cooks into slag
+	<tconstruct:ore:1>.addTooltip(format.darkRed("Smelts to ardite in an infernal furnace only."));
+	furnace.remove(<tconstruct:ore:1>);
+	furnace.addRecipe(<thermalfoundation:material:864>, <tconstruct:ore:1>);
+	mods.thaumcraft.SmeltingBonus.addSmeltingBonus(<tconstruct:ore:1>, arditeStack % 100);
+
 	#enderium melting
 mods.tconstruct.Melting.removeRecipe(<liquid:enderium>, <thermalfoundation:material:103>);
 mods.tconstruct.Melting.removeRecipe(<liquid:enderium>, <ore:dustEnderium>.firstItem);
