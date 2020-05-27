@@ -84,6 +84,7 @@ mods.gregtech.recipe.RecipeMap.getByName("mixer").recipeBuilder()
     .EUt(16)
     .buildAndRegister();
 
+	recipes.addShapeless(<harvestcraft:flouritem>, [<gregtech:meta_item_1:2345>]);
 
 	#candles
 recipes.remove(<harvestcraft:candledeco1>);

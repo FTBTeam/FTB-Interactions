@@ -152,6 +152,16 @@ recipes.remove(<actuallyadditions:item_misc:6>);
 	mods.jei.JEI.removeAndHide(<actuallyadditions:item_food:4>);
 	mods.jei.JEI.removeAndHide(<actuallyadditions:item_food:2>);
 	
+	val batVial = <enderio:item_soul_vial:1>.withTag({entityId: "minecraft:bat"});
+	
+	//Bat wing
+	recipes.addShaped(<actuallyadditions:item_misc:15>, 
+	[[<botania:manaresource:16>, batVial, <botania:manaresource:16>],
+	[<harvestcraft:hardenedleatheritem>, <bloodmagic:component:8>, <harvestcraft:hardenedleatheritem>], 
+	[<botania:manaresource:16>, <harvestcraft:hardenedleatheritem>, <botania:manaresource:16>]]);
+
+	
+	
 	#Toast o' Chocolate
 recipes.remove(<actuallyadditions:item_food:19>);
 recipes.addShapeless(<actuallyadditions:item_food:19>, [<harvestcraft:toastitem>, <ore:foodChocolatebar>]);
