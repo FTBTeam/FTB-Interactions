@@ -114,6 +114,9 @@ for oreDictEntry, items in blocksDisabled {
 <ore:stringTwine>.add(<primal_tech:twine>);
 <ore:stringTwine>.add(<minecraft:string>);
 
+	#add kelp to all veggies
+	<ore:listallveggie>.add(<backportedflora:kelp>);
+
 	#logFirewood
 <ore:logFirewood>.add(<tconstruct:firewood:1>);
 
