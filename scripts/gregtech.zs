@@ -309,6 +309,32 @@ fluidExtractor.recipeBuilder()
 	.duration(80)
 	.EUt(18)
 	.buildAndRegister();	
+
+//remove duplicate nobel gas recipe
+spinnyGoFast.findRecipe(7420, [null], [<liquid:liquid_air>*53000]).remove();
+
+
+
+//remove thorium from coal
+spinnyGoFast.findRecipe(1152, [<ore:dustImpureCoal>.firstItem], [null]).remove();
+spinnyGoFast.findRecipe(240, [<ore:dustPureCoal>.firstItem], [null]).remove();
+
+spinnyGoFast.recipeBuilder()
+    .inputs(<ore:dustImpureCoal>.firstItem)
+	.outputs(<ore:dustCoal>.firstItem)	
+	.chancedOutput(<ore:dustTinyCarbon>.firstItem, 8500, 1000)
+	.duration(48)
+	.EUt(24)
+	.buildAndRegister();
+
+spinnyGoFast.recipeBuilder()
+    .inputs(<ore:dustPureCoal>.firstItem)
+	.outputs(<ore:dustCoal>.firstItem)	
+	.chancedOutput(<ore:dustTinyCarbon>.firstItem, 8500, 1000)
+	.duration(48)
+	.EUt(5)
+	.buildAndRegister();
+	
 	
 spinnyGoFast.recipeBuilder()
     .fluidInputs([<liquid:liquid_air> * 53000])
