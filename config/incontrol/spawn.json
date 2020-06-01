@@ -7,7 +7,7 @@
   },
   {
    	"dimension": 144,
-	"mob": ["emberroot:fairies"   ],
+	"mob": ["emberroot:fairies", "emberroot:sprouts"   ],
     "result": "deny" 
   },
   {
