@@ -206,7 +206,7 @@ var eggMaterialMap as int[string] = {
 	"Latticite" : <material:rawlattitice>.color,
 	"Learning" : <material.emerald>.color,
 	"Mana" : <material:vinteum>.color,
-	"Menril" : <material:vinteum>.color
+	"Menril" : <material:vinteum>.color,
 	"Plastic" : <material:tantalite>.color,
 	"Porcelain" : <material:bone>.color,
 	"Polywhatsit" : <material:bone>.color,
