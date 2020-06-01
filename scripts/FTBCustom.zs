@@ -192,7 +192,7 @@ var eggMaterialMap as int[string] = {
 	"Blood" : <material:red_matter>.color,
 	"Canola" : <material:bauxite>.color,
 	"Concrete" : <material:concrete>.color,
-	"Flourine" : <material:uranium235>.color,
+	"Fluorine" : <material:fluorine>.color,
 	"Fluix" : <material:tungsten_carbide>.color,
 	"Gassy" : <material:osmium>.color,
 	"Glass" : <material:duranium>.color,
@@ -257,7 +257,7 @@ var resonatingchicken = ChickenFactory.createChicken("resonatingchicken", Color.
 resonatingchicken.setSpawnType("NONE");
 resonatingchicken.register();
 
-var fluorinechicken = ChickenFactory.createChicken("fluorinechicken", Color.fromHex("088787"), <item:contenttweaker:flourine_enriched_egg>);
+var fluorinechicken = ChickenFactory.createChicken("fluorinechicken", Color.fromHex("088787"), <item:contenttweaker:fluorine_enriched_egg>);
 fluorinechicken.setSpawnType("NONE");
 fluorinechicken.register();
 
