@@ -192,7 +192,6 @@ Removed enriched egg generation
 
 
 var eggMaterialMap as int[string] = {
-	//Metals
 	"Apatite" : <material:apatite>.color,
 	"Astral" : <material:cobalt>.color,
 	"Blood" : <material:red_matter>.color,
@@ -201,10 +200,10 @@ var eggMaterialMap as int[string] = {
 	"Flourine" : <material:uranium>.color,
 	"Fluix" : <material:fluix>.color,
 	"Gassy" : <material:osmium>.color,
-	"Glass" : <material.glass>.color,
+	"Glass" : <material:glass>.color,
 	"Graphite" : <material:graphite>.color,
 	"Latticite" : <material:rawlattitice>.color,
-	"Learning" : <material.emerald>.color,
+	"Learning" : <material:emerald>.color,
 	"Mana" : <material:vinteum>.color,
 	"Menril" : <material:vinteum>.color,
 	"Plastic" : <material:tantalite>.color,
@@ -217,7 +216,7 @@ var eggMaterialMap as int[string] = {
 	"Vinteum" : <material:vinteum>.color,
 	"Smog" : <material:rubber>.color,
 	"Space" : <material:topaz>.color,
-	"Spice" : <material.beryllium>.color
+	"Spice" : <material:beryllium>.color
 };
 
 for material, color in eggMaterialMap {
