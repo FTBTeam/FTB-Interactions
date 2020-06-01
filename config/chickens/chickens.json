@@ -34,7 +34,7 @@
   },
   "chickens:redstonechicken": {
     "name": "RedstoneChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "contenttweaker:redstone_enriched_egg",
@@ -50,7 +50,7 @@
   },
   "chickens:ironchicken": {
     "name": "IronChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "contenttweaker:iron_enriched_egg",
@@ -66,7 +66,7 @@
   },
   "chickens:coalchicken": {
     "name": "CoalChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "contenttweaker:coal_enriched_egg",
@@ -82,7 +82,7 @@
   },
   "chickens:goldchicken": {
     "name": "GoldChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "contenttweaker:gold_enriched_egg",
@@ -114,7 +114,7 @@
   },
   "chickens:diamondchicken": {
     "name": "DiamondChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "contenttweaker:diamond_enriched_egg",
@@ -130,7 +130,7 @@
   },
   "chickens:emeraldchicken": {
     "name": "EmeraldChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "contenttweaker:emerald_enriched_egg",
@@ -146,7 +146,7 @@
   },
   "chickens:quartzchicken": {
     "name": "QuartzChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "contenttweaker:nether_quartz_enriched_egg",
@@ -178,7 +178,7 @@
   },
   "chickens:whitechicken": {
     "name": "WhiteChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "contenttweaker:calcium_enriched_egg",
@@ -194,7 +194,7 @@
   },
   "chickens:yellowchicken": {
     "name": "YellowChicken",
-    "is_enabled": false,
+    "is_enabled": true,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "minecraft:dye",
@@ -204,7 +204,7 @@
       "itemID": "minecraft:dye",
       "metaID": 11
     },
-    "spawn_type": "NONE",
+    "spawn_type": "NORMAL",
     "parent_1": "",
     "parent_2": ""
   },
@@ -213,20 +213,20 @@
     "is_enabled": true,
     "lay_coefficient": 1.0,
     "lay_item": {
-      "itemID": "contenttweaker:lapis_enriched_egg",
+      "itemID": "quark:root_dye",
       "metaID": 0
     },
     "drop_item": {
-      "itemID": "contenttweaker:lapis_enriched_egg",
+      "itemID": "quark:root_dye",
       "metaID": 0
     },
-    "spawn_type": "NONE",
+    "spawn_type": "NORMAL",
     "parent_1": "",
     "parent_2": ""
   },
   "chickens:greenchicken": {
     "name": "GreenChicken",
-    "is_enabled": false,
+    "is_enabled": true,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "minecraft:dye",
@@ -236,13 +236,13 @@
       "itemID": "minecraft:dye",
       "metaID": 2
     },
-    "spawn_type": "NONE",
+    "spawn_type": "NORMAL",
     "parent_1": "",
     "parent_2": ""
   },
   "chickens:redchicken": {
     "name": "RedChicken",
-    "is_enabled": false,
+    "is_enabled": true,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "minecraft:dye",
@@ -252,7 +252,7 @@
       "itemID": "minecraft:dye",
       "metaID": 1
     },
-    "spawn_type": "NONE",
+    "spawn_type": "NORMAL",
     "parent_1": "",
     "parent_2": ""
   },
@@ -501,11 +501,11 @@
     "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
-      "itemID": "minecraft:glass",
+      "itemID": "item:contenttweaker:glass_enriched_egg",
       "metaID": 0
     },
     "drop_item": {
-      "itemID": "minecraft:glass",
+      "itemID": "item:contenttweaker:glass_enriched_egg",
       "metaID": 0
     },
     "spawn_type": "NONE",
@@ -546,7 +546,7 @@
   },
   "chickens:waterchicken": {
     "name": "WaterChicken",
-    "is_enabled": false,
+    "is_enabled": true,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "chickens:liquid_egg",
@@ -594,7 +594,7 @@
   },
   "chickens:netherwartchicken": {
     "name": "NetherwartChicken",
-    "is_enabled": false,
+    "is_enabled": true,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "minecraft:nether_wart",
@@ -604,7 +604,7 @@
       "itemID": "minecraft:nether_wart",
       "metaID": 0
     },
-    "spawn_type": "NONE",
+    "spawn_type": "HELL",
     "parent_1": "",
     "parent_2": ""
   },

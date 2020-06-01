@@ -24,7 +24,7 @@
   },
   "morechickens:aluminumchicken": {
     "name": "aluminumChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:aluminium_enriched_egg",
@@ -66,7 +66,7 @@
   },
   "morechickens:arditechicken": {
     "name": "arditeChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:ardite_enriched_egg",
@@ -226,7 +226,7 @@
   },
   "morechickens:cinnabarchicken": {
     "name": "cinnabarChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:cinnabar_enriched_egg",
@@ -242,7 +242,7 @@
   },
   "morechickens:cobaltchicken": {
     "name": "cobaltChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:cobalt_enriched_egg",
@@ -290,7 +290,7 @@
   },
   "morechickens:copperchicken": {
     "name": "copperchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:copper_enriched_egg",
@@ -514,7 +514,7 @@
   },
   "morechickens:iridiumchicken": {
     "name": "iridiumChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:iridium_enriched_egg",
@@ -546,7 +546,7 @@
   },
   "morechickens:leadchicken": {
     "name": "leadchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:lead_enriched_egg",
@@ -690,7 +690,7 @@
   },
   "morechickens:nickelchicken": {
     "name": "nickelchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:nickel_enriched_egg",
@@ -706,7 +706,7 @@
   },
   "morechickens:osmiumchicken": {
     "name": "osmiumChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:osmium_enriched_egg",
@@ -754,7 +754,7 @@
   },
   "morechickens:platinumchicken": {
     "name": "platinumchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:platinum_enriched_egg",
@@ -869,11 +869,11 @@
     "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
-      "itemID": "industrialforegoing:plastic",
+      "itemID": "contenttweaker:rubber_enriched_egg",
       "metaID": 0
     },
     "drop_item": {
-      "itemID": "industrialforegoing:plastic",
+      "itemID": "contenttweaker:rubber_enriched_egg",
       "metaID": 0
     },
     "spawn_type": "NONE",
@@ -882,7 +882,7 @@
   },
   "morechickens:rubychicken": {
     "name": "rubychicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:ruby_enriched_egg",
@@ -930,7 +930,7 @@
   },
   "morechickens:sapphirechicken": {
     "name": "sapphirechicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:sapphire_enriched_egg",
@@ -962,7 +962,7 @@
   },
   "morechickens:siliconchicken": {
     "name": "siliconchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "enderio:item_material",
@@ -978,7 +978,7 @@
   },
   "morechickens:silverorechicken": {
     "name": "silverorechicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:silver_enriched_egg",
@@ -1058,7 +1058,7 @@
   },
   "morechickens:sulfurchicken": {
     "name": "sulfurchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:sulfur_enriched_egg",
@@ -1074,7 +1074,7 @@
   },
   "morechickens:tanzanitechicken": {
     "name": "tanzanitechicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:tanzanite_enriched_egg",
@@ -1106,7 +1106,7 @@
   },
   "morechickens:tinchicken": {
     "name": "tinchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:tin_enriched_egg",
@@ -1122,7 +1122,7 @@
   },
   "morechickens:titaniumchicken": {
     "name": "titaniumchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:titanium_enriched_egg",
@@ -1138,7 +1138,7 @@
   },
   "morechickens:topazchicken": {
     "name": "topazchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:topaz_enriched_egg",
@@ -1154,7 +1154,7 @@
   },
   "morechickens:tungstenchicken": {
     "name": "tungstenchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:tungsten_enriched_egg",
@@ -1170,7 +1170,7 @@
   },
   "morechickens:uraniumchicken": {
     "name": "uraniumChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:uranium_enriched_egg",
@@ -1234,7 +1234,7 @@
   },
   "morechickens:zincchicken": {
     "name": "zincchicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1,
     "lay_item": {
       "itemID": "contenttweaker:zinc_enriched_egg",
@@ -1250,7 +1250,7 @@
   },
   "morechickens:enderiumchicken": {
     "name": "enderiumChicken",
-    "is_enabled": true,
+    "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
       "itemID": "gregtech:meta_item_1",

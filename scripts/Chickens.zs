@@ -7,6 +7,35 @@ print("---------------Chickens Start------------------");
 var itemsDisabled as IItemStack[] = [
 	<chickens:colored_egg:15>,
 	<chickens:colored_egg:4>,
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:emeraldchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:rubychicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:tungstenchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:topazchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:redstonechicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:tanzanitechicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:cobaltchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:osmiumchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:enderiumchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:silverorechicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:bluechicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:platinumchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:sapphirechicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:nickelchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:tinchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:goldchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:aluminumchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:diamondchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:siliconchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:ironchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:uraniumchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:copperchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:arditechicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:quartzchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:titaniumchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:sulfurchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:zincchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "chickens:coalchicken"}}),
+	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:iridiumchicken"}}),
 	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:boopbeepchick"}}),
 	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:mramericanchick"}}),
 	<chickens:spawn_egg>.withTag({ChickenType: {id: "morechickens:funwaychick"}})
@@ -38,62 +67,10 @@ val wrath = <botania:rune:13>;
 val envy = <botania:rune:14>;
 val pride = <botania:rune:15>;
 
-	/* Unused Combinations
-	[vitreus, mana]
-	
-	[vitreus, envy]
-	
-	*/
-
-
 
 var eggRecipeMap as IItemStack[][string] = {
-	"morechickens:silverorechicken" : [metallum, air],
-	"chickens:bluechicken" : [vitreus, water],
-	"morechickens:platinumchicken" : [metallum, pride],
-	"contenttweaker:grossularchicken" : [perditio, earth],
-	"morechickens:sapphirechicken" : [vitreus, earth],
-	"contenttweaker:magnesiumchicken" : [metallum, spring],
-	"morechickens:nickelchicken" : [metallum, fire],
-	"contenttweaker:spessartinechicken" : [perditio, lust],
-	"contenttweaker:soapstonechicken" : [perditio, spring],
-	"morechickens:tinchicken" : [metallum, earth],
-	"chickens:goldchicken" : [metallum, greed],
-	"contenttweaker:stibnitechicken" : [metallum, winter],
-	"morechickens:leadchicken" : [metallum, autumn],
-	"morechickens:aluminumchicken" : [metallum, summer],
-	"chickens:diamondchicken" : [vitreus, lust],
-	"morechickens:siliconchicken" : [perditio, air],
-	"contenttweaker:manganesechicken" : [perditio, pride],
-	"contenttweaker:tantalumchicken" : [vitreus, gluttony],
-	"chickens:whitechicken" : [perditio, winter],
-	"chickens:ironchicken" : [metallum, mana],
-	"morechickens:uraniumchicken" : [perditio, wrath],
-	"morechickens:copperchicken" : [metallum, water],
-	"contenttweaker:phosphorchicken" : [perditio, fire],
-	"morechickens:arditechicken" : [perditio, summer],
-	"chickens:quartzchicken" : [vitreus, summer],
-	"morechickens:titaniumchicken" : [metallum, lust],
-	"contenttweaker:bentonitechicken" : [vitreus, air],
-	"morechickens:sulfurchicken" : [perditio, gluttony],
-	"morechickens:zincchicken" : [perditio, mana],
-	"chickens:glowstonechicken" : [perditio, greed],
-	"chickens:coalchicken" : [vitreus, fire],
-	"contenttweaker:vanadiumchicken" : [metallum, sloth],
 	"contenttweaker:apatitechicken" : [vitreus, sloth],
-	"morechickens:iridiumchicken" : [metallum, wrath],
-	"chickens:emeraldchicken" : [vitreus, spring],
-	"contenttweaker:monazitechicken" : [perditio, autumn],
-	"morechickens:rubychicken" : [vitreus, greed],
-	"morechickens:tungstenchicken" : [metallum, gluttony],
-	"morechickens:topazchicken" : [vitreus, autumn],
-	"chickens:redstonechicken" : [perditio, envy],
-	"contenttweaker:graphitechicken" : [perditio, water],
-	"contenttweaker:glauconitechicken" : [perditio, sloth],
-	"morechickens:osmiumchicken" : [metallum, envy],
-	"morechickens:cobaltchicken" : [vitreus, winter],
-	"morechickens:titaniumchicken" : [vitreus, wrath],
-	"contenttweaker:niobiumchicken" : [vitreus, pride]
+	"contenttweaker:graphitechicken" : [perditio, water]
 };
 
 		
