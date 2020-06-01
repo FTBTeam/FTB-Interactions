@@ -6,6 +6,11 @@
     "result": "default"
   },
   {
+   	"dimension": 144,
+	"mob": ["emberroot:fairies"   ],
+    "result": "deny" 
+  },
+  {
   	"dimension": 0,
     "result": "deny"
   }
