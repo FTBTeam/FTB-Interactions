@@ -254,7 +254,7 @@ laser.recipeBuilder()
 
 	recipes.addShaped(<appliedenergistics2:part:360>, 
 	[[<ore:screwStainlessSteel>, <appliedenergistics2:part:380>, <ore:screwStainlessSteel>],
-	[<ore:plateAluminium>, <thermallogistics:crafter>, <ore:plateAluminium>], 
+	[<ore:plateAluminium>, <logisticspipes:crafting_table>, <ore:plateAluminium>], 
 	[<ore:screwStainlessSteel>, <ore:plateAluminium>, <ore:screwStainlessSteel>]]);
 
 	recipes.addShaped(<appliedenergistics2:part:380>, 

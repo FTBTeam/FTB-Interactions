@@ -20,7 +20,7 @@
     "advancedrocketry:oceanspires": -200,
 	"advancedrocketry:hotdryrock": -200,
 	"advancedrocketry:crystalchasms": -200,	
-    "thaumcraft:magical_forest": 50
+    "thaumcraft:magical_forest": 80
   },
   "generator": {
     "type": "ellipsoid",

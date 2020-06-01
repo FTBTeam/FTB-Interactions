@@ -30,8 +30,8 @@
   "generator": {
     "type": "ellipsoid",
     "radius": [
-      14,
-      14
+      10,
+      10
     ]
   },
   "filler": {

@@ -56,7 +56,7 @@
   "generator": {
     "type": "ellipsoid",
     "radius": [
-      13,
+      11,
       13
     ]
   },
