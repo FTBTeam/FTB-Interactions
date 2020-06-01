@@ -277,7 +277,7 @@ radonchicken.setSpawnType("NONE");
 radonchicken.register();
 
 #Vinteum Chicken
-var vinteumchicken = ChickenFactory.createChicken("vinteumchicken", <material:vinteum>.color, <item:contenttweaker:vinteum_enriched_egg>);
+var vinteumchicken = ChickenFactory.createChicken("vinteumchicken", Color.fromInt(<material:vinteum>.color), <item:contenttweaker:vinteum_enriched_egg>);
 vinteumchicken.setSpawnType("NONE");
 vinteumchicken.register();
 
@@ -292,7 +292,7 @@ learningchicken.setSpawnType("NONE");
 learningchicken.register();
 
 #Mana Chicken
-var manachicken = ChickenFactory.createChicken("manachicken", <material:vinteum>.color, <item:contenttweaker:mana_enriched_egg>);
+var manachicken = ChickenFactory.createChicken("manachicken", Color.fromInt(<material:vinteum>.color), <item:contenttweaker:mana_enriched_egg>);
 manachicken.setSpawnType("NONE");
 manachicken.register();
 
@@ -302,7 +302,7 @@ glasschicken.setSpawnType("NONE");
 glasschicken.register();
 
 #Menril Chicken
-var menrilchicken = ChickenFactory.createChicken("menrilchicken", <material:vinteum>.color, <item:contenttweaker:menril_enriched_egg>);
+var menrilchicken = ChickenFactory.createChicken("menrilchicken", Color.fromInt(<material:vinteum>.color), <item:contenttweaker:menril_enriched_egg>);
 menrilchicken.setSpawnType("NONE");
 menrilchicken.register();
 
@@ -312,17 +312,17 @@ smogchicken.setSpawnType("NONE");
 smogchicken.register();
 
 #Rubber Chicken
-var rubberchicken = ChickenFactory.createChicken("rubberchicken", <material:rubber>.color, <item:contenttweaker:rubber_enriched_egg>);
+var rubberchicken = ChickenFactory.createChicken("rubberchicken", Color.fromInt(<material:rubber>.color), <item:contenttweaker:rubber_enriched_egg>);
 rubberchicken.setSpawnType("NONE");
 rubberchicken.register();
 
 #Primal Chicken
-var primalchicken = ChickenFactory.createChicken("primalchicken", <material:unstable_mana>.color, <item:contenttweaker:primal_enriched_egg>);
+var primalchicken = ChickenFactory.createChicken("primalchicken", Color.fromInt(<material:unstable_mana>.color), <item:contenttweaker:primal_enriched_egg>);
 primalchicken.setSpawnType("NONE");
 primalchicken.register();
 
 #Concrete Chicken
-var concretechicken = ChickenFactory.createChicken("concretechicken", <material:concrete>.color, <item:contenttweaker:concrete_enriched_egg>);
+var concretechicken = ChickenFactory.createChicken("concretechicken", Color.fromInt(<material:concrete>.color), <item:contenttweaker:concrete_enriched_egg>);
 concretechicken.setSpawnType("NONE");
 concretechicken.register();
 
@@ -332,32 +332,32 @@ spicechicken.setSpawnType("NONE");
 spicechicken.register();
 
 #Space Chicken
-var spacechicken = ChickenFactory.createChicken("spacechicken", <material:topaz>.color, <item:contenttweaker:space_enriched_egg>);
+var spacechicken = ChickenFactory.createChicken("spacechicken", Color.fromInt(<material:topaz>.color), <item:contenttweaker:space_enriched_egg>);
 spacechicken.setSpawnType("NONE");
 spacechicken.register();
 
 #Blood Chicken
-var bloodchicken = ChickenFactory.createChicken("bloodchicken", <material:red_matter>.color, <item:contenttweaker:blood_enriched_egg>);
+var bloodchicken = ChickenFactory.createChicken("bloodchicken", Color.fromInt(<material:red_matter>.color), <item:contenttweaker:blood_enriched_egg>);
 bloodchicken.setSpawnType("NONE");
 bloodchicken.register();
 
 #Fluix Chicken
-var fluixchicken = ChickenFactory.createChicken("fluixchicken", <material:fluix>.color, <item:contenttweaker:fluix_enriched_egg>);
+var fluixchicken = ChickenFactory.createChicken("fluixchicken", Color.fromInt(<material:fluix>.color), <item:contenttweaker:fluix_enriched_egg>);
 fluixchicken.setSpawnType("NONE");
 fluixchicken.register();
 
 #Porcelain Chicken
-var porcelainchicken = ChickenFactory.createChicken("porcelainchicken", <material:bone>.color, <item:contenttweaker:porcelain_enriched_egg>);
+var porcelainchicken = ChickenFactory.createChicken("porcelainchicken", Color.fromInt(<material:bone>.color), <item:contenttweaker:porcelain_enriched_egg>);
 porcelainchicken.setSpawnType("NONE");
 porcelainchicken.register();
 
 #Polywhatsit Chicken
-var polywhatsitchicken = ChickenFactory.createChicken("polywhatsitchicken", <material:tantalite>.color, <item:contenttweaker:poly_enriched_egg>);
+var polywhatsitchicken = ChickenFactory.createChicken("polywhatsitchicken", Color.fromInt(<material:tantalite>.color), <item:contenttweaker:poly_enriched_egg>);
 polywhatsitchicken.setSpawnType("NONE");
 polywhatsitchicken.register();
 
 #Lattice Chicken
-var latticitechicken = ChickenFactory.createChicken("latticitechicken", <material:rawlattitice>.color, <item:contenttweaker:latticite_enriched_egg>);
+var latticitechicken = ChickenFactory.createChicken("latticitechicken", Color.fromInt(<material:rawlattitice>.color), <item:contenttweaker:latticite_enriched_egg>);
 latticitechicken.setSpawnType("NONE");
 latticitechicken.register();
 
