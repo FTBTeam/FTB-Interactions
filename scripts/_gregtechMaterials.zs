@@ -145,6 +145,10 @@ val redMatter = MaterialRegistry.createFluidMaterial(816, "red_matter", 0x921f0d
 redMatter.addFlags(["GENERATE_FLUID_BLOCK"]);
 redMatter.setFluidTemperature(3000);
 
+	#Raw Latticite
+val rawlatticite = MaterialRegistry.createFluidMaterial(826, "rawlatticite", 0x4286F4, "FLUID");
+rawlatticite.addFlags(["GENERATE_FLUID_BLOCK"]);
+rawlatticite.setFluidTemperature(1500);
 
 
 //////////////////////////

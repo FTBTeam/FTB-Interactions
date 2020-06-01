@@ -36,6 +36,12 @@ mods.contenttweaker.MaterialSystem.getPartBuilder()
   .setOreDictName("enrichedEgg")
   .build();
 
+  #Ore Cluster
+mods.contenttweaker.MaterialSystem.getPartBuilder()
+  .setName("ore_cluster")
+  .setPartType(MaterialSystem.getPartType("item"))
+  .setOreDictName("oreCluster")
+  .build();
 
 	var smallgearextrudershape = VanillaFactory.createItem("smallgearextrudershape");
 	smallgearextrudershape.maxStackSize = 64;
@@ -171,74 +177,60 @@ for material, color in materialMap {
 	print(material + " Clump registered");
 	part.registerPart("crystal");
 	print(material + "Crystal registered");
-	part.registerPart("enriched_egg");
-	print(material + " Enriched egg registered");
+	part.registerPart("ore_cluster");
+	print(material + " Ore Cluster registered");	
 	part.registerPart("shard");
 }
 
+/*
+Removed enriched egg generation
+	part.registerPart("enriched_egg");
+	print(material + " Enriched egg registered");
+*/
+
 	#Exceptions - Infinity Enriched Egg
 
+
+var eggMaterialMap as int[string] = {
+	//Metals
+	"Apatite" : <material:apatite>.color,
+	"Astral" : <material:cobalt>.color,
+	"Blood" : <material:red_matter>.color,
+	"Canola" : <material:bauxite>.color,
+	"Concrete" : <material:concrete>.color,
+	"Flourine" : <material:uranium>.color,
+	"Fluix" : <material:fluix>.color,
+	"Gassy" : <material:osmium>.color,
+	"Glass" : <material.glass>.color,
+	"Graphite" : <material:graphite>.color,
+	"Latticite" : <material:rawlattitice>.color,
+	"Learning" : <material.emerald>.color,
+	"Mana" : <material:vinteum>.color,
+	"Menril" : <material:vinteum>.color
+	"Plastic" : <material:tantalite>.color,
+	"Porcelain" : <material:bone>.color,
+	"Polywhatsit" : <material:bone>.color,
+	"Primal" : <material:unstable_mana>.color,
+	"Radon": <material:plutonium>.color,
+	"Resonating" : <material:glauconite>.color,
+	"Rubber" : <material:rubber>.color,
+	"Vinteum" : <material:vinteum>.color,
+	"Smog" : <material:rubber>.color,
+	"Space" : <material:topaz>.color,
+	"Spice" : <material.beryllium>.color
+};
+
+for material, color in eggMaterialMap {
+	var part = MaterialSystem.getMaterialBuilder()
+		.setName(material)
+		.setColor(color)
+		.build();
+	part.registerPart("enriched_egg");
+	print(material + " Enriched egg registered");
+}
+
+
 print("---------------------Initializing Custom Chickens------------------------");
-
-var apatiteChicken = ChickenFactory.createChicken("apatitechicken", Color.fromInt(<material:apatite>.color), <item:contenttweaker:apatite_enriched_egg>);
-apatiteChicken.setSpawnType("NONE");
-apatiteChicken.register();
-
-var bentonitechicken = ChickenFactory.createChicken("bentonitechicken", Color.fromInt(<material:bentonite>.color), <item:contenttweaker:bentonite_enriched_egg>);
-bentonitechicken.setSpawnType("NONE");
-bentonitechicken.register();
-
-var glauconitechicken = ChickenFactory.createChicken("glauconitechicken", Color.fromInt(<material:glauconite>.color), <item:contenttweaker:glauconite_enriched_egg>);
-glauconitechicken.setSpawnType("NONE");
-glauconitechicken.register();
-
-var graphitechicken = ChickenFactory.createChicken("graphitechicken", Color.fromInt(<material:graphite>.color), <item:contenttweaker:graphite_enriched_egg>);
-graphitechicken.setSpawnType("NONE");
-graphitechicken.register();
-
-var grossularchicken = ChickenFactory.createChicken("grossularchicken", Color.fromInt(<material:grossular>.color), <item:contenttweaker:grossular_enriched_egg>);
-grossularchicken.setSpawnType("NONE");
-grossularchicken.register();
-
-var magnesiumchicken = ChickenFactory.createChicken("magnesiumchicken", Color.fromInt(<material:magnesium>.color), <item:contenttweaker:magnesium_enriched_egg>);
-magnesiumchicken.setSpawnType("NONE");
-magnesiumchicken.register();
-
-var manganesechicken = ChickenFactory.createChicken("manganesechicken", Color.fromInt(<material:manganese>.color), <item:contenttweaker:manganese_enriched_egg>);
-manganesechicken.setSpawnType("NONE");
-manganesechicken.register();
-
-var monazitechicken = ChickenFactory.createChicken("monazitechicken", Color.fromInt(<material:monazite>.color), <item:contenttweaker:monazite_enriched_egg>);
-monazitechicken.setSpawnType("NONE");
-monazitechicken.register();
-
-var niobiumchicken = ChickenFactory.createChicken("niobiumchicken", Color.fromInt(<material:niobium>.color), <item:contenttweaker:niobium_enriched_egg>);
-niobiumchicken.setSpawnType("NONE");
-niobiumchicken.register();
-
-var phosphorchicken = ChickenFactory.createChicken("phosphorchicken", Color.fromInt(<material:phosphor>.color), <item:contenttweaker:phosphor_enriched_egg>);
-phosphorchicken.setSpawnType("NONE");
-phosphorchicken.register();
-
-var soapstonechicken = ChickenFactory.createChicken("soapstonechicken", Color.fromInt(<material:soapstone>.color), <item:contenttweaker:soapstone_enriched_egg>);
-soapstonechicken.setSpawnType("NONE");
-soapstonechicken.register();
-
-var spessartineChicken = ChickenFactory.createChicken("spessartinechicken", Color.fromInt(<material:spessartine>.color), <item:contenttweaker:spessartine_enriched_egg>);
-spessartineChicken.setSpawnType("NONE");
-spessartineChicken.register();
-
-var stibnitechicken = ChickenFactory.createChicken("stibnitechicken", Color.fromInt(<material:stibnite>.color), <item:contenttweaker:stibnite_enriched_egg>);
-stibnitechicken.setSpawnType("NONE");
-stibnitechicken.register();
-
-var tantalumchicken = ChickenFactory.createChicken("tantalumchicken", Color.fromInt(<material:tantalum>.color), <item:contenttweaker:tantalum_enriched_egg>);
-tantalumchicken.setSpawnType("NONE");
-tantalumchicken.register();
-
-var vanadiumchicken = ChickenFactory.createChicken("vanadiumchicken", Color.fromInt(<material:vanadium>.color), <item:contenttweaker:vanadium_magnetite_enriched_egg>);
-vanadiumchicken.setSpawnType("NONE");
-vanadiumchicken.register();
 
 var infinitychicken = ChickenFactory.createChicken("infinitychicken", Color.fromHex("000000"), <item:contenttweaker:infinityegg>);
 infinitychicken.setForegroundColor(Color.fromHex("007F7F"));
@@ -250,14 +242,126 @@ ftbchicken.setForegroundColor(Color.fromInt(0x054549));
 ftbchicken.setSpawnType("NONE");
 ftbchicken.register();
 
-	#Add in TC Clusters for GT ores
-#var cluster_metals = ["cobalt", "platinum", "aluminium", "antimony", "beryllium", "cassiterite", "iridium", "lithium", "manganese", "molybdenum", "naquadah", "neodymium", "nickel", "palladium", "thorium", "tungsten", #"uranium238"] as string[];
-#for i, metal in cluster_metals {
-#  var clusterName =  "cluster_" ~ metal;
-#  var cluster = VanillaFactory.createItem(clusterName);
-#  cluster.maxStackSize = 64;
-#  cluster.register();
-#}
+
+var apatiteChicken = ChickenFactory.createChicken("apatitechicken", Color.fromInt(<material:apatite>.color), <item:contenttweaker:apatite_enriched_egg>);
+apatiteChicken.setSpawnType("NONE");
+apatiteChicken.register();
+
+var graphitechicken = ChickenFactory.createChicken("graphitechicken", Color.fromInt(<material:graphite>.color), <item:contenttweaker:graphite_enriched_egg>);
+graphitechicken.setSpawnType("NONE");
+graphitechicken.register();
+
+var canolachicken = ChickenFactory.createChicken("canolachicken", Color.fromInt(<material:bauxite>.color), <item:contenttweaker:canola_enriched_egg>);
+canolachicken.setSpawnType("NONE");
+canolachicken.register();
+
+var astralchicken = ChickenFactory.createChicken("astralchicken", Color.fromHex("3c3ac2"), <item:contenttweaker:astral_enriched_egg>);
+astralchicken.setSpawnType("NONE");
+astralchicken.register();
+
+var resonatingchicken = ChickenFactory.createChicken("resonatingchicken", Color.fromHex("6a0d7a"), <item:contenttweaker:resonating_enriched_egg>);
+resonatingchicken.setSpawnType("NONE");
+resonatingchicken.register();
+
+var fluorinechicken = ChickenFactory.createChicken("fluorinechicken", Color.fromHex("088787"), <item:contenttweaker:flourine_enriched_egg>);
+fluorinechicken.setSpawnType("NONE");
+fluorinechicken.register();
+
+#Gassy Chicken
+var gassychicken = ChickenFactory.createChicken("gassychicken", Color.fromHex("0dffff"), <item:contenttweaker:gassy_enriched_egg>);
+gassychicken.setSpawnType("NONE");
+gassychicken.register();
+
+#Radon Chicken
+var radonchicken = ChickenFactory.createChicken("radonchicken", Color.fromHex("ff0d52"), <item:contenttweaker:radon_enriched_egg>);
+radonchicken.setSpawnType("NONE");
+radonchicken.register();
+
+#Vinteum Chicken
+var vinteumchicken = ChickenFactory.createChicken("vinteumchicken", <material:vinteum>.color, <item:contenttweaker:vinteum_enriched_egg>);
+vinteumchicken.setSpawnType("NONE");
+vinteumchicken.register();
+
+#Plastic Chicken
+var plasticchicken = ChickenFactory.createChicken("plasticchicken", Color.fromHex("000000"), <item:contenttweaker:plastic_enriched_egg>);
+plasticchicken.setSpawnType("NONE");
+plasticchicken.register();
+
+#Learned Chicken
+var learningchicken = ChickenFactory.createChicken("learningchicken", Color.fromHex("0dff56"), <item:contenttweaker:learning_enriched_egg>);
+learningchicken.setSpawnType("NONE");
+learningchicken.register();
+
+#Mana Chicken
+var manachicken = ChickenFactory.createChicken("manachicken", <material:vinteum>.color, <item:contenttweaker:mana_enriched_egg>);
+manachicken.setSpawnType("NONE");
+manachicken.register();
+
+#Glass Chicken
+var glasschicken = ChickenFactory.createChicken("glasschicken", Color.fromHex("000000"), <item:contenttweaker:glass_enriched_egg>);
+glasschicken.setSpawnType("NONE");
+glasschicken.register();
+
+#Menril Chicken
+var menrilchicken = ChickenFactory.createChicken("menrilchicken", <material:vinteum>.color, <item:contenttweaker:menril_enriched_egg>);
+menrilchicken.setSpawnType("NONE");
+menrilchicken.register();
+
+#Smog Chicken
+var smogchicken = ChickenFactory.createChicken("smogchicken", Color.fromHex("634417"), <item:contenttweaker:smog_enriched_egg>);
+smogchicken.setSpawnType("NONE");
+smogchicken.register();
+
+#Rubber Chicken
+var rubberchicken = ChickenFactory.createChicken("rubberchicken", <material:rubber>.color, <item:contenttweaker:rubber_enriched_egg>);
+rubberchicken.setSpawnType("NONE");
+rubberchicken.register();
+
+#Primal Chicken
+var primalchicken = ChickenFactory.createChicken("primalchicken", <material:unstable_mana>.color, <item:contenttweaker:primal_enriched_egg>);
+primalchicken.setSpawnType("NONE");
+primalchicken.register();
+
+#Concrete Chicken
+var concretechicken = ChickenFactory.createChicken("concretechicken", <material:concrete>.color, <item:contenttweaker:concrete_enriched_egg>);
+concretechicken.setSpawnType("NONE");
+concretechicken.register();
+
+#Spicey Chicken
+var spicechicken = ChickenFactory.createChicken("spicechicken", Color.fromHex("3c5c26"), <item:contenttweaker:spice_enriched_egg>);
+spicechicken.setSpawnType("NONE");
+spicechicken.register();
+
+#Space Chicken
+var spacechicken = ChickenFactory.createChicken("spacechicken", <material:topaz>.color, <item:contenttweaker:space_enriched_egg>);
+spacechicken.setSpawnType("NONE");
+spacechicken.register();
+
+#Blood Chicken
+var bloodchicken = ChickenFactory.createChicken("bloodchicken", <material:red_matter>.color, <item:contenttweaker:blood_enriched_egg>);
+bloodchicken.setSpawnType("NONE");
+bloodchicken.register();
+
+#Fluix Chicken
+var fluixchicken = ChickenFactory.createChicken("fluixchicken", <material:fluix>.color, <item:contenttweaker:fluix_enriched_egg>);
+fluixchicken.setSpawnType("NONE");
+fluixchicken.register();
+
+#Porcelain Chicken
+var porcelainchicken = ChickenFactory.createChicken("porcelainchicken", <material:bone>.color, <item:contenttweaker:porcelain_enriched_egg>);
+porcelainchicken.setSpawnType("NONE");
+porcelainchicken.register();
+
+#Polywhatsit Chicken
+var polywhatsitchicken = ChickenFactory.createChicken("polywhatsitchicken", <material:tantalite>.color, <item:contenttweaker:poly_enriched_egg>);
+polywhatsitchicken.setSpawnType("NONE");
+polywhatsitchicken.register();
+
+#Lattice Chicken
+var latticitechicken = ChickenFactory.createChicken("latticitechicken", <material:rawlattitice>.color, <item:contenttweaker:latticite_enriched_egg>);
+latticitechicken.setSpawnType("NONE");
+latticitechicken.register();
+
 
 
 
