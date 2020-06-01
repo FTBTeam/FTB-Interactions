@@ -39,6 +39,15 @@ mods.rustic.Condenser.addRecipe(flightPotion, featherPotion, <wizardry:sky_dust>
 	[<bloodmagic:slate:3>,<bloodmagic:slate:3>,<botania:manaresource:1>,<botania:manaresource:1>,<minecraft:nether_star>]);
 
 	
+	#demon blood shard
+mixer.recipeBuilder()
+    .inputs(<bloodmagic:blood_shard>,<bloodmagic:item_demon_crystal>*4)
+    .fluidInputs([<liquid:lifeessence> * 1000])
+    .outputs(<bloodmagic:blood_shard:1>)
+    .duration(800)
+    .EUt(200)
+    .buildAndRegister();
+	
 	#common tartaric gem
 	mods.thaumcraft.Infusion.registerRecipe("commonTartaric", "INFUSION", <bloodmagic:soul_gem:2>, 3, [<aspect:victus> * 16, <aspect:potentia> * 18, <aspect:spiritus> * 8, <aspect:auram> * 8], <bloodmagic:soul_gem:1>,
 	[<bloodmagic:slate:1>,<bloodmagic:slate:1>,<ore:plateElectrum>.firstItem,<ore:plateElectrum>.firstItem,<ore:plateElectrum>.firstItem,<botania:manaresource:2>]);	
