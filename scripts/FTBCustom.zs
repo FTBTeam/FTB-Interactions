@@ -342,7 +342,7 @@ polywhatsitchicken.setSpawnType("NONE");
 polywhatsitchicken.register();
 
 #Lattice Chicken
-var latticitechicken = ChickenFactory.createChicken("latticitechicken", Color.fromInt(<material:rawlattitice>.color), <item:contenttweaker:latticite_enriched_egg>);
+var latticitechicken = ChickenFactory.createChicken("latticitechicken", Color.fromInt(<material:rawlatticite>.color), <item:contenttweaker:latticite_enriched_egg>);
 latticitechicken.setSpawnType("NONE");
 latticitechicken.register();
 
