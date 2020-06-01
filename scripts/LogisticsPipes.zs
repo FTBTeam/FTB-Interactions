@@ -102,7 +102,7 @@ assembler.recipeBuilder()
 		.buildAndRegister();
 
 #Fuzzy crafting table		
-recipes.remove(<logisticspipes:crafting_table_fuzzy>)
+recipes.remove(<logisticspipes:crafting_table_fuzzy>);
 assembler.recipeBuilder()
 		.inputs(<logisticspipes:crafting_table>, <logisticspipes:chip_basic>)
 		.outputs(<logisticspipes:crafting_table_fuzzy>)
