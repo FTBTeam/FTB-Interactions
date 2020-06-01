@@ -2,7 +2,6 @@
   "materialMappings": {
     "coal_crystal": 282,
     "coal_dense_ore": 280,
-    "flourine_enriched_egg": 568,
     "iridium_dense_ore": 95,
     "tantalum_crystal": 507,
     "cinnabar_shard": 279,
@@ -128,6 +127,7 @@
     "vinteum_ore_cluster": 253,
     "tantalite_crystal": 202,
     "barite_dense_ore": 490,
+    "fluorine_enriched_egg": 570,
     "ruby_crystal": 452,
     "chromite_ore_cluster": 393,
     "wulfenite_dense_ore": 110,
