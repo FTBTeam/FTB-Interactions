@@ -197,7 +197,7 @@ var eggMaterialMap as int[string] = {
 	"Gassy" : <material:osmium>.color,
 	"Glass" : <material:duranium>.color,
 	"Graphite" : <material:graphite>.color,
-	"Latticite" : <material:certus_quartz>.color,
+	"Latticite" : <material:rawlatticite>.color,
 	"Learning" : <material:emerald>.color,
 	"Mana" : <material:vinteum>.color,
 	"Menril" : <material:vinteum>.color,
@@ -337,7 +337,7 @@ porcelainchicken.setSpawnType("NONE");
 porcelainchicken.register();
 
 #Polywhatsit Chicken
-var polywhatsitchicken = ChickenFactory.createChicken("polywhatsitchicken", Color.fromInt(<material:tantalite>.color), <item:contenttweaker:poly_enriched_egg>);
+var polywhatsitchicken = ChickenFactory.createChicken("polywhatsitchicken", Color.fromInt(<material:tantalite>.color), <item:contenttweaker:polywhatsit_enriched_egg>);
 polywhatsitchicken.setSpawnType("NONE");
 polywhatsitchicken.register();
 

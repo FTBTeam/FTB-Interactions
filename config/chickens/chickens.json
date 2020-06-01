@@ -501,11 +501,11 @@
     "is_enabled": false,
     "lay_coefficient": 1.0,
     "lay_item": {
-      "itemID": "item:contenttweaker:glass_enriched_egg",
+      "itemID": "contenttweaker:glass_enriched_egg",
       "metaID": 0
     },
     "drop_item": {
-      "itemID": "item:contenttweaker:glass_enriched_egg",
+      "itemID": "contenttweaker:glass_enriched_egg",
       "metaID": 0
     },
     "spawn_type": "NONE",
