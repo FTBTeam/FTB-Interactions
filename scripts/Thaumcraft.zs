@@ -286,26 +286,6 @@ mods.thaumcraft.ArcaneWorkbench.registerShapedRecipe("thaumcraft:lattice", "FLUX
 	[<ore:screwSilver>, <ore:plateThaumium>, <ore:screwSilver>]
 	]);
 
-	#native ore clusters
-var nativeClusters as IItemStack[][IItemStack] = {
-	<thaumcraft:cluster:1> : [<ore:crushedGold>.firstItem],
-	<thaumcraft:cluster:2> : [<ore:crushedCopper>.firstItem],
-	<thaumcraft:cluster:3> : [<ore:crushedTin>.firstItem],
-	<thaumcraft:cluster:4> : [<ore:crushedSilver>.firstItem],
-	<thaumcraft:cluster:5> : [<ore:crushedLead>.firstItem],
-	<thaumcraft:cluster:6> : [<ore:crushedCinnabar>.firstItem],
-	<thaumcraft:cluster> : [<ore:crushedIron>.firstItem],
-	<thaumcraft:cluster:7> : [<ore:crushedNetherQuartz>.firstItem]
-};
-
-for inputs, product in nativeClusters {
-forgeHammer.recipeBuilder()
-    .inputs(inputs)
-	.outputs(product[0] *2)
-    .duration(40)
-    .EUt(8)
-    .buildAndRegister();
-}
 
 
 	#vis Filters

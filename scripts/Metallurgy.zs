@@ -402,7 +402,7 @@ for material, multiplier in materialGemMap {
 
 	macerator.recipeBuilder()
 		.inputs(oreDict.get(cluster).firstItem)
-		.outputs(oreDict.get(crushed).firstItem * multiplier)
+		.outputs(oreDict.get(crushed).firstItem * 2 * multiplier)
 		.duration(200)
 		.EUt(12)
 		.buildAndRegister();
@@ -415,7 +415,7 @@ for material, multiplier in materialGemMap {
 
 macerator.recipeBuilder()
 	.inputs(<ore:clusterArdite>)
-	.outputs(<ore:dustArdite>.firstItem)
+	.outputs(<ore:dustArdite>.firstItem * 2 )
 	.duration(200)
 	.EUt(12)
 	.buildAndRegister();
