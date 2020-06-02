@@ -89,7 +89,7 @@ var materialMap as int[string] = {
 	"Tungsten" : <material:tungsten>.color,
 	"Uraninite" : <material:uraninite>.color,
 	"Uranium" : <material:uranium>.color,
-	"Uranium 235" : <material:uranium235>.color,
+	"Uranium235" : <material:uranium235>.color,
 	"Yellow Limonite" : <material:yellow_limonite>.color,
 	"Zinc" : <material:zinc>.color,
 
@@ -176,7 +176,7 @@ for material, color in materialMap {
 	part.registerPart("clump");
 	print(material + " Clump registered");
 	part.registerPart("crystal");
-	print(material + "Crystal registered");
+	print(material + " Crystal registered");
 	part.registerPart("ore_cluster");
 	print(material + " Ore Cluster registered");	
 	part.registerPart("shard");

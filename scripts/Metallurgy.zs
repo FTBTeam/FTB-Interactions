@@ -15,7 +15,7 @@ val mixer = mods.gregtech.recipe.RecipeMap.getByName("mixer");
 val autoclave = mods.gregtech.recipe.RecipeMap.getByName("autoclave");
 val pyrolyse = mods.gregtech.recipe.RecipeMap.getByName("pyro");
 val chemReactor = mods.gregtech.recipe.RecipeMap.getByName("chemical_reactor");
-val arc_furnace = mods.gregtech.recipe.RecipeMap.getByName("arc_furnace");
+val plasma_arc_furnace = mods.gregtech.recipe.RecipeMap.getByName("plasma_arc_furnace");
 
 	#Adding the ores to the appropriate oredict for use in Squeezer
 var squeezerOreDicts as string[][string] = {
@@ -367,7 +367,7 @@ for material, multiplier in materialMetalMap {
 		
 	macerator.recipeBuilder()
 		.inputs(oreDict.get(cluster).firstItem)
-		.outputs(oreDict.get(crushed).firstItem * multiplier)
+		.outputs(oreDict.get(crushed).firstItem * 2 * multiplier)
 		.duration(200)
 		.EUt(12)
 		.buildAndRegister();
@@ -611,8 +611,8 @@ var multiShardMap as string[IData[]] = {
 for outputInfo, mat in multiShardMap {
 	
 	var shardItem = oreDict["shard" + outputInfo[0]];
-	var crystalItem = oreDict["crystal" + outputInfo[1]];
-	var clumpItem = oreDict["clump" + outputInfo[1]];
+	var crystalItem = oreDict["crystal" + outputInfo[0]];
+	var clumpItem = oreDict["clump" + outputInfo[0]];
 	var multiplier = outputInfo[2];
 	var cluster = "oreCluster" + outputInfo[0];
 	
@@ -620,7 +620,7 @@ for outputInfo, mat in multiShardMap {
 
 	print(mat + " mat and " + outputInfo[0] + "shard done!");
 
-	arc_furnace.recipeBuilder()
+	plasma_arc_furnace.recipeBuilder()
 		.inputs(shardItem)
 		.fluidInputs([<liquid:pyrotheum> * 144])
 		.outputs(crystalItem.firstItem)
@@ -629,6 +629,7 @@ for outputInfo, mat in multiShardMap {
 		.EUt(480)
 		.buildAndRegister();
 
+		print("added final furnace recipe for " + oreDict.get(cluster).firstItem.name);
 		furnace.addRecipe(oreDict.get(cluster).firstItem *8, crystalItem);
 		
 		
