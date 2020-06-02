@@ -100,23 +100,23 @@ for squeezerDict, materialArray in squeezerOreDicts {
 	var squeezerOreDict = oreDict["ore" + squeezerDict + "Squeezer"];
 	for material in materialArray {
 		squeezerOreDict.addAll(oreDict["ore" + material]);
-		print("added " + "ore" + material + " to metallurgy" + material);
+		//print("added " + "ore" + material + " to metallurgy" + material);
 		squeezerOreDict.addAll(oreDict["oreBasalt" + material]);
-		print("added " + "oreBasalt" + material + " to metallurgy" + material);
+		//print("added " + "oreBasalt" + material + " to metallurgy" + material);
 		squeezerOreDict.addAll(oreDict["oreBlackgranite" + material]);
-		print("added " + "oreBlackgranite" + material + " to metallurgy" + material);
+		//print("added " + "oreBlackgranite" + material + " to metallurgy" + material);
 		squeezerOreDict.addAll(oreDict["oreEndstone" + material]);
-		print("added " + "oreEndstone" + material + " to metallurgy" + material);
+		//print("added " + "oreEndstone" + material + " to metallurgy" + material);
 		squeezerOreDict.addAll(oreDict["oreGravel" + material]);
-		print("added " + "oreGravel" + material + " to metallurgy" + material);
+		//print("added " + "oreGravel" + material + " to metallurgy" + material);
 		squeezerOreDict.addAll(oreDict["oreMarble" + material]);
-		print("added " + "oreMarble" + material + " to metallurgy" + material);
+		//print("added " + "oreMarble" + material + " to metallurgy" + material);
 		squeezerOreDict.addAll(oreDict["oreRedgranite" + material]);
-		print("added " + "oreRedgranite" + material + " to metallurgy" + material);
+		//print("added " + "oreRedgranite" + material + " to metallurgy" + material);
 		squeezerOreDict.addAll(oreDict["oreNetherrack" + material]);
-		print("added " + "oreNetherrack" + material + " to metallurgy" + material);
+		//print("added " + "oreNetherrack" + material + " to metallurgy" + material);
 		squeezerOreDict.addAll(oreDict["oreSand" + material]);
-		print("added " + "oreSand" + material + " to metallurgy" + material);
+		//print("added " + "oreSand" + material + " to metallurgy" + material);
 	}
 }
 
@@ -265,23 +265,23 @@ for material in metallurgyOreDicts {
 	var metallurgyOreDict = oreDict["metallurgy" + material];
 
 	metallurgyOreDict.addAll(oreDict["ore" + material]);
-	print("added " + "ore" + material + " to metallurgy" + material);
+	//print("added " + "ore" + material + " to metallurgy" + material);
 	metallurgyOreDict.addAll(oreDict["oreBasalt" + material]);
-	print("added " + "oreBasalt" + material + " to metallurgy" + material);
+	//print("added " + "oreBasalt" + material + " to metallurgy" + material);
 	metallurgyOreDict.addAll(oreDict["oreBlackgranite" + material]);
-	print("added " + "oreBlackgranite" + material + " to metallurgy" + material);
+	//print("added " + "oreBlackgranite" + material + " to metallurgy" + material);
 	metallurgyOreDict.addAll(oreDict["oreEndstone" + material]);
-	print("added " + "oreEndstone" + material + " to metallurgy" + material);
+	//print("added " + "oreEndstone" + material + " to metallurgy" + material);
 	metallurgyOreDict.addAll(oreDict["oreGravel" + material]);
-	print("added " + "oreGravel" + material + " to metallurgy" + material);
+	//print("added " + "oreGravel" + material + " to metallurgy" + material);
 	metallurgyOreDict.addAll(oreDict["oreMarble" + material]);
-	print("added " + "oreMarble" + material + " to metallurgy" + material);
+	//print("added " + "oreMarble" + material + " to metallurgy" + material);
 	metallurgyOreDict.addAll(oreDict["oreRedgranite" + material]);
-	print("added " + "oreRedgranite" + material + " to metallurgy" + material);
+	//print("added " + "oreRedgranite" + material + " to metallurgy" + material);
 	metallurgyOreDict.addAll(oreDict["oreNetherrack" + material]);
-	print("added " + "oreNetherrack" + material + " to metallurgy" + material);
+	//print("added " + "oreNetherrack" + material + " to metallurgy" + material);
 	metallurgyOreDict.addAll(oreDict["oreSand" + material]);
-	print("added " + "oreSand" + material + " to metallurgy" + material);
+	//print("added " + "oreSand" + material + " to metallurgy" + material);
 }
 
 	#Early Game Melting Recipes
@@ -371,7 +371,7 @@ for material, multiplier in materialMetalMap {
 		.duration(200)
 		.EUt(12)
 		.buildAndRegister();
-		print(cluster + " in macerator done!");
+		//print(cluster + " in macerator done!");
 }
 
 var materialGemMap as int[string] = {
@@ -406,7 +406,7 @@ for material, multiplier in materialGemMap {
 		.duration(200)
 		.EUt(12)
 		.buildAndRegister();
-		print(cluster + " in macerator done!");
+		//print(cluster + " in macerator done!");
 }
 
 	#exceptions (due to no crushed ore)
@@ -527,7 +527,7 @@ for denseOre, stringOreDicts in denseMetallurgy {
 			var cluster = "cluster" + i;
 			mods.astralsorcery.LightTransmutation.addTransmutation(ore, denseOre, 300);	
 			furnace.addRecipe(oreDict.get(cluster).firstItem *2, denseOre);
-			print("dense or transmutation and smelting done");
+			//print("dense or transmutation and smelting done");
 		}	
 	}
 }
@@ -618,13 +618,13 @@ for outputInfo, mat in multiShardMap {
 	
 	
 
-	print(mat + " mat and " + outputInfo[0] + " shard done!");
+	//print(mat + " mat and " + outputInfo[0] + " shard done!");
 
 
-	print("current output info is: " + outputInfo[0]);
-	print("current crystal is: " + crystalItem.name + " first item in oredict: " + crystalItem.firstItem.name);
-	print("current clump is: " + clumpItem.name + " first item in oredict: " + clumpItem.firstItem.name);
-	print("current cluster is: " + cluster.name + " first item in oredict: " + cluster.firstItem.name);
+	//print("current output info is: " + outputInfo[0]);
+	//print("current crystal is: " + crystalItem.name + " first item in oredict: " + crystalItem.firstItem.name);
+	//print("current clump is: " + clumpItem.name + " first item in oredict: " + clumpItem.firstItem.name);
+	//print("current cluster is: " + cluster.name + " first item in oredict: " + cluster.firstItem.name);
 
 
 	plasma_arc_furnace.recipeBuilder()
@@ -635,12 +635,12 @@ for outputInfo, mat in multiShardMap {
 		.duration(80)
 		.EUt(480)
 		.buildAndRegister();
-		print("added plasma arc furnace recipe for " + crystalItem.firstItem.name);
+		//print("added plasma arc furnace recipe for " + crystalItem.firstItem.name);
 
 	
 
 		furnace.addRecipe(cluster.firstItem *8, crystalItem);
-		print("added final furnace recipe for " + cluster.firstItem.name);		
+		//print("added final furnace recipe for " + cluster.firstItem.name);		
 		
 	//Crystals to Clumps	
 		mods.gregtech.recipe.RecipeMap.getByName("autoclave").recipeBuilder()
