@@ -3007,6 +3007,30 @@
     {
       "item": "gregtech:meta_item_1|10061",
       "emc": 0
+    },
+    {
+      "item": "chisel:glass1|0",
+      "emc": 0
+    },
+    {
+      "item": "chisel:glass1|1",
+      "emc": 0
+    },
+    {
+      "item": "chisel:stonebrick2|9",
+      "emc": 0
+    },
+    {
+      "item": "chisel:stonebrick2|8",
+      "emc": 0
+    },
+    {
+      "item": "threng:material|3",
+      "emc": 0
+    },
+    {
+      "item": "contenttweaker:certus_quartz_ore_crystal|0",
+      "emc": 0
     }
   ]
 }
