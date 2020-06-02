@@ -233,6 +233,7 @@ var eggMaterialMap as int[string] = {
 	"Vinteum" : <material:vinteum>.color,
 	"Smog" : <material:charcoal_byproducts>.color,
 	"Space" : <material:topaz>.color,
+	"Vitriolic" : <material:blue_vitriol_water_solution>.color,
 	"Spice" : <material:beryllium>.color
 };
 
@@ -368,6 +369,10 @@ var latticitechicken = ChickenFactory.createChicken("latticitechicken", Color.fr
 latticitechicken.setSpawnType("NONE");
 latticitechicken.register();
 
+#Vitriolic Chicken
+var vitriolicchicken = ChickenFactory.createChicken("vitriolicchicken", Color.fromInt(<material:blue_vitriol_water_solution>.color), <item:contenttweaker:vitriolic_enriched_egg>);
+vitriolicchicken.setSpawnType("NONE");
+vitriolicchicken.register();
 
 
 

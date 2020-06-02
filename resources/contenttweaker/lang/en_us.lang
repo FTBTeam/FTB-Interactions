@@ -70,6 +70,7 @@ entity.bloodchicken.name=Bloody Chicken
 entity.porcelainchicken.name=Porcelain Chicken
 entity.polywhatsitchicken.name=Polywhatsit Chicken
 entity.latticitechicken.name=Latticite Chicken
+entity.vitriolicchicken.name=Vitriolic Chicken
 
 tile.contenttweaker.entropy_infused_ore.name=Entropy-Infused Ore
 tile.contenttweaker.ordo_infused_ore.name=Ordo-Infused Ore
