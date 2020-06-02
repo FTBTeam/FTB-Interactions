@@ -2,15 +2,11 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.liquid.ILiquidStack;
 import crafttweaker.item.IIngredient;
 import crafttweaker.data.IData;
+import mods.thaumcraft.Crucible;
 import mods.gregtech.material.MaterialRegistry;
 import mods.gregtech.material.Material;
 import crafttweaker.oredict.IOreDict;
 import crafttweaker.oredict.IOreDictEntry;
-
-
-	//Metallurgy Principles
-	//Ores cannot be smelted in a traditional furnace
-	//ID Squeezer and TC meltery can handle most early ore processing
 
 
 val blast_furnace = mods.gregtech.recipe.RecipeMap.getByName("blast_furnace");
@@ -18,6 +14,8 @@ val macerator = mods.gregtech.recipe.RecipeMap.getByName("macerator");
 val mixer = mods.gregtech.recipe.RecipeMap.getByName("mixer");
 val autoclave = mods.gregtech.recipe.RecipeMap.getByName("autoclave");
 val pyrolyse = mods.gregtech.recipe.RecipeMap.getByName("pyro");
+val chemReactor = mods.gregtech.recipe.RecipeMap.getByName("chemical_reactor");
+val arc_furnace = mods.gregtech.recipe.RecipeMap.getByName("arc_furnace");
 
 	#Adding the ores to the appropriate oredict for use in Squeezer
 var squeezerOreDicts as string[][string] = {
@@ -302,15 +300,6 @@ for ore, fluid in metalMelt {
 <ore:metallurgyBlackQuartzy>.addAll(<ore:oreQuartzBlack>);
 <ore:metallurgyArdite>.addAll(<ore:oreArdite>);
 
-print("------------------Ore 3x Start-----------------");
-
-/*
-var gtceMaterials = mods.gregtech.material.MaterialRegistry.getAllMaterials();
-
-for mat in gtceMaterials {
-	print(mat.name);
-}
-*/
 
 var materialMetalMap as int[string] = {
 	"Aluminium" : 1,
@@ -374,24 +363,15 @@ for material, multiplier in materialMetalMap {
 	var ore = "metallurgy" + material;
 	var crushed = "crushed" + material;
 	var clump = "clump" + material;
-
-	blast_furnace.recipeBuilder()
-		.inputs(oreDict.get(ore))
-		.fluidInputs([<liquid:pyrotheum> * 144])
-		.outputs(oreDict.get(clump).firstItem * 3)
-		.property("temperature", 3000)
-		.duration(200)
-		.EUt(120)
-		.buildAndRegister();
-
-	//print(clump + " in blast furnace done!");
-
+	var cluster = "oreCluster" + material;
+		
 	macerator.recipeBuilder()
-		.inputs(oreDict.get(clump).firstItem)
+		.inputs(oreDict.get(cluster).firstItem)
 		.outputs(oreDict.get(crushed).firstItem * multiplier)
 		.duration(200)
 		.EUt(12)
 		.buildAndRegister();
+		print(cluster + " in macerator done!");
 }
 
 var materialGemMap as int[string] = {
@@ -417,210 +397,31 @@ for material, multiplier in materialGemMap {
 	var ore = "ore" + material + "Metallurgy";
 	var crushed = "crushed" + material;
 	var clump = "clump" + material;
+	var cluster = "oreCluster" + material;
 
-	autoclave.recipeBuilder()
-		.inputs(oreDict.get(ore))
-		.fluidInputs([<liquid:cryotheum> * 144])
-		.outputs(oreDict.get(clump).firstItem * 3)
-		.duration(200)
-		.EUt(120)
-		.buildAndRegister();
-
-	//print(clump + " in autoclave done!");
 
 	macerator.recipeBuilder()
-		.inputs(oreDict.get(clump).firstItem)
+		.inputs(oreDict.get(cluster).firstItem)
 		.outputs(oreDict.get(crushed).firstItem * multiplier)
 		.duration(200)
 		.EUt(12)
 		.buildAndRegister();
+		print(cluster + " in macerator done!");
 }
 
 	#exceptions (due to no crushed ore)
 	// Black Quartz
 	#Ardite
-blast_furnace.recipeBuilder()
-	.inputs(<ore:oreArditeMetallurgy>)
-	.fluidInputs([<liquid:pyrotheum> * 144])
-	.outputs(<ore:clumpArdite>.firstItem * 3)
-	.property("temperature", 3000)
-	.duration(200)
-	.EUt(120)
-	.buildAndRegister();
+
 macerator.recipeBuilder()
-	.inputs(<ore:clumpArdite>)
+	.inputs(<ore:clusterArdite>)
 	.outputs(<ore:dustArdite>.firstItem)
 	.duration(200)
 	.EUt(12)
 	.buildAndRegister();
 
-print("-------------Ore 3x Initialized------------");
-
-print("------------------Ore 4x Start-----------------");
-
-/*
-
- Missing Chickens
-	 Vanadium
-	 Monazite
-	 Tantalum 	<ore:oreTantaliteMetallurgy>
-	 Stubnite 	<ore:oreStibniteMetallurgy>
-	 Manganese 	<ore:orePyrolusiteMetallurgy>
-	 Magnesium 	<ore:oreMagnesiteMetallurgy>
-	<ore:oreSpessartineMetallurgy>
-	<ore:oreSoapstoneMetallurgy>
-	<ore:oreApatiteMetallurgy>
-	<ore:oreBentoniteMetallurgy>
-	<ore:oreCinnabarMetallurgy>
-	<ore:oreGlauconiteMetallurgy>
-	<ore:oreGraphiteMetallurgy>
-	<ore:oreGrossularMetallurgy>
-	<ore:orePhosphorMetallurgy>
-*/
-	// Exceptions
-	//<materialpart:osmium:enriched_egg>
-	//<materialpart:silicon:enriched_egg>
 
 
-var eggMetalOreMap as string[IData[]] = {
-	["Aluminium", "Aluminium", 4] : "Aluminium",
-	["Bauxite", "Aluminium", 1] : "Aluminium",
-	["Ardite", "Ardite", 4] : "Ardite",
-	["Calcite", "Calcium", 4] : "Calcium",
-	["Coal", "Coal", 4] : "Coal",
-	["Lignite", "Lignite", 4] : "Coal",
-	["Cobaltite", "Cobaltite", 4] : "Cobaltite",
-	["Copper", "Copper", 4] : "Copper",
-	["Tetrahedrite", "Copper", 4] : "Copper",
-	["Malachite", "Copper", 4] : "Copper",
-	["Chalcopyrite", "Copper", 4] : "Copper",
-	["Gold", "Gold", 4] : "Gold",
-	["Magnetite", "Gold", 1] : "Gold",
-	["VanadiumMagnetite", "Gold", 1] : "Gold",
-	["Grossular", "Grossular", 4] : "Grossular",
-	["VanadiumMagnetite", "VanadiumMagnetite", 4] : "VanadiumMagnetite",
-	["Iridium", "Iridium", 1] : "Iridium",
-	["BandedIron", "Iron", 4] : "Iron",
-	["BrownLimonite", "Iron", 4] : "Iron",
-	["Iron", "Iron", 4] : "Iron",
-	["Pyrite", "Iron", 4] : "Iron",
-	["YellowLimonite", "Iron", 4] : "Iron",
-	["Chalcoyprite", "Iron", 4] : "Iron",
-	["VanadiumMagnetite", "Iron", 4] : "Iron",
-	["Magnetite", "Iron", 4] : "Iron",
-	["Lead", "Lead", 4] : "Lead",
-	["Galena", "Lead", 4] : "Lead",
-	["Nickel", "Nickel", 4] : "Nickel",
-	["Garnierite", "Nickel", 4] : "Nickel",
-	["Pentlandite", "Nickel", 3] : "Nickel",
-	["Platinum", "Platinum", 4] : "Platinum",
-	["Redstone", "Redstone", 4] : "Redstone",
-	["Silver", "Silver", 4] : "Silver",
-	["Cassiterite", "Tin", 4] : "Tin",
-	["Tin", "Tin", 4] : "Tin",
-	["Bauxite", "Rutile", 4] : "Titanium",
-	["Ilmenite", "Rutile", 4] : "Titanium",
-	["Rutile", "Rutile", 4] : "Titanium",
-	["Scheelite", "Scheelite", 4] : "Tungsten",
-	["Tungstate", "Tungstate", 4] : "Tungsten",
-	["Uraninite", "Uraninite", 4] : "Uranium",
-	["Uranium","Uranium", 4 ] : "Uranium",
-	["Uraninum235", "Uranium235", 4] : "Uranium",
-	["Sphalerite", "Zinc", 4] : "Zinc"
-};
-
-for outputInfo, egg in eggMetalOreMap {
-	var eggItem = oreDict["enrichedEgg" + egg];
-	var oreItem = oreDict["metallurgy" + outputInfo[0]];
-	var crystalItem = oreDict["crystal" + outputInfo[1]];
-	var clumpItem = oreDict["clump" + outputInfo[1]];
-	var multiplier = outputInfo[2];
-
-	mixer.recipeBuilder()
-		.inputs([eggItem, oreItem])
-		.fluidInputs([<liquid:glowstone> * 288])
-		.outputs(crystalItem.firstItem * multiplier)
-		.duration(100)
-		.EUt(350)
-		.buildAndRegister();
-
-	//print(egg + " egg and " + outputInfo[0] + " done!");
-
-	blast_furnace.recipeBuilder()
-		.inputs(crystalItem)
-		.fluidInputs([<liquid:pyrotheum> * 72])
-		.outputs(clumpItem.firstItem)
-		.property("temperature", 3000)
-		.duration(80)
-		.EUt(120)
-		.buildAndRegister();
-}
-
-var eggGemOreMap as string[IData[]] = {
-	["Apatite", "Apatite", 4] : "Apatite",
-	["Diamond", "Diamond", 4] : "Diamond",
-	["Emerald", "Emerald", 4] : "Emerald",
-	["Olivine", "Olivine", 4] : "Emerald",
-	["Beryllium", "Beryllium", 4] : "Emerald",
-	["Lapis", "Lapis", 4] : "Lapis",
-	["NetherQuartz", "NetherQuartz", 8] : "NetherQuartz",
-	["Quartzite", "Quartzite", 4] : "NetherQuartz",
-	["CertusQuartz", "CertusQuartz", 8] : "CertusQuartz",
-	["Ruby", "Ruby", 4] : "Ruby",
-	["Chromite", "Chromite", 4] : "Ruby",
-	["Sapphire", "Sapphire", 4] : "Sapphire",
-	["Sapphire", "GreenSapphire", 4] : "Sapphire",
-	["BlueTopaz", "BlueTopaz", 4] : "Topaz"
-};
-
-for outputInfo, egg in eggGemOreMap {
-	var eggItem = oreDict["enrichedEgg" + egg];
-	var oreItem = oreDict["metallurgy" + outputInfo[0]];
-	var crystalItem = oreDict["crystal" + outputInfo[1]];
-	var clumpItem = oreDict["clump" + outputInfo[1]];
-	var multiplier = outputInfo[2];
-
-	mixer.recipeBuilder()
-		.inputs([eggItem, oreItem])
-		.fluidInputs([<liquid:glowstone> * 288])
-		.outputs(crystalItem.firstItem * multiplier)
-		.duration(100)
-		.EUt(350)
-		.buildAndRegister();
-
-	//print(egg + " egg and " + outputInfo[0] + " done!");
-
-	autoclave.recipeBuilder()
-		.inputs(crystalItem)
-		.fluidInputs([<liquid:cryotheum> * 72])
-		.outputs(clumpItem.firstItem)
-		.duration(80)
-		.EUt(120)
-		.buildAndRegister();
-}
-
-
-	#Exceptions due to Numbers/Rounding
-mixer.recipeBuilder()
-	.inputs([<ore:enrichedEggNiobium>, <ore:oreTantaliteMetallurgy>])
-	.fluidInputs([<liquid:glowstone> * 288])
-	.outputs(<ore:crystalNiobium>.firstItem)
-	.duration(100)
-	.EUt(350)
-	.buildAndRegister();
-blast_furnace.recipeBuilder()
-	.inputs(<ore:crystalNiobium>)
-	.fluidInputs([<liquid:pyrotheum> * 72])
-	.outputs(<ore:crystalNiobium>.firstItem)
-	.property("temperature", 3000)
-	.duration(80)
-	.EUt(120)
-	.buildAndRegister();
-
-print("-------------Ore 4x Initialized------------");
-
-
-print("-------------Ore 8x Start------------");
 var denseMetallurgy as string[][IItemStack] = {
 	<ore:denseOreAluminium>.firstItem : [
 		"Aluminium"
@@ -717,10 +518,16 @@ var denseMetallurgy as string[][IItemStack] = {
 	]
 };
 
+
+//Ores into dense ores or into clusters
 for denseOre, stringOreDicts in denseMetallurgy {
+
 	for i in stringOreDicts {
 		for ore in oreDict["metallurgy" + i].items{
+			var cluster = "oreCluster" + i;
 			mods.astralsorcery.LightTransmutation.addTransmutation(ore, denseOre, 300);	
+			furnace.addRecipe(oreDict.get(cluster).firstItem *2, denseOre);
+			print("dense or transmutation and smelting done");
 		}	
 	}
 }
@@ -754,31 +561,25 @@ var shardList as string[] = [
 	"VanadiumMagnetite"
 ];
 
-	#Blood Shard Metallurgy (supposedly really fast creation)
+	#Dense ore processing
 for i in shardList {
 	var oreInput = oreDict["denseOre" + i].firstItem;
 	var shardOutput = oreDict["shard" + i].firstItem;
-	mods.bloodmagic.BloodAltar.addRecipe(shardOutput, oreInput, 4, 10000, 63, 100);
+	var cluster = "oreCluster" + i;
+
+	chemReactor.recipeBuilder()
+		.inputs([oreInput])
+		.fluidInputs([<liquid:lifeessence> * 200, <liquid:mana_fluid> * 100])
+		.outputs(shardOutput)
+		.duration(280)
+		.EUt(48)
+		.buildAndRegister();
+
+		furnace.addRecipe(oreDict.get(cluster).firstItem *4, shardOutput);
 }
 
 	#Shards to Clumps
-/*
-	["Coal", "Coal", 4] : "Coal"
-	["Olivine", "Olivine", 4] : "Emerald",
-	["Beryllium", "Beryllium", 4] : "Emerald",
-	["Chalcoyprite", "Iron", 4] : "Iron",
-	["Lapis", "Lapis", 4] : "Lapis",
-	["Galena", "Lead", 4] : "Lead",
-	["NetherQuartz", "NetherQuartz", 8] : "NetherQuartz",
-	["Quartzite", "Quartzite", 4] : "NetherQuartz",
-	["CertusQuartz", "CertusQuartz", 8] : "NetherQuartz",
-	["Platinum", "Platinum", 4] : "Platinum",	
-	["Sapphire", "GreenSapphire", 4] : "Sapphire",
-	["Bauxite", "Rutile", 8] : "Titanium",
-	["Rutile", "Rutile", 8] : "Titanium",
-	["Sphalerite", "Zinc", 4] : "Zinc"
-*/
-var eggShardMap as string[IData[]] = {
+var multiShardMap as string[IData[]] = {
 	["Aluminium", "Aluminium", 8] : "Aluminium",
 	["Bauxite", "Aluminium", 2] : "Aluminium",
 	["Chromite", "Chromite", 8] : "Ruby",
@@ -807,32 +608,42 @@ var eggShardMap as string[IData[]] = {
 	["VanadiumMagnetite", "Gold", 8] : "Gold"
 };
 
-for outputInfo, egg in eggShardMap {
-	var eggItem = oreDict["enrichedEgg" + egg];
+for outputInfo, mat in multiShardMap {
+	
 	var shardItem = oreDict["shard" + outputInfo[0]];
 	var crystalItem = oreDict["crystal" + outputInfo[1]];
 	var clumpItem = oreDict["clump" + outputInfo[1]];
 	var multiplier = outputInfo[2];
+	var cluster = "oreCluster" + outputInfo[0];
+	
+	
 
-	print(egg + " egg and " + outputInfo[0] + "shard done!");
+	print(mat + " mat and " + outputInfo[0] + "shard done!");
 
-	mixer.recipeBuilder()
-		.inputs([eggItem, shardItem])
-		.fluidInputs([<liquid:glowstone> * 288])
-		.outputs(crystalItem.firstItem * multiplier)
-		.duration(100)
-		.EUt(350)
-		.buildAndRegister();
-
-	blast_furnace.recipeBuilder()
-		.inputs(crystalItem)
-		.fluidInputs([<liquid:pyrotheum> * 72])
-		.outputs(clumpItem.firstItem)
-		.property("temperature", 3000)
+	arc_furnace.recipeBuilder()
+		.inputs(shardItem)
+		.fluidInputs([<liquid:pyrotheum> * 144])
+		.outputs(crystalItem.firstItem)
+		.fluidOutputs([<liquid:phosphoric_acid> * 15])
 		.duration(80)
-		.EUt(120)
+		.EUt(480)
 		.buildAndRegister();
+
+		furnace.addRecipe(oreDict.get(cluster).firstItem *8, crystalItem);
+		
+		
+	//Crystals to Clumps	
+		mods.gregtech.recipe.RecipeMap.getByName("autoclave").recipeBuilder()
+    	.inputs(crystalItem)
+    	.fluidInputs(<liquid:uumatter> * 10)
+    	.outputs(clumpItem.firstItem)
+    	.duration(100)
+    	.EUt(480)
+    	.buildAndRegister();
+
+	furnace.addRecipe(oreDict.get(cluster).firstItem *16, clumpItem);
+
+	mods.thaumcraft.Crucible.registerRecipe("crucible" + clumpItem.firstItem.name, "BASEALCHEMY", oreDict.get(cluster).firstItem*32, clumpItem.firstItem, [<aspect:desiderium> * 5, <aspect:potentia> * 5]);
+
 }
 
-
-print("-------------Ore 8x Initialized------------");
