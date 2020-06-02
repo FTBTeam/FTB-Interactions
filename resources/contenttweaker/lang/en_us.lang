@@ -1,5 +1,9 @@
 contenttweaker.part.enriched_egg=%s Enriched Egg
 contenttweaker.part.ore_cluster=%s Ore Cluster
+contenttweaker.part.ore_shard=%s Concentrated Blood Shard
+contenttweaker.part.ore_clump=%s Ore Clump
+contenttweaker.part.ore_crystal=%s Crystal
+
 
 tile.contenttweaker.portalBlockt.name=Overworld Portal Block
 tile.contenttweaker.portalBlockUnt.name=Nether Portal Block

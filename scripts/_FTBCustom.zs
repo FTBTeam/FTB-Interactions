@@ -1,5 +1,6 @@
 #loader contenttweaker
 #modloaded chickens
+#priority 100
 import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Part;
 import mods.contenttweaker.MaterialPart;
@@ -40,9 +41,30 @@ mods.contenttweaker.MaterialSystem.getPartBuilder()
 mods.contenttweaker.MaterialSystem.getPartBuilder()
   .setName("ore_cluster")
   .setPartType(MaterialSystem.getPartType("item"))
-  .setOreDictName("oreCluster")
+  .setOreDictName("cluster")
   .build();
 
+  #Ore Shard
+  mods.contenttweaker.MaterialSystem.getPartBuilder()
+  .setName("ore_shard")
+  .setPartType(MaterialSystem.getPartType("item"))
+  .setOreDictName("shard")
+  .build();
+  
+    #Ore Clump
+mods.contenttweaker.MaterialSystem.getPartBuilder()
+  .setName("ore_clump")
+  .setPartType(MaterialSystem.getPartType("item"))
+  .setOreDictName("clump")
+  .build();
+
+    #Ore Crystal
+mods.contenttweaker.MaterialSystem.getPartBuilder()
+  .setName("ore_crystal")
+  .setPartType(MaterialSystem.getPartType("item"))
+  .setOreDictName("crystal")
+  .build();
+  
 	var smallgearextrudershape = VanillaFactory.createItem("smallgearextrudershape");
 	smallgearextrudershape.maxStackSize = 64;
 	smallgearextrudershape.register();
@@ -173,13 +195,13 @@ for material, color in materialMap {
 		.build();
 	part.registerPart("dense_ore");
 	print(material + " Dense Ore registered");
-	part.registerPart("clump");
+	part.registerPart("ore_clump");
 	print(material + " Clump registered");
-	part.registerPart("crystal");
+	part.registerPart("ore_crystal");
 	print(material + " Crystal registered");
 	part.registerPart("ore_cluster");
 	print(material + " Ore Cluster registered");	
-	part.registerPart("shard");
+	part.registerPart("ore_shard");
 }
 
 

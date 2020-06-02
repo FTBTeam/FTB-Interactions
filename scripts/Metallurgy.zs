@@ -363,7 +363,7 @@ for material, multiplier in materialMetalMap {
 	var ore = "metallurgy" + material;
 	var crushed = "crushed" + material;
 	var clump = "clump" + material;
-	var cluster = "oreCluster" + material;
+	var cluster = "cluster" + material;
 		
 	macerator.recipeBuilder()
 		.inputs(oreDict.get(cluster).firstItem)
@@ -397,7 +397,7 @@ for material, multiplier in materialGemMap {
 	var ore = "ore" + material + "Metallurgy";
 	var crushed = "crushed" + material;
 	var clump = "clump" + material;
-	var cluster = "oreCluster" + material;
+	var cluster = "cluster" + material;
 
 
 	macerator.recipeBuilder()
@@ -524,7 +524,7 @@ for denseOre, stringOreDicts in denseMetallurgy {
 
 	for i in stringOreDicts {
 		for ore in oreDict["metallurgy" + i].items{
-			var cluster = "oreCluster" + i;
+			var cluster = "cluster" + i;
 			mods.astralsorcery.LightTransmutation.addTransmutation(ore, denseOre, 300);	
 			furnace.addRecipe(oreDict.get(cluster).firstItem *2, denseOre);
 			print("dense or transmutation and smelting done");
@@ -565,7 +565,7 @@ var shardList as string[] = [
 for i in shardList {
 	var oreInput = oreDict["denseOre" + i].firstItem;
 	var shardOutput = oreDict["shard" + i].firstItem;
-	var cluster = "oreCluster" + i;
+	var cluster = "cluster" + i;
 
 	chemReactor.recipeBuilder()
 		.inputs([oreInput])
@@ -602,7 +602,7 @@ var multiShardMap as string[IData[]] = {
 	["Tungsten", "Tungsten", 8] : "Tungsten",
 	["Uraninite", "Uraninite", 8] : "Uranium",
 	["Uranium","Uranium", 8] : "Uranium",
-	["Uraninum235", "Uranium235", 8] : "Uranium",
+	["Uranium235", "Uranium235", 8] : "Uranium",
 	["VanadiumMagnetite", "Iron", 8] : "Iron",
 	["VanadiumMagnetite", "VanadiumMagnetite", 8] : "VanadiumMagnetite",
 	["VanadiumMagnetite", "Gold", 8] : "Gold"
@@ -614,11 +614,18 @@ for outputInfo, mat in multiShardMap {
 	var crystalItem = oreDict["crystal" + outputInfo[0]];
 	var clumpItem = oreDict["clump" + outputInfo[0]];
 	var multiplier = outputInfo[2];
-	var cluster = "oreCluster" + outputInfo[0];
+	var cluster = oreDict["cluster" + outputInfo[0]];
 	
 	
 
-	print(mat + " mat and " + outputInfo[0] + "shard done!");
+	print(mat + " mat and " + outputInfo[0] + " shard done!");
+
+
+	print("current output info is: " + outputInfo[0]);
+	print("current crystal is: " + crystalItem.name + " first item in oredict: " + crystalItem.firstItem.name);
+	print("current clump is: " + clumpItem.name + " first item in oredict: " + clumpItem.firstItem.name);
+	print("current cluster is: " + cluster.name + " first item in oredict: " + cluster.firstItem.name);
+
 
 	plasma_arc_furnace.recipeBuilder()
 		.inputs(shardItem)
@@ -628,10 +635,12 @@ for outputInfo, mat in multiShardMap {
 		.duration(80)
 		.EUt(480)
 		.buildAndRegister();
+		print("added plasma arc furnace recipe for " + crystalItem.firstItem.name);
 
-		print("added final furnace recipe for " + oreDict.get(cluster).firstItem.name);
-		furnace.addRecipe(oreDict.get(cluster).firstItem *8, crystalItem);
-		
+	
+
+		furnace.addRecipe(cluster.firstItem *8, crystalItem);
+		print("added final furnace recipe for " + cluster.firstItem.name);		
 		
 	//Crystals to Clumps	
 		mods.gregtech.recipe.RecipeMap.getByName("autoclave").recipeBuilder()
@@ -642,9 +651,9 @@ for outputInfo, mat in multiShardMap {
     	.EUt(480)
     	.buildAndRegister();
 
-	furnace.addRecipe(oreDict.get(cluster).firstItem *16, clumpItem);
+	furnace.addRecipe(cluster.firstItem *16, clumpItem);
 
-	mods.thaumcraft.Crucible.registerRecipe("crucible" + clumpItem.firstItem.name, "BASEALCHEMY", oreDict.get(cluster).firstItem*32, clumpItem.firstItem, [<aspect:desiderium> * 5, <aspect:potentia> * 5]);
+	mods.thaumcraft.Crucible.registerRecipe("crucible" + clumpItem.firstItem.name, "BASEALCHEMY", cluster.firstItem*32, clumpItem.firstItem, [<aspect:desiderium> * 5, <aspect:potentia> * 5]);
 
 }
 
