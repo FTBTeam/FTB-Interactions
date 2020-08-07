@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	description: "{interactions.154955d3.7e2eeed5.description}",
+	dependencies: [
+		"9df1d5ee"
+	],
+	tasks: [{
+		uid: "ec469827",
+		type: "item",
+		items: [{
+			item: "rustic:tallow"
+		}]
+	}],
+	rewards: [{
+		uid: "06030b75",
+		type: "item",
+		item: "rustic:candle",
+		count: 4
+	}]
+}

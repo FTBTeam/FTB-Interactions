@@ -1,0 +1,24 @@
+{
+	x: -10.0d,
+	y: -6.0d,
+	text: [
+		"{interactions.ed136c16.85a7d1a3.text.0}"
+	],
+	dependencies: [
+		"c42f5354",
+		"a138555f"
+	],
+	tasks: [{
+		uid: "0546af23",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 5807"
+		}]
+	}],
+	rewards: [{
+		uid: "177d7bcf",
+		type: "item",
+		item: "botania:manaresource 1 4",
+		count: 4
+	}]
+}

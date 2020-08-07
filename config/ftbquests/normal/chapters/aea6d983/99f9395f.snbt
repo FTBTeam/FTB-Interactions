@@ -1,0 +1,41 @@
+{
+	x: 2.0d,
+	y: -4.5d,
+	text: [
+		"{interactions.aea6d983.99f9395f.text.0}"
+	],
+	dependencies: [
+		"bad8af80",
+		"a916453b"
+	],
+	tasks: [{
+		uid: "09bafe1d",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:graphitechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "221904f6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:graphite_enriched_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "4af77ac8",
+		type: "item",
+		item: {
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "cobalt"
+			}
+		}
+	}]
+}

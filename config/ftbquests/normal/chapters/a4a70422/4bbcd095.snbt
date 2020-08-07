@@ -1,0 +1,69 @@
+{
+	title: "{interactions.a4a70422.4bbcd095.title}",
+	x: -4.0d,
+	y: 3.5d,
+	text: [
+		"{interactions.a4a70422.4bbcd095.text.0}",
+		"  ",
+		"{interactions.a4a70422.4bbcd095.text.2}"
+	],
+	dependencies: [
+		"995e98b6"
+	],
+	tasks: [{
+		uid: "d1246ce4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_accelerator"
+		}]
+	},
+	{
+		uid: "7b6f8aa7",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_storage_1k"
+		}]
+	},
+	{
+		uid: "ce858e10",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_monitor"
+		}]
+	}],
+	rewards: [{
+		uid: "d5448923",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:storage_cell_64k",
+			tag: {}
+		}
+	},
+	{
+		uid: "a36c1684",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:fluid_storage_cell_64k",
+			tag: {}
+		}
+	},
+	{
+		uid: "cf6795f0",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicenergistics:essentia_cell_64k",
+			tag: {
+				filter: {}
+			}
+		}
+	}]
+}

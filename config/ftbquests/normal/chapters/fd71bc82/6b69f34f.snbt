@@ -1,0 +1,19 @@
+{
+	title: "{interactions.fd71bc82.6b69f34f.title}",
+	x: -2.0d,
+	y: 0.5d,
+	text: [
+		"{interactions.fd71bc82.6b69f34f.text.0}"
+	],
+	tasks: [{
+		uid: "8aaa310c",
+		type: "item",
+		title: "{interactions.fd71bc82.6b69f34f.tasks.0.title}",
+		items: [{
+			item: "gregtech:ore_tungstate_0 1 7"
+		},
+		{
+			item: "gregtech:ore_scheelite_0"
+		}]
+	}]
+}

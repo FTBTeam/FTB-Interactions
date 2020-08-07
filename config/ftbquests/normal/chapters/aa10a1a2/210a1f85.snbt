@@ -1,0 +1,21 @@
+{
+	title: "{interactions.aa10a1a2.210a1f85.title}",
+	icon: "enderutilities:barrel",
+	x: -10.5d,
+	y: -5.0d,
+	text: [
+		"{interactions.aa10a1a2.210a1f85.text.0}",
+		"{interactions.aa10a1a2.210a1f85.text.1}"
+	],
+	dependencies: [
+		"187aa945"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "9677e39d",
+		type: "item",
+		items: [{
+			item: "enderutilities:barrel"
+		}]
+	}]
+}

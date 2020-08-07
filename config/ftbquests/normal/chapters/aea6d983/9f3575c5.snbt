@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: -17.5d,
+	text: [
+		"{interactions.aea6d983.9f3575c5.text.0}"
+	],
+	tasks: [{
+		uid: "cc97a74a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "roost:catcher"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "77f5b3ed",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:chicken"
+				}
+			}
+		}
+	}]
+}

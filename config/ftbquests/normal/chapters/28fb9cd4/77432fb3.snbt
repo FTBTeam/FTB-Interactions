@@ -1,0 +1,47 @@
+{
+	title: "{interactions.28fb9cd4.77432fb3.title}",
+	x: -4.0d,
+	y: 3.0d,
+	description: "{interactions.28fb9cd4.77432fb3.description}",
+	dependencies: [
+		"b1dded11"
+	],
+	tasks: [{
+		uid: "cd01fdd8",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockwell"
+		}]
+	},
+	{
+		uid: "9d09d7f8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "astralsorcery.liquidstarlight",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "4220fab5",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:straw"
+		}
+	},
+	{
+		uid: "d53172b1",
+		type: "item",
+		item: "enderio:item_liquid_conduit",
+		count: 8
+	}]
+}

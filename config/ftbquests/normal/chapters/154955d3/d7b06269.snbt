@@ -1,0 +1,15 @@
+{
+	x: -2.0d,
+	y: 7.0d,
+	description: "{interactions.154955d3.d7b06269.description}",
+	dependencies: [
+		"a0918964"
+	],
+	tasks: [{
+		uid: "51f17823",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:apple_emerald"
+		}]
+	}]
+}

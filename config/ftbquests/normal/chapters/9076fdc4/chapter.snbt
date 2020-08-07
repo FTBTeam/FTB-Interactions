@@ -1,0 +1,10 @@
+{
+	title: "{interactions.9076fdc4.chapter.title}",
+	icon: "thermalfoundation:upgrade 1 256",
+	description: [
+		"{interactions.9076fdc4.chapter.description.0}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

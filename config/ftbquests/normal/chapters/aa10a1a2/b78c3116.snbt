@@ -1,0 +1,47 @@
+{
+	title: "{interactions.aa10a1a2.b78c3116.title}",
+	x: -0.5d,
+	y: 6.5d,
+	shape: "diamond",
+	description: "{interactions.aa10a1a2.b78c3116.description}",
+	text: [
+		"{interactions.aa10a1a2.b78c3116.text.0}",
+		"{interactions.aa10a1a2.b78c3116.text.1}",
+		"{interactions.aa10a1a2.b78c3116.text.2}"
+	],
+	dependencies: [
+		"97e0a29a"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "dd5503ed",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:zero_point_matrix"
+			}
+		}]
+	},
+	{
+		uid: "be6e366c",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 309"
+		}]
+	}],
+	rewards: [{
+		uid: "7933c883",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "naquadah_enriched",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}
+	}]
+}

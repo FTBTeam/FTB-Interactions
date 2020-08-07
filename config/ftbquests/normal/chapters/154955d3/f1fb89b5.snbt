@@ -1,0 +1,18 @@
+{
+	disable_toast: true,
+	x: 7.5d,
+	y: -3.5d,
+	shape: "rsquare",
+	text: [
+		"{interactions.154955d3.f1fb89b5.text.0}"
+	],
+	dependencies: [
+		"3b4bd52b"
+	],
+	tasks: [{
+		uid: "2c813b57",
+		type: "checkmark",
+		title: "{interactions.154955d3.f1fb89b5.tasks.0.title}",
+		icon: "gregtech:machine 1 825"
+	}]
+}

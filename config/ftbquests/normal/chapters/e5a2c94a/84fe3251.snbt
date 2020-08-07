@@ -1,0 +1,37 @@
+{
+	title: "{interactions.e5a2c94a.84fe3251.title}",
+	icon: "astralsorcery:blockcustomflower",
+	x: 2.5d,
+	y: -1.0d,
+	text: [
+		"{interactions.e5a2c94a.84fe3251.text.0}"
+	],
+	dependencies: [
+		"f92a387e"
+	],
+	tasks: [{
+		uid: "95e47acb",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomflower"
+		}]
+	},
+	{
+		uid: "8b7ee41c",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:fertilizer"
+		}]
+	}],
+	rewards: [{
+		uid: "252b8ddb",
+		type: "item",
+		item: "thermalfoundation:upgrade 1 35"
+	},
+	{
+		uid: "01bbddda",
+		type: "item",
+		item: "thermalexpansion:augment 1 128",
+		count: 3
+	}]
+}

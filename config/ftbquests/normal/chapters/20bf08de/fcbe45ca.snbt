@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: -9.0d,
+	text: [
+		"{interactions.20bf08de.fcbe45ca.text.0}"
+	],
+	dependencies: [
+		"2856b0e6",
+		"fa94a505"
+	],
+	tasks: [{
+		uid: "c9768754",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stone_arcane"
+		}]
+	}],
+	rewards: [{
+		uid: "41d67331",
+		type: "item",
+		item: "thaumcraft:stone_arcane",
+		count: 16
+	}]
+}

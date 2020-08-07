@@ -1,0 +1,38 @@
+{
+	x: -4.0d,
+	y: 3.5d,
+	shape: "rsquare",
+	description: "{interactions.154955d3.a1e8425a.description}",
+	text: [
+		"{interactions.154955d3.a1e8425a.text.0}",
+		"{interactions.154955d3.a1e8425a.text.1}"
+	],
+	dependencies: [
+		"29f7cca1"
+	],
+	tasks: [{
+		uid: "0e09ede5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "roughtweaks:salve"
+		}]
+	}],
+	rewards: [{
+		uid: "56777e27",
+		type: "item",
+		item: "harvestcraft:baconpancakesitem"
+	},
+	{
+		uid: "5a7f8824",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "roughtweaks:plaster"
+		}
+	}]
+}

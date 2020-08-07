@@ -1,0 +1,29 @@
+{
+	title: "{interactions.498eb09c.829ccb26.title}",
+	x: -8.0d,
+	y: 0.0d,
+	text: [
+		"{interactions.498eb09c.829ccb26.text.0}"
+	],
+	dependencies: [
+		"cdf825f7"
+	],
+	tasks: [{
+		uid: "50f0fd5f",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 191"
+		}]
+	}],
+	rewards: [{
+		uid: "43a84e93",
+		type: "item",
+		item: "gregtech:meta_item_2 1 32489"
+	},
+	{
+		uid: "2e02c98e",
+		type: "item",
+		item: "gregtech:machine 1 191",
+		count: 2
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "{interactions.20bf08de.b4f9e445.title}",
+	icon: "thaumcraft:infusion_matrix",
+	x: -13.0d,
+	y: -11.0d,
+	shape: "circle",
+	text: [
+		"{interactions.20bf08de.b4f9e445.text.0}"
+	],
+	can_repeat: true,
+	dependencies: [
+		"961eb3ac"
+	],
+	tasks: [{
+		uid: "b8c91c46",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "1f9cad49",
+		type: "command",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon",
+			Damage: 1s
+		},
+		command: "/thaumcraft research @p INFUSION"
+	}]
+}

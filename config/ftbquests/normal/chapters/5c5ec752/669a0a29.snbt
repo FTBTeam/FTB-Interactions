@@ -1,0 +1,39 @@
+{
+	title: "{interactions.5c5ec752.669a0a29.title}",
+	x: 1.5d,
+	y: -1.0d,
+	description: "{interactions.5c5ec752.669a0a29.description}",
+	dependencies: [
+		"893f1a30"
+	],
+	tasks: [{
+		uid: "80ae2406",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 527"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4a9bad59",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 526"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1b7725a1",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 8"
+		}],
+		count: 24L,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5e182ad9",
+		type: "item",
+		item: "gregtech:compressed_15 1 4"
+	}]
+}

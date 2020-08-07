@@ -1,0 +1,31 @@
+{
+	title: "{interactions.a4a70422.454cc06c.title}",
+	x: -13.309523809523817d,
+	y: -1.5238095238095326d,
+	text: [
+		"{interactions.a4a70422.454cc06c.text.0}"
+	],
+	dependencies: [
+		"518a088a",
+		"074fc3f0"
+	],
+	tasks: [{
+		uid: "b445785f",
+		type: "item",
+		items: [{
+			item: "logisticspipes:pipe_request_table"
+		}]
+	}],
+	rewards: [{
+		uid: "d2ad7e18",
+		type: "item",
+		item: "logisticspipes:upgrade_action_speed",
+		count: 16
+	},
+	{
+		uid: "c8bf6f18",
+		type: "item",
+		item: "logisticspipes:upgrade_speed",
+		count: 16
+	}]
+}

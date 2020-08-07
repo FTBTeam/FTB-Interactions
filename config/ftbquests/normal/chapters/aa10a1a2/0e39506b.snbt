@@ -1,0 +1,25 @@
+{
+	title: "{interactions.aa10a1a2.0e39506b.title}",
+	icon: "industrialforegoing:conveyor",
+	x: -10.5d,
+	y: -4.0d,
+	text: [
+		"{interactions.aa10a1a2.0e39506b.text.0}",
+		"",
+		"{interactions.aa10a1a2.0e39506b.text.2}"
+	],
+	dependencies: [
+		"51878972"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "9cb859bf",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "f23b6052",
+		type: "item",
+		item: "industrialforegoing:conveyor",
+		count: 8
+	}]
+}

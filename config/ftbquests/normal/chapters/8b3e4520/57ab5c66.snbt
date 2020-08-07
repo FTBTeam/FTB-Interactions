@@ -1,0 +1,33 @@
+{
+	title: "{interactions.8b3e4520.57ab5c66.title}",
+	x: -4.0d,
+	y: -3.0d,
+	text: [
+		"{interactions.8b3e4520.57ab5c66.text.0}"
+	],
+	dependencies: [
+		"ba6da38e"
+	],
+	tasks: [{
+		uid: "1df63411",
+		type: "item",
+		items: [{
+			item: "draconicevolution:dragon_heart"
+		}]
+	}],
+	rewards: [{
+		uid: "c599b77d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_silver"
+		}
+	},
+	{
+		uid: "9fa6cbe1",
+		type: "item",
+		item: "harvestcraft:cantonesenoodlesitem"
+	}]
+}

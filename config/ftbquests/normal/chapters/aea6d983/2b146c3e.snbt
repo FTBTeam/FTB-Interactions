@@ -1,0 +1,23 @@
+{
+	x: -1.0d,
+	y: -15.5d,
+	text: [
+		"{interactions.aea6d983.2b146c3e.text.0}"
+	],
+	dependencies: [
+		"0b123dfe"
+	],
+	tasks: [{
+		uid: "9617d343",
+		type: "item",
+		items: [{
+			item: "roost:roost"
+		}]
+	}],
+	rewards: [{
+		uid: "4af30fc7",
+		type: "item",
+		item: "minecraft:egg",
+		count: 4
+	}]
+}

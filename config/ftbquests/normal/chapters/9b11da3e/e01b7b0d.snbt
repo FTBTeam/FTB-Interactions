@@ -1,0 +1,49 @@
+{
+	title: "{interactions.9b11da3e.e01b7b0d.title}",
+	x: -9.0d,
+	y: -3.0d,
+	description: "{interactions.9b11da3e.e01b7b0d.description}",
+	dependencies: [
+		"8f691326"
+	],
+	tasks: [{
+		uid: "b81240cd",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_vanadium_magnetite_0"
+		}]
+	},
+	{
+		uid: "fcf64453",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_magnetite_0"
+		}]
+	},
+	{
+		uid: "b0a4e2ba",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_iron_0"
+		}]
+	},
+	{
+		uid: "3fcf2c51",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_gold_0"
+		}]
+	}],
+	rewards: [{
+		uid: "28e5e0aa",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 2
+	},
+	{
+		uid: "ce1345d7",
+		type: "item",
+		item: "minecraft:gold_ingot",
+		count: 2
+	}]
+}

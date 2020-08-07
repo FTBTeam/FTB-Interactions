@@ -1,0 +1,26 @@
+{
+	x: -7.0d,
+	y: 0.0d,
+	description: "{interactions.99314095.ce90c6aa.description}",
+	dependencies: [
+		"fa1162c0"
+	],
+	tasks: [{
+		uid: "0391a05c",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 210"
+		},
+		{
+			item: "gregtech:machine 1 211"
+		},
+		{
+			item: "gregtech:machine 1 212"
+		}]
+	}],
+	rewards: [{
+		uid: "8c50d4c4",
+		type: "item",
+		item: "harvestcraft:cookedtofuttonitem"
+	}]
+}

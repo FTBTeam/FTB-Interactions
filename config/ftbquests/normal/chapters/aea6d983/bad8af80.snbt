@@ -1,0 +1,42 @@
+{
+	title: "{interactions.aea6d983.bad8af80.title}",
+	x: 0.0d,
+	y: -9.0d,
+	shape: "square",
+	text: [
+		"{interactions.aea6d983.bad8af80.text.0}",
+		"{interactions.aea6d983.bad8af80.text.1}"
+	],
+	dependencies: [
+		"5681a1ea"
+	],
+	tasks: [{
+		uid: "bf7c26fa",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 10,
+				Chicken: "chickens:smartchicken",
+				Gain: 10,
+				Strength: 10
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "d84bdad2",
+		type: "item",
+		item: "minecraft:hay_block",
+		count: 32
+	},
+	{
+		uid: "8d689cbf",
+		type: "xp_levels",
+		xp_levels: 5
+	},
+	{
+		uid: "14a4d572",
+		type: "item",
+		item: "harvestcraft:chickensandwichitem"
+	}]
+}

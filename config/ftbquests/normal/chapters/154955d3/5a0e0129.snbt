@@ -1,0 +1,30 @@
+{
+	title: "{interactions.154955d3.5a0e0129.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "botania:cosmetic",
+		Damage: 31s
+	},
+	x: 0.0d,
+	y: -5.5d,
+	shape: "gear",
+	description: "{interactions.154955d3.5a0e0129.description}",
+	size: 2.0d,
+	tasks: [{
+		uid: "2d1c49ff",
+		type: "checkmark",
+		title: "{interactions.154955d3.5a0e0129.tasks.0.title}"
+	}],
+	rewards: [{
+		uid: "20d13745",
+		type: "xp_levels",
+		xp_levels: 2
+	},
+	{
+		uid: "31402acf",
+		type: "item",
+		item: "wizardry:fairy_imbued_apple"
+	}]
+}

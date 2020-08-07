@@ -1,0 +1,27 @@
+{
+	title: "{interactions.28fb9cd4.26a248a1.title}",
+	x: -6.5d,
+	y: 1.5d,
+	description: "{interactions.28fb9cd4.26a248a1.description}",
+	dependencies: [
+		"ba92ee4f"
+	],
+	tasks: [{
+		uid: "2a64f907",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmachine"
+		}]
+	}],
+	rewards: [{
+		uid: "3da83223",
+		type: "item",
+		item: "astralsorcery:blockattunementrelay",
+		count: 4
+	},
+	{
+		uid: "78f1aad0",
+		type: "item",
+		item: "harvestcraft:cinnamonrollitem"
+	}]
+}

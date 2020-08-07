@@ -1,0 +1,32 @@
+{
+	title: "{interactions.40159cc8.2b5f5376.title}",
+	x: -1.0d,
+	y: -11.0d,
+	shape: "rsquare",
+	text: [
+		"{interactions.40159cc8.2b5f5376.text.0}"
+	],
+	dependencies: [
+		"fe50d67e"
+	],
+	tasks: [{
+		uid: "7ca9bdf1",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:sky_cauldron"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "8c8bab31",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:suncrystal"
+		}
+	}]
+}

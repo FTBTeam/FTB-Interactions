@@ -1,0 +1,62 @@
+{
+	title: "{interactions.aa10a1a2.0e127505.title}",
+	x: 0.0d,
+	y: -2.5d,
+	description: "{interactions.aa10a1a2.0e127505.description}",
+	text: [
+		"{interactions.aa10a1a2.0e127505.text.0}",
+		"{interactions.aa10a1a2.0e127505.text.1}"
+	],
+	dependencies: [
+		"02eeb70a"
+	],
+	tasks: [{
+		uid: "607ff657",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2504"
+		}]
+	},
+	{
+		uid: "ee722700",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_coil 1 7"
+		}],
+		count: 32L
+	},
+	{
+		uid: "614fbf54",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 712"
+		}],
+		count: 2L
+	},
+	{
+		uid: "8c639901",
+		type: "item",
+		items: [{
+			item: "gregtech:machine_casing 1 6"
+		}],
+		count: 121L
+	},
+	{
+		uid: "e3160d5b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 713"
+		}]
+	}],
+	rewards: [{
+		uid: "9b357083",
+		type: "item",
+		item: "harvestcraft:padthaiitem"
+	},
+	{
+		uid: "267b1135",
+		type: "item",
+		item: "gregtech:machine 1 819",
+		count: 2
+	}]
+}

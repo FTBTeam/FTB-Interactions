@@ -1,0 +1,38 @@
+{
+	title: "{interactions.ed136c16.4d2f6dce.title}",
+	x: -13.0d,
+	y: -3.0d,
+	text: [
+		"{interactions.ed136c16.4d2f6dce.text.0}",
+		"",
+		"{interactions.ed136c16.4d2f6dce.text.2}"
+	],
+	dependencies: [
+		"495cac08"
+	],
+	tasks: [{
+		uid: "48d79077",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "stone"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "4e4648db",
+		type: "item",
+		item: "minecraft:flint"
+	},
+	{
+		uid: "d59d60f3",
+		type: "item",
+		item: {
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "diamatine_actadd_plustic"
+			}
+		}
+	}]
+}

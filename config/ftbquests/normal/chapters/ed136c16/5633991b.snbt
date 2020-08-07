@@ -1,0 +1,31 @@
+{
+	icon: "cyberware:neuropozyne",
+	x: -1.5d,
+	y: 3.0d,
+	shape: "circle",
+	text: [
+		"{interactions.ed136c16.5633991b.text.0}",
+		"{interactions.ed136c16.5633991b.text.1}"
+	],
+	dependencies: [
+		"080f8d40"
+	],
+	tasks: [{
+		uid: "95090e26",
+		type: "checkmark",
+		title: "{interactions.ed136c16.5633991b.tasks.0.title}",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:cosmetic",
+			Damage: 31s
+		}
+	}],
+	rewards: [{
+		uid: "c1d303f8",
+		type: "item",
+		item: "cyberware:bone_upgrades",
+		count: 5
+	}]
+}

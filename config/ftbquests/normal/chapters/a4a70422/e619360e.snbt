@@ -1,0 +1,32 @@
+{
+	title: "{interactions.a4a70422.e619360e.title}",
+	icon: {
+		id: "mekanism:transmitter",
+		tag: {
+			tier: 0
+		},
+		Damage: 1s
+	},
+	x: -21.0d,
+	y: -3.0d,
+	description: "{interactions.a4a70422.e619360e.description}",
+	text: [
+		"{interactions.a4a70422.e619360e.text.0}"
+	],
+	tasks: [{
+		uid: "6b467c22",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			},
+			Damage: 1s
+		}]
+	}],
+	rewards: [{
+		uid: "1f0adb98",
+		type: "item",
+		item: "mekanism:enrichedalloy"
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: -22.0d,
+	y: 3.0d,
+	description: "{interactions.a4a70422.781141fd.description}",
+	text: [
+		"{interactions.a4a70422.781141fd.text.0}",
+		"{interactions.a4a70422.781141fd.text.1}"
+	],
+	dependencies: [
+		"c193d3a6"
+	],
+	tasks: [{
+		uid: "1eb69eef",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_laser_relay_fluids"
+		}]
+	}],
+	rewards: [{
+		uid: "346afc55",
+		type: "item",
+		item: "fluxnetworks:flux",
+		count: 8
+	}]
+}

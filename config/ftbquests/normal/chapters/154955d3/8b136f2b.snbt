@@ -1,0 +1,27 @@
+{
+	title: "{interactions.154955d3.8b136f2b.title}",
+	x: 4.0d,
+	y: 7.0d,
+	shape: "rsquare",
+	description: "{interactions.154955d3.8b136f2b.description}",
+	dependencies: [
+		"9df1d5ee"
+	],
+	tasks: [{
+		uid: "bac67aab",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:conveyor"
+		}]
+	}],
+	rewards: [{
+		uid: "a38767a2",
+		type: "item",
+		item: "industrialforegoing:conveyor_upgrade 1 1"
+	},
+	{
+		uid: "f9e67737",
+		type: "item",
+		item: "industrialforegoing:conveyor_upgrade"
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	title: "{interactions.6f37a0c0.chapter.title}",
+	icon: "contenttweaker:portalblockt",
+	description: [
+		"{interactions.6f37a0c0.chapter.description.0}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

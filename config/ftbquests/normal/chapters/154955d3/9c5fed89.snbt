@@ -1,0 +1,30 @@
+{
+	title: "{interactions.154955d3.9c5fed89.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "pickletweaks:flint_shears"
+	},
+	x: -2.0d,
+	y: 1.0d,
+	description: "{interactions.154955d3.9c5fed89.description}",
+	dependencies: [
+		"7a3fc83a"
+	],
+	tasks: [{
+		uid: "492677e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pickletweaks:flint_shears"
+		}]
+	}],
+	rewards: [{
+		uid: "8d29e0cc",
+		type: "item",
+		item: "harvestcraft:bananasplititem"
+	}]
+}

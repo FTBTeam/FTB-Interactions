@@ -1,0 +1,20 @@
+{
+	x: -8.0d,
+	y: 4.0d,
+	text: [
+		"{interactions.ed136c16.b67b247d.text.0}",
+		"{interactions.ed136c16.b67b247d.text.1}"
+	],
+	dependencies: [
+		"75c24ed9"
+	],
+	tasks: [{
+		uid: "1ce10c3a",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

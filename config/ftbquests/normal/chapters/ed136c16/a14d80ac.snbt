@@ -1,0 +1,33 @@
+{
+	title: "{interactions.ed136c16.a14d80ac.title}",
+	x: -9.0d,
+	y: -4.5d,
+	text: [
+		"{interactions.ed136c16.a14d80ac.text.0}",
+		"{interactions.ed136c16.a14d80ac.text.1}",
+		"{interactions.ed136c16.a14d80ac.text.2}"
+	],
+	dependencies: [
+		"a916453b"
+	],
+	tasks: [{
+		uid: "835266a7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:timeinabottle",
+			tag: {
+				timeData: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f5104c13",
+		type: "item",
+		item: "randomthings:beans 1 2"
+	}]
+}

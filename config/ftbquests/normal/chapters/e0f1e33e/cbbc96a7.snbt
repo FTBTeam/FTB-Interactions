@@ -1,0 +1,37 @@
+{
+	icon: "deepmoblearning:simulation_chamber",
+	x: 0.0d,
+	y: -0.5d,
+	text: [
+		"{interactions.e0f1e33e.cbbc96a7.text.0}",
+		"{interactions.e0f1e33e.cbbc96a7.text.1}",
+		"{interactions.e0f1e33e.cbbc96a7.text.2}"
+	],
+	dependencies: [
+		"a916453b"
+	],
+	tasks: [{
+		uid: "f4c74b23",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:simulation_chamber"
+		}]
+	},
+	{
+		uid: "65edcc5b",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_blank"
+		}]
+	}],
+	rewards: [{
+		uid: "59ce3638",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:deep_learner"
+		}
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	x: -8.0d,
+	y: -12.0d,
+	shape: "square",
+	text: [
+		"{interactions.20bf08de.43e61bff.text.0}",
+		"{interactions.20bf08de.43e61bff.text.1}",
+		"{interactions.20bf08de.43e61bff.text.2}"
+	],
+	dependencies: [
+		"4cd5380d"
+	],
+	tasks: [{
+		uid: "e41fb155",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "af3e9dd3",
+		type: "item",
+		item: "harvestcraft:meatloafsandwichitem"
+	},
+	{
+		uid: "8e2ea4e2",
+		type: "item",
+		item: "minecraft:paper",
+		count: 32
+	},
+	{
+		uid: "1c9e4c98",
+		type: "item",
+		item: "actuallyadditions:block_black_lotus"
+	}]
+}

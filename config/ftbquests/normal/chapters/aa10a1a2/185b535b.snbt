@@ -1,0 +1,46 @@
+{
+	title: "{interactions.aa10a1a2.185b535b.title}",
+	x: -0.5d,
+	y: -5.0d,
+	shape: "square",
+	text: [
+		"{interactions.aa10a1a2.185b535b.text.0}",
+		"",
+		"{interactions.aa10a1a2.185b535b.text.2}"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"e50a603a",
+		"da0cc52f"
+	],
+	tasks: [{
+		uid: "ac51fd19",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:photonuclear_fission_chamber"
+			}
+		}]
+	},
+	{
+		uid: "0aa3aa2c",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "uraniumhexafluoride",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}]
+	}],
+	rewards: [{
+		uid: "546e9a2c",
+		type: "item",
+		item: "enderstorage:ender_storage 1 1",
+		count: 2
+	}]
+}

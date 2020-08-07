@@ -1,0 +1,22 @@
+{
+	x: 4.0d,
+	y: 5.5d,
+	text: [
+		"{interactions.103abc81.78546de8.text.0}"
+	],
+	dependencies: [
+		"3308d327"
+	],
+	tasks: [{
+		uid: "73643b51",
+		type: "dimension",
+		title: "{interactions.103abc81.78546de8.tasks.0.title}",
+		dim: -2
+	}],
+	rewards: [{
+		uid: "93a5009e",
+		type: "item",
+		item: "enderstorage:ender_storage",
+		count: 2
+	}]
+}

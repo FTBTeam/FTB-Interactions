@@ -1,0 +1,30 @@
+{
+	x: -12.5d,
+	y: 1.0d,
+	text: [
+		"{interactions.b1d7d7b9.09b74423.text.0}"
+	],
+	dependencies: [
+		"eebe34c9"
+	],
+	tasks: [{
+		uid: "4c5b2778",
+		type: "checkmark",
+		title: "{interactions.b1d7d7b9.09b74423.tasks.0.title}",
+		icon: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "oxygen",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}
+	}],
+	rewards: [{
+		uid: "aa75f05b",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

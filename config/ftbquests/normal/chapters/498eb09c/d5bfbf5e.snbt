@@ -1,0 +1,44 @@
+{
+	title: "{interactions.498eb09c.d5bfbf5e.title}",
+	icon: "minecraft:coal 1 1",
+	x: -4.0d,
+	y: -8.0d,
+	shape: "square",
+	text: [
+		"{interactions.498eb09c.d5bfbf5e.text.0}",
+		"{interactions.498eb09c.d5bfbf5e.text.1}"
+	],
+	tasks: [{
+		uid: "f431ec9e",
+		type: "checkmark"
+	},
+	{
+		uid: "0b3efff2",
+		type: "fluid",
+		fluid: "charcoal_byproducts"
+	}],
+	rewards: [{
+		uid: "3a0a31d1",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemshiftingstar",
+			tag: {
+				astralsorcery: {}
+			}
+		}
+	},
+	{
+		uid: "5bf50126",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32766"
+	},
+	{
+		uid: "cd03cd10",
+		type: "item",
+		item: "gregtech:meta_item_1 1 12184",
+		count: 16
+	}]
+}

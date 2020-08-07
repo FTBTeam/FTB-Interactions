@@ -1,0 +1,50 @@
+{
+	title: "{interactions.9b11da3e.5a0c4ddc.title}",
+	x: -9.0d,
+	y: -4.0d,
+	description: "{interactions.9b11da3e.5a0c4ddc.description}",
+	dependencies: [
+		"bd71831a"
+	],
+	tasks: [{
+		uid: "0a8bce54",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_brown_limonite_0"
+		}]
+	},
+	{
+		uid: "d76bb831",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_yellow_limonite_0"
+		}]
+	},
+	{
+		uid: "ee0db533",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_banded_iron_0"
+		}]
+	},
+	{
+		uid: "e4e4dec1",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_malachite_0"
+		}]
+	},
+	{
+		uid: "483943a2",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_nickel_0"
+		}]
+	}],
+	rewards: [{
+		uid: "2d3cf0a5",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 4
+	}]
+}

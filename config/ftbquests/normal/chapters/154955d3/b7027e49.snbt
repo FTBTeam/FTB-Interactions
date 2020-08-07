@@ -1,0 +1,21 @@
+{
+	title: "{interactions.154955d3.b7027e49.title}",
+	x: -3.0d,
+	y: 8.0d,
+	description: "{interactions.154955d3.b7027e49.description}",
+	dependencies: [
+		"ca362eca"
+	],
+	tasks: [{
+		uid: "f654b502",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "hotornot:mitts"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	x: -10.5d,
+	y: -2.0d,
+	text: [
+		"{interactions.a4a70422.c550c34b.text.0}"
+	],
+	dependencies: [
+		"3770c1fb"
+	],
+	tasks: [{
+		uid: "e2408924",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "cd4e7daa",
+		type: "item",
+		item: "thaumcraft:triple_meat_treat"
+	},
+	{
+		uid: "1e055591",
+		type: "item",
+		item: "enderutilities:enderpart 1 73"
+	},
+	{
+		uid: "5fdbba58",
+		type: "item",
+		item: "enderutilities:enderpart 1 72",
+		count: 4
+	}]
+}

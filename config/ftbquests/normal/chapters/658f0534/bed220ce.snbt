@@ -1,0 +1,24 @@
+{
+	title: "{interactions.658f0534.bed220ce.title}",
+	x: -16.0d,
+	y: -6.0d,
+	shape: "diamond",
+	text: [
+		"{interactions.658f0534.bed220ce.text.0}",
+		"{interactions.658f0534.bed220ce.text.1}"
+	],
+	tasks: [{
+		uid: "077cf9f1",
+		type: "item",
+		title: "{interactions.658f0534.bed220ce.tasks.0.title}",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	title: "{interactions.aa10a1a2.ac7d7e38.title}",
+	icon: "thermalexpansion:augment 1 576",
+	x: -13.0d,
+	y: -2.0d,
+	shape: "gear",
+	custom_click: "https://docs.google.com/spreadsheets/d/1GMIWZtxvebEXCOZilsOwPJbh1aHzD9Ia6FUU7pQz1FM/edit",
+	dependencies: [
+		"9063ed56"
+	]
+}

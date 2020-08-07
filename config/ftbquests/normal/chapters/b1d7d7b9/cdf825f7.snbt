@@ -1,0 +1,20 @@
+{
+	title: "{interactions.b1d7d7b9.cdf825f7.title}",
+	x: -2.5d,
+	y: -1.0d,
+	text: [
+		"{interactions.b1d7d7b9.cdf825f7.text.0}"
+	],
+	tasks: [{
+		uid: "d3dfbe28",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 190"
+		}]
+	}],
+	rewards: [{
+		uid: "b617dbee",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32766"
+	}]
+}

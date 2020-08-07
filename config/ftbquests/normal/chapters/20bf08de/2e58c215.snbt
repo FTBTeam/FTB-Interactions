@@ -1,0 +1,29 @@
+{
+	icon: "thaumcraft:curio 1 6",
+	x: -14.0d,
+	y: -11.0d,
+	text: [
+		"{interactions.20bf08de.2e58c215.text.0}"
+	],
+	can_repeat: true,
+	dependencies: [
+		"961eb3ac"
+	],
+	tasks: [{
+		uid: "435de7e0",
+		type: "checkmark",
+		title: "{interactions.20bf08de.2e58c215.tasks.0.title}"
+	}],
+	rewards: [{
+		uid: "fa21e694",
+		type: "command",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon",
+			Damage: 1s
+		},
+		command: "/thaumcraft research @p BASEELDRITCH"
+	}]
+}

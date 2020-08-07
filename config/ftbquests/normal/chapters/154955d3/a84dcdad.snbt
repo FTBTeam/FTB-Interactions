@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: 6.0d,
+	description: "{interactions.154955d3.a84dcdad.description}",
+	tasks: [{
+		uid: "3aaebe00",
+		type: "item",
+		items: [{
+			item: "minecraft:stained_hardened_clay 1 9"
+		}]
+	}]
+}

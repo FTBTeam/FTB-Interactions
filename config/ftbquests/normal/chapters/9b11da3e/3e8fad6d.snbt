@@ -1,0 +1,50 @@
+{
+	title: "{interactions.9b11da3e.3e8fad6d.title}",
+	x: -7.0d,
+	y: -4.0d,
+	description: "{interactions.9b11da3e.3e8fad6d.description}",
+	dependencies: [
+		"a837e8af"
+	],
+	tasks: [{
+		uid: "2b181948",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_lapis_0"
+		}]
+	},
+	{
+		uid: "0baa0824",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_aqua_infused_0"
+		}]
+	},
+	{
+		uid: "c85ace3e",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_sodalite_0"
+		}]
+	},
+	{
+		uid: "e9d10c25",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_tanzanite_0"
+		}]
+	},
+	{
+		uid: "d013ae7b",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_calcite_0"
+		}]
+	}],
+	rewards: [{
+		uid: "25532377",
+		type: "item",
+		item: "minecraft:dye 1 4",
+		count: 4
+	}]
+}

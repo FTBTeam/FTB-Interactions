@@ -1,0 +1,28 @@
+{
+	x: -8.5d,
+	y: -2.0d,
+	text: [
+		"{interactions.a4a70422.a00ff5a7.text.0}"
+	],
+	dependencies: [
+		"3770c1fb"
+	],
+	tasks: [{
+		uid: "92a0ffff",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 15"
+		}]
+	}],
+	rewards: [{
+		uid: "7e9f1400",
+		type: "item",
+		item: "thaumcraft:salis_mundus",
+		count: 2
+	},
+	{
+		uid: "b027c7aa",
+		type: "item",
+		item: "thaumcraft:triple_meat_treat"
+	}]
+}

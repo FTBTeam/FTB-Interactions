@@ -1,0 +1,14 @@
+{
+	title: "{interactions.103abc81.chapter.title}",
+	icon: "cyberware:brain_upgrades 1 4",
+	description: [
+		"{interactions.103abc81.chapter.description.0}",
+		"",
+		"{interactions.103abc81.chapter.description.2}",
+		"{interactions.103abc81.chapter.description.3}",
+		""
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

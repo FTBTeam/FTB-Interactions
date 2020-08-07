@@ -1,0 +1,28 @@
+{
+	title: "{interactions.ed136c16.ee5c345f.title}",
+	x: -10.0d,
+	y: -1.0d,
+	text: [
+		"{interactions.ed136c16.ee5c345f.text.0}"
+	],
+	dependencies: [
+		"caf422c5"
+	],
+	tasks: [{
+		uid: "cab93052",
+		type: "item",
+		items: [{
+			item: "randomthings:spectreanchor"
+		}]
+	}],
+	rewards: [{
+		uid: "6505dbdb",
+		type: "xp_levels",
+		xp_levels: 4
+	},
+	{
+		uid: "ba426c4f",
+		type: "item",
+		item: "randomthings:spectreilluminator"
+	}]
+}

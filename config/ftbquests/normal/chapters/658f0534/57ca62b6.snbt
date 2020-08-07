@@ -1,0 +1,25 @@
+{
+	title: "{interactions.658f0534.57ca62b6.title}",
+	x: -16.0d,
+	y: -1.5d,
+	description: "{interactions.658f0534.57ca62b6.description}",
+	text: [
+		"{interactions.658f0534.57ca62b6.text.0}"
+	],
+	dependencies: [
+		"2e40345e"
+	],
+	tasks: [{
+		uid: "981ccf7d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_ore_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "c337a3f0",
+		type: "item",
+		item: "rusticthaumaturgy:cindermote_seeds",
+		count: 4
+	}]
+}

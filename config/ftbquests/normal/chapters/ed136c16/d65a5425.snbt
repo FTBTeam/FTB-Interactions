@@ -1,0 +1,52 @@
+{
+	title: "{interactions.ed136c16.d65a5425.title}",
+	x: -14.5d,
+	y: -1.0d,
+	text: [
+		"{interactions.ed136c16.d65a5425.text.0}",
+		"{interactions.ed136c16.d65a5425.text.1}",
+		"{interactions.ed136c16.d65a5425.text.2}",
+		"",
+		"{interactions.ed136c16.d65a5425.text.4}"
+	],
+	dependencies: [
+		"6672ed55"
+	],
+	tasks: [{
+		uid: "c496eaed",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "buildinggadgets:buildingtool",
+			tag: {
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "274fa174",
+		type: "item",
+		item: "buildinggadgets:constructionblockpowder",
+		count: 16
+	},
+	{
+		uid: "ecbe9b35",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			tag: {
+				mekData: {}
+			},
+			Damage: 14s
+		}
+	}]
+}

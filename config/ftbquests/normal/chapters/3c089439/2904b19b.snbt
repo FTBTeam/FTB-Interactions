@@ -1,0 +1,19 @@
+{
+	title: "{interactions.3c089439.2904b19b.title}",
+	x: -0.5d,
+	y: 1.5d,
+	description: "{interactions.3c089439.2904b19b.description}",
+	dependencies: [
+		"fe50d67e"
+	],
+	tasks: [{
+		uid: "621819a0",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:moonturf"
+		},
+		{
+			item: "advancedrocketry:moonturf_dark"
+		}]
+	}]
+}

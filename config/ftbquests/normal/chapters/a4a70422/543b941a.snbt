@@ -1,0 +1,21 @@
+{
+	x: -19.0d,
+	y: 4.0d,
+	description: "{interactions.a4a70422.543b941a.description}",
+	text: [
+		"{interactions.a4a70422.543b941a.text.0}",
+		"{interactions.a4a70422.543b941a.text.1}"
+	],
+	tasks: [{
+		uid: "a89f0396",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage"
+		}]
+	}],
+	rewards: [{
+		uid: "50384ecf",
+		type: "item",
+		item: "enderstorage:ender_storage"
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "{interactions.bdc0ae1a.b9a6f02c.title}",
+	x: 3.5d,
+	y: 3.0d,
+	shape: "square",
+	description: "{interactions.bdc0ae1a.b9a6f02c.description}",
+	text: [
+		"{interactions.bdc0ae1a.b9a6f02c.text.0}"
+	],
+	dependencies: [
+		"1b10cc2d"
+	],
+	tasks: [{
+		uid: "82793346",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 23"
+		}]
+	}]
+}

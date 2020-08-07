@@ -1,0 +1,44 @@
+{
+	title: "{interactions.20bf08de.4d723002.title}",
+	x: -14.0d,
+	y: -10.0d,
+	description: "{interactions.20bf08de.4d723002.description}",
+	text: [
+		"{interactions.20bf08de.4d723002.text.0}",
+		"",
+		"{interactions.20bf08de.4d723002.text.2}"
+	],
+	dependencies: [
+		"2e58c215"
+	],
+	optional: true,
+	tasks: [{
+		uid: "961da085",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "afbdf25a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:brewflask",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Fear is the mind killer"
+				},
+				brewKey: "warpWard"
+			}
+		}
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: -2.5d,
+	y: 4.0d,
+	text: [
+		"{interactions.ed136c16.9ce126e4.text.0}",
+		"{interactions.ed136c16.9ce126e4.text.1}",
+		"{interactions.ed136c16.9ce126e4.text.2}",
+		"{interactions.ed136c16.9ce126e4.text.3}",
+		"{interactions.ed136c16.9ce126e4.text.4}",
+		"{interactions.ed136c16.9ce126e4.text.5}"
+	],
+	dependencies: [
+		"5633991b"
+	],
+	tasks: [{
+		uid: "69bc520e",
+		type: "item",
+		items: [{
+			item: "cyberware:cybereyes"
+		}]
+	}],
+	rewards: [{
+		uid: "1f4063ba",
+		type: "item",
+		item: "minecraft:spider_eye",
+		count: 2
+	}]
+}

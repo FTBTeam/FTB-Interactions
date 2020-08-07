@@ -1,0 +1,85 @@
+{
+	title: "{interactions.aa10a1a2.c5c9f2f6.title}",
+	x: -10.0d,
+	y: 6.5d,
+	description: "{interactions.aa10a1a2.c5c9f2f6.description}",
+	text: [
+		"{interactions.aa10a1a2.c5c9f2f6.text.0}",
+		""
+	],
+	dependencies: [
+		"c48fa03d"
+	],
+	tasks: [{
+		uid: "041bcc49",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 517"
+		}]
+	},
+	{
+		uid: "bad6b784",
+		type: "item",
+		items: [{
+			item: "gregtech:multiblock_casing"
+		}],
+		count: 8L
+	},
+	{
+		uid: "08d76071",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 712"
+		}],
+		count: 2L
+	},
+	{
+		uid: "248828ef",
+		type: "item",
+		items: [{
+			item: "gregtech:turbine_casing 1 2"
+		}],
+		count: 2L
+	},
+	{
+		uid: "57d277db",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 6"
+		}],
+		count: 23L
+	},
+	{
+		uid: "081f1a79",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 745"
+		},
+		{
+			item: "gregtech:machine 1 735"
+		},
+		{
+			item: "gregtech:machine 1 755"
+		}]
+	}],
+	rewards: [{
+		uid: "bf9ed6fd",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "infused_nitrofuel",
+					Amount: 256000
+				}
+			},
+			Damage: 32406s
+		}
+	},
+	{
+		uid: "710fa827",
+		type: "item",
+		item: "harvestcraft:ploughmanslunchitem",
+		count: 3
+	}]
+}

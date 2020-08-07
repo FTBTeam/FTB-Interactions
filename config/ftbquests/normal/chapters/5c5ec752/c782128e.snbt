@@ -1,0 +1,30 @@
+{
+	title: "{interactions.5c5ec752.c782128e.title}",
+	x: -5.0d,
+	y: -3.0d,
+	text: [
+		"{interactions.5c5ec752.c782128e.text.0}",
+		"{interactions.5c5ec752.c782128e.text.1}"
+	],
+	dependencies: [
+		"d6801307"
+	],
+	tasks: [{
+		uid: "3344ce5a",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ingot 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "09cf8c99",
+		type: "item",
+		item: "thaumcraft:nitor_purple"
+	},
+	{
+		uid: "03b869ed",
+		type: "item",
+		item: "thaumcraft:ingot 1 2",
+		count: 4
+	}]
+}

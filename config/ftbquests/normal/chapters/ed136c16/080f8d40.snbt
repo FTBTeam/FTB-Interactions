@@ -1,0 +1,26 @@
+{
+	title: "{interactions.ed136c16.080f8d40.title}",
+	x: -1.5d,
+	y: 2.0d,
+	text: [
+		"{interactions.ed136c16.080f8d40.text.0}",
+		"{interactions.ed136c16.080f8d40.text.1}"
+	],
+	dependencies: [
+		"4a664dce"
+	],
+	tasks: [{
+		uid: "7786fdd5",
+		type: "item",
+		items: [{
+			item: "cyberware:charger"
+		}]
+	},
+	{
+		uid: "900ddf51",
+		type: "item",
+		items: [{
+			item: "cyberware:dense_battery"
+		}]
+	}]
+}

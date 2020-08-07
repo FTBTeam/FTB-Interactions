@@ -1,0 +1,20 @@
+{
+	title: "{interactions.5c5ec752.b56bd273.title}",
+	x: -1.5d,
+	y: 4.0d,
+	shape: "diamond",
+	text: [
+		"{interactions.5c5ec752.b56bd273.text.0}"
+	],
+	dependencies: [
+		"2e003362"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "ee1beaf3",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 501"
+		}]
+	}]
+}

@@ -1,0 +1,62 @@
+{
+	title: "{interactions.28fb9cd4.d390454a.title}",
+	x: -1.5d,
+	y: 7.0d,
+	description: "{interactions.28fb9cd4.d390454a.description}",
+	text: [
+		"{interactions.28fb9cd4.d390454a.text.0}"
+	],
+	dependencies: [
+		"1d37b267"
+	],
+	tasks: [{
+		uid: "faf59e1b",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockritualpedestal"
+		}]
+	}],
+	rewards: [{
+		uid: "622ff6ca",
+		type: "item",
+		item: {
+			id: "astralsorcery:blocklens",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}
+	},
+	{
+		uid: "d8dd797d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -5570085101611273969L,
+					AS_Amulet_HolderMost: 5678865977197479355L
+				}
+			},
+			id: "astralsorcery:itemtunedrockcrystal",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.vicio",
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 400,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}
+	}]
+}

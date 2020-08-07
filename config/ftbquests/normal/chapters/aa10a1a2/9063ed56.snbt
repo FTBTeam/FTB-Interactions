@@ -1,0 +1,18 @@
+{
+	title: "{interactions.aa10a1a2.9063ed56.title}",
+	x: -13.0d,
+	y: -0.5d,
+	shape: "square",
+	text: [
+		"{interactions.aa10a1a2.9063ed56.text.0}",
+		"{interactions.aa10a1a2.9063ed56.text.1}"
+	],
+	dependencies: [
+		"a916453b"
+	],
+	tasks: [{
+		uid: "68813805",
+		type: "checkmark",
+		title: "{interactions.aa10a1a2.9063ed56.tasks.0.title}"
+	}]
+}

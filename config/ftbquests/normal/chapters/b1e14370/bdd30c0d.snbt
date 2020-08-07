@@ -1,0 +1,20 @@
+{
+	title: "{interactions.b1e14370.bdd30c0d.title}",
+	x: 2.0d,
+	y: 2.0d,
+	shape: "pentagon",
+	text: [
+		"{interactions.b1e14370.bdd30c0d.text.0}",
+		"{interactions.b1e14370.bdd30c0d.text.1}"
+	],
+	dependencies: [
+		"2b4c7bc4"
+	],
+	tasks: [{
+		uid: "728a51da",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2122"
+		}]
+	}]
+}

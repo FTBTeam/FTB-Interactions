@@ -1,0 +1,38 @@
+{
+	x: 1.5d,
+	y: 7.5d,
+	description: "{interactions.103abc81.9be3aa5b.description}",
+	text: [
+		"{interactions.103abc81.9be3aa5b.text.0}"
+	],
+	dependencies: [
+		"dd0f8ba4"
+	],
+	tasks: [{
+		uid: "af8c06ee",
+		type: "item",
+		items: [{
+			item: "contenttweaker:overworldessencer"
+		}]
+	}],
+	rewards: [{
+		uid: "b1c3e7cb",
+		type: "item",
+		team_reward: true,
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "contenttweaker:overworldessencer",
+					Count: 1,
+					Damage: 0
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "The Prime Artifact",
+				TrophyColorRed: 37
+			}
+		}
+	}]
+}

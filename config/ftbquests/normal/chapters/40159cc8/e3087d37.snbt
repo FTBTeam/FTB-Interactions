@@ -1,0 +1,10 @@
+{
+	title: "{interactions.40159cc8.e3087d37.title}",
+	icon: "gregtech:meta_item_1 1 19061",
+	x: -3.0d,
+	y: -22.0d,
+	tasks: [{
+		uid: "75be2764",
+		type: "checkmark"
+	}]
+}

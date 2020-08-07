@@ -1,0 +1,19 @@
+{
+	title: "{interactions.aa10a1a2.ddd91cac.title}",
+	x: -10.5d,
+	y: 3.5d,
+	text: [
+		"{interactions.aa10a1a2.ddd91cac.text.0}"
+	],
+	dependencies: [
+		"81146e1b"
+	],
+	tasks: [{
+		uid: "f2ce40a0",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 24"
+		}],
+		count: 64L
+	}]
+}

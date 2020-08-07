@@ -1,0 +1,55 @@
+{
+	title: "{interactions.aea6d983.1d1cc9e9.title}",
+	x: 4.0d,
+	y: -8.0d,
+	text: [
+		"{interactions.aea6d983.1d1cc9e9.text.0}"
+	],
+	dependencies: [
+		"bad8af80",
+		"77432fb3"
+	],
+	tasks: [{
+		uid: "f000ee6c",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:astralchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "e07127ed",
+		type: "item",
+		items: [{
+			item: "contenttweaker:astral_enriched_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "5240969a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockcollectorcrystal",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.aevitas",
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 400,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					},
+					collectorType: 0
+				}
+			}
+		}
+	}]
+}

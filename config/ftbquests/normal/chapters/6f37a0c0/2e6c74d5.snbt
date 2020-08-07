@@ -1,0 +1,33 @@
+{
+	title: "{interactions.6f37a0c0.2e6c74d5.title}",
+	x: -2.0d,
+	y: -1.5d,
+	shape: "gear",
+	text: [
+		"{interactions.6f37a0c0.2e6c74d5.text.0}"
+	],
+	dependencies: [
+		"eafc12e8"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "ccd16250",
+		type: "dimension",
+		dim: 0
+	}],
+	rewards: [{
+		uid: "9b78c4ac",
+		type: "item",
+		item: {
+			id: "rustic:elixir",
+			tag: {
+				ElixirEffects: [{
+					Effect: "minecraft:night_vision",
+					Duration: 9600,
+					Amplifier: 0
+				}]
+			}
+		},
+		count: 4
+	}]
+}

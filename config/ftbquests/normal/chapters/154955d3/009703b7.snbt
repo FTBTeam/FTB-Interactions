@@ -1,0 +1,27 @@
+{
+	title: "{interactions.154955d3.009703b7.title}",
+	x: 2.0d,
+	y: 2.0d,
+	description: "{interactions.154955d3.009703b7.description}",
+	text: [
+		"{interactions.154955d3.009703b7.text.0}",
+		"{interactions.154955d3.009703b7.text.1}"
+	],
+	dependencies: [
+		"1bb9079a",
+		"8ffc4093",
+		"b0039b2c"
+	],
+	tasks: [{
+		uid: "84407c58",
+		type: "item",
+		items: [{
+			item: "primal_tech:water_saw"
+		}]
+	}],
+	rewards: [{
+		uid: "b1593a3a",
+		type: "item",
+		item: "harvestcraft:curryitem"
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "{interactions.a4a70422.85a2e9c5.title}",
+	x: -22.0d,
+	y: 2.0d,
+	text: [
+		"{interactions.a4a70422.85a2e9c5.text.0}"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "daa78f0c",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_importer_item_item"
+		}]
+	},
+	{
+		uid: "5c1918e9",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_exporter_item_item"
+		}]
+	},
+	{
+		uid: "a285df82",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_interface_item_item"
+		}]
+	}]
+}

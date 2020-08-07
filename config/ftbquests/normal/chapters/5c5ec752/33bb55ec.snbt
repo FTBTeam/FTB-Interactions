@@ -1,0 +1,39 @@
+{
+	title: "{interactions.5c5ec752.33bb55ec.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "gregtech:meta_tool",
+		tag: {
+			GT.ToolStats: {
+				PrimaryMaterial: "darmstadtium"
+			}
+		},
+		Damage: 8s
+	},
+	x: -7.0d,
+	y: 1.0d,
+	shape: "gear",
+	description: "{interactions.5c5ec752.33bb55ec.description}",
+	text: [
+		"{interactions.5c5ec752.33bb55ec.text.0}"
+	],
+	dependencies: [
+		"5e4d5b44"
+	],
+	tasks: [{
+		uid: "742b3803",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "08945e49",
+		type: "item",
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "extrautils2:xu2.greek.fire"
+			}
+		}
+	}]
+}

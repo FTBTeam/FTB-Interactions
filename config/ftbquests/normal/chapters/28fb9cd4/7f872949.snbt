@@ -1,0 +1,25 @@
+{
+	title: "{interactions.28fb9cd4.7f872949.title}",
+	x: -3.0d,
+	y: 0.5d,
+	shape: "rsquare",
+	description: "{interactions.28fb9cd4.7f872949.description}",
+	tasks: [{
+		uid: "e76ca271",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent"
+		}]
+	}],
+	rewards: [{
+		uid: "463e04f9",
+		type: "item",
+		item: "astralsorcery:itemcraftingcomponent",
+		count: 2
+	},
+	{
+		uid: "85f87fbc",
+		type: "item",
+		item: "harvestcraft:blueberrysmoothieitem"
+	}]
+}

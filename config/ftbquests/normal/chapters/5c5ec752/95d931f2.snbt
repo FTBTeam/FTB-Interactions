@@ -1,0 +1,31 @@
+{
+	title: "{interactions.5c5ec752.95d931f2.title}",
+	x: -3.0d,
+	y: -5.0d,
+	text: [
+		"{interactions.5c5ec752.95d931f2.text.0}",
+		"{interactions.5c5ec752.95d931f2.text.1}"
+	],
+	dependencies: [
+		"d6801307"
+	],
+	tasks: [{
+		uid: "deec492b",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 12018"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "795fa5bb",
+		type: "item",
+		item: "minecraft:slime",
+		count: 2
+	},
+	{
+		uid: "21ce5830",
+		type: "item",
+		item: "harvestcraft:chimichangaitem"
+	}]
+}

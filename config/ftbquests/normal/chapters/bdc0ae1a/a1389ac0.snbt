@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	description: "{interactions.bdc0ae1a.a1389ac0.description}",
+	dependencies: [
+		"1b10cc2d"
+	],
+	tasks: [{
+		uid: "cd8cc18d",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 2"
+		}]
+	}]
+}

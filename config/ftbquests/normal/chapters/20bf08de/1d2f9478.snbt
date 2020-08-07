@@ -1,0 +1,34 @@
+{
+	x: -6.0d,
+	y: -7.0d,
+	shape: "diamond",
+	text: [
+		"{interactions.20bf08de.1d2f9478.text.0}",
+		"{interactions.20bf08de.1d2f9478.text.1}",
+		"{interactions.20bf08de.1d2f9478.text.2}",
+		"{interactions.20bf08de.1d2f9478.text.3}",
+		"{interactions.20bf08de.1d2f9478.text.4}",
+		"{interactions.20bf08de.1d2f9478.text.5}"
+	],
+	dependencies: [
+		"86372210"
+	],
+	tasks: [{
+		uid: "cf0ac783",
+		type: "item",
+		items: [{
+			item: "thaumcraft:infusion_matrix"
+		}]
+	}],
+	rewards: [{
+		uid: "c211a68f",
+		type: "item",
+		item: "xreliquary:interdiction_torch"
+	},
+	{
+		uid: "a17e3c5e",
+		type: "item",
+		item: "thaumcraft:triple_meat_treat",
+		count: 8
+	}]
+}

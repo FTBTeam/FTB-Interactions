@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 10.0d,
+	description: "{interactions.154955d3.2b15bcdb.description}",
+	tasks: [{
+		uid: "62a8e000",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}]
+	}]
+}

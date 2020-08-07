@@ -1,0 +1,18 @@
+{
+	title: "{interactions.ed136c16.e66e3fa8.title}",
+	x: -11.5d,
+	y: 4.0d,
+	text: [
+		"{interactions.ed136c16.e66e3fa8.text.0}"
+	],
+	dependencies: [
+		"be691558"
+	],
+	tasks: [{
+		uid: "fe5fa361",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxplug"
+		}]
+	}]
+}

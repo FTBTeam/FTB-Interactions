@@ -1,0 +1,29 @@
+{
+	title: "{interactions.ed136c16.e215f0b3.title}",
+	x: -0.5d,
+	y: -5.5d,
+	text: [
+		"{interactions.ed136c16.e215f0b3.text.0}"
+	],
+	dependencies: [
+		"bcc51b66"
+	],
+	tasks: [{
+		uid: "eba36da9",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativesolidwood 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "135aefcf",
+		type: "item",
+		item: "extrautils2:decorativesolidwood 1 1",
+		count: 4
+	},
+	{
+		uid: "18adbbf0",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

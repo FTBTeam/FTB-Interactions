@@ -1,0 +1,19 @@
+{
+	title: "{interactions.28fb9cd4.d85bce55.title}",
+	icon: "thaumcraft:nugget 1 10",
+	x: -11.5d,
+	y: 4.0d,
+	description: "{interactions.28fb9cd4.d85bce55.description}",
+	dependencies: [
+		"8968f5fc",
+		"ba92ee4f",
+		"86a86cae"
+	],
+	tasks: [{
+		uid: "ddb6fcea",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ore_amber"
+		}]
+	}]
+}

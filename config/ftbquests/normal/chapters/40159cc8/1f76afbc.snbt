@@ -1,0 +1,23 @@
+{
+	x: 8.0d,
+	y: -11.0d,
+	text: [
+		"{interactions.40159cc8.1f76afbc.text.0}"
+	],
+	dependencies: [
+		"97e0a29a"
+	],
+	tasks: [{
+		uid: "f8310970",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_molybdenite_0"
+		}]
+	}],
+	rewards: [{
+		uid: "d4e4db0b",
+		type: "item",
+		item: "gregtech:wire_coil 1 4",
+		count: 8
+	}]
+}

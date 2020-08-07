@@ -1,0 +1,24 @@
+{
+	title: "{interactions.a4a70422.0e6f8cdf.title}",
+	x: -6.0d,
+	y: -6.0d,
+	description: "{interactions.a4a70422.0e6f8cdf.description}",
+	dependencies: [
+		"558bc2e1"
+	],
+	tasks: [{
+		uid: "62600270",
+		type: "item",
+		items: [{
+			id: "enderio:block_tank",
+			tag: {
+				"enderio:data": {
+					tank: {
+						Empty: "",
+						Capacity: 16000
+					}
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "{interactions.9b11da3e.656a9599.title}",
+	x: -3.0d,
+	y: -5.0d,
+	description: "{interactions.9b11da3e.656a9599.description}",
+	dependencies: [
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "8e16f356",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 2052"
+		}]
+	},
+	{
+		uid: "0874922f",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 2050"
+		}]
+	},
+	{
+		uid: "635dc95a",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 2048"
+		}]
+	}]
+}

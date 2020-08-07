@@ -1,0 +1,31 @@
+{
+	title: "{interactions.ed136c16.7f51a952.title}",
+	x: -1.5d,
+	y: -1.0d,
+	shape: "diamond",
+	text: [
+		"{interactions.ed136c16.7f51a952.text.0}"
+	],
+	dependencies: [
+		"d94602f8",
+		"a92a3fbd"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "55df685d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1bd1bfaa",
+		type: "item",
+		item: "cyclicmagic:cable_wireless"
+	}]
+}

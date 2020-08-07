@@ -1,0 +1,36 @@
+{
+	x: -6.5d,
+	y: -2.0d,
+	text: [
+		"{interactions.ed136c16.cc007cac.text.0}",
+		"{interactions.ed136c16.cc007cac.text.1}",
+		"",
+		"{interactions.ed136c16.cc007cac.text.3}"
+	],
+	tasks: [{
+		uid: "d69bde15",
+		type: "item",
+		title: "{interactions.ed136c16.cc007cac.tasks.0.title}",
+		items: [{
+			item: "minecraft:egg"
+		}],
+		count: 2500L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "313433e5",
+		type: "choice",
+		table: 0
+	},
+	{
+		uid: "8181ff06",
+		type: "item",
+		item: "minecraft:rabbit_foot",
+		count: 5
+	},
+	{
+		uid: "dbb7a0e2",
+		type: "item",
+		item: "minecraft:saddle"
+	}]
+}

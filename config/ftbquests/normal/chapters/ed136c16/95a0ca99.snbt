@@ -1,0 +1,27 @@
+{
+	title: "{interactions.ed136c16.95a0ca99.title}",
+	x: -5.0d,
+	y: -4.5d,
+	description: "{interactions.ed136c16.95a0ca99.description}",
+	text: [
+		"{interactions.ed136c16.95a0ca99.text.0}"
+	],
+	dependencies: [
+		"09586bfe"
+	],
+	tasks: [{
+		uid: "26902743",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:satchel",
+			tag: {
+				Accessible: 1
+			},
+			Damage: 100s
+		}],
+		ignore_nbt: 1b
+	}]
+}

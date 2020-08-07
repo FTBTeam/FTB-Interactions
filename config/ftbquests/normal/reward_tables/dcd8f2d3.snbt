@@ -1,0 +1,87 @@
+{
+	title: "HippoEggs",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "iceandfire:hippogryph_egg",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Dark Brown Hippogryph Egg"
+				}
+			},
+			Damage: 5s
+		}
+	},
+	{
+		item: {
+			id: "iceandfire:hippogryph_egg",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "White Hippogryph Egg"
+				}
+			},
+			Damage: 6s
+		}
+	},
+	{
+		item: {
+			id: "iceandfire:hippogryph_egg",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Black Hippogryph Egg"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "iceandfire:hippogryph_egg",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Brown Hippogryph Egg"
+				}
+			},
+			Damage: 1s
+		}
+	},
+	{
+		item: {
+			id: "iceandfire:hippogryph_egg",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Gray Hippogryph Egg"
+				}
+			},
+			Damage: 2s
+		}
+	},
+	{
+		item: {
+			id: "iceandfire:hippogryph_egg",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Chestnut Hippogryph Egg"
+				}
+			},
+			Damage: 3s
+		}
+	},
+	{
+		item: {
+			id: "iceandfire:hippogryph_egg",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Cream Hippogryph Egg"
+				}
+			},
+			Damage: 4s
+		}
+	}]
+}

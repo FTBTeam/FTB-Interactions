@@ -1,0 +1,24 @@
+{
+	x: -17.0d,
+	y: -2.0d,
+	text: [
+		"{interactions.a4a70422.88808d15.text.0}",
+		"{interactions.a4a70422.88808d15.text.1}"
+	],
+	dependencies: [
+		"877f5f61"
+	],
+	tasks: [{
+		uid: "2af8606f",
+		type: "item",
+		items: [{
+			item: "superfactorymanager:cable_breaker"
+		}]
+	}],
+	rewards: [{
+		uid: "970187e6",
+		type: "item",
+		item: "superfactorymanager:cable",
+		count: 8
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: -2.5d,
+	y: -9.0d,
+	shape: "rsquare",
+	description: "{interactions.20bf08de.ff3d03e4.description}",
+	tasks: [{
+		uid: "fc2d91a0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:amber"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	disable_toast: true,
+	x: 6.0d,
+	y: -3.5d,
+	text: [
+		"{interactions.154955d3.3b4bd52b.text.0}"
+	],
+	dependencies: [
+		"07930191"
+	],
+	tasks: [{
+		uid: "75e794f7",
+		type: "checkmark",
+		title: "{interactions.154955d3.3b4bd52b.tasks.0.title}",
+		icon: "opencomputers:upgrade 1 11"
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "{interactions.28fb9cd4.b1dded11.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "astralsorcery:blockaltar"
+	},
+	x: -4.0d,
+	y: 1.5d,
+	description: "{interactions.28fb9cd4.b1dded11.description}",
+	tasks: [{
+		uid: "c5e6d160",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "96fddc0c",
+		type: "item",
+		item: "astralsorcery:blockmarble 1 6",
+		count: 4
+	}]
+}

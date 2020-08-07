@@ -1,0 +1,22 @@
+{
+	x: -4.5d,
+	y: -0.5d,
+	text: [
+		"{interactions.fcf42610.430f5fa1.text.0}"
+	],
+	dependencies: [
+		"a6d5688e"
+	],
+	tasks: [{
+		uid: "881f6893",
+		type: "checkmark",
+		title: "{interactions.fcf42610.430f5fa1.tasks.0.title}",
+		icon: "libvulpes:productingot 1 6"
+	}],
+	rewards: [{
+		uid: "1ddd536f",
+		type: "item",
+		item: "gregtech:meta_item_1 1 12184",
+		count: 4
+	}]
+}

@@ -1,0 +1,56 @@
+{
+	x: -14.5d,
+	y: -2.5d,
+	text: [
+		"{interactions.a4a70422.074fc3f0.text.0}"
+	],
+	dependencies: [
+		"f6041d91"
+	],
+	tasks: [{
+		uid: "ec194a7a",
+		type: "item",
+		items: [{
+			item: "logisticspipes:program_compiler"
+		}]
+	},
+	{
+		uid: "c4f472f4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "logisticspipes:disk"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4d6c12b3",
+		type: "item",
+		items: [{
+			item: "logisticspipes:logistics_programmer"
+		}]
+	}],
+	rewards: [{
+		uid: "ead10333",
+		type: "item",
+		item: "logisticspipes:pipe_basic",
+		count: 4
+	},
+	{
+		uid: "74a1f116",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "logisticspipes:guide_book",
+			tag: {
+				sliderProgress: 0.0f,
+				page: 9
+			}
+		}
+	}]
+}

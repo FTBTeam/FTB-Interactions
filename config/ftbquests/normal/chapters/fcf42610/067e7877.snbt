@@ -1,0 +1,20 @@
+{
+	title: "{interactions.fcf42610.067e7877.title}",
+	x: -5.5d,
+	y: -1.5d,
+	shape: "circle",
+	text: [
+		"{interactions.fcf42610.067e7877.text.0}",
+		"{interactions.fcf42610.067e7877.text.1}"
+	],
+	dependencies: [
+		"72dc249f"
+	],
+	tasks: [{
+		uid: "94b6dad3",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10087"
+		}]
+	}]
+}

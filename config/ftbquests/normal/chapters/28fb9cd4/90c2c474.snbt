@@ -1,0 +1,28 @@
+{
+	title: "{interactions.28fb9cd4.90c2c474.title}",
+	x: -5.0d,
+	y: 3.0d,
+	description: "{interactions.28fb9cd4.90c2c474.description}",
+	dependencies: [
+		"77432fb3",
+		"b1dded11"
+	],
+	tasks: [{
+		uid: "b69491c4",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blocktreebeacon"
+		}]
+	}],
+	rewards: [{
+		uid: "ae372ac8",
+		type: "item",
+		item: "enderutilities:enderpart 1 73",
+		count: 3
+	},
+	{
+		uid: "32a17468",
+		type: "item",
+		item: "thaumcraft:seal 1 1"
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	title: "{interactions.40159cc8.3d592508.title}",
+	x: 3.0d,
+	y: -20.0d,
+	description: "{interactions.40159cc8.3d592508.description}",
+	dependencies: [
+		"91d4c602"
+	],
+	tasks: [{
+		uid: "77967da3",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "rocket_fuel",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "f291c849",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "rocket_fuel",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}
+	}]
+}

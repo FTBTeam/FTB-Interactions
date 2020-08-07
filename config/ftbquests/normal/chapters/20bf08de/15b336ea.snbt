@@ -1,0 +1,30 @@
+{
+	x: -7.0d,
+	y: -10.0d,
+	description: "{interactions.20bf08de.15b336ea.description}",
+	dependencies: [
+		"8eac9d15",
+		"de2a21ac"
+	],
+	tasks: [{
+		uid: "d8f952bc",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust"
+		}]
+	},
+	{
+		uid: "30ce7b24",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 330"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "dc74f16f",
+		type: "item",
+		item: "minecraft:glowstone",
+		count: 4
+	}]
+}

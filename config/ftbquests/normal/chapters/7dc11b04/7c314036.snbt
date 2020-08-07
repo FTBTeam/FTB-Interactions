@@ -1,0 +1,39 @@
+{
+	title: "{interactions.7dc11b04.7c314036.title}",
+	x: -4.5d,
+	y: -2.0d,
+	description: "{interactions.7dc11b04.7c314036.description}",
+	text: [
+		"{interactions.7dc11b04.7c314036.text.0}",
+		"{interactions.7dc11b04.7c314036.text.1}"
+	],
+	dependencies: [
+		"631b3bd9"
+	],
+	tasks: [{
+		uid: "d7341077",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:activation_crystal",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "61ea669e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:master"
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

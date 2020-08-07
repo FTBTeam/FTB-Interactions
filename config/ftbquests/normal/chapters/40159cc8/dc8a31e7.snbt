@@ -1,0 +1,17 @@
+{
+	title: "{interactions.40159cc8.dc8a31e7.title}",
+	x: 3.0d,
+	y: -17.0d,
+	shape: "rsquare",
+	description: "{interactions.40159cc8.dc8a31e7.description}",
+	dependencies: [
+		"323ae2d3"
+	],
+	tasks: [{
+		uid: "b18fdab0",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:monitoringstation"
+		}]
+	}]
+}

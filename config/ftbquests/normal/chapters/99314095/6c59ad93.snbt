@@ -1,0 +1,28 @@
+{
+	title: "{interactions.99314095.6c59ad93.title}",
+	x: -7.0d,
+	y: 2.0d,
+	description: "{interactions.99314095.6c59ad93.description}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"ace65682"
+	],
+	tasks: [{
+		uid: "3e304dc7",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 271"
+		}]
+	}],
+	rewards: [{
+		uid: "de5526a7",
+		type: "item",
+		item: "gregtech:meta_item_1 1 10017",
+		count: 16
+	},
+	{
+		uid: "fa237186",
+		type: "item",
+		item: "harvestcraft:cornishpastyitem"
+	}]
+}

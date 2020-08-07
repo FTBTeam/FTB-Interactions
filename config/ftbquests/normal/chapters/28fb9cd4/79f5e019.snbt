@@ -1,0 +1,52 @@
+{
+	title: "{interactions.28fb9cd4.79f5e019.title}",
+	x: -5.0d,
+	y: 5.0d,
+	description: "{interactions.28fb9cd4.79f5e019.description}",
+	text: [
+		"{interactions.28fb9cd4.79f5e019.text.0}",
+		"{interactions.28fb9cd4.79f5e019.text.1}"
+	],
+	dependencies: [
+		"1d37b267"
+	],
+	tasks: [{
+		uid: "dfa9b5d0",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockstarlightinfuser"
+		}]
+	}],
+	rewards: [{
+		uid: "42f138cd",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1,
+					id: 47
+				}]
+			}
+		}
+	},
+	{
+		uid: "d9cc9aef",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemchargedcrystalshovel",
+			tag: {
+				astralsorcery: {
+					size: 900,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1,
+					collect: 100
+				}
+			}
+		}
+	}]
+}

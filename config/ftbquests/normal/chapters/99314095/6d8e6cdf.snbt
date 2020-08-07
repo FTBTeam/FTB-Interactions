@@ -1,0 +1,55 @@
+{
+	title: "{interactions.99314095.6d8e6cdf.title}",
+	x: -10.5d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "{interactions.99314095.6d8e6cdf.description}",
+	text: [
+		"{interactions.99314095.6d8e6cdf.text.0}",
+		"{interactions.99314095.6d8e6cdf.text.1}"
+	],
+	dependencies: [
+		"243978e1",
+		"c13fb853"
+	],
+	tasks: [{
+		uid: "c2d3f544",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:hellfire_kiln"
+			}
+		}]
+	},
+	{
+		uid: "7bc0eb9c",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockcasing 1 1"
+		}]
+	},
+	{
+		uid: "13ca3e5b",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockcontroller"
+		}]
+	}],
+	rewards: [{
+		uid: "ec5d620c",
+		type: "item",
+		item: "gregtech:meta_item_2 1 32487",
+		count: 4
+	},
+	{
+		uid: "884d4b54",
+		type: "item",
+		item: "logisticspipes:module_active_supplier"
+	},
+	{
+		uid: "47794786",
+		type: "item",
+		item: "logisticspipes:module_provider"
+	}]
+}

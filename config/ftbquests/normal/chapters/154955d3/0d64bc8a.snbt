@@ -1,0 +1,26 @@
+{
+	title: "{interactions.154955d3.0d64bc8a.title}",
+	icon: "minecraft:dispenser",
+	x: 4.5d,
+	y: -2.5d,
+	shape: "gear",
+	text: [
+		"{interactions.154955d3.0d64bc8a.text.0}"
+	],
+	dependencies: [
+		"3b4bd52b"
+	],
+	tasks: [{
+		uid: "c239ec5d",
+		type: "checkmark",
+		title: "{interactions.154955d3.0d64bc8a.tasks.0.title}",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:cosmetic",
+			Damage: 31s
+		},
+		disable_toast: true
+	}]
+}

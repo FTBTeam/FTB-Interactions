@@ -1,0 +1,16 @@
+{
+	title: "{interactions.bc233ece.5c13f17c.title}",
+	x: -0.5d,
+	y: -1.0d,
+	description: "{interactions.bc233ece.5c13f17c.description}",
+	dependencies: [
+		"76c508fd"
+	],
+	tasks: [{
+		uid: "f5d034b9",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 24"
+		}]
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	x: -9.0d,
+	y: 3.0d,
+	text: [
+		"{interactions.a4a70422.f18ebd20.text.0}",
+		"{interactions.a4a70422.f18ebd20.text.1}",
+		"{interactions.a4a70422.f18ebd20.text.2}"
+	],
+	dependencies: [
+		"39d33b3e"
+	],
+	tasks: [{
+		uid: "63fc2aed",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:fluid_interface"
+		}]
+	}],
+	rewards: [{
+		uid: "eb01fb92",
+		type: "item",
+		item: "appliedenergistics2:part 1 302"
+	},
+	{
+		uid: "d279acb7",
+		type: "item",
+		item: "appliedenergistics2:part 1 281"
+	},
+	{
+		uid: "6df0fcfd",
+		type: "item",
+		item: "appliedenergistics2:part 1 321"
+	}]
+}

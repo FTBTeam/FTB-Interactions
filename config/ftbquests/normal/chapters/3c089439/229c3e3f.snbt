@@ -1,0 +1,30 @@
+{
+	title: "{interactions.3c089439.229c3e3f.title}",
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"{interactions.3c089439.229c3e3f.text.0}"
+	],
+	dependencies: [
+		"468e3e2d"
+	],
+	tasks: [{
+		uid: "1897cc1e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2001"
+		}],
+		count: 4L
+	},
+	{
+		uid: "b93e8e44",
+		type: "checkmark",
+		title: "{interactions.3c089439.229c3e3f.tasks.1.title}"
+	}],
+	rewards: [{
+		uid: "e94d8830",
+		type: "item",
+		item: "gregtech:meta_item_2 1 32469",
+		count: 4
+	}]
+}

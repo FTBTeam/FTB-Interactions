@@ -1,0 +1,33 @@
+{
+	title: "{interactions.20bf08de.24b878d5.title}",
+	x: -7.0d,
+	y: -6.0d,
+	text: [
+		"{interactions.20bf08de.24b878d5.text.0}",
+		"{interactions.20bf08de.24b878d5.text.1}"
+	],
+	dependencies: [
+		"1d2f9478",
+		"85a2b7d1"
+	],
+	tasks: [{
+		uid: "662cc4db",
+		type: "item",
+		items: [{
+			item: "thaumcraft:essentia_input"
+		}]
+	},
+	{
+		uid: "fb5dedba",
+		type: "item",
+		items: [{
+			item: "thaumcraft:essentia_output"
+		}]
+	}],
+	rewards: [{
+		uid: "edd79c35",
+		type: "item",
+		item: "thaumcraft:mirror_essentia",
+		count: 2
+	}]
+}

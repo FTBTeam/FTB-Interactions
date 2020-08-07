@@ -1,0 +1,14 @@
+{
+	title: "{interactions.251cae50.chapter.title}",
+	icon: "gregtech:meta_item_2 1 32501",
+	description: [
+		"{interactions.251cae50.chapter.description.0}",
+		"",
+		"{interactions.251cae50.chapter.description.2}",
+		"{interactions.251cae50.chapter.description.3}",
+		""
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

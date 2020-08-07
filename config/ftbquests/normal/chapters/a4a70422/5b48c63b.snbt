@@ -1,0 +1,23 @@
+{
+	x: -22.0d,
+	y: -2.0d,
+	shape: "circle",
+	text: [
+		"{interactions.a4a70422.5b48c63b.text.0}",
+		"{interactions.a4a70422.5b48c63b.text.1}"
+	],
+	tasks: [{
+		uid: "c6868332",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:servo"
+		}]
+	},
+	{
+		uid: "c9dc1765",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_32"
+		}]
+	}]
+}

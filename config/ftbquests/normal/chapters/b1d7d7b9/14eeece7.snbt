@@ -1,0 +1,25 @@
+{
+	x: -0.5d,
+	y: -7.0d,
+	text: [
+		"{interactions.b1d7d7b9.14eeece7.text.0}"
+	],
+	dependencies: [
+		"7f0e32a6"
+	],
+	tasks: [{
+		uid: "441bf08c",
+		type: "checkmark",
+		title: "{interactions.b1d7d7b9.14eeece7.tasks.0.title}",
+		icon: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "hydrogen",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}
+	}]
+}

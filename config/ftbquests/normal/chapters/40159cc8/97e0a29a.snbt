@@ -1,0 +1,18 @@
+{
+	title: "{interactions.40159cc8.97e0a29a.title}",
+	x: 7.0d,
+	y: -11.0d,
+	shape: "diamond",
+	description: "{interactions.40159cc8.97e0a29a.description}",
+	dependencies: [
+		"1e07ae16",
+		"da0cc52f"
+	],
+	tasks: [{
+		uid: "ccb13932",
+		type: "item",
+		items: [{
+			item: "contenttweaker:overworldessencel"
+		}]
+	}]
+}

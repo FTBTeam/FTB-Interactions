@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 4.0d,
+	text: [
+		"{interactions.ed136c16.600b4273.text.0}"
+	],
+	dependencies: [
+		"75c24ed9"
+	],
+	tasks: [{
+		uid: "12057f2c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

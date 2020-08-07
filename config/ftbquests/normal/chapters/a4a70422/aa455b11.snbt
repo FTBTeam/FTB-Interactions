@@ -1,0 +1,21 @@
+{
+	x: -21.0d,
+	y: -2.0d,
+	text: [
+		"{interactions.a4a70422.aa455b11.text.0}"
+	],
+	tasks: [{
+		uid: "c8e334f9",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:servo"
+		}]
+	},
+	{
+		uid: "ad67277e",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_16"
+		}]
+	}]
+}

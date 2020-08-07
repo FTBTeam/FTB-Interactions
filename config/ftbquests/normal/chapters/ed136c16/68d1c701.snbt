@@ -1,0 +1,36 @@
+{
+	title: "{interactions.ed136c16.68d1c701.title}",
+	x: -7.0d,
+	y: 2.0d,
+	text: [
+		"{interactions.ed136c16.68d1c701.text.0}"
+	],
+	dependencies: [
+		"635d5fcc"
+	],
+	tasks: [{
+		uid: "75fa0277",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:jetpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ede1e4d8",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:gastank",
+			tag: {
+				tier: 1
+			}
+		}
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	x: -12.0d,
+	y: -2.5d,
+	text: [
+		"{interactions.a4a70422.518a088a.text.0}"
+	],
+	dependencies: [
+		"f6041d91"
+	],
+	tasks: [{
+		uid: "1132d656",
+		type: "item",
+		items: [{
+			item: "logisticspipes:module_extractor"
+		}]
+	},
+	{
+		uid: "52fc5346",
+		type: "item",
+		items: [{
+			item: "logisticspipes:pipe_chassis_mk1"
+		}]
+	}],
+	rewards: [{
+		uid: "63047c57",
+		type: "item",
+		item: "logisticspipes:module_item_sink",
+		count: 2
+	}]
+}

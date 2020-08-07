@@ -1,0 +1,47 @@
+{
+	title: "{interactions.3c089439.468e3e2d.title}",
+	x: 1.0d,
+	y: -1.5d,
+	text: [
+		"{interactions.3c089439.468e3e2d.text.0}"
+	],
+	dependencies: [
+		"a73d5e3d"
+	],
+	tasks: [{
+		uid: "766be986",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 6114"
+		}]
+	},
+	{
+		uid: "5c0c70af",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 6182"
+		}]
+	},
+	{
+		uid: "63483480",
+		type: "checkmark",
+		title: "{interactions.3c089439.468e3e2d.tasks.2.title}"
+	}],
+	rewards: [{
+		uid: "53df31b3",
+		type: "item",
+		item: "gregtech:meta_item_1 1 6182",
+		count: 16
+	},
+	{
+		uid: "b3697032",
+		type: "item",
+		item: "gregtech:meta_item_1 1 6114",
+		count: 16
+	},
+	{
+		uid: "5a367269",
+		type: "item",
+		item: "harvestcraft:pumpkinspicelatteitem"
+	}]
+}

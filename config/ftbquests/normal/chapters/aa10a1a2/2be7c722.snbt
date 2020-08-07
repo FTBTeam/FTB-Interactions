@@ -1,0 +1,53 @@
+{
+	title: "{interactions.aa10a1a2.2be7c722.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mekanism:machineblock",
+		Damage: 12s
+	},
+	x: -13.0d,
+	y: -3.5d,
+	description: "{interactions.aa10a1a2.2be7c722.description}",
+	text: [
+		""
+	],
+	dependencies: [
+		"c13fb853",
+		"51878972"
+	],
+	tasks: [{
+		uid: "77a980c2",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0,
+				Facing: 3,
+				Energy: 0,
+				SideCache: [B;
+					0b,
+					1b,
+					0b,
+					0b,
+					0b,
+					0b
+				]
+			}
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			Damage: 12s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "421ed431",
+		type: "item",
+		item: "gregtech:machine 1 2197"
+	}]
+}

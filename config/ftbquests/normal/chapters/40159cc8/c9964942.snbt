@@ -1,0 +1,32 @@
+{
+	title: "{interactions.40159cc8.c9964942.title}",
+	x: -4.0d,
+	y: -10.0d,
+	description: "{interactions.40159cc8.c9964942.description}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"78546de8",
+		"fe50d67e"
+	],
+	tasks: [{
+		uid: "b4e2266e",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_lapis_0"
+		}]
+	},
+	{
+		uid: "b019af57",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomore 1 1"
+		}]
+	},
+	{
+		uid: "59c2429a",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_cobalt_0"
+		}]
+	}]
+}

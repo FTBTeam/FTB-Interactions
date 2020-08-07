@@ -1,0 +1,26 @@
+{
+	title: "{interactions.154955d3.ee31eaaf.title}",
+	x: 0.0d,
+	y: 5.0d,
+	description: "{interactions.154955d3.ee31eaaf.description}",
+	text: [
+		"{interactions.154955d3.ee31eaaf.text.0}",
+		"{interactions.154955d3.ee31eaaf.text.1}",
+		"{interactions.154955d3.ee31eaaf.text.2}"
+	],
+	dependencies: [
+		"1bb9079a"
+	],
+	tasks: [{
+		uid: "a20d7c32",
+		type: "item",
+		items: [{
+			item: "enderio:block_infinity_fog"
+		}]
+	}],
+	rewards: [{
+		uid: "32c46e7b",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

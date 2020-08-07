@@ -1,0 +1,18 @@
+{
+	title: "{interactions.103abc81.0dcfd09c.title}",
+	x: 4.0d,
+	y: 3.5d,
+	text: [
+		"{interactions.103abc81.0dcfd09c.text.0}"
+	],
+	dependencies: [
+		"6672ed55"
+	],
+	tasks: [{
+		uid: "84e6382e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 511"
+		}]
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "{interactions.aa10a1a2.7d0d44c4.title}",
+	x: -10.5d,
+	y: 4.5d,
+	text: [
+		"{interactions.aa10a1a2.7d0d44c4.text.0}"
+	],
+	dependencies: [
+		"81146e1b"
+	],
+	tasks: [{
+		uid: "3720501b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 724"
+		},
+		{
+			item: "gregtech:machine 1 734"
+		}],
+		count: 2L
+	}]
+}

@@ -1,0 +1,42 @@
+{
+	x: 1.0d,
+	y: -5.0d,
+	text: [
+		"{interactions.aea6d983.b1c239fe.text.0}"
+	],
+	dependencies: [
+		"bad8af80",
+		"57568467"
+	],
+	tasks: [{
+		uid: "fe1d5491",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:resonatingchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "5bb99f1f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:resonating_enriched_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "7276703d",
+		type: "item",
+		item: "enderio:block_tele_pad",
+		count: 9
+	},
+	{
+		uid: "a2cd11d4",
+		type: "item",
+		item: "enderio:block_dialing_device"
+	}]
+}

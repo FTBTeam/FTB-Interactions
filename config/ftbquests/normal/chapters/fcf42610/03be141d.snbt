@@ -1,0 +1,8 @@
+{
+	title: "{interactions.fcf42610.03be141d.title}",
+	icon: "gregtech:meta_item_1 1 1",
+	x: -2.5d,
+	y: -1.5d,
+	shape: "gear",
+	custom_click: "https://youtu.be/8WjiZB9rTrU?t=1973"
+}

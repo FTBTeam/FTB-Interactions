@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	description: "{interactions.99314095.2a4b928a.description}",
+	dependencies: [
+		"c193d3a6"
+	],
+	tasks: [{
+		uid: "457a310a",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 431"
+		}]
+	}],
+	rewards: [{
+		uid: "ea6ce122",
+		type: "item",
+		item: "minecraft:diamond"
+	}]
+}

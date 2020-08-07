@@ -1,0 +1,56 @@
+{
+	title: "{interactions.28fb9cd4.efa75c67.title}",
+	x: -4.0d,
+	y: 7.0d,
+	description: "{interactions.28fb9cd4.efa75c67.description}",
+	dependencies: [
+		"1d37b267"
+	],
+	tasks: [{
+		uid: "6ce489cd",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockattunementaltar"
+		}]
+	}],
+	rewards: [{
+		uid: "d4773612",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.evorsio"
+				}
+			}
+		}
+	},
+	{
+		uid: "0127b69f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.discidia"
+				}
+			}
+		}
+	},
+	{
+		uid: "86cbce51",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:luxsaber"
+		}
+	}]
+}

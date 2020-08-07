@@ -1,0 +1,31 @@
+{
+	title: "{interactions.aa10a1a2.9387a9b3.title}",
+	x: -10.5d,
+	y: 1.0d,
+	text: [
+		"{interactions.aa10a1a2.9387a9b3.text.0}"
+	],
+	dependencies: [
+		"9063ed56"
+	],
+	tasks: [{
+		uid: "3e102b97",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "fuel",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "502baf80",
+		type: "item",
+		item: "gregtech:machine 1 481"
+	}]
+}

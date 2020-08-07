@@ -1,0 +1,28 @@
+{
+	title: "{interactions.40159cc8.99cb3721.title}",
+	x: 5.0d,
+	y: -8.0d,
+	text: [
+		"{interactions.40159cc8.99cb3721.text.0}"
+	],
+	dependencies: [
+		"2f6967ca"
+	],
+	tasks: [{
+		uid: "2a82909d",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 1028"
+		}]
+	}],
+	rewards: [{
+		uid: "b83dfe52",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_life_stone"
+		}
+	}]
+}

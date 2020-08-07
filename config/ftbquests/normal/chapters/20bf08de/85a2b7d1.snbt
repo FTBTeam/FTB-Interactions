@@ -1,0 +1,32 @@
+{
+	x: -8.0d,
+	y: -7.0d,
+	text: [
+		"{interactions.20bf08de.85a2b7d1.text.0}"
+	],
+	dependencies: [
+		"8eac9d15"
+	],
+	tasks: [{
+		uid: "b8e02194",
+		type: "item",
+		items: [{
+			item: "thaumcraft:metal_alchemical"
+		}]
+	}],
+	rewards: [{
+		uid: "45005cc0",
+		type: "item",
+		item: "thaumcraft:metal_alchemical"
+	},
+	{
+		uid: "6b74ceba",
+		type: "item",
+		item: "thaumcraft:crucible"
+	},
+	{
+		uid: "53bd0bd0",
+		type: "item",
+		item: "thaumcraft:salis_mundus"
+	}]
+}

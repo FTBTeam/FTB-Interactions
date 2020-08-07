@@ -1,0 +1,27 @@
+{
+	x: -2.5d,
+	y: -10.0d,
+	description: "{interactions.20bf08de.3d944c30.description}",
+	text: [
+		"{interactions.20bf08de.3d944c30.text.0}"
+	],
+	dependencies: [
+		"ed71db18",
+		"6cd9406c",
+		"e10dabbe"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "456babbb",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 24111"
+		}]
+	}],
+	rewards: [{
+		uid: "cddbb34b",
+		type: "item",
+		item: "gregtech:meta_item_2 1 24111",
+		count: 4
+	}]
+}

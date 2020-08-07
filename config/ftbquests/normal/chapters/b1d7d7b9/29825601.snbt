@@ -1,0 +1,46 @@
+{
+	title: "{interactions.b1d7d7b9.29825601.title}",
+	icon: {
+		id: "gregtech:meta_item_1",
+		tag: {
+			Fluid: {
+				FluidName: "brine",
+				Amount: 1000
+			}
+		},
+		Damage: 32762s
+	},
+	x: -10.5d,
+	y: -7.0d,
+	description: "{interactions.b1d7d7b9.29825601.description}",
+	text: [
+		"{interactions.b1d7d7b9.29825601.text.0}"
+	],
+	dependencies: [
+		"820b1cf6"
+	],
+	tasks: [{
+		uid: "00be7ca9",
+		type: "checkmark",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "brine",
+				Amount: 1000
+			}
+		}
+	}],
+	rewards: [{
+		uid: "ed8bbe97",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32313"
+	},
+	{
+		uid: "8f0cbb48",
+		type: "item",
+		item: "harvestcraft:saltedcaramelitem"
+	}]
+}

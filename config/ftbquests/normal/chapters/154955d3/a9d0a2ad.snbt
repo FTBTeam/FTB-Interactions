@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 5.0d,
+	description: "{interactions.154955d3.a9d0a2ad.description}",
+	dependencies: [
+		"7e2eeed5"
+	],
+	tasks: [{
+		uid: "95ef326d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:candleberryseeditem"
+		}]
+	}],
+	rewards: [{
+		uid: "cac3927c",
+		type: "item",
+		item: "rustic:bee"
+	}]
+}

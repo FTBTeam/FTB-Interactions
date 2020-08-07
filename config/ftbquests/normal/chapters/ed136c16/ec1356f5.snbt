@@ -1,0 +1,36 @@
+{
+	title: "{interactions.ed136c16.ec1356f5.title}",
+	x: -1.5d,
+	y: 4.0d,
+	shape: "circle",
+	text: [
+		"{interactions.ed136c16.ec1356f5.text.0}",
+		"{interactions.ed136c16.ec1356f5.text.1}",
+		"{interactions.ed136c16.ec1356f5.text.2}",
+		"{interactions.ed136c16.ec1356f5.text.3}",
+		"{interactions.ed136c16.ec1356f5.text.4}",
+		"{interactions.ed136c16.ec1356f5.text.5}"
+	],
+	dependencies: [
+		"5633991b"
+	],
+	tasks: [{
+		uid: "71f6481f",
+		type: "item",
+		items: [{
+			item: "cyberware:cyberlimbs 1 2"
+		}]
+	},
+	{
+		uid: "fd0ffdbc",
+		type: "item",
+		items: [{
+			item: "cyberware:cyberlimbs 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "2f2fb254",
+		type: "item",
+		item: "cyberware:foot_upgrades 1 2"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -8.0d,
+	y: -12.0d,
+	description: "{interactions.9b11da3e.0989f65a.description}",
+	dependencies: [
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "c346fc10",
+		type: "item",
+		items: [{
+			item: "gregtech:granite"
+		}]
+	}]
+}

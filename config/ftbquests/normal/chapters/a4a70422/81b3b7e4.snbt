@@ -1,0 +1,17 @@
+{
+	x: -8.0d,
+	y: -6.0d,
+	text: [
+		"{interactions.a4a70422.81b3b7e4.text.0}"
+	],
+	dependencies: [
+		"ec626521"
+	],
+	tasks: [{
+		uid: "aac9c0e1",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 32406"
+		}]
+	}]
+}

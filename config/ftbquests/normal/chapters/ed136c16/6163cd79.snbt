@@ -1,0 +1,28 @@
+{
+	x: -11.5d,
+	y: 0.5d,
+	description: "{interactions.ed136c16.6163cd79.description}",
+	dependencies: [
+		"becdc9a7"
+	],
+	tasks: [{
+		uid: "d391da77",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:spectrecharger",
+			tag: {
+				options: {}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c2851919",
+		type: "item",
+		item: "lteleporters:endercrystal",
+		count: 2
+	}]
+}

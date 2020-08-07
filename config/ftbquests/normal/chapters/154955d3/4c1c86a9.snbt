@@ -1,0 +1,45 @@
+{
+	title: "{interactions.154955d3.4c1c86a9.title}",
+	x: 2.0d,
+	y: 7.0d,
+	shape: "rsquare",
+	description: "{interactions.154955d3.4c1c86a9.description}",
+	text: [
+		"{interactions.154955d3.4c1c86a9.text.0}"
+	],
+	dependencies: [
+		"b030b92e"
+	],
+	tasks: [{
+		uid: "b8d63607",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "blockfluiddirt",
+				Amount: 1000
+			}
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ceramics:clay_bucket",
+			tag: {
+				fluids: {
+					FluidName: "blockfluiddirt",
+					Amount: 1000
+				}
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "9bb47f07",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

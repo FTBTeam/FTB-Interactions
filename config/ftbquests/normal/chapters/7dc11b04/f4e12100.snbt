@@ -1,0 +1,38 @@
+{
+	title: "{interactions.7dc11b04.f4e12100.title}",
+	x: -2.0d,
+	y: -3.5d,
+	text: [
+		"{interactions.7dc11b04.f4e12100.text.0}"
+	],
+	dependencies: [
+		"5eaa3801"
+	],
+	dependency_requirement: "all_started",
+	optional: true,
+	tasks: [{
+		uid: "a6b8e735",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -5570085101611273969L,
+					AS_Amulet_HolderMost: 5678865977197479355L
+				}
+			},
+			id: "avaritia:skullfire_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b5762cd7",
+		type: "item",
+		item: "minecraft:skull 1 1"
+	},
+	{
+		uid: "98422628",
+		type: "xp_levels",
+		xp_levels: 10
+	}]
+}

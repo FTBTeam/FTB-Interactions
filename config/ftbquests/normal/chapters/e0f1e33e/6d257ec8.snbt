@@ -1,0 +1,30 @@
+{
+	title: "{interactions.e0f1e33e.6d257ec8.title}",
+	x: -1.0d,
+	y: 0.5d,
+	text: [
+		"{interactions.e0f1e33e.6d257ec8.text.0}"
+	],
+	dependencies: [
+		"cbbc96a7"
+	],
+	tasks: [{
+		uid: "849803a5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:trial_key"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c7450198",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:trial_keystone"
+		}]
+	}]
+}

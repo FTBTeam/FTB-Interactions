@@ -1,0 +1,39 @@
+{
+	title: "{interactions.154955d3.7d56d52e.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "ceramics:clay_bucket",
+		tag: {
+			fluids: {
+				FluidName: "lava",
+				Amount: 1000
+			}
+		}
+	},
+	x: -3.0d,
+	y: 10.0d,
+	description: "{interactions.154955d3.7d56d52e.description}",
+	dependencies: [
+		"2b15bcdb",
+		"bc16b2a8",
+		"b7027e49"
+	],
+	tasks: [{
+		uid: "1bf621af",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ceramics:clay_bucket",
+			tag: {
+				fluids: {
+					FluidName: "lava",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

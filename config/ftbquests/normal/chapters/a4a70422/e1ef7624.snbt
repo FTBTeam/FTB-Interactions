@@ -1,0 +1,36 @@
+{
+	title: "{interactions.a4a70422.e1ef7624.title}",
+	x: -17.0d,
+	y: -6.0d,
+	description: "{interactions.a4a70422.e1ef7624.description}",
+	text: [
+		"{interactions.a4a70422.e1ef7624.text.0}"
+	],
+	dependencies: [
+		"18a905eb"
+	],
+	tasks: [{
+		uid: "47c28f7b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rftools:storage_module",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "05326a59",
+		type: "item",
+		item: "mekanism:enrichedalloy",
+		count: 4
+	},
+	{
+		uid: "50a1fe92",
+		type: "item",
+		item: "mekanism:reinforcedalloy",
+		count: 2
+	}]
+}

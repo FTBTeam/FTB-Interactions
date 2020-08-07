@@ -1,0 +1,32 @@
+{
+	x: -9.0d,
+	y: -11.0d,
+	text: [
+		"{interactions.20bf08de.da041c64.text.0}",
+		"",
+		"{interactions.20bf08de.da041c64.text.2}",
+		"",
+		"{interactions.20bf08de.da041c64.text.4}"
+	],
+	dependencies: [
+		"8eac9d15"
+	],
+	tasks: [{
+		uid: "9feeb972",
+		type: "item",
+		items: [{
+			item: "thaumcraft:nitor_yellow"
+		}]
+	}],
+	rewards: [{
+		uid: "cff7c294",
+		type: "item",
+		item: "thaumcraft:nitor_yellow",
+		count: 4
+	},
+	{
+		uid: "776fff8b",
+		type: "item",
+		item: "harvestcraft:sausageinbreaditem"
+	}]
+}

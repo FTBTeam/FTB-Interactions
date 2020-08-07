@@ -1,0 +1,84 @@
+{
+	x: -9.5d,
+	y: -3.5d,
+	description: "{interactions.aa10a1a2.b468cef6.description}",
+	text: [
+		"{interactions.aa10a1a2.b468cef6.text.0}",
+		"{interactions.aa10a1a2.b468cef6.text.1}",
+		"{interactions.aa10a1a2.b468cef6.text.2}",
+		"{interactions.aa10a1a2.b468cef6.text.3}"
+	],
+	dependencies: [
+		"51878972"
+	],
+	tasks: [{
+		uid: "cfeffefc",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 521"
+		}]
+	},
+	{
+		uid: "38efb5e3",
+		type: "item",
+		items: [{
+			item: "gregtech:boiler_firebox_casing"
+		}],
+		count: 6L
+	},
+	{
+		uid: "61b10a45",
+		type: "item",
+		items: [{
+			item: "gregtech:boiler_casing"
+		}],
+		count: 2L
+	},
+	{
+		uid: "6bc72dca",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing"
+		}],
+		count: 23L
+	},
+	{
+		uid: "3e597d64",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 710"
+		}]
+	},
+	{
+		uid: "11cd2109",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 713"
+		}]
+	},
+	{
+		uid: "4192d247",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 712"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "f97763da",
+		type: "item",
+		item: {
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 1
+			},
+			Damage: 1s
+		},
+		count: 8
+	},
+	{
+		uid: "91e4ef06",
+		type: "item",
+		item: "projecte:item.pe_fuel 1 2"
+	}]
+}

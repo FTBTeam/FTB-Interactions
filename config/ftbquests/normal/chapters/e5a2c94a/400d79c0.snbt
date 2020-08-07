@@ -1,0 +1,19 @@
+{
+	title: "{interactions.e5a2c94a.400d79c0.title}",
+	x: -3.0d,
+	y: 1.0d,
+	description: "{interactions.e5a2c94a.400d79c0.description}",
+	dependencies: [
+		"f92a387e"
+	],
+	tasks: [{
+		uid: "66274b8b",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:infernal_deconglomerator"
+			}
+		}]
+	}]
+}

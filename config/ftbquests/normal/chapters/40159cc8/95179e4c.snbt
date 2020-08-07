@@ -1,0 +1,16 @@
+{
+	title: "{interactions.40159cc8.95179e4c.title}",
+	x: 2.0d,
+	y: -18.5d,
+	description: "{interactions.40159cc8.95179e4c.description}",
+	dependencies: [
+		"3d592508"
+	],
+	tasks: [{
+		uid: "07a65bd5",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:fuelingstation"
+		}]
+	}]
+}

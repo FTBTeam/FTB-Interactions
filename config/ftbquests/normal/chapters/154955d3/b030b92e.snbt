@@ -1,0 +1,34 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	shape: "square",
+	description: "{interactions.154955d3.b030b92e.description}",
+	text: [
+		"{interactions.154955d3.b030b92e.text.0}"
+	],
+	dependencies: [
+		"ee31eaaf"
+	],
+	tasks: [{
+		uid: "a28c2530",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:arcane_ashes"
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "e98206c5",
+		type: "xp_levels",
+		xp_levels: 2
+	},
+	{
+		uid: "67dc4e58",
+		type: "item",
+		item: "projecte:item.pe_covalence_dust",
+		count: 9
+	}]
+}

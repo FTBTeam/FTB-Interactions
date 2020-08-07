@@ -1,0 +1,42 @@
+{
+	title: "{interactions.aea6d983.1ca6ea6f.title}",
+	x: 4.0d,
+	y: -10.0d,
+	text: [
+		"{interactions.aea6d983.1ca6ea6f.text.0}"
+	],
+	dependencies: [
+		"bad8af80",
+		"a916453b"
+	],
+	tasks: [{
+		uid: "559dd34d",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:apatitechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "c8e5886b",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 226"
+		}]
+	}],
+	rewards: [{
+		uid: "97f4013f",
+		type: "item",
+		item: "harvestcraft:delightedmealitem"
+	},
+	{
+		uid: "897a0325",
+		type: "item",
+		item: "gregtech:meta_item_2 1 24226"
+	}]
+}

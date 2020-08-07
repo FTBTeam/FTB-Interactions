@@ -1,0 +1,30 @@
+{
+	title: "{interactions.40159cc8.237309c2.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "botania:cosmetic",
+		Damage: 31s
+	},
+	x: 1.0d,
+	y: -15.0d,
+	description: "{interactions.40159cc8.237309c2.description}",
+	dependencies: [
+		"323ae2d3"
+	],
+	tasks: [{
+		uid: "5cb9b009",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "03d31529",
+		type: "item",
+		item: "bloodmagic:component 1 16"
+	},
+	{
+		uid: "95577dc3",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

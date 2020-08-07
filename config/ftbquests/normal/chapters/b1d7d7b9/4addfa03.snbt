@@ -1,0 +1,34 @@
+{
+	title: "{interactions.b1d7d7b9.4addfa03.title}",
+	x: -6.5d,
+	y: -9.0d,
+	shape: "rsquare",
+	description: "{interactions.b1d7d7b9.4addfa03.description}",
+	text: [
+		"{interactions.b1d7d7b9.4addfa03.text.0}"
+	],
+	dependencies: [
+		"0220d6bb"
+	],
+	tasks: [{
+		uid: "e23bed89",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:cable_wireless_fluid"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bb2c83f4",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:card_location"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "55f5811c",
+		type: "item",
+		item: "extrautils2:drum 1 2"
+	}]
+}

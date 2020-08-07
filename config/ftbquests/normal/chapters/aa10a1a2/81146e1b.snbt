@@ -1,0 +1,16 @@
+{
+	x: -13.0d,
+	y: 3.5d,
+	shape: "square",
+	text: [
+		"{interactions.aa10a1a2.81146e1b.text.0}"
+	],
+	dependencies: [
+		"d94602f8"
+	],
+	tasks: [{
+		uid: "5a8f80e5",
+		type: "checkmark",
+		title: "{interactions.aa10a1a2.81146e1b.tasks.0.title}"
+	}]
+}

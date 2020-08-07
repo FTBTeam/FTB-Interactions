@@ -1,0 +1,20 @@
+{
+	x: -18.0d,
+	y: 4.0d,
+	text: [
+		"{interactions.a4a70422.2a50dbea.text.0}",
+		"{interactions.a4a70422.2a50dbea.text.1}"
+	],
+	tasks: [{
+		uid: "88538c68",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "c77664e4",
+		type: "item",
+		item: "enderstorage:ender_storage 1 1"
+	}]
+}

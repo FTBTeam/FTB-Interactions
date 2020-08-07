@@ -1,0 +1,13 @@
+{
+	title: "{interactions.aa10a1a2.chapter.title}",
+	icon: "opencomputers:powerconverter",
+	description: [
+		"{interactions.aa10a1a2.chapter.description.0}",
+		"",
+		"{interactions.aa10a1a2.chapter.description.2}",
+		"{interactions.aa10a1a2.chapter.description.3}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,25 @@
+{
+	title: "{interactions.aa10a1a2.c4bcc6d3.title}",
+	x: -9.5d,
+	y: 0.5d,
+	text: [
+		"{interactions.aa10a1a2.c4bcc6d3.text.0}"
+	],
+	dependencies: [
+		"9063ed56"
+	],
+	tasks: [{
+		uid: "477a26a5",
+		type: "checkmark",
+		icon: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "heavy_fuel",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}
+	}]
+}

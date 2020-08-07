@@ -1,0 +1,22 @@
+{
+	title: "{interactions.a4a70422.be1a2d33.title}",
+	x: -16.0d,
+	y: 5.0d,
+	text: [
+		"{interactions.a4a70422.be1a2d33.text.0}"
+	],
+	dependencies: [
+		"dcabc080"
+	],
+	tasks: [{
+		uid: "a00268be",
+		type: "checkmark",
+		icon: "enderio:item_item_conduit"
+	}],
+	rewards: [{
+		uid: "1a362e45",
+		type: "item",
+		item: "enderio:item_extract_speed_upgrade",
+		count: 15
+	}]
+}

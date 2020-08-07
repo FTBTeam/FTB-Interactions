@@ -1,0 +1,28 @@
+{
+	title: "{interactions.b1d7d7b9.710b7cd7.title}",
+	x: 1.5d,
+	y: -3.0d,
+	description: "{interactions.b1d7d7b9.710b7cd7.description}",
+	dependencies: [
+		"4c03fcd9"
+	],
+	tasks: [{
+		uid: "ac31e148",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 320"
+		}]
+	},
+	{
+		uid: "94ae247a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 32307"
+		}]
+	}],
+	rewards: [{
+		uid: "4b8da1f9",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32305"
+	}]
+}

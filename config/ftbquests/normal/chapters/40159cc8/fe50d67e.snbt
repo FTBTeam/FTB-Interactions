@@ -1,0 +1,41 @@
+{
+	title: "{interactions.40159cc8.fe50d67e.title}",
+	icon: "extrautils2:ingredients 1 5",
+	x: -1.0d,
+	y: -13.0d,
+	shape: "diamond",
+	description: "{interactions.40159cc8.fe50d67e.description}",
+	text: [
+		"{interactions.40159cc8.fe50d67e.text.0}",
+		"{interactions.40159cc8.fe50d67e.text.1}"
+	],
+	dependencies: [
+		"78546de8",
+		"237309c2"
+	],
+	tasks: [{
+		uid: "aab679ba",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:moonturf"
+		}]
+	},
+	{
+		uid: "272f636e",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:planetidchip"
+		}]
+	}],
+	rewards: [{
+		uid: "b2077841",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:primordial_pearl",
+			Damage: 4s
+		}
+	}]
+}

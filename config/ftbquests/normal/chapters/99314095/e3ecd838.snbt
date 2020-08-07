@@ -1,0 +1,33 @@
+{
+	title: "{interactions.99314095.e3ecd838.title}",
+	x: -5.0d,
+	y: -1.0d,
+	text: [
+		"{interactions.99314095.e3ecd838.text.0}",
+		"{interactions.99314095.e3ecd838.text.1}"
+	],
+	dependencies: [
+		"a916453b"
+	],
+	tasks: [{
+		uid: "58e48391",
+		type: "checkmark",
+		icon: "gregtech:machine 1 614"
+	}],
+	rewards: [{
+		uid: "58cd7150",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Charge: 50000
+			},
+			Damage: 32519s
+		}
+	},
+	{
+		uid: "e22cfd72",
+		type: "item",
+		item: "harvestcraft:jelliedeelitem"
+	}]
+}

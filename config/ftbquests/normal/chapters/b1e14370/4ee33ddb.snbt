@@ -1,0 +1,11 @@
+{
+	title: "{interactions.b1e14370.4ee33ddb.title}",
+	icon: "minecraft:clay_ball",
+	x: -1.0d,
+	y: -0.5d,
+	shape: "gear",
+	custom_click: "https://www.youtube.com/watch?v=AUpRZ_PdVlo",
+	dependencies: [
+		"4fc0c539"
+	]
+}

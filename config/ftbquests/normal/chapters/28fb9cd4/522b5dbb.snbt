@@ -1,0 +1,54 @@
+{
+	title: "{interactions.28fb9cd4.522b5dbb.title}",
+	x: 1.0d,
+	y: 6.0d,
+	text: [
+		"{interactions.28fb9cd4.522b5dbb.text.0}",
+		"",
+		"{interactions.28fb9cd4.522b5dbb.text.2}"
+	],
+	dependencies: [
+		"645e1204"
+	],
+	tasks: [{
+		uid: "f90f5c4c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemcape",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7ac3484f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:iteminfusedglass",
+			tag: {
+				astralsorcery: {}
+			}
+		}
+	},
+	{
+		uid: "872f376d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:iteminfusedglass",
+			tag: {
+				astralsorcery: {}
+			}
+		}
+	}]
+}

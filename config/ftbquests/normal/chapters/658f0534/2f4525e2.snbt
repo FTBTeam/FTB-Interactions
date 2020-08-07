@@ -1,0 +1,56 @@
+{
+	x: -13.5d,
+	y: -6.0d,
+	text: [
+		"{interactions.658f0534.2f4525e2.text.0}",
+		"{interactions.658f0534.2f4525e2.text.1}",
+		"{interactions.658f0534.2f4525e2.text.2}"
+	],
+	dependencies: [
+		"bed220ce"
+	],
+	tasks: [{
+		uid: "8a30e6db",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				ench: [{
+					lvl: 1,
+					id: 16
+				}],
+				CraftingComponents: [{
+					id: "gregtech:meta_item_2",
+					Count: 1,
+					Damage: 5033
+				},
+				{
+					id: "minecraft:stick",
+					Count: 1,
+					Damage: 0
+				}],
+				GT.ToolStats: {
+					PrimaryMaterial: "iron",
+					HandleMaterial: "wood"
+				}
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "104d38c1",
+		type: "item",
+		item: "gregtech:meta_item_1 1 5018",
+		count: 8
+	},
+	{
+		uid: "3ecae5b7",
+		type: "item",
+		item: "gregtech:meta_item_1 1 5033",
+		count: 8
+	}]
+}

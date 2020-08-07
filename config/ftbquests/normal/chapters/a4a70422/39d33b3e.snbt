@@ -1,0 +1,21 @@
+{
+	x: -9.0d,
+	y: 0.0d,
+	text: [
+		"{interactions.a4a70422.39d33b3e.text.0}",
+		"{interactions.a4a70422.39d33b3e.text.1}"
+	],
+	tasks: [{
+		uid: "afb28886",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 16"
+		}]
+	}],
+	rewards: [{
+		uid: "2c026b42",
+		type: "item",
+		item: "appliedenergistics2:part 1 56",
+		count: 16
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	description: "{interactions.154955d3.b0039b2c.description}",
+	dependencies: [
+		"1d6fe213"
+	],
+	tasks: [{
+		uid: "e308f688",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "microblockcbe:saw_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

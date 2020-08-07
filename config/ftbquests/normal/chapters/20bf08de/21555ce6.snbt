@@ -1,0 +1,30 @@
+{
+	title: "{interactions.20bf08de.21555ce6.title}",
+	icon: "thaumcraft:crucible",
+	x: -13.0d,
+	y: -12.0d,
+	description: "{interactions.20bf08de.21555ce6.description}",
+	text: [
+		"{interactions.20bf08de.21555ce6.text.0}"
+	],
+	can_repeat: true,
+	dependencies: [
+		"961eb3ac"
+	],
+	tasks: [{
+		uid: "f3805884",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "e14feeef",
+		type: "command",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon",
+			Damage: 1s
+		},
+		command: "/thaumcraft research @p HEDGEALCHEMY"
+	}]
+}

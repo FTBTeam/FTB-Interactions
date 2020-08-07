@@ -1,0 +1,12 @@
+{
+	title: "{interactions.154955d3.chapter.title}",
+	icon: "projecte:transmutation_table",
+	description: [
+		"{interactions.154955d3.chapter.description.0}",
+		"",
+		"{interactions.154955d3.chapter.description.2}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

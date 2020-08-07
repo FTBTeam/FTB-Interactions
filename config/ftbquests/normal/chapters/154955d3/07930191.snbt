@@ -1,0 +1,15 @@
+{
+	title: "{interactions.154955d3.07930191.title}",
+	icon: "minecraft:crafting_table",
+	disable_toast: true,
+	x: 6.0d,
+	y: -5.0d,
+	shape: "square",
+	text: [
+		"{interactions.154955d3.07930191.text.0}"
+	],
+	tasks: [{
+		uid: "00469ede",
+		type: "checkmark"
+	}]
+}

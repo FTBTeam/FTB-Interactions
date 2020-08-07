@@ -1,0 +1,17 @@
+{
+	title: "{interactions.a4a70422.ee48409e.title}",
+	x: -4.0d,
+	y: -5.0d,
+	description: "{interactions.a4a70422.ee48409e.description}",
+	dependencies: [
+		"c13fb853",
+		"e03e9a01"
+	],
+	tasks: [{
+		uid: "13c6a4b6",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2197"
+		}]
+	}]
+}

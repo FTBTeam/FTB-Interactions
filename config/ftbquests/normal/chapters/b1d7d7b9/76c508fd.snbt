@@ -1,0 +1,32 @@
+{
+	title: "{interactions.b1d7d7b9.76c508fd.title}",
+	x: -4.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	description: "{interactions.b1d7d7b9.76c508fd.description}",
+	text: [
+		"{interactions.b1d7d7b9.76c508fd.text.0}"
+	],
+	dependencies: [
+		"f99434e4",
+		"64abbac6"
+	],
+	tasks: [{
+		uid: "0aab2196",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 23"
+		}]
+	}],
+	rewards: [{
+		uid: "f3650f4f",
+		type: "item",
+		item: "enderio:item_liquid_conduit 1 2",
+		count: 8
+	},
+	{
+		uid: "7bdb49fd",
+		type: "item",
+		item: "harvestcraft:chaiteaitem"
+	}]
+}

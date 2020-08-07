@@ -1,0 +1,24 @@
+{
+	x: -13.5d,
+	y: -2.5d,
+	description: "{interactions.658f0534.e99902e3.description}",
+	text: [
+		"{interactions.658f0534.e99902e3.text.0}",
+		"{interactions.658f0534.e99902e3.text.1}"
+	],
+	min_required_dependencies: 1,
+	dependencies: [
+		"254a6531",
+		"57ca62b6",
+		"b83f091b",
+		"2e40345e"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "76ba63fb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_ore_cluster"
+		}]
+	}]
+}

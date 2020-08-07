@@ -1,0 +1,40 @@
+{
+	title: "{interactions.b1d7d7b9.496aec7e.title}",
+	x: -12.5d,
+	y: -9.0d,
+	description: "{interactions.b1d7d7b9.496aec7e.description}",
+	dependencies: [
+		"820b1cf6"
+	],
+	tasks: [{
+		uid: "dd979c81",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock3",
+			Damage: 4s
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock3",
+			Damage: 6s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e7b14840",
+		type: "item",
+		item: {
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			},
+			Damage: 6s
+		},
+		count: 4
+	}]
+}

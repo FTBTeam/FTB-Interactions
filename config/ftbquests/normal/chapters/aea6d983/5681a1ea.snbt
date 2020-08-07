@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: -13.5d,
+	text: [
+		"{interactions.aea6d983.5681a1ea.text.0}",
+		"{interactions.aea6d983.5681a1ea.text.1}"
+	],
+	dependencies: [
+		"0b123dfe"
+	],
+	tasks: [{
+		uid: "859fdfb4",
+		type: "item",
+		items: [{
+			item: "roost:breeder"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "{interactions.b1d7d7b9.b2980d2e.title}",
+	x: -12.5d,
+	y: -7.0d,
+	description: "{interactions.b1d7d7b9.b2980d2e.description}",
+	dependencies: [
+		"29825601"
+	],
+	tasks: [{
+		uid: "1050b222",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 1024"
+		}]
+	},
+	{
+		uid: "13f17b12",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 1025"
+		}]
+	}]
+}

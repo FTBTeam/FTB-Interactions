@@ -1,0 +1,29 @@
+{
+	title: "{interactions.154955d3.5c197ff1.title}",
+	x: 2.0d,
+	y: -3.0d,
+	description: "{interactions.154955d3.5c197ff1.description}",
+	dependencies: [
+		"e7d70489"
+	],
+	tasks: [{
+		uid: "08646f4d",
+		type: "checkmark",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_tome"
+		}
+	}],
+	rewards: [{
+		uid: "d6c9b41e",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_tome"
+		}
+	}]
+}

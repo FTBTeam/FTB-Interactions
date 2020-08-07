@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"{interactions.e0f1e33e.b32e5958.text.0}"
+	],
+	dependencies: [
+		"9c1e319b"
+	],
+	tasks: [{
+		uid: "b2124ac4",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:glitch_fragment"
+		}]
+	}]
+}

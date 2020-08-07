@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	shape: "diamond",
+	description: "{interactions.5c5ec752.3fbc06c2.description}",
+	text: [
+		"{interactions.5c5ec752.3fbc06c2.text.0}"
+	],
+	dependencies: [
+		"5170565f"
+	],
+	tasks: [{
+		uid: "37ae8f5e",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:squeezer"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b0fceb8b",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 16
+	},
+	{
+		uid: "13cbb769",
+		type: "item",
+		item: "harvestcraft:minerstewitem"
+	}]
+}

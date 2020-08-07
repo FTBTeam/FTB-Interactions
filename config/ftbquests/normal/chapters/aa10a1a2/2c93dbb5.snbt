@@ -1,0 +1,21 @@
+{
+	title: "{interactions.aa10a1a2.2c93dbb5.title}",
+	x: -10.5d,
+	y: -1.0d,
+	shape: "circle",
+	text: [
+		"{interactions.aa10a1a2.2c93dbb5.text.0}",
+		"{interactions.aa10a1a2.2c93dbb5.text.1}"
+	],
+	dependencies: [
+		"9063ed56"
+	],
+	tasks: [{
+		uid: "bd0046cf",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_canola_seed"
+		}],
+		count: 64L
+	}]
+}

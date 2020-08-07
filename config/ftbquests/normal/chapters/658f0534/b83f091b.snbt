@@ -1,0 +1,24 @@
+{
+	title: "{interactions.658f0534.b83f091b.title}",
+	x: -16.0d,
+	y: -0.5d,
+	text: [
+		"{interactions.658f0534.b83f091b.text.0}",
+		"{interactions.658f0534.b83f091b.text.1}"
+	],
+	dependencies: [
+		"57ca62b6"
+	],
+	tasks: [{
+		uid: "b75b427a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_ore_clump"
+		}]
+	}],
+	rewards: [{
+		uid: "4764f47e",
+		type: "item",
+		item: "projecte:condenser_mk2"
+	}]
+}

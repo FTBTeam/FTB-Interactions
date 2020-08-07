@@ -1,0 +1,49 @@
+{
+	title: "{interactions.ed136c16.e8981061.title}",
+	x: -7.0d,
+	y: -4.5d,
+	text: [
+		"{interactions.ed136c16.e8981061.text.0}",
+		"{interactions.ed136c16.e8981061.text.1}",
+		"{interactions.ed136c16.e8981061.text.2}",
+		"",
+		"{interactions.ed136c16.e8981061.text.4}"
+	],
+	dependencies: [
+		"8eac9d15"
+	],
+	tasks: [{
+		uid: "0834238e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3aecb04c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_klein_star"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "25384277",
+		type: "item",
+		item: "harvestcraft:trailmixitem"
+	},
+	{
+		uid: "9fa4a0a7",
+		type: "item",
+		item: "randomthings:spectreanchor"
+	}]
+}

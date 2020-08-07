@@ -1,0 +1,34 @@
+{
+	x: -9.5d,
+	y: 3.0d,
+	description: "{interactions.aa10a1a2.2054d6e9.description}",
+	text: [
+		"{interactions.aa10a1a2.2054d6e9.text.0}",
+		"{interactions.aa10a1a2.2054d6e9.text.1}"
+	],
+	dependencies: [
+		"86f1912f",
+		"81146e1b"
+	],
+	tasks: [{
+		uid: "befe8208",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 515"
+		}]
+	},
+	{
+		uid: "4438ecbe",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 744"
+		}]
+	},
+	{
+		uid: "3e8b6b93",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 603"
+		}]
+	}]
+}

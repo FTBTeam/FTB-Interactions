@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: 5.0d,
+	shape: "rsquare",
+	description: "{interactions.154955d3.9df1d5ee.description}",
+	dependencies: [
+		"b030b92e"
+	],
+	tasks: [{
+		uid: "56293289",
+		type: "item",
+		items: [{
+			item: "gregtech:sapling"
+		}]
+	}],
+	rewards: [{
+		uid: "2523e761",
+		type: "item",
+		item: "thermalfoundation:material 1 23",
+		count: 16
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "{interactions.5c5ec752.8f66d6f7.title}",
+	x: 0.0d,
+	y: 0.0d,
+	description: "{interactions.5c5ec752.8f66d6f7.description}",
+	text: [
+		"{interactions.5c5ec752.8f66d6f7.text.0}"
+	],
+	dependencies: [
+		"56f69a22",
+		"2e003362"
+	],
+	tasks: [{
+		uid: "a4f2a6c9",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c0a2cc57",
+		type: "item",
+		item: "gregtech:fluid_pipe 1 1095",
+		count: 8
+	}]
+}

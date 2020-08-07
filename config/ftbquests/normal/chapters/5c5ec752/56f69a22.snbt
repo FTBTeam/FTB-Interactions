@@ -1,0 +1,28 @@
+{
+	title: "{interactions.5c5ec752.56f69a22.title}",
+	x: -3.0d,
+	y: -1.0d,
+	shape: "diamond",
+	description: "{interactions.5c5ec752.56f69a22.description}",
+	dependencies: [
+		"eafc12e8"
+	],
+	tasks: [{
+		uid: "c30b15df",
+		type: "item",
+		items: [{
+			id: "gregtech:machine",
+			tag: {
+				PaintingColor: 16777215
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "70a62b4d",
+		type: "item",
+		item: "gregtech:meta_item_1 1 12095",
+		count: 16
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	title: "{interactions.9b11da3e.e10ce5b3.title}",
+	x: -9.0d,
+	y: -2.0d,
+	description: "{interactions.9b11da3e.e10ce5b3.description}",
+	text: [
+		"{interactions.9b11da3e.e10ce5b3.text.0}"
+	],
+	dependencies: [
+		"04f0531a"
+	],
+	tasks: [{
+		uid: "56813e21",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_pyrolusite_0"
+		}]
+	},
+	{
+		uid: "de6ac878",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_grossular_0"
+		}]
+	},
+	{
+		uid: "ab4512e3",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_tantalite_0"
+		}]
+	},
+	{
+		uid: "7dfb7100",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_spessartine_0"
+		}]
+	}]
+}

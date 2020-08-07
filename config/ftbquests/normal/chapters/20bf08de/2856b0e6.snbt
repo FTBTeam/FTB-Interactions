@@ -1,0 +1,126 @@
+{
+	title: "{interactions.20bf08de.2856b0e6.title}",
+	x: -4.0d,
+	y: -12.0d,
+	shape: "square",
+	text: [
+		"{interactions.20bf08de.2856b0e6.text.0}",
+		"",
+		"{interactions.20bf08de.2856b0e6.text.2}",
+		"",
+		"{interactions.20bf08de.2856b0e6.text.4}"
+	],
+	dependencies: [
+		"10775b47"
+	],
+	tasks: [{
+		uid: "2f175460",
+		type: "item",
+		icon: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "ordo"
+				}]
+			}
+		},
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1
+				}],
+				display: {
+					Name: "Any Vis Crystal"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "43c5dd9a",
+		type: "item",
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "aer"
+				}]
+			}
+		},
+		count: 5
+	},
+	{
+		uid: "18089c6d",
+		type: "item",
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "terra"
+				}]
+			}
+		},
+		count: 5
+	},
+	{
+		uid: "b1b941f6",
+		type: "item",
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "ignis"
+				}]
+			}
+		},
+		count: 5
+	},
+	{
+		uid: "2cb36ed3",
+		type: "item",
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "aqua"
+				}]
+			}
+		},
+		count: 5
+	},
+	{
+		uid: "75672b49",
+		type: "item",
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "ordo"
+				}]
+			}
+		},
+		count: 5
+	},
+	{
+		uid: "4fb2903a",
+		type: "item",
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "perditio"
+				}]
+			}
+		},
+		count: 5
+	}]
+}

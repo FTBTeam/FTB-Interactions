@@ -1,0 +1,23 @@
+{
+	title: "{interactions.154955d3.301f1896.title}",
+	icon: "draconicevolution:fusion_crafting_core",
+	x: 6.0d,
+	y: -1.5d,
+	shape: "diamond",
+	text: [
+		"{interactions.154955d3.301f1896.text.0}"
+	],
+	dependencies: [
+		"3b4bd52b"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "f4525543",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "84c23f94",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "{interactions.20bf08de.8cd0b5bf.title}",
+	x: -8.0d,
+	y: -8.0d,
+	text: [
+		"{interactions.20bf08de.8cd0b5bf.text.0}",
+		"{interactions.20bf08de.8cd0b5bf.text.1}",
+		"{interactions.20bf08de.8cd0b5bf.text.2}"
+	],
+	dependencies: [
+		"8eac9d15"
+	],
+	tasks: [{
+		uid: "ef3e7378",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ingot 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "e450cc31",
+		type: "item",
+		item: "thaumcraft:ingot 1 2",
+		count: 8
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	x: -13.0d,
+	y: -13.0d,
+	text: [
+		"",
+		"{interactions.20bf08de.5d8818d8.text.1}"
+	],
+	can_repeat: true,
+	dependencies: [
+		"961eb3ac"
+	],
+	tasks: [{
+		uid: "99567e56",
+		type: "checkmark",
+		title: "{interactions.20bf08de.5d8818d8.tasks.0.title}",
+		icon: {
+			id: "thaumcraft:golem",
+			tag: {
+				props: 72341268037894144L
+			}
+		}
+	}],
+	rewards: [{
+		uid: "0beb39a4",
+		type: "command",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon",
+			Damage: 1s
+		},
+		command: "/thaumcraft research @p MINDBIOTHAUMIC"
+	}]
+}

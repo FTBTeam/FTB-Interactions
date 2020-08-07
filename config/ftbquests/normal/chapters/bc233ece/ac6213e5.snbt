@@ -1,0 +1,23 @@
+{
+	title: "{interactions.bc233ece.ac6213e5.title}",
+	x: -3.5d,
+	y: -2.0d,
+	shape: "square",
+	text: [
+		"{interactions.bc233ece.ac6213e5.text.0}",
+		"{interactions.bc233ece.ac6213e5.text.1}"
+	],
+	dependencies: [
+		"829ccb26"
+	],
+	tasks: [{
+		uid: "078be84b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 152"
+		},
+		{
+			item: "gregtech:machine 1 153"
+		}]
+	}]
+}

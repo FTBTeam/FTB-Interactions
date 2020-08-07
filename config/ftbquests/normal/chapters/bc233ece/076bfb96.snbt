@@ -1,0 +1,32 @@
+{
+	title: "{interactions.bc233ece.076bfb96.title}",
+	x: -0.5d,
+	y: -3.0d,
+	shape: "diamond",
+	text: [
+		"{interactions.bc233ece.076bfb96.text.0}",
+		"{interactions.bc233ece.076bfb96.text.1}"
+	],
+	dependencies: [
+		"0608c105"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "8953ff9d",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 12145"
+		}]
+	}],
+	rewards: [{
+		uid: "299c5403",
+		type: "item",
+		item: "gregtech:meta_item_1 1 12145",
+		count: 16
+	},
+	{
+		uid: "d0c9a71e",
+		type: "item",
+		item: "harvestcraft:gourmetvenisonburgeritem"
+	}]
+}

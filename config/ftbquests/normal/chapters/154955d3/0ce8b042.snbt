@@ -1,0 +1,29 @@
+{
+	x: 5.0d,
+	y: 5.0d,
+	text: [
+		"{interactions.154955d3.0ce8b042.text.0}"
+	],
+	dependencies: [
+		"a9d0a2ad"
+	],
+	tasks: [{
+		uid: "971bfcaa",
+		type: "item",
+		items: [{
+			item: "harvestcraft:candledeco1"
+		}]
+	}],
+	rewards: [{
+		uid: "b90c8147",
+		type: "item",
+		item: {
+			id: "chickens:spawn_egg",
+			tag: {
+				ChickenType: {
+					id: "chickens:smartchicken"
+				}
+			}
+		}
+	}]
+}

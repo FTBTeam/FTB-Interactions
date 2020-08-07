@@ -1,0 +1,66 @@
+{
+	title: "{interactions.9b11da3e.b7732c9d.title}",
+	disable_toast: true,
+	x: -11.0d,
+	y: -9.0d,
+	shape: "rsquare",
+	text: [
+		"{interactions.9b11da3e.b7732c9d.text.0}"
+	],
+	can_repeat: true,
+	dependencies: [
+		"eafc12e8"
+	],
+	optional: true,
+	tasks: [{
+		uid: "15f469a1",
+		type: "item",
+		items: [{
+			id: "rustic:elixir",
+			tag: {
+				ElixirEffects: [{
+					Effect: "minecraft:night_vision",
+					Duration: 3600,
+					Amplifier: 0
+				}]
+			}
+		}]
+	},
+	{
+		uid: "259bd04f",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "astralsorcery.liquidstarlight",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}]
+	}],
+	rewards: [{
+		uid: "8c04421c",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32762"
+	},
+	{
+		uid: "6fec0354",
+		type: "item",
+		item: {
+			id: "rustic:elixir",
+			tag: {
+				RepairCost: 0,
+				display: {
+					Name: "Super Night Vision"
+				},
+				ElixirEffects: [{
+					Effect: "minecraft:night_vision",
+					Duration: 72000,
+					Amplifier: 0
+				}]
+			}
+		}
+	}]
+}

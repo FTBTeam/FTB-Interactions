@@ -1,0 +1,35 @@
+{
+	title: "{interactions.9b11da3e.56ae2c80.title}",
+	x: -9.0d,
+	y: -6.0d,
+	description: "{interactions.9b11da3e.56ae2c80.description}",
+	dependencies: [
+		"ba48dccf"
+	],
+	tasks: [{
+		uid: "fb99fa88",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_diamond_0"
+		}]
+	},
+	{
+		uid: "543ec5cc",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_graphite_0"
+		}]
+	},
+	{
+		uid: "f921b2d1",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_coal_0"
+		}]
+	}],
+	rewards: [{
+		uid: "800a51bd",
+		type: "item",
+		item: "minecraft:diamond"
+	}]
+}

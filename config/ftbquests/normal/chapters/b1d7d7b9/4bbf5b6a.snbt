@@ -1,0 +1,27 @@
+{
+	title: "{interactions.b1d7d7b9.4bbf5b6a.title}",
+	x: -4.5d,
+	y: -9.0d,
+	description: "{interactions.b1d7d7b9.4bbf5b6a.description}",
+	tasks: [{
+		uid: "e13886f6",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "chlorine",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "46da3bdc",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2155",
+		count: 32
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "{interactions.7dc11b04.832823a9.title}",
+	x: -3.0d,
+	y: 4.0d,
+	shape: "square",
+	description: "{interactions.7dc11b04.832823a9.description}",
+	text: [
+		"{interactions.7dc11b04.832823a9.text.0}",
+		"{interactions.7dc11b04.832823a9.text.1}",
+		"{interactions.7dc11b04.832823a9.text.2}",
+		"{interactions.7dc11b04.832823a9.text.3}"
+	],
+	dependencies: [
+		"d13475fe"
+	],
+	tasks: [{
+		uid: "a3694a8d",
+		type: "item",
+		items: [{
+			item: "bloodmagic:item_demon_crystal"
+		}]
+	}]
+}

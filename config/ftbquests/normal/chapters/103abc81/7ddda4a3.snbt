@@ -1,0 +1,53 @@
+{
+	title: "{interactions.103abc81.7ddda4a3.title}",
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 49,
+			TrophyVariant: "classic",
+			TrophyItem: {
+				id: "sonarcore:stablestoneblackrimmed_lightblue",
+				Count: 1,
+				Damage: 0
+			},
+			TrophyColorBlue: 146,
+			TrophyName: "Terra Nova",
+			TrophyColorRed: 37,
+			TrophyEarnedAt: 1553222290
+		}
+	},
+	x: -1.0d,
+	y: 2.0d,
+	shape: "square",
+	description: "{interactions.103abc81.7ddda4a3.description}",
+	text: [
+		"{interactions.103abc81.7ddda4a3.text.0}"
+	],
+	tasks: [{
+		uid: "049d4774",
+		type: "item",
+		items: [{
+			item: "sonarcore:stablestoneblackrimmed_lightblue"
+		}]
+	}],
+	rewards: [{
+		uid: "ffb5c294",
+		type: "item",
+		team_reward: true,
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "sonarcore:stablestoneblackrimmed_lightblue",
+					Count: 1,
+					Damage: 0
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "Terra Nova",
+				TrophyColorRed: 37
+			}
+		}
+	}]
+}

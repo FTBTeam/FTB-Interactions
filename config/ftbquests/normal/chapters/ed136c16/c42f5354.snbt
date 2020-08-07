@@ -1,0 +1,23 @@
+{
+	x: -10.0d,
+	y: -7.0d,
+	shape: "gear",
+	description: "{interactions.ed136c16.c42f5354.description}",
+	tasks: [{
+		uid: "b2cd5254",
+		type: "checkmark",
+		title: "{interactions.ed136c16.c42f5354.tasks.0.title}",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					PrimaryMaterial: "darmstadtium"
+				}
+			},
+			Damage: 8s
+		}
+	}]
+}

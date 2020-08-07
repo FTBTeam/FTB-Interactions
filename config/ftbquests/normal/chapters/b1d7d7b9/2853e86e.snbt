@@ -1,0 +1,38 @@
+{
+	title: "{interactions.b1d7d7b9.2853e86e.title}",
+	x: -10.5d,
+	y: -3.0d,
+	description: "{interactions.b1d7d7b9.2853e86e.description}",
+	text: [
+		"{interactions.b1d7d7b9.2853e86e.text.0}"
+	],
+	dependencies: [
+		"d9587647"
+	],
+	tasks: [{
+		uid: "54a476eb",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2153"
+		}],
+		count: 9L
+	},
+	{
+		uid: "70eca13c",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2065"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6d98361b",
+		type: "item",
+		item: "gregtech:machine 1 320"
+	},
+	{
+		uid: "6dd92c65",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32301"
+	}]
+}

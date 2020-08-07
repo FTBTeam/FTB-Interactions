@@ -1,0 +1,37 @@
+{
+	title: "{interactions.154955d3.7979431a.title}",
+	icon: "sonarcore:stablestoneblackrimmed_lightblue",
+	x: -3.0d,
+	y: 12.0d,
+	shape: "diamond",
+	description: "{interactions.154955d3.7979431a.description}",
+	text: [
+		"{interactions.154955d3.7979431a.text.0}",
+		"",
+		"{interactions.154955d3.7979431a.text.2}"
+	],
+	dependencies: [
+		"7d56d52e"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "eafc12e8",
+		type: "item",
+		items: [{
+			item: "sonarcore:stablestoneblackrimmed_lightblue"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "02b0e3c2",
+		type: "item",
+		item: "lteleporters:teleporter",
+		count: 2
+	},
+	{
+		uid: "5fb9a659",
+		type: "item",
+		item: "lteleporters:endercrystal",
+		count: 2
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	x: -4.0d,
+	y: 2.0d,
+	text: [
+		"{interactions.154955d3.d18be8cc.text.0}",
+		"",
+		"{interactions.154955d3.d18be8cc.text.2}"
+	],
+	dependencies: [
+		"1d6fe213"
+	],
+	tasks: [{
+		uid: "a89635c0",
+		type: "item",
+		title: "{interactions.154955d3.d18be8cc.tasks.0.title}",
+		items: [{
+			item: "harvestcraft:cottonseeditem"
+		},
+		{
+			item: "harvestcraft:spiderweb_sapling"
+		}]
+	}],
+	rewards: [{
+		uid: "b92b049c",
+		type: "item",
+		item: "minecraft:string",
+		count: 16
+	}]
+}

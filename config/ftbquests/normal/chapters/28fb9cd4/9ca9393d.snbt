@@ -1,0 +1,41 @@
+{
+	title: "{interactions.28fb9cd4.9ca9393d.title}",
+	x: -3.0d,
+	y: 4.0d,
+	text: [
+		"{interactions.28fb9cd4.9ca9393d.text.0}"
+	],
+	dependencies: [
+		"1d37b267"
+	],
+	tasks: [{
+		uid: "a49ecaf3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemlinkingtool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "772e2c84",
+		type: "item",
+		item: {
+			id: "astralsorcery:blockprism",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}
+	}]
+}

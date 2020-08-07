@@ -1,0 +1,24 @@
+{
+	title: "{interactions.9b11da3e.8fc0f4b9.title}",
+	icon: "minecraft:skull",
+	x: -4.0d,
+	y: -8.0d,
+	text: [
+		"{interactions.9b11da3e.8fc0f4b9.text.0}",
+		"{interactions.9b11da3e.8fc0f4b9.text.1}",
+		"{interactions.9b11da3e.8fc0f4b9.text.2}",
+		"{interactions.9b11da3e.8fc0f4b9.text.3}",
+		"{interactions.9b11da3e.8fc0f4b9.text.4}",
+		"",
+		"{interactions.9b11da3e.8fc0f4b9.text.6}"
+	],
+	dependencies: [
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "2e67ea8e",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 1L
+	}]
+}

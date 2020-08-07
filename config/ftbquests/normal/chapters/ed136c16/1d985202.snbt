@@ -1,0 +1,18 @@
+{
+	x: -14.0d,
+	y: -6.0d,
+	description: "{interactions.ed136c16.1d985202.description}",
+	tasks: [{
+		uid: "ef6c6013",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}],
+	rewards: [{
+		uid: "d2e14dc7",
+		type: "item",
+		item: "primal_tech:flint_block",
+		count: 16
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	title: "{interactions.a4a70422.ab7e2f6f.title}",
+	x: -21.0d,
+	y: 2.0d,
+	text: [
+		"{interactions.a4a70422.ab7e2f6f.text.0}"
+	],
+	tasks: [{
+		uid: "0828793f",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_importer_fluid_item"
+		}]
+	},
+	{
+		uid: "512e56e5",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_exporter_fluid_item"
+		}]
+	},
+	{
+		uid: "703b7a64",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_interface_fluid_item"
+		}]
+	}],
+	rewards: [{
+		uid: "7eb25b8f",
+		type: "xp_levels",
+		xp_levels: 5
+	},
+	{
+		uid: "c9b4dbc6",
+		type: "item",
+		item: "integrateddynamics:cable",
+		count: 32
+	}]
+}

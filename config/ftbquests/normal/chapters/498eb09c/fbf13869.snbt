@@ -1,0 +1,20 @@
+{
+	title: "{interactions.498eb09c.fbf13869.title}",
+	x: -4.0d,
+	y: -2.0d,
+	shape: "square",
+	description: "{interactions.498eb09c.fbf13869.description}",
+	tasks: [{
+		uid: "8ebb4861",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 131"
+		},
+		{
+			item: "gregtech:machine 1 130"
+		},
+		{
+			item: "gregtech:machine 1 132"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "{interactions.154955d3.7295ef69.title}",
+	icon: "minecraft:sapling",
+	x: 0.0d,
+	y: -2.0d,
+	description: "{interactions.154955d3.7295ef69.description}",
+	text: [
+		"{interactions.154955d3.7295ef69.text.0}"
+	],
+	dependencies: [
+		"e7d70489"
+	],
+	tasks: [{
+		uid: "ea3a82c7",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}],
+	rewards: [{
+		uid: "4c13d830",
+		type: "item",
+		item: "harvestcraft:breadedporkchopitem"
+	}]
+}

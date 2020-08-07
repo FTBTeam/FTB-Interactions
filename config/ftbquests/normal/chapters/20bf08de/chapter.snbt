@@ -1,0 +1,10 @@
+{
+	title: "{interactions.20bf08de.chapter.title}",
+	icon: "thaumcraft:salis_mundus",
+	description: [
+		"{interactions.20bf08de.chapter.description.0}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

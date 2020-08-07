@@ -1,0 +1,22 @@
+{
+	title: "{interactions.9b11da3e.c5321cae.title}",
+	x: 0.0d,
+	y: -7.0d,
+	description: "{interactions.9b11da3e.c5321cae.description}",
+	text: [
+		"{interactions.9b11da3e.c5321cae.text.0}"
+	],
+	tasks: [{
+		uid: "0d608800",
+		type: "checkmark",
+		icon: "minecraft:compass"
+	}],
+	rewards: [{
+		uid: "240abb13",
+		type: "item",
+		item: {
+			id: "naturescompass:naturescompass",
+			tag: {}
+		}
+	}]
+}

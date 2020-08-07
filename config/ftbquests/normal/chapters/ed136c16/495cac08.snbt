@@ -1,0 +1,54 @@
+{
+	title: "{interactions.ed136c16.495cac08.title}",
+	icon: {
+		id: "tconstruct:toolforge",
+		tag: {
+			textureBlock: {
+				id: "enderio:block_alloy",
+				Count: 1,
+				Damage: 0
+			}
+		}
+	},
+	x: -13.0d,
+	y: -4.0d,
+	description: "{interactions.ed136c16.495cac08.description}",
+	dependencies: [
+		"badc108d"
+	],
+	tasks: [{
+		uid: "12276c8f",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "enderio:block_alloy",
+					Count: 1,
+					Damage: 0
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "37207f12",
+		type: "item",
+		item: {
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "iron"
+			}
+		}
+	},
+	{
+		uid: "184909a4",
+		type: "item",
+		item: {
+			id: "tconstruct:large_plate",
+			tag: {
+				Material: "copper"
+			}
+		}
+	}]
+}

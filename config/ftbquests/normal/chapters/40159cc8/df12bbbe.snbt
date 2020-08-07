@@ -1,0 +1,23 @@
+{
+	title: "{interactions.40159cc8.df12bbbe.title}",
+	icon: "advancedrocketry:guidancecomputer",
+	x: -1.5d,
+	y: -17.0d,
+	description: "{interactions.40159cc8.df12bbbe.description}",
+	dependencies: [
+		"05f17487"
+	],
+	tasks: [{
+		uid: "4fa304e8",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:guidancecomputer"
+		}]
+	}],
+	rewards: [{
+		uid: "fab47195",
+		type: "item",
+		item: "enderutilities:ender_elevator",
+		count: 2
+	}]
+}

@@ -1,0 +1,48 @@
+{
+	title: "{interactions.b1d7d7b9.0608c105.title}",
+	icon: {
+		id: "gregtech:meta_item_1",
+		tag: {
+			Fluid: {
+				FluidName: "air",
+				Amount: 1000
+			}
+		},
+		Damage: 32762s
+	},
+	x: -8.5d,
+	y: 1.0d,
+	description: "{interactions.b1d7d7b9.0608c105.description}",
+	text: [
+		"{interactions.b1d7d7b9.0608c105.text.0}"
+	],
+	dependencies: [
+		"eebe34c9"
+	],
+	tasks: [{
+		uid: "49dfeec2",
+		type: "checkmark",
+		title: "{interactions.b1d7d7b9.0608c105.tasks.0.title}",
+		icon: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "air",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}
+	}],
+	rewards: [{
+		uid: "94975c52",
+		type: "item",
+		item: "contenttweaker:gassy_enriched_egg",
+		count: 16
+	},
+	{
+		uid: "24ffeed4",
+		type: "item",
+		item: "harvestcraft:fairybreaditem"
+	}]
+}

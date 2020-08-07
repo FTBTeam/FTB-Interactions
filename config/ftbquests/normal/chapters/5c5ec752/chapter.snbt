@@ -1,0 +1,10 @@
+{
+	title: "{interactions.5c5ec752.chapter.title}",
+	icon: "gregtech:machine 1 1",
+	description: [
+		"{interactions.5c5ec752.chapter.description.0}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

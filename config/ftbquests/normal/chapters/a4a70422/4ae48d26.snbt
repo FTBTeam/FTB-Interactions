@@ -1,0 +1,16 @@
+{
+	title: "{interactions.a4a70422.4ae48d26.title}",
+	icon: "minecraft:nether_star",
+	x: -6.5d,
+	y: -1.0d,
+	shape: "gear",
+	text: [
+		"{interactions.a4a70422.4ae48d26.text.0}",
+		"{interactions.a4a70422.4ae48d26.text.1}",
+		"{interactions.a4a70422.4ae48d26.text.2}"
+	],
+	custom_click: "https://www.youtube.com/watch?v=ndmDkuMZbbo",
+	dependencies: [
+		"3047c09c"
+	]
+}

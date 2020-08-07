@@ -1,0 +1,31 @@
+{
+	title: "{interactions.a4a70422.4ae7792c.title}",
+	x: -13.299999999999997d,
+	y: -0.032142857142851256d,
+	text: [
+		"{interactions.a4a70422.4ae7792c.text.0}"
+	],
+	dependencies: [
+		"454cc06c"
+	],
+	tasks: [{
+		uid: "a555fe17",
+		type: "item",
+		items: [{
+			item: "logisticspipes:remote_orderer"
+		}]
+	},
+	{
+		uid: "d50ee1b6",
+		type: "item",
+		items: [{
+			item: "logisticspipes:pipe_remote_orderer"
+		}]
+	}],
+	rewards: [{
+		uid: "28e6ac05",
+		type: "item",
+		item: "enderstorage:ender_storage",
+		count: 2
+	}]
+}

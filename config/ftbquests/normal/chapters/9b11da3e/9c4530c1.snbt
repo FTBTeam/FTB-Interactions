@@ -1,0 +1,26 @@
+{
+	title: "{interactions.9b11da3e.9c4530c1.title}",
+	icon: "randomthings:slimecube",
+	x: -4.0d,
+	y: -4.0d,
+	text: [
+		"{interactions.9b11da3e.9c4530c1.text.0}",
+		"{interactions.9b11da3e.9c4530c1.text.1}",
+		"{interactions.9b11da3e.9c4530c1.text.2}",
+		"{interactions.9b11da3e.9c4530c1.text.3}"
+	],
+	dependencies: [
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "84049f71",
+		type: "kill",
+		entity: "minecraft:slime",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "46c3fb4f",
+		type: "item",
+		item: "randomthings:slimecube"
+	}]
+}

@@ -1,0 +1,44 @@
+{
+	title: "{interactions.ed136c16.85365f2e.title}",
+	x: -1.5d,
+	y: -6.0d,
+	description: "{interactions.ed136c16.85365f2e.description}",
+	text: [
+		"{interactions.ed136c16.85365f2e.text.0}",
+		"{interactions.ed136c16.85365f2e.text.1}",
+		"{interactions.ed136c16.85365f2e.text.2}",
+		"{interactions.ed136c16.85365f2e.text.3}",
+		"{interactions.ed136c16.85365f2e.text.4}",
+		"{interactions.ed136c16.85365f2e.text.5}",
+		"{interactions.ed136c16.85365f2e.text.6}",
+		"{interactions.ed136c16.85365f2e.text.7}",
+		"{interactions.ed136c16.85365f2e.text.8}"
+	],
+	dependencies: [
+		"bcc51b66"
+	],
+	tasks: [{
+		uid: "a083b575",
+		type: "checkmark",
+		title: "{interactions.ed136c16.85365f2e.tasks.0.title}",
+		icon: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1,
+					id: 0
+				}]
+			}
+		}
+	}],
+	rewards: [{
+		uid: "c9de3c18",
+		type: "item",
+		item: "enderutilities:storage_0 1 7"
+	},
+	{
+		uid: "b138a810",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

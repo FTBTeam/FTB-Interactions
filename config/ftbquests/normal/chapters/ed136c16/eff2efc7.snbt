@@ -1,0 +1,31 @@
+{
+	title: "{interactions.ed136c16.eff2efc7.title}",
+	icon: {
+		id: "tconstruct:hammer_head",
+		tag: {
+			Material: "steel"
+		}
+	},
+	x: -11.0d,
+	y: -3.0d,
+	description: "{interactions.ed136c16.eff2efc7.description}",
+	dependencies: [
+		"495cac08",
+		"c193d3a6"
+	],
+	tasks: [{
+		uid: "40a153f6",
+		type: "item",
+		items: [{
+			id: "tconstruct:hammer_head",
+			tag: {
+				Material: "steel"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "dacaa095",
+		type: "item",
+		item: "tconstruct:materials 1 50"
+	}]
+}

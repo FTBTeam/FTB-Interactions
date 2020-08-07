@@ -1,0 +1,31 @@
+{
+	x: 1.5d,
+	y: 13.0d,
+	shape: "diamond",
+	text: [
+		"{interactions.103abc81.aaf439c8.text.0}"
+	],
+	dependencies: [
+		"a7a83e28",
+		"60e81255",
+		"89acf0d3"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "6f366535",
+		type: "item",
+		items: [{
+			item: "enderutilities:enderpart 1 81"
+		}]
+	}],
+	rewards: [{
+		uid: "2d0e1c43",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:hydra_heart"
+		}
+	}]
+}

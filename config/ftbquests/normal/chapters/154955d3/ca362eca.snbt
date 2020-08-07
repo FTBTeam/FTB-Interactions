@@ -1,0 +1,35 @@
+{
+	title: "{interactions.154955d3.ca362eca.title}",
+	icon: "harvestcraft:groundtrap",
+	x: -3.0d,
+	y: 5.0d,
+	description: "{interactions.154955d3.ca362eca.description}",
+	text: [
+		"{interactions.154955d3.ca362eca.text.0}",
+		"{interactions.154955d3.ca362eca.text.1}"
+	],
+	dependencies: [
+		"29f7cca1"
+	],
+	tasks: [{
+		uid: "456423e8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:groundtrap"
+		}],
+		count: 4L
+	},
+	{
+		uid: "54052b29",
+		type: "item",
+		items: [{
+			item: "minecraft:beef"
+		}]
+	}],
+	rewards: [{
+		uid: "0502684e",
+		type: "item",
+		item: "minecraft:bone",
+		count: 3
+	}]
+}

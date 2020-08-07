@@ -1,0 +1,30 @@
+{
+	x: -10.5d,
+	y: -1.0d,
+	text: [
+		"{interactions.b1d7d7b9.fc9b45fc.text.0}"
+	],
+	dependencies: [
+		"eebe34c9"
+	],
+	tasks: [{
+		uid: "e1d7890c",
+		type: "checkmark",
+		title: "{interactions.b1d7d7b9.fc9b45fc.tasks.0.title}",
+		icon: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "nitrogen",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}
+	}],
+	rewards: [{
+		uid: "b4648556",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

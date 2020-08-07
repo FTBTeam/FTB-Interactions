@@ -1,0 +1,33 @@
+{
+	title: "{interactions.b1d7d7b9.4be04c93.title}",
+	icon: {
+		id: "gregtech:meta_item_1",
+		tag: {
+			Fluid: {
+				FluidName: "sulfuric_naphtha",
+				Amount: 1000
+			}
+		},
+		Damage: 32762s
+	},
+	x: -8.5d,
+	y: -7.0d,
+	description: "{interactions.b1d7d7b9.4be04c93.description}",
+	text: [
+		"{interactions.b1d7d7b9.4be04c93.text.0}"
+	],
+	tasks: [{
+		uid: "4aa48766",
+		type: "checkmark",
+		icon: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "sulfuric_naphtha",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}
+	}]
+}

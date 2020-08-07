@@ -1,0 +1,63 @@
+{
+	title: "{interactions.103abc81.cfcc58ad.title}",
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 49,
+			TrophyVariant: "classic",
+			TrophyItem: {
+				id: "gregtech:machine",
+				Count: 1,
+				Damage: 1
+			},
+			TrophyColorBlue: 146,
+			TrophyName: "Steam Age",
+			TrophyColorRed: 37,
+			TrophyEarnedAt: 1553222291
+		}
+	},
+	x: 1.5d,
+	y: 2.0d,
+	description: "{interactions.103abc81.cfcc58ad.description}",
+	text: [
+		"{interactions.103abc81.cfcc58ad.text.0}",
+		"{interactions.103abc81.cfcc58ad.text.1}"
+	],
+	dependencies: [
+		"7ddda4a3"
+	],
+	tasks: [{
+		uid: "5e4d5b44",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "2df7e638",
+		type: "item",
+		team_reward: true,
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "gregtech:machine",
+					Count: 1,
+					Damage: 1
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "Steam Age",
+				TrophyColorRed: 37
+			}
+		}
+	},
+	{
+		uid: "a9377b61",
+		type: "item",
+		team_reward: true,
+		item: "gregtech:meta_item_1 1 12095",
+		count: 16
+	}]
+}

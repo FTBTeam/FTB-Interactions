@@ -1,0 +1,41 @@
+{
+	x: -4.0d,
+	y: -8.0d,
+	text: [
+		"{interactions.aea6d983.e4411b80.text.0}"
+	],
+	dependencies: [
+		"bad8af80",
+		"a916453b"
+	],
+	tasks: [{
+		uid: "00b25033",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:canolachicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "505fc8d7",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_canola_seed"
+		}]
+	}],
+	rewards: [{
+		uid: "44c2fefd",
+		type: "item",
+		item: "harvestcraft:coffeeitem"
+	},
+	{
+		uid: "0e2bff96",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

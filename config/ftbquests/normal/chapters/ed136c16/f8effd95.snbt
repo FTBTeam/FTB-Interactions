@@ -1,0 +1,29 @@
+{
+	title: "{interactions.ed136c16.f8effd95.title}",
+	x: -9.0d,
+	y: 4.0d,
+	text: [
+		"{interactions.ed136c16.f8effd95.text.0}",
+		"{interactions.ed136c16.f8effd95.text.1}",
+		"{interactions.ed136c16.f8effd95.text.2}"
+	],
+	dependencies: [
+		"f68ab509",
+		"75c24ed9"
+	],
+	tasks: [{
+		uid: "a0e7ec1a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 27,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_staff_of_power"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

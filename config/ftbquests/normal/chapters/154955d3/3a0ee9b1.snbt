@@ -1,0 +1,34 @@
+{
+	x: 4.0d,
+	y: 4.0d,
+	shape: "rsquare",
+	text: [
+		"{interactions.154955d3.3a0ee9b1.text.0}"
+	],
+	dependencies: [
+		"dcc3168e"
+	],
+	tasks: [{
+		uid: "19073bd4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemarchitectwand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b20ec17c",
+		type: "item",
+		item: "gregtech:mineral",
+		count: 16
+	},
+	{
+		uid: "c2943589",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

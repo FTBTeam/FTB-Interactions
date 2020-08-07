@@ -1,0 +1,20 @@
+{
+	title: "{interactions.154955d3.d6382de0.title}",
+	x: -5.0d,
+	y: 5.0d,
+	dependencies: [
+		"29f7cca1"
+	],
+	tasks: [{
+		uid: "7eefe12f",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}]
+	}],
+	rewards: [{
+		uid: "38cbd0da",
+		type: "item",
+		item: "harvestcraft:meatloafsandwichitem"
+	}]
+}

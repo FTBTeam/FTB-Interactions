@@ -1,0 +1,38 @@
+{
+	title: "{interactions.aea6d983.fee8cda4.title}",
+	x: 2.0d,
+	y: -6.0d,
+	text: [
+		"{interactions.aea6d983.fee8cda4.text.0}"
+	],
+	dependencies: [
+		"bad8af80",
+		"82793346"
+	],
+	tasks: [{
+		uid: "d8ba7f9d",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:menrilchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "c0e593f4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:menril_enriched_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "8546b4a7",
+		type: "item",
+		item: "contenttweaker:menril_ore_crystal",
+		count: 16
+	}]
+}

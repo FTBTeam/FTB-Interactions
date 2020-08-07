@@ -1,0 +1,30 @@
+{
+	title: "{interactions.a4a70422.3770c1fb.title}",
+	x: -9.5d,
+	y: -3.0d,
+	description: "{interactions.a4a70422.3770c1fb.description}",
+	tasks: [{
+		uid: "94ba3456",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:golem_bell"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bded733e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:seal 1 14"
+		}]
+	}],
+	rewards: [{
+		uid: "c334fc5b",
+		type: "item",
+		item: "thaumcraft:seal 1 14"
+	}]
+}

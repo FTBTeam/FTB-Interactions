@@ -1,0 +1,37 @@
+{
+	x: 4.0d,
+	y: 1.0d,
+	shape: "rsquare",
+	description: "{interactions.154955d3.11d2e951.description}",
+	text: [
+		"{interactions.154955d3.11d2e951.text.0}",
+		""
+	],
+	dependencies: [
+		"8ffc4093"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "0dd741ea",
+		type: "item",
+		items: [{
+			item: "plants2:plantball"
+		}]
+	}],
+	rewards: [{
+		uid: "078604f9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "plants2:dark_crystal_hoe"
+		}
+	},
+	{
+		uid: "8dfd6a1e",
+		type: "item",
+		item: "actuallyadditions:item_worm",
+		count: 3
+	}]
+}

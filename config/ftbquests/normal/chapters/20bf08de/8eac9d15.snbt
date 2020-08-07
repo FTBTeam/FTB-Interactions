@@ -1,0 +1,52 @@
+{
+	x: -8.0d,
+	y: -10.0d,
+	text: [
+		"{interactions.20bf08de.8eac9d15.text.0}",
+		"{interactions.20bf08de.8eac9d15.text.1}",
+		"{interactions.20bf08de.8eac9d15.text.2}",
+		"",
+		"{interactions.20bf08de.8eac9d15.text.4}"
+	],
+	dependencies: [
+		"43e61bff"
+	],
+	tasks: [{
+		uid: "38e0a97d",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crucible"
+		}]
+	}],
+	rewards: [{
+		uid: "2090b4ca",
+		type: "item",
+		item: "harvestcraft:meatystewitem"
+	},
+	{
+		uid: "db28591a",
+		type: "item",
+		item: "thaumcraft:nugget 1 9",
+		count: 16
+	},
+	{
+		uid: "82ed66a2",
+		type: "item",
+		item: {
+			id: "thaumcraft:phial",
+			tag: {
+				Aspects: [{
+					amount: 10,
+					key: "mortuus"
+				}]
+			},
+			Damage: 1s
+		},
+		count: 2
+	},
+	{
+		uid: "cf2d0e1d",
+		type: "command",
+		command: "/tc research @p EVERFULLURN"
+	}]
+}

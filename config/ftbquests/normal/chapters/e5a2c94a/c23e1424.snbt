@@ -1,0 +1,39 @@
+{
+	title: "{interactions.e5a2c94a.c23e1424.title}",
+	icon: {
+		id: "openblocks:trophy",
+		tag: {
+			entity_id: "minecraft:zombie_pigman"
+		},
+		Damage: 5s
+	},
+	x: 1.0d,
+	y: 1.0d,
+	text: [
+		"{interactions.e5a2c94a.c23e1424.text.0}",
+		"{interactions.e5a2c94a.c23e1424.text.1}",
+		"{interactions.e5a2c94a.c23e1424.text.2}"
+	],
+	dependencies: [
+		"f92a387e"
+	],
+	tasks: [{
+		uid: "9b7ec47c",
+		type: "kill",
+		entity: "minecraft:zombie_pigman",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "9f7bb18e",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "xreliquary:mob_charm",
+			tag: {
+				type: 5
+			}
+		}
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "{interactions.498eb09c.46ef265b.title}",
+	icon: {
+		id: "gregtech:meta_item_1",
+		tag: {
+			Fluid: {
+				FluidName: "fluorine",
+				Amount: 1000
+			}
+		},
+		Damage: 32762s
+	},
+	x: -6.0d,
+	y: -4.0d,
+	description: "{interactions.498eb09c.46ef265b.description}",
+	text: [
+		"{interactions.498eb09c.46ef265b.text.0}"
+	],
+	tasks: [{
+		uid: "15662f0d",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "b5c6f441",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2250",
+		count: 22
+	}]
+}

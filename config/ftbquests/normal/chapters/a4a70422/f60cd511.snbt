@@ -1,0 +1,19 @@
+{
+	x: -21.0d,
+	y: -1.0d,
+	text: [
+		"{interactions.a4a70422.f60cd511.text.0}"
+	],
+	tasks: [{
+		uid: "6f07f5eb",
+		type: "item",
+		items: [{
+			item: "extrautils2:flattransfernode 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "7f348fc9",
+		type: "item",
+		item: "extrautils2:trashcanfluid"
+	}]
+}

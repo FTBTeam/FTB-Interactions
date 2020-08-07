@@ -1,0 +1,101 @@
+{
+	title: "{interactions.40159cc8.b7776072.title}",
+	x: 1.0d,
+	y: -18.5d,
+	description: "{interactions.40159cc8.b7776072.description}",
+	text: [
+		"{interactions.40159cc8.b7776072.text.0}",
+		"{interactions.40159cc8.b7776072.text.1}"
+	],
+	dependencies: [
+		"425146df"
+	],
+	tasks: [{
+		uid: "8ac46537",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:suitworkstation"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f8ea46d8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "advancedrocketry:spacehelmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "43e79be0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "advancedrocketry:spaceboots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7253d4ce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "advancedrocketry:spacechestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "62ca0375",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "advancedrocketry:pressuretank",
+			Damage: 2s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c357cb49",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "advancedrocketry:spaceleggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "48270b23",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1,
+					id: 27
+				}]
+			}
+		}
+	},
+	{
+		uid: "2727fc5e",
+		type: "item",
+		item: "harvestcraft:koreandinneritem"
+	}]
+}

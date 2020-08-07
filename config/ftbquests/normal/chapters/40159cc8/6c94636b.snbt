@@ -1,0 +1,23 @@
+{
+	title: "{interactions.40159cc8.6c94636b.title}",
+	x: -3.0d,
+	y: -17.0d,
+	text: [
+		"{interactions.40159cc8.6c94636b.text.0}"
+	],
+	dependencies: [
+		"05f17487"
+	],
+	tasks: [{
+		uid: "1b7a9969",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "libvulpes:linker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,62 @@
+{
+	title: "{interactions.40159cc8.8968f5fc.title}",
+	x: -3.0d,
+	y: -11.0d,
+	description: "{interactions.40159cc8.8968f5fc.description}",
+	text: [
+		"{interactions.40159cc8.8968f5fc.text.0}"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"78546de8",
+		"fe50d67e"
+	],
+	tasks: [{
+		uid: "a5153e13",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_aluminium_0"
+		}]
+	},
+	{
+		uid: "47d33418",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_sapphire_0"
+		}]
+	},
+	{
+		uid: "63300dbf",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomore 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "68f9d48c",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "80f1b619",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemtunedcelestialcrystal",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.horologium",
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}
+	}]
+}

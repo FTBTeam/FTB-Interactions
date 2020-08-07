@@ -1,0 +1,68 @@
+{
+	x: 1.5d,
+	y: 5.5d,
+	description: "{interactions.103abc81.3308d327.description}",
+	text: [
+		"{interactions.103abc81.3308d327.text.0}"
+	],
+	dependencies: [
+		"dcd19e05"
+	],
+	tasks: [{
+		uid: "cf19d9f0",
+		type: "item",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "gregtech:machine",
+					Count: 1,
+					Damage: 503
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "High Voltage",
+				TrophyColorRed: 37,
+				TrophyEarnedAt: 1553222294
+			}
+		},
+		items: [{
+			item: "gregtech:machine 1 503"
+		}]
+	}],
+	rewards: [{
+		uid: "1eb72af3",
+		type: "item",
+		team_reward: true,
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "gregtech:machine",
+					Count: 1,
+					Damage: 503
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "High Voltage",
+				TrophyColorRed: 37
+			}
+		}
+	},
+	{
+		uid: "2344638f",
+		type: "item",
+		team_reward: true,
+		item: "gregtech:meta_item_2 1 32489",
+		count: 4
+	},
+	{
+		uid: "7aeae0d5",
+		type: "item",
+		team_reward: true,
+		item: "gregtech:machine 1 503",
+		count: 4
+	}]
+}

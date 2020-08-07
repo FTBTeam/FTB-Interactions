@@ -1,0 +1,33 @@
+{
+	title: "{interactions.aa10a1a2.7185860a.title}",
+	x: -9.5d,
+	y: -1.5d,
+	text: [
+		"{interactions.aa10a1a2.7185860a.text.0}"
+	],
+	dependencies: [
+		"9063ed56"
+	],
+	tasks: [{
+		uid: "d37f6eea",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fluid_pump"
+		}]
+	},
+	{
+		uid: "82508132",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "oil",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}],
+		ignore_damage: true
+	}]
+}

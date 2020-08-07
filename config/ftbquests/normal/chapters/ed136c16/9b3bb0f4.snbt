@@ -1,0 +1,30 @@
+{
+	title: "{interactions.ed136c16.9b3bb0f4.title}",
+	x: -14.0d,
+	y: 1.0d,
+	text: [
+		"{interactions.ed136c16.9b3bb0f4.text.0}",
+		"{interactions.ed136c16.9b3bb0f4.text.1}"
+	],
+	dependencies: [
+		"1b1ccd9e"
+	],
+	tasks: [{
+		uid: "7dd1aa36",
+		type: "item",
+		items: [{
+			item: "buildinggadgets:templatemanager"
+		}]
+	}],
+	rewards: [{
+		uid: "984df30a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "animus:sigil_builder",
+			tag: {}
+		}
+	}]
+}

@@ -1,0 +1,72 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	description: "{interactions.103abc81.dcd19e05.description}",
+	text: [
+		"{interactions.103abc81.dcd19e05.text.0}",
+		"{interactions.103abc81.dcd19e05.text.1}",
+		"{interactions.103abc81.dcd19e05.text.2}",
+		"{interactions.103abc81.dcd19e05.text.3}"
+	],
+	dependencies: [
+		"6672ed55",
+		"0dcfd09c"
+	],
+	tasks: [{
+		uid: "a0f93e2e",
+		type: "item",
+		icon: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "gregtech:machine",
+					Count: 1,
+					Damage: 502
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "Medium Voltage",
+				TrophyColorRed: 37,
+				TrophyEarnedAt: 1553222293
+			}
+		},
+		items: [{
+			item: "gregtech:machine 1 502"
+		}]
+	}],
+	rewards: [{
+		uid: "3e8bdc10",
+		type: "item",
+		team_reward: true,
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "gregtech:machine",
+					Count: 1,
+					Damage: 502
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "Medium Voltage",
+				TrophyColorRed: 37
+			}
+		}
+	},
+	{
+		uid: "1c6b2a5e",
+		type: "item",
+		team_reward: true,
+		item: "gregtech:meta_item_2 1 32488",
+		count: 4
+	},
+	{
+		uid: "9ed635ec",
+		type: "item",
+		team_reward: true,
+		item: "gregtech:machine 1 502",
+		count: 4
+	}]
+}

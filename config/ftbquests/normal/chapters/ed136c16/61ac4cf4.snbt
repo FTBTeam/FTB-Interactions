@@ -1,0 +1,40 @@
+{
+	title: "{interactions.ed136c16.61ac4cf4.title}",
+	x: -14.0d,
+	y: -5.0d,
+	description: "{interactions.ed136c16.61ac4cf4.description}",
+	tasks: [{
+		uid: "40d93cf4",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_sapling"
+		}]
+	},
+	{
+		uid: "df2dfcb5",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_sapling 1 1"
+		}]
+	},
+	{
+		uid: "f34c1b76",
+		type: "item",
+		items: [{
+			item: "tconstruct:slime_sapling 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "5861534b",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "xreliquary:mob_charm",
+			tag: {
+				type: 10
+			}
+		}
+	}]
+}

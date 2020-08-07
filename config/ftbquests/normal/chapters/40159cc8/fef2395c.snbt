@@ -1,0 +1,10 @@
+{
+	title: "{interactions.40159cc8.fef2395c.title}",
+	icon: "gregtech:machine 1 431",
+	x: 1.0d,
+	y: -22.0d,
+	tasks: [{
+		uid: "89ff49e1",
+		type: "checkmark"
+	}]
+}

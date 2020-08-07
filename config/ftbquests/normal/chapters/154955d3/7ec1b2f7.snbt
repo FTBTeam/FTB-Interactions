@@ -1,0 +1,16 @@
+{
+	title: "{interactions.154955d3.7ec1b2f7.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "openblocks:generic_unstackable"
+	},
+	x: -2.0d,
+	y: -5.0d,
+	shape: "gear",
+	custom_click: "https://discord.gg/eWmUFrA",
+	dependencies: [
+		"87b0ee79"
+	]
+}

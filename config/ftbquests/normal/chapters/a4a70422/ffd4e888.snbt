@@ -1,0 +1,32 @@
+{
+	x: -15.0d,
+	y: 5.0d,
+	text: [
+		"{interactions.a4a70422.ffd4e888.text.0}"
+	],
+	dependencies: [
+		"dcabc080"
+	],
+	tasks: [{
+		uid: "eb59f10f",
+		type: "checkmark",
+		title: "{interactions.a4a70422.ffd4e888.tasks.0.title}",
+		icon: "enderio:item_liquid_conduit 1 2"
+	}],
+	rewards: [{
+		uid: "ab1d7c32",
+		type: "item",
+		item: {
+			id: "enderio:block_tank",
+			tag: {
+				"enderio:data": {
+					tank: {
+						Empty: "",
+						Capacity: 32000
+					}
+				}
+			},
+			Damage: 1s
+		}
+	}]
+}

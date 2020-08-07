@@ -1,0 +1,33 @@
+{
+	title: "{interactions.b1d7d7b9.9a162cda.title}",
+	x: -10.5d,
+	y: -5.0d,
+	description: "{interactions.b1d7d7b9.9a162cda.description}",
+	dependencies: [
+		"29825601"
+	],
+	tasks: [{
+		uid: "da6311b9",
+		type: "item",
+		title: "{interactions.b1d7d7b9.9a162cda.tasks.0.title}",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustLithium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}],
+	rewards: [{
+		uid: "8a2bbd3d",
+		type: "item",
+		item: "harvestcraft:pistachioicecreamitem"
+	},
+	{
+		uid: "09231ab3",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32528"
+	}]
+}

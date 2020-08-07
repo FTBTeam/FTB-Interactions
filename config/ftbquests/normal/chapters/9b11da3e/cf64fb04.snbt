@@ -1,0 +1,20 @@
+{
+	x: -12.0d,
+	y: -11.0d,
+	description: "{interactions.9b11da3e.cf64fb04.description}",
+	dependencies: [
+		"70a2cc40"
+	],
+	tasks: [{
+		uid: "4311bc84",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "scannable:module_ore_rare"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

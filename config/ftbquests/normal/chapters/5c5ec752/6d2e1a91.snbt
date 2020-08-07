@@ -1,0 +1,28 @@
+{
+	title: "{interactions.5c5ec752.6d2e1a91.title}",
+	x: 1.5d,
+	y: -2.0d,
+	shape: "gear",
+	text: [
+		"{interactions.5c5ec752.6d2e1a91.text.0}",
+		"{interactions.5c5ec752.6d2e1a91.text.1}",
+		"{interactions.5c5ec752.6d2e1a91.text.2}"
+	],
+	dependencies: [
+		"eafc12e8"
+	],
+	tasks: [{
+		uid: "a439841f",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "616e10fd",
+		type: "xp_levels",
+		xp_levels: 2
+	},
+	{
+		uid: "7cc81a7e",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32730"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "{interactions.154955d3.e7d70489.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "projecte:item.pe_tome"
+	},
+	x: 0.0d,
+	y: -3.0d,
+	description: "{interactions.154955d3.e7d70489.description}",
+	dependencies: [
+		"54f0c63a"
+	],
+	tasks: [{
+		uid: "c2164290",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "b94c92f8",
+		type: "item",
+		item: "harvestcraft:pizzasoupitem"
+	}]
+}

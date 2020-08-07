@@ -1,0 +1,23 @@
+{
+	title: "{interactions.7dc11b04.dfc5c81e.title}",
+	x: -1.5d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"{interactions.7dc11b04.dfc5c81e.text.0}"
+	],
+	dependencies: [
+		"832823a9"
+	],
+	tasks: [{
+		uid: "1e2b3b7f",
+		type: "checkmark",
+		title: "{interactions.7dc11b04.dfc5c81e.tasks.0.title}",
+		icon: "thaumcraft:crystal_vitium"
+	}],
+	rewards: [{
+		uid: "7c3e13d1",
+		type: "item",
+		item: "thaumcraft:crystal_vitium"
+	}]
+}

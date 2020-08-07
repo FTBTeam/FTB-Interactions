@@ -1,0 +1,16 @@
+{
+	title: "{interactions.28fb9cd4.287cd5e6.title}",
+	x: -6.5d,
+	y: 5.0d,
+	shape: "gear",
+	description: "{interactions.28fb9cd4.287cd5e6.description}",
+	text: [
+		"{interactions.28fb9cd4.287cd5e6.text.0}"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "84413d97",
+		type: "checkmark",
+		icon: "astralsorcery:blockcustomore 1 1"
+	}]
+}

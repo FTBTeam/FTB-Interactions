@@ -1,0 +1,21 @@
+{
+	title: "{interactions.9b11da3e.858ab06f.title}",
+	x: -13.0d,
+	y: -11.0d,
+	description: "{interactions.9b11da3e.858ab06f.description}",
+	dependencies: [
+		"70a2cc40"
+	],
+	tasks: [{
+		uid: "0f26e660",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "scannable:module_block"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

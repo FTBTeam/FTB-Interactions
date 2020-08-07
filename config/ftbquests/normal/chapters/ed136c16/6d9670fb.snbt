@@ -1,0 +1,28 @@
+{
+	title: "{interactions.ed136c16.6d9670fb.title}",
+	x: -8.0d,
+	y: -1.0d,
+	shape: "gear",
+	text: [
+		"{interactions.ed136c16.6d9670fb.text.0}"
+	],
+	dependencies: [
+		"160488c2"
+	],
+	tasks: [{
+		uid: "a01e7cc0",
+		type: "checkmark",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:cosmetic",
+			Damage: 31s
+		}
+	}],
+	rewards: [{
+		uid: "fc75162b",
+		type: "item",
+		item: "botania:starfield"
+	}]
+}

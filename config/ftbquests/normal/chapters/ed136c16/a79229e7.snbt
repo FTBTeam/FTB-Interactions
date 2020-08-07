@@ -1,0 +1,60 @@
+{
+	title: "{interactions.ed136c16.a79229e7.title}",
+	x: -15.5d,
+	y: -4.0d,
+	shape: "rsquare",
+	text: [
+		"{interactions.ed136c16.a79229e7.text.0}",
+		"",
+		"{interactions.ed136c16.a79229e7.text.2}",
+		"{interactions.ed136c16.a79229e7.text.3}"
+	],
+	tasks: [{
+		uid: "0be23101",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:portablesounddampener",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "750ad5cd",
+		type: "item",
+		item: "randomthings:sounddampener"
+	},
+	{
+		uid: "d782f44c",
+		type: "item",
+		item: {
+			id: "randomthings:soundpattern",
+			tag: {
+				sound: "minecraft:entity.villager.ambient"
+			}
+		}
+	},
+	{
+		uid: "94290911",
+		type: "item",
+		item: {
+			id: "randomthings:soundpattern",
+			tag: {
+				sound: "minecraft:block.portal.ambient"
+			}
+		}
+	},
+	{
+		uid: "0e40b51a",
+		type: "item",
+		item: {
+			id: "randomthings:soundpattern",
+			tag: {
+				sound: "minecraft:block.fire.ambient"
+			}
+		}
+	}]
+}

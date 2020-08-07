@@ -1,0 +1,37 @@
+{
+	title: "{interactions.99314095.e54fe206.title}",
+	x: -9.0d,
+	y: 0.5d,
+	description: "{interactions.99314095.e54fe206.description}",
+	text: [
+		"{interactions.99314095.e54fe206.text.0}",
+		"{interactions.99314095.e54fe206.text.1}",
+		"{interactions.99314095.e54fe206.text.2}",
+		"{interactions.99314095.e54fe206.text.3}",
+		"{interactions.99314095.e54fe206.text.4}"
+	],
+	dependencies: [
+		"c13fb853"
+	],
+	tasks: [{
+		uid: "459041ba",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 511"
+		}]
+	},
+	{
+		uid: "97c53ee7",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 714"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "7bb51378",
+		type: "item",
+		item: "gregtech:meta_item_1 1 10109",
+		count: 16
+	}]
+}

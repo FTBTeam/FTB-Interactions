@@ -1,0 +1,27 @@
+{
+	title: "{interactions.5c5ec752.481095ef.title}",
+	x: -4.0d,
+	y: 1.0d,
+	description: "{interactions.5c5ec752.481095ef.description}",
+	text: [
+		"{interactions.5c5ec752.481095ef.text.0}"
+	],
+	dependencies: [
+		"56f69a22",
+		"499c8c07"
+	],
+	tasks: [{
+		uid: "3ed9f655",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 17"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "924b3b0d",
+		type: "item",
+		item: "enderio:item_alloy_ingot 1 5",
+		count: 4
+	}]
+}

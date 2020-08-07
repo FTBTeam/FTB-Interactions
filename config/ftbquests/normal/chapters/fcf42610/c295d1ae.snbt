@@ -1,0 +1,25 @@
+{
+	title: "{interactions.fcf42610.c295d1ae.title}",
+	x: -2.5d,
+	y: -2.5d,
+	shape: "pentagon",
+	description: "{interactions.fcf42610.c295d1ae.description}",
+	text: [
+		"{interactions.fcf42610.c295d1ae.text.0}",
+		"{interactions.fcf42610.c295d1ae.text.1}"
+	],
+	dependencies: [
+		"5c340434",
+		"3fbc06c2"
+	],
+	tasks: [{
+		uid: "053e099b",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2117"
+		},
+		{
+			item: "gregtech:meta_item_1 1 2157"
+		}]
+	}]
+}

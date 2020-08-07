@@ -1,0 +1,24 @@
+{
+	x: -15.0d,
+	y: -8.0d,
+	text: [
+		"{interactions.a4a70422.f74bda48.text.0}"
+	],
+	tasks: [{
+		uid: "6deaa5d2",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}]
+	}],
+	rewards: [{
+		uid: "92b8bc67",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:wood_iron_chest_upgrade"
+		}
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "{interactions.aea6d983.19cae765.title}",
+	x: -3.5d,
+	y: -7.0d,
+	text: [
+		"{interactions.aea6d983.19cae765.text.0}"
+	],
+	dependencies: [
+		"bad8af80",
+		"d03a9479"
+	],
+	tasks: [{
+		uid: "f9e6c3ec",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:radonchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "e70ff7c3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:radon_enriched_egg"
+		}]
+	}]
+}

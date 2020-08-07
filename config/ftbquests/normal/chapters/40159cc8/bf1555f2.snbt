@@ -1,0 +1,19 @@
+{
+	title: "{interactions.40159cc8.bf1555f2.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "polyvinyl_chloride",
+			Amount: 1000
+		}
+	},
+	x: 0.0d,
+	y: -22.0d,
+	tasks: [{
+		uid: "c199e365",
+		type: "checkmark"
+	}]
+}

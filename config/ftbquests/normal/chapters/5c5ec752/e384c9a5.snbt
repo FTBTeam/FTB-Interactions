@@ -1,0 +1,31 @@
+{
+	x: -3.0d,
+	y: 1.0d,
+	description: "{interactions.5c5ec752.e384c9a5.description}",
+	dependencies: [
+		"56f69a22",
+		"d728580e"
+	],
+	tasks: [{
+		uid: "2d3559db",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 13"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0a719851",
+		type: "item",
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "praecantatio"
+				}]
+			}
+		},
+		count: 15
+	}]
+}

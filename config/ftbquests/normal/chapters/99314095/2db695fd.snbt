@@ -1,0 +1,35 @@
+{
+	title: "{interactions.99314095.2db695fd.title}",
+	x: -1.0d,
+	y: 0.0d,
+	description: "{interactions.99314095.2db695fd.description}",
+	text: [
+		"{interactions.99314095.2db695fd.text.0}"
+	],
+	dependencies: [
+		"6672ed55"
+	],
+	tasks: [{
+		uid: "d9587647",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 190"
+		}]
+	}],
+	rewards: [{
+		uid: "9b37b245",
+		type: "item",
+		item: "minecraft:ender_eye"
+	},
+	{
+		uid: "e2125f6d",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32766"
+	},
+	{
+		uid: "0120d1ec",
+		type: "item",
+		item: "gregtech:machine 1 190",
+		count: 2
+	}]
+}

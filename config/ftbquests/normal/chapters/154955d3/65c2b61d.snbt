@@ -1,0 +1,24 @@
+{
+	icon: "randomthings:ingredient 1 10",
+	x: 2.0d,
+	y: 6.0d,
+	description: "{interactions.154955d3.65c2b61d.description}",
+	text: [
+		"{interactions.154955d3.65c2b61d.text.0}"
+	],
+	dependencies: [
+		"b030b92e"
+	],
+	tasks: [{
+		uid: "44efa3d8",
+		type: "item",
+		items: [{
+			item: "randomthings:ingredient 1 10"
+		}]
+	}],
+	rewards: [{
+		uid: "4c4d9c0e",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

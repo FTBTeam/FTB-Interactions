@@ -1,0 +1,27 @@
+{
+	x: -1.5d,
+	y: 5.0d,
+	text: [
+		"{interactions.28fb9cd4.b46714b7.text.0}"
+	],
+	dependencies: [
+		"1d37b267"
+	],
+	tasks: [{
+		uid: "3eb8ec01",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6443b3e1",
+		type: "item",
+		item: "astralsorcery:itemcoloredlens 1 2"
+	}]
+}

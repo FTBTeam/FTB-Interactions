@@ -1,0 +1,50 @@
+{
+	title: "{interactions.28fb9cd4.6a38accb.title}",
+	x: -4.0d,
+	y: 8.0d,
+	shape: "rsquare",
+	text: [
+		"{interactions.28fb9cd4.6a38accb.text.0}",
+		"{interactions.28fb9cd4.6a38accb.text.1}",
+		"{interactions.28fb9cd4.6a38accb.text.2}"
+	],
+	dependencies: [
+		"efa75c67"
+	],
+	optional: true,
+	tasks: [{
+		uid: "58172dd7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemshiftingstar",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "14054f6b",
+		type: "choice",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemshiftingstar",
+			tag: {
+				RepairCost: 0,
+				astralsorcery: {
+					starAttunement: "astralsorcery.constellation.aevitas"
+				},
+				display: {
+					Name: "Aevitas Irradiant Star"
+				}
+			}
+		},
+		table: 1
+	}]
+}

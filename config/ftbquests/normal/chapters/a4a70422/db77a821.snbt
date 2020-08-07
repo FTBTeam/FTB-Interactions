@@ -1,0 +1,27 @@
+{
+	title: "{interactions.a4a70422.db77a821.title}",
+	x: -22.0d,
+	y: -3.0d,
+	description: "{interactions.a4a70422.db77a821.description}",
+	tasks: [{
+		uid: "67a6dc43",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			},
+			Damage: 3s
+		}]
+	}],
+	rewards: [{
+		uid: "7781d100",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:configurator"
+		}
+	}]
+}

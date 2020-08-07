@@ -1,0 +1,29 @@
+{
+	title: "{interactions.9b11da3e.43694448.title}",
+	x: -9.0d,
+	y: -8.0d,
+	description: "{interactions.9b11da3e.43694448.description}",
+	dependencies: [
+		"db13041e"
+	],
+	tasks: [{
+		uid: "38d310c7",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_lignite_0"
+		}]
+	},
+	{
+		uid: "6387e73a",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_coal_0"
+		}]
+	}],
+	rewards: [{
+		uid: "51145cdb",
+		type: "item",
+		item: "minecraft:coal",
+		count: 8
+	}]
+}

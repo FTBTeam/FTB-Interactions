@@ -1,0 +1,29 @@
+{
+	title: "{interactions.99314095.89c652f7.title}",
+	x: -6.0d,
+	y: 2.0d,
+	description: "{interactions.99314095.89c652f7.description}",
+	hide_dependency_lines: true,
+	dependencies: [
+		"ace65682"
+	],
+	tasks: [{
+		uid: "a63f4f80",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 241"
+		}]
+	}],
+	rewards: [{
+		uid: "497b7494",
+		type: "item",
+		item: "minecraft:clay_ball",
+		count: 32
+	},
+	{
+		uid: "5506953a",
+		type: "item",
+		item: "gregtech:meta_item_2 1 32507",
+		count: 4
+	}]
+}

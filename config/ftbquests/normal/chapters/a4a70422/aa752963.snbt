@@ -1,0 +1,20 @@
+{
+	x: -5.0d,
+	y: -8.0d,
+	description: "{interactions.a4a70422.aa752963.description}",
+	text: [
+		"{interactions.a4a70422.aa752963.text.0}"
+	],
+	tasks: [{
+		uid: "a5ecd790",
+		type: "item",
+		items: [{
+			item: "extrautils2:drum"
+		}]
+	}],
+	rewards: [{
+		uid: "c9bb9843",
+		type: "item",
+		item: "extrautils2:drum 1 1"
+	}]
+}

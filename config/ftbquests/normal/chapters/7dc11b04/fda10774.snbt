@@ -1,0 +1,26 @@
+{
+	x: 7.0d,
+	y: -2.0d,
+	description: "{interactions.7dc11b04.fda10774.description}",
+	text: [
+		"{interactions.7dc11b04.fda10774.text.0}",
+		"",
+		"{interactions.7dc11b04.fda10774.text.2}"
+	],
+	dependencies: [
+		"4fa0097b"
+	],
+	tasks: [{
+		uid: "dcb8e7f9",
+		type: "item",
+		items: [{
+			item: "netherbackport:ancientdebris"
+		}]
+	}],
+	rewards: [{
+		uid: "531458eb",
+		type: "item",
+		item: "netherbackport:netheritescrap",
+		count: 4
+	}]
+}

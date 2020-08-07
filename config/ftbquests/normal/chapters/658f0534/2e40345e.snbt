@@ -1,0 +1,28 @@
+{
+	title: "{interactions.658f0534.2e40345e.title}",
+	x: -16.0d,
+	y: -2.5d,
+	text: [
+		"{interactions.658f0534.2e40345e.text.0}"
+	],
+	dependencies: [
+		"254a6531"
+	],
+	tasks: [{
+		uid: "bdc3bc55",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_ore_shard"
+		}]
+	}],
+	rewards: [{
+		uid: "c4fa9133",
+		type: "item",
+		item: {
+			id: "botania:floatingspecialflower",
+			tag: {
+				type: "bellethorn"
+			}
+		}
+	}]
+}

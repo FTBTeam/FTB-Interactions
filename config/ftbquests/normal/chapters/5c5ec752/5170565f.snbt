@@ -1,0 +1,31 @@
+{
+	title: "{interactions.5c5ec752.5170565f.title}",
+	x: -1.0d,
+	y: -5.0d,
+	description: "{interactions.5c5ec752.5170565f.description}",
+	dependencies: [
+		"95d931f2"
+	],
+	tasks: [{
+		uid: "be49ce9b",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_furnace_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "73e46e3f",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "lava",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		},
+		count: 4
+	}]
+}

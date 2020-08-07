@@ -1,0 +1,27 @@
+{
+	x: -1.5d,
+	y: -4.5d,
+	shape: "square",
+	description: "{interactions.ed136c16.bcc51b66.description}",
+	text: [
+		"{interactions.ed136c16.bcc51b66.text.0}",
+		"",
+		"{interactions.ed136c16.bcc51b66.text.2}"
+	],
+	dependencies: [
+		"c5e6d160"
+	],
+	tasks: [{
+		uid: "3c3ae52b",
+		type: "item",
+		items: [{
+			item: "minecraft:enchanting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "8098ec96",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 4
+	}]
+}

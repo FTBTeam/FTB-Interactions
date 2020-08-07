@@ -1,0 +1,29 @@
+{
+	title: "{interactions.bdc0ae1a.22644b75.title}",
+	x: 5.5d,
+	y: -0.5d,
+	description: "{interactions.bdc0ae1a.22644b75.description}",
+	dependencies: [
+		"1d2f9478"
+	],
+	tasks: [{
+		uid: "fcfb433c",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "jadedAmaranthus"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "511852bc",
+		type: "item",
+		item: "botania:forestdrum"
+	},
+	{
+		uid: "024a6b58",
+		type: "item",
+		item: "harvestcraft:crispyricepuffcerealitem"
+	}]
+}

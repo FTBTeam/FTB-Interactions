@@ -1,0 +1,50 @@
+{
+	x: 3.5d,
+	y: -7.0d,
+	text: [
+		"{interactions.aea6d983.9a85615d.text.0}"
+	],
+	dependencies: [
+		"bad8af80",
+		"da0cc52f"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "4a5cf161",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:vinteumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "e0d8f286",
+		type: "item",
+		items: [{
+			item: "contenttweaker:vinteum_enriched_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "13ca896c",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2326",
+		count: 16
+	},
+	{
+		uid: "5eb26f87",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2247",
+		count: 16
+	},
+	{
+		uid: "f20fc6b9",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2805",
+		count: 16
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	title: "{interactions.a4a70422.600d307c.title}",
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"{interactions.a4a70422.600d307c.text.0}",
+		"  ",
+		"{interactions.a4a70422.600d307c.text.2}"
+	],
+	dependencies: [
+		"39d33b3e"
+	],
+	tasks: [{
+		uid: "3e4ea050",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 52"
+		}],
+		count: 8L
+	},
+	{
+		uid: "364f077c",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 340"
+		}]
+	}],
+	rewards: [{
+		uid: "44c9556a",
+		type: "item",
+		item: "threng:big_assembler 1 3"
+	}]
+}

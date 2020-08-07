@@ -1,0 +1,24 @@
+{
+	x: -11.0d,
+	y: -6.0d,
+	text: [
+		"{interactions.ed136c16.d2963c1f.text.0}"
+	],
+	dependencies: [
+		"c42f5354",
+		"11fc0573"
+	],
+	tasks: [{
+		uid: "c3cc2ebf",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 5802"
+		}]
+	}],
+	rewards: [{
+		uid: "5e99b979",
+		type: "item",
+		item: "thaumcraft:ingot",
+		count: 4
+	}]
+}

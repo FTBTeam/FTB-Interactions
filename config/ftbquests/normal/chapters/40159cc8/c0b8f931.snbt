@@ -1,0 +1,29 @@
+{
+	title: "{interactions.40159cc8.c0b8f931.title}",
+	x: -1.5d,
+	y: -15.0d,
+	text: [
+		"{interactions.40159cc8.c0b8f931.text.0}"
+	],
+	dependencies: [
+		"237309c2"
+	],
+	tasks: [{
+		uid: "0ab03433",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:oxygencharger"
+		}]
+	}],
+	rewards: [{
+		uid: "c3382f24",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "advancedrocketry:pressuretank",
+			Damage: 3s
+		}
+	}]
+}

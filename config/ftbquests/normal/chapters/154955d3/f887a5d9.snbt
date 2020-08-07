@@ -1,0 +1,15 @@
+{
+	title: "{interactions.154955d3.f887a5d9.title}",
+	icon: "randomthings:eclipsedclock",
+	x: 0.0d,
+	y: 1.0d,
+	shape: "gear",
+	description: "{interactions.154955d3.f887a5d9.description}",
+	text: [
+		""
+	],
+	custom_click: "https://www.youtube.com/watch?v=NdGhWUAtFds",
+	dependencies: [
+		"7a3fc83a"
+	]
+}

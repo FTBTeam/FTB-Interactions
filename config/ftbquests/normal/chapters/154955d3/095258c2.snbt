@@ -1,0 +1,28 @@
+{
+	title: "{interactions.154955d3.095258c2.title}",
+	icon: "cyberware:body_part 1 2",
+	x: -1.0d,
+	y: 7.0d,
+	description: "{interactions.154955d3.095258c2.description}",
+	text: [
+		"{interactions.154955d3.095258c2.text.0}"
+	],
+	dependencies: [
+		"d7b06269"
+	],
+	tasks: [{
+		uid: "530cd49f",
+		type: "item",
+		items: [{
+			item: "cyberware:body_part 1 2"
+		},
+		{
+			item: "minecraft:emerald"
+		}]
+	}],
+	rewards: [{
+		uid: "73a5b452",
+		type: "item",
+		item: "wizardry:fairy_dust"
+	}]
+}

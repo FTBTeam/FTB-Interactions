@@ -1,0 +1,36 @@
+{
+	title: "{interactions.9b11da3e.bdeb88ad.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "xreliquary:witch_hat"
+	},
+	x: -4.0d,
+	y: -3.0d,
+	text: [
+		"{interactions.9b11da3e.bdeb88ad.text.0}",
+		"{interactions.9b11da3e.bdeb88ad.text.1}",
+		"{interactions.9b11da3e.bdeb88ad.text.2}",
+		"{interactions.9b11da3e.bdeb88ad.text.3}"
+	],
+	dependencies: [
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "eb326ed4",
+		type: "kill",
+		entity: "minecraft:witch",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0974abae",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "xreliquary:witch_hat"
+		}
+	}]
+}

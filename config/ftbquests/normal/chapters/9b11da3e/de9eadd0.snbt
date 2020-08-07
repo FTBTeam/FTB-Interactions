@@ -1,0 +1,28 @@
+{
+	title: "{interactions.9b11da3e.de9eadd0.title}",
+	icon: "minecraft:skull 1 4",
+	x: -4.0d,
+	y: -6.0d,
+	text: [
+		"{interactions.9b11da3e.de9eadd0.text.0}",
+		"{interactions.9b11da3e.de9eadd0.text.1}",
+		"{interactions.9b11da3e.de9eadd0.text.2}",
+		"",
+		"{interactions.9b11da3e.de9eadd0.text.4}"
+	],
+	dependencies: [
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "a9d681e7",
+		type: "kill",
+		entity: "minecraft:creeper",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "373a3642",
+		type: "item",
+		item: "cyclicmagic:ender_tnt_3",
+		count: 4
+	}]
+}

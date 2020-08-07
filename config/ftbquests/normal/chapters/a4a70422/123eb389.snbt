@@ -1,0 +1,19 @@
+{
+	x: -12.0d,
+	y: -8.0d,
+	text: [
+		"{interactions.a4a70422.123eb389.text.0}"
+	],
+	tasks: [{
+		uid: "aabd9471",
+		type: "item",
+		items: [{
+			item: "enderutilities:barrel"
+		}]
+	}],
+	rewards: [{
+		uid: "11875def",
+		type: "item",
+		item: "enderutilities:enderpart 1 73"
+	}]
+}

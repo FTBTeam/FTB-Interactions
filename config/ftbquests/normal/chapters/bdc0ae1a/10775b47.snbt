@@ -1,0 +1,25 @@
+{
+	title: "{interactions.bdc0ae1a.10775b47.title}",
+	x: -0.5d,
+	y: -1.0d,
+	description: "{interactions.bdc0ae1a.10775b47.description}",
+	dependencies: [
+		"8daf4c09"
+	],
+	tasks: [{
+		uid: "6d7b9db1",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f0a94ce1",
+		type: "item",
+		item: "botania:petal",
+		count: 2
+	}]
+}

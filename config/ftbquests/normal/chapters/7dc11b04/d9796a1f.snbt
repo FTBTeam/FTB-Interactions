@@ -1,0 +1,52 @@
+{
+	title: "{interactions.7dc11b04.d9796a1f.title}",
+	x: -1.0d,
+	y: 1.5d,
+	text: [
+		"{interactions.7dc11b04.d9796a1f.text.0}",
+		"{interactions.7dc11b04.d9796a1f.text.1}"
+	],
+	dependencies: [
+		"10103324"
+	],
+	tasks: [{
+		uid: "052b0e24",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a069d72d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sentient_sword",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "90767cd5",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {
+				souls: 256.0d
+			},
+			Damage: 1s
+		}
+	}]
+}

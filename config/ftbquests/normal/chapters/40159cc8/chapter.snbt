@@ -1,0 +1,10 @@
+{
+	title: "{interactions.40159cc8.chapter.title}",
+	icon: "advancedrocketry:satelliteprimaryfunction 1 4",
+	description: [
+		"{interactions.40159cc8.chapter.description.0}"
+	],
+	always_invisible: false,
+	group: 1865916608,
+	default_quest_shape: ""
+}

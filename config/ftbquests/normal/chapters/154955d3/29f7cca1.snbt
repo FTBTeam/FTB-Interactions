@@ -1,0 +1,60 @@
+{
+	title: "{interactions.154955d3.29f7cca1.title}",
+	icon: "waterstrainer:strainer_base",
+	x: -2.0d,
+	y: 3.0d,
+	description: "{interactions.154955d3.29f7cca1.description}",
+	text: [
+		"{interactions.154955d3.29f7cca1.text.0}",
+		"",
+		"{interactions.154955d3.29f7cca1.text.2}"
+	],
+	dependencies: [
+		"1d6fe213"
+	],
+	tasks: [{
+		uid: "94caa5d7",
+		type: "item",
+		items: [{
+			item: "waterstrainer:strainer_base"
+		}],
+		count: 3L
+	},
+	{
+		uid: "359bcf83",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "waterstrainer:strainer_survivalist"
+		}]
+	},
+	{
+		uid: "4485a6a3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "waterstrainer:strainer_survivalist_dense"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fb06ff0c",
+		type: "item",
+		item: "harvestcraft:leafyfishsandwichitem"
+	},
+	{
+		uid: "3c60416e",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "waterstrainer:efficiency_meter"
+		}
+	}]
+}

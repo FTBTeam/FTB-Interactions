@@ -1,0 +1,32 @@
+{
+	title: "{interactions.b1d7d7b9.0220d6bb.title}",
+	x: -6.5d,
+	y: -7.0d,
+	description: "{interactions.b1d7d7b9.0220d6bb.description}",
+	text: [
+		"{interactions.b1d7d7b9.0220d6bb.text.0}"
+	],
+	dependencies: [
+		"64abbac6"
+	],
+	tasks: [{
+		uid: "2995ef50",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fluid_pump"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e57ba3fa",
+		type: "item",
+		item: {
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			},
+			Damage: 1s
+		},
+		count: 4
+	}]
+}

@@ -1,0 +1,55 @@
+{
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 49,
+			TrophyVariant: "classic",
+			TrophyItem: {
+				id: "draconicevolution:dragon_heart",
+				Count: 1,
+				Damage: 0
+			},
+			TrophyColorBlue: 146,
+			TrophyName: "The Dragon's Heart",
+			TrophyColorRed: 37,
+			TrophyEarnedAt: 1553222298
+		}
+	},
+	x: 1.5d,
+	y: 9.0d,
+	description: "{interactions.103abc81.5b1c2607.description}",
+	text: [
+		"{interactions.103abc81.5b1c2607.text.0}",
+		"{interactions.103abc81.5b1c2607.text.1}"
+	],
+	dependencies: [
+		"9be3aa5b"
+	],
+	tasks: [{
+		uid: "f96763f8",
+		type: "item",
+		items: [{
+			item: "draconicevolution:dragon_heart"
+		}]
+	}],
+	rewards: [{
+		uid: "21cb9809",
+		type: "item",
+		team_reward: true,
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "draconicevolution:dragon_heart",
+					Count: 1,
+					Damage: 0
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "The Dragon's Heart",
+				TrophyColorRed: 37
+			}
+		}
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "{interactions.154955d3.7a3fc83a.title}",
+	icon: "minecraft:planks",
+	x: 0.0d,
+	y: 0.0d,
+	description: "{interactions.154955d3.7a3fc83a.description}",
+	text: [
+		"{interactions.154955d3.7a3fc83a.text.0}",
+		"{interactions.154955d3.7a3fc83a.text.1}"
+	],
+	dependencies: [
+		"98f4c3c6"
+	],
+	tasks: [{
+		uid: "594dc11f",
+		type: "item",
+		items: [{
+			item: "minecraft:planks"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "5a98a38b",
+		type: "item",
+		item: "harvestcraft:sweetpotatosouffleitem"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "{interactions.251cae50.165a3388.title}",
+	icon: "gregtech:machine 1 506",
+	x: -2.0d,
+	y: -5.0d,
+	description: "{interactions.251cae50.165a3388.description}",
+	dependencies: [
+		"b99f707f",
+		"2039d485"
+	],
+	tasks: [{
+		uid: "085504c5",
+		type: "checkmark"
+	}]
+}

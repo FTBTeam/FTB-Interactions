@@ -1,0 +1,19 @@
+{
+	x: -10.5d,
+	y: 1.0d,
+	description: "{interactions.b1d7d7b9.eebe34c9.description}",
+	text: [
+		"{interactions.b1d7d7b9.eebe34c9.text.0}",
+		""
+	],
+	tasks: [{
+		uid: "26102a6b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 950"
+		},
+		{
+			item: "contenttweaker:gassy_enriched_egg"
+		}]
+	}]
+}

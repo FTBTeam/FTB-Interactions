@@ -1,0 +1,39 @@
+{
+	title: "{interactions.9b11da3e.c75fe8dc.title}",
+	x: -7.0d,
+	y: -2.0d,
+	description: "{interactions.9b11da3e.c75fe8dc.description}",
+	text: [
+		"{interactions.9b11da3e.c75fe8dc.text.0}"
+	],
+	dependencies: [
+		"78d3f804"
+	],
+	tasks: [{
+		uid: "0cab4d57",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_tetrahedrite_0"
+		}]
+	},
+	{
+		uid: "aaab410b",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_stibnite_0"
+		}]
+	},
+	{
+		uid: "743cc096",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_copper_0"
+		}]
+	}],
+	rewards: [{
+		uid: "992cf143",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2185",
+		count: 4
+	}]
+}

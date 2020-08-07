@@ -1,0 +1,30 @@
+{
+	title: "{interactions.99314095.69c3da6b.title}",
+	x: -9.0d,
+	y: 8.0d,
+	shape: "square",
+	description: "{interactions.99314095.69c3da6b.description}",
+	dependencies: [
+		"a73d5e3d"
+	],
+	tasks: [{
+		uid: "3cd55fca",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10235"
+		}]
+	},
+	{
+		uid: "b31b9509",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 505"
+		}]
+	}],
+	rewards: [{
+		uid: "3e6a74b5",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2074",
+		count: 16
+	}]
+}

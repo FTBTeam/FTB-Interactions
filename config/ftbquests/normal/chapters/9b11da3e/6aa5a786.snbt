@@ -1,0 +1,36 @@
+{
+	title: "{interactions.9b11da3e.6aa5a786.title}",
+	x: -9.0d,
+	y: 0.0d,
+	description: "{interactions.9b11da3e.6aa5a786.description}",
+	dependencies: [
+		"ced0c5b8"
+	],
+	tasks: [{
+		uid: "ef0af61d",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_redstone_0"
+		}]
+	},
+	{
+		uid: "248514cc",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_cinnabar_0"
+		}]
+	},
+	{
+		uid: "31cbc54a",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_ruby_0"
+		}]
+	}],
+	rewards: [{
+		uid: "6ab08326",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 6
+	}]
+}

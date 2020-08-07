@@ -1,0 +1,44 @@
+{
+	icon: "gregtech:machine 1 2197",
+	x: -4.0d,
+	y: -5.0d,
+	shape: "rsquare",
+	text: [
+		"{interactions.aa10a1a2.634fbd39.text.0}",
+		"",
+		"{interactions.aa10a1a2.634fbd39.text.2}",
+		"",
+		"{interactions.aa10a1a2.634fbd39.text.4}"
+	],
+	tasks: [{
+		uid: "d8567236",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2197"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:tank",
+			tag: {
+				RSControl: 0,
+				Level: 0
+			}
+		},
+		{
+			item: "extrautils2:drum"
+		}]
+	}],
+	rewards: [{
+		uid: "544d51cc",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:reservoir",
+			tag: {}
+		}
+	}]
+}

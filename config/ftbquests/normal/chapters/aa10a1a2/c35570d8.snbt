@@ -1,0 +1,31 @@
+{
+	x: -10.0d,
+	y: 7.5d,
+	text: [
+		"{interactions.aa10a1a2.c35570d8.text.0}",
+		"{interactions.aa10a1a2.c35570d8.text.1}",
+		"{interactions.aa10a1a2.c35570d8.text.2}"
+	],
+	dependencies: [
+		"c48fa03d"
+	],
+	tasks: [{
+		uid: "6e44a824",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 518"
+		}]
+	}],
+	rewards: [{
+		uid: "013cb542",
+		type: "item",
+		item: "gregtech:meta_item_2 1 32489",
+		count: 2
+	},
+	{
+		uid: "5b41cdf2",
+		type: "item",
+		item: "gregtech:meta_item_1 1 12184",
+		count: 16
+	}]
+}

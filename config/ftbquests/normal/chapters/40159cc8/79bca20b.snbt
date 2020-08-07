@@ -1,0 +1,17 @@
+{
+	title: "{interactions.40159cc8.79bca20b.title}",
+	icon: "astralsorcery:blockcelestialgateway",
+	x: 2.5d,
+	y: -22.0d,
+	description: "{interactions.40159cc8.79bca20b.description}",
+	text: [
+		"{interactions.40159cc8.79bca20b.text.0}"
+	],
+	tasks: [{
+		uid: "e4050539",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcelestialgateway"
+		}]
+	}]
+}

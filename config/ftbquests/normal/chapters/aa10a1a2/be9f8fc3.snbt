@@ -1,0 +1,45 @@
+{
+	x: -4.0d,
+	y: -0.5d,
+	shape: "rsquare",
+	description: "{interactions.aa10a1a2.be9f8fc3.description}",
+	text: [
+		"{interactions.aa10a1a2.be9f8fc3.text.0}",
+		"{interactions.aa10a1a2.be9f8fc3.text.1}"
+	],
+	dependencies: [
+		"b9e859bd"
+	],
+	tasks: [{
+		uid: "990af63f",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 480"
+		},
+		{
+			item: "gregtech:machine 1 481"
+		},
+		{
+			item: "gregtech:machine 1 482"
+		}]
+	}],
+	rewards: [{
+		uid: "23e88db5",
+		type: "item",
+		item: "harvestcraft:delightedmealitem"
+	},
+	{
+		uid: "d12231eb",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "oil",
+					Amount: 64000
+				}
+			},
+			Damage: 32405s
+		}
+	}]
+}

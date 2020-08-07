@@ -1,0 +1,21 @@
+{
+	x: -13.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"{interactions.99314095.7baaac5e.text.0}",
+		"",
+		"{interactions.99314095.7baaac5e.text.2}",
+		"",
+		"{interactions.99314095.7baaac5e.text.4}"
+	],
+	dependencies: [
+		"6672ed55"
+	],
+	tasks: [{
+		uid: "57f5ef9d",
+		type: "checkmark",
+		title: "{interactions.99314095.7baaac5e.tasks.0.title}",
+		icon: "cyclicmagic:fire_dark"
+	}]
+}

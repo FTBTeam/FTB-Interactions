@@ -1,0 +1,26 @@
+{
+	title: "{interactions.28fb9cd4.be1cd5e2.title}",
+	x: -4.0d,
+	y: 0.5d,
+	description: "{interactions.28fb9cd4.be1cd5e2.description}",
+	dependencies: [
+		"b1dded11"
+	],
+	tasks: [{
+		uid: "03ff4445",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmachine 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "f4f479c2",
+		type: "item",
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "apotheosis:strong_knowledge"
+			}
+		}
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "{interactions.a4a70422.3047c09c.title}",
+	x: -6.5d,
+	y: 0.0d,
+	text: [
+		"{interactions.a4a70422.3047c09c.text.0}"
+	],
+	tasks: [{
+		uid: "4b7671cb",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_star"
+		}]
+	}],
+	rewards: [{
+		uid: "d116083e",
+		type: "item",
+		item: "gregtech:meta_item_1 1 12331"
+	}]
+}

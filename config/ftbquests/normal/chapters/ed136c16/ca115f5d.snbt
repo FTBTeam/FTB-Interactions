@@ -1,0 +1,27 @@
+{
+	title: "{interactions.ed136c16.ca115f5d.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "botania:cosmetic",
+		Damage: 31s
+	},
+	x: -2.5d,
+	y: 2.0d,
+	text: [
+		"{interactions.ed136c16.ca115f5d.text.0}",
+		"{interactions.ed136c16.ca115f5d.text.1}",
+		"{interactions.ed136c16.ca115f5d.text.2}",
+		"{interactions.ed136c16.ca115f5d.text.3}"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"4a664dce"
+	],
+	tasks: [{
+		uid: "d7f2e087",
+		type: "checkmark",
+		title: "{interactions.ed136c16.ca115f5d.tasks.0.title}"
+	}]
+}

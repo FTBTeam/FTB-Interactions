@@ -1,0 +1,29 @@
+{
+	x: -5.0d,
+	y: -10.0d,
+	description: "{interactions.9076fdc4.c2abb527.description}",
+	text: [
+		"{interactions.9076fdc4.c2abb527.text.0}"
+	],
+	tasks: [{
+		uid: "5b242762",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Chicken: "contenttweaker:infinitychicken"
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "4cd5cdaa",
+		type: "item",
+		item: "roost:roost"
+	},
+	{
+		uid: "436d0739",
+		type: "item",
+		item: "harvestcraft:friedchickenitem"
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "{interactions.aa10a1a2.0298a797.title}",
+	x: 0.0d,
+	y: 2.5d,
+	shape: "rsquare",
+	text: [
+		"{interactions.aa10a1a2.0298a797.text.0}"
+	],
+	dependencies: [
+		"50f6ce33",
+		"97e0a29a"
+	],
+	tasks: [{
+		uid: "dfb7cb0f",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:dieselgenerator_zpm"
+			}
+		}]
+	}]
+}

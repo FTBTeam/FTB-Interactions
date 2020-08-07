@@ -1,0 +1,17 @@
+{
+	x: 7.0d,
+	y: -10.0d,
+	text: [
+		"{interactions.40159cc8.fe5903e5.text.0}"
+	],
+	dependencies: [
+		"97e0a29a"
+	],
+	tasks: [{
+		uid: "877d03ef",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:vitrifiedsand"
+		}]
+	}]
+}

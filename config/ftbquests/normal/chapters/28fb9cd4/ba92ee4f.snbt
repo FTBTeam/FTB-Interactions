@@ -1,0 +1,51 @@
+{
+	title: "{interactions.28fb9cd4.ba92ee4f.title}",
+	x: -5.0d,
+	y: 1.5d,
+	description: "{interactions.28fb9cd4.ba92ee4f.description}",
+	dependencies: [
+		"b1dded11"
+	],
+	tasks: [{
+		uid: "f6367fb6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemconstellationpaper",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "71303bf0",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -5570085101611273969L,
+					AS_Amulet_HolderMost: 5678865977197479355L
+				}
+			},
+			id: "bloodmagic:potion_flask",
+			tag: {
+				CustomPotionEffects: [{
+					Ambient: 0,
+					CurativeItems: [{
+						id: "minecraft:milk_bucket",
+						Count: 1,
+						Damage: 0
+					}],
+					ShowParticles: 1,
+					Duration: 800,
+					Id: 71,
+					Amplifier: 0
+				}]
+			},
+			Damage: 1s
+		}
+	}]
+}

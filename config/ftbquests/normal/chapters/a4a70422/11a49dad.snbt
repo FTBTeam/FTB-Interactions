@@ -1,0 +1,18 @@
+{
+	x: -5.0d,
+	y: -3.0d,
+	description: "{interactions.a4a70422.11a49dad.description}",
+	dependencies: [
+		"7dba0de1"
+	],
+	tasks: [{
+		uid: "35ac1ad1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:black_hole_tank"
+		}]
+	}]
+}

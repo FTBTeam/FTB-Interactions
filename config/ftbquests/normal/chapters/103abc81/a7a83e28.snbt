@@ -1,0 +1,38 @@
+{
+	x: 1.5d,
+	y: 11.0d,
+	description: "{interactions.103abc81.a7a83e28.description}",
+	text: [
+		"{interactions.103abc81.a7a83e28.text.0}"
+	],
+	dependencies: [
+		"5b1c2607"
+	],
+	tasks: [{
+		uid: "efae3be9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:overworldessencel"
+		}]
+	}],
+	rewards: [{
+		uid: "261eed31",
+		type: "item",
+		team_reward: true,
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "contenttweaker:overworldessencel",
+					Count: 1,
+					Damage: 0
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "The Dark Star",
+				TrophyColorRed: 37
+			}
+		}
+	}]
+}

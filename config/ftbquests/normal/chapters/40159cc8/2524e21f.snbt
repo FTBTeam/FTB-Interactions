@@ -1,0 +1,54 @@
+{
+	title: "{interactions.40159cc8.2524e21f.title}",
+	x: 1.0d,
+	y: -13.0d,
+	description: "{interactions.40159cc8.2524e21f.description}",
+	text: [
+		"{interactions.40159cc8.2524e21f.text.0}"
+	],
+	dependencies: [
+		"fe50d67e"
+	],
+	tasks: [{
+		uid: "b317ea30",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_thorium_0"
+		}]
+	},
+	{
+		uid: "513cf24f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:activation_crystal",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f78c31aa",
+		type: "item",
+		item: "astralsorcery:itemcoloredlens 1 6"
+	},
+	{
+		uid: "079a3e5f",
+		type: "item",
+		item: {
+			id: "astralsorcery:blocklens",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	title: "{interactions.658f0534.chapter.title}",
+	icon: "avaritia:resource 1 6",
+	description: [
+		"{interactions.658f0534.chapter.description.0}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

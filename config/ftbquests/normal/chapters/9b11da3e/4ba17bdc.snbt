@@ -1,0 +1,15 @@
+{
+	title: "{interactions.9b11da3e.4ba17bdc.title}",
+	icon: "minecraft:sand",
+	x: -1.0d,
+	y: -7.0d,
+	description: "{interactions.9b11da3e.4ba17bdc.description}",
+	dependencies: [
+		"c5321cae",
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "52499e20",
+		type: "checkmark"
+	}]
+}

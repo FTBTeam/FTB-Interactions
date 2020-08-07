@@ -1,0 +1,38 @@
+{
+	x: -15.0d,
+	y: 4.0d,
+	text: [
+		"{interactions.a4a70422.dcabc080.text.0}"
+	],
+	tasks: [{
+		uid: "bd49e00e",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 4"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "37fa0331",
+		type: "item",
+		item: "enderio:item_liquid_conduit 1 2",
+		count: 8
+	},
+	{
+		uid: "ddf02e32",
+		type: "item",
+		item: "enderio:item_redstone_conduit",
+		count: 8
+	},
+	{
+		uid: "1193fa48",
+		type: "item",
+		item: "enderio:item_item_conduit",
+		count: 8
+	},
+	{
+		uid: "1ddbeee4",
+		type: "item",
+		item: "enderio:item_big_item_filter"
+	}]
+}

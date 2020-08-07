@@ -1,0 +1,37 @@
+{
+	title: "{interactions.658f0534.254a6531.title}",
+	x: -16.0d,
+	y: -3.5d,
+	description: "{interactions.658f0534.254a6531.description}",
+	text: [
+		"{interactions.658f0534.254a6531.text.0}"
+	],
+	dependencies: [
+		"bed220ce"
+	],
+	tasks: [{
+		uid: "32595c99",
+		type: "item",
+		items: [{
+			item: "contenttweaker:sub_block_holder_2 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "10569b43",
+		type: "item",
+		item: {
+			id: "astralsorcery:blocklens",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 900,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}
+	}]
+}

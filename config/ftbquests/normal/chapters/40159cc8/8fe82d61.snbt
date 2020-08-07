@@ -1,0 +1,40 @@
+{
+	title: "{interactions.40159cc8.8fe82d61.title}",
+	icon: "libvulpes:holoprojector",
+	x: -1.0d,
+	y: -21.0d,
+	shape: "square",
+	description: "{interactions.40159cc8.8fe82d61.description}",
+	text: [
+		"{interactions.40159cc8.8fe82d61.text.0}"
+	],
+	dependencies: [
+		"2732c95a",
+		"cfd3a738",
+		"fef2395c",
+		"bf1555f2",
+		"e3087d37"
+	],
+	tasks: [{
+		uid: "522c6899",
+		type: "item",
+		items: [{
+			item: "libvulpes:holoprojector"
+		}]
+	}],
+	rewards: [{
+		uid: "60638cdc",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "advancedrocketry:basiclasergun"
+		}
+	},
+	{
+		uid: "45afa54c",
+		type: "item",
+		item: "gregtech:meta_item_2 1 32489"
+	}]
+}

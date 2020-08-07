@@ -1,0 +1,26 @@
+{
+	icon: "enderio:item_material 1 20",
+	x: 0.5d,
+	y: -1.0d,
+	shape: "gear",
+	text: [
+		"{interactions.bc233ece.3c8719d8.text.0}",
+		"{interactions.bc233ece.3c8719d8.text.1}",
+		"{interactions.bc233ece.3c8719d8.text.2}"
+	],
+	tasks: [{
+		uid: "0f578b82",
+		type: "checkmark",
+		title: "{interactions.bc233ece.3c8719d8.tasks.0.title}"
+	}],
+	rewards: [{
+		uid: "08bfd844",
+		type: "item",
+		item: "enderio:item_material 1 20"
+	},
+	{
+		uid: "ce05bb3c",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}

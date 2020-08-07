@@ -1,0 +1,52 @@
+{
+	title: "{interactions.8b3e4520.ba6da38e.title}",
+	x: -4.0d,
+	y: -5.0d,
+	description: "{interactions.8b3e4520.ba6da38e.description}",
+	text: [
+		"{interactions.8b3e4520.ba6da38e.text.0}"
+	],
+	dependencies: [
+		"da0cc52f"
+	],
+	tasks: [{
+		uid: "51bf017a",
+		type: "item",
+		items: [{
+			item: "minecraft:end_rod"
+		}]
+	},
+	{
+		uid: "7f453469",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 16L
+	},
+	{
+		uid: "437d1ebc",
+		type: "item",
+		items: [{
+			item: "minecraft:end_stone"
+		}],
+		count: 10L
+	},
+	{
+		uid: "f2660b8c",
+		type: "item",
+		items: [{
+			item: "randomthings:ingredient 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "7b09419d",
+		type: "item",
+		item: "astralsorcery:blockcelestialgateway"
+	},
+	{
+		uid: "03be71c3",
+		type: "item",
+		item: "bloodmagic:component 1 4"
+	}]
+}

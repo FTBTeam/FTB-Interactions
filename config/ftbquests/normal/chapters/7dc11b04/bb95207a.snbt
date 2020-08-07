@@ -1,0 +1,46 @@
+{
+	x: 5.5d,
+	y: 0.5d,
+	shape: "gear",
+	text: [
+		"{interactions.7dc11b04.bb95207a.text.0}",
+		"",
+		"{interactions.7dc11b04.bb95207a.text.2}"
+	],
+	dependencies: [
+		"a1389ac0",
+		"fda10774",
+		"1de75dbc"
+	],
+	tasks: [{
+		uid: "ad93edf9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:ritual_diviner"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dede47be",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:ritual_dismantler"
+		}
+	},
+	{
+		uid: "ceb4185c",
+		type: "item",
+		item: "animus:altardiviner"
+	},
+	{
+		uid: "33028c04",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

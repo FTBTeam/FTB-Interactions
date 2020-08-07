@@ -1,0 +1,32 @@
+{
+	x: -19.0d,
+	y: -2.0d,
+	text: [
+		"{interactions.a4a70422.5e3e8b90.text.0}"
+	],
+	dependencies: [
+		"877f5f61"
+	],
+	tasks: [{
+		uid: "2607d601",
+		type: "item",
+		items: [{
+			item: "superfactorymanager:cable_intake"
+		}]
+	}],
+	rewards: [{
+		uid: "6ad45201",
+		type: "item",
+		item: "actuallyadditions:block_phantomface"
+	},
+	{
+		uid: "e56e0369",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_phantom_connector"
+		}
+	}]
+}

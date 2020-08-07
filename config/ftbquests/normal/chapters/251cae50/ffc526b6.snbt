@@ -1,0 +1,15 @@
+{
+	title: "{interactions.251cae50.ffc526b6.title}",
+	icon: "gregtech:machine_casing 1 10",
+	x: -8.0d,
+	y: -5.0d,
+	description: "{interactions.251cae50.ffc526b6.description}",
+	dependencies: [
+		"499c8c07"
+	],
+	tasks: [{
+		uid: "4a2270af",
+		type: "checkmark",
+		title: "{interactions.251cae50.ffc526b6.tasks.0.title}"
+	}]
+}

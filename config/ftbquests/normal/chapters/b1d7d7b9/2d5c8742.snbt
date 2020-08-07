@@ -1,0 +1,25 @@
+{
+	title: "{interactions.b1d7d7b9.2d5c8742.title}",
+	x: -4.5d,
+	y: -7.0d,
+	shape: "diamond",
+	description: "{interactions.b1d7d7b9.2d5c8742.description}",
+	tasks: [{
+		uid: "f4ec32fb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:menril_ore_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "8f4a526f",
+		type: "item",
+		item: "integrateddynamics:menril_torch",
+		count: 32
+	},
+	{
+		uid: "9d223b93",
+		type: "item",
+		item: "harvestcraft:berrymeringuenestitem"
+	}]
+}

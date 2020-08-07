@@ -1,0 +1,23 @@
+{
+	title: "{interactions.40159cc8.da0cc52f.title}",
+	icon: "contenttweaker:overworldessencer",
+	x: 5.0d,
+	y: -11.0d,
+	shape: "diamond",
+	description: "{interactions.40159cc8.da0cc52f.description}",
+	text: [
+		"{interactions.40159cc8.da0cc52f.text.0}",
+		""
+	],
+	dependencies: [
+		"1e07ae16",
+		"025a49a7"
+	],
+	tasks: [{
+		uid: "8f0ba1b9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:overworldessencer"
+		}]
+	}]
+}

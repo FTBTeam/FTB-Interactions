@@ -1,0 +1,102 @@
+{
+	title: "{interactions.9076fdc4.62e17374.title}",
+	x: -7.0d,
+	y: -9.0d,
+	description: "{interactions.9076fdc4.62e17374.description}",
+	text: [
+		"{interactions.9076fdc4.62e17374.text.0}",
+		"{interactions.9076fdc4.62e17374.text.1}",
+		"{interactions.9076fdc4.62e17374.text.2}"
+	],
+	dependencies: [
+		"a7a83e28",
+		"9f5830da",
+		"0652b350",
+		"f68ab509",
+		"63ae8828",
+		"41c8c50f",
+		"c2abb527",
+		"5b5ff6d2",
+		"befae8b5",
+		"dcd19e05",
+		"9b0c3bd9",
+		"277ecf67",
+		"b27bc8a1",
+		"2203d518",
+		"75c24ed9",
+		"429acd41",
+		"5b1c2607",
+		"f242419e",
+		"924fb450",
+		"cfcc58ad",
+		"a6760e11",
+		"6672ed55",
+		"27eb0703",
+		"f9d0db7a",
+		"dd0f8ba4",
+		"3308d327",
+		"7fd67826",
+		"ecb42a44",
+		"f3e033d0",
+		"2456f826",
+		"0d819db0",
+		"3a4f987c",
+		"9ee38390",
+		"7bbe3c0d",
+		"e7fa718c",
+		"b144fdf3",
+		"b79d54ea",
+		"9be3aa5b",
+		"1c6a7c53",
+		"72c549f8",
+		"60e81255",
+		"7ddda4a3",
+		"89acf0d3"
+	],
+	tasks: [{
+		uid: "16b434e3",
+		type: "item",
+		items: [{
+			item: "enderutilities:enderpart 1 81"
+		}]
+	}],
+	rewards: [{
+		uid: "9164a43b",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:ftbchicken",
+				Gain: 10,
+				Strength: 10
+			}
+		}
+	},
+	{
+		uid: "d8e596e8",
+		type: "item",
+		team_reward: true,
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 207,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "roost:chicken",
+					Count: 1,
+					tag: {
+						Growth: 1,
+						Chicken: "contenttweaker:ftbchicken",
+						Gain: 1,
+						Strength: 1
+					},
+					Damage: 0
+				},
+				TrophyColorBlue: 42,
+				TrophyName: "Perfectly Balanced",
+				TrophyColorRed: 222
+			}
+		}
+	}]
+}

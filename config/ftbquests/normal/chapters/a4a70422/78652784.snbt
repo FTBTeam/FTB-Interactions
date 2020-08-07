@@ -1,0 +1,29 @@
+{
+	title: "{interactions.a4a70422.78652784.title}",
+	x: -19.5d,
+	y: -5.5d,
+	description: "{interactions.a4a70422.78652784.description}",
+	dependencies: [
+		"a058147f"
+	],
+	tasks: [{
+		uid: "82734b2d",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "hopperhock"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "9a924d65",
+		type: "item",
+		item: "botania:miniisland"
+	},
+	{
+		uid: "23edc801",
+		type: "item",
+		item: "harvestcraft:mashedpotatoeschickenbiscuititem"
+	}]
+}

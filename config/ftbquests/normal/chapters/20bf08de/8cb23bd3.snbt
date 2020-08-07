@@ -1,0 +1,25 @@
+{
+	x: -11.0d,
+	y: -11.0d,
+	shape: "circle",
+	text: [
+		"{interactions.20bf08de.8cb23bd3.text.0}",
+		"{interactions.20bf08de.8cb23bd3.text.1}"
+	],
+	dependencies: [
+		"8eac9d15"
+	],
+	tasks: [{
+		uid: "6ad81ba5",
+		type: "item",
+		items: [{
+			item: "thaumcraft:alumentum"
+		}]
+	}],
+	rewards: [{
+		uid: "6e290ce5",
+		type: "item",
+		item: "projecte:item.pe_fuel 1 1",
+		count: 4
+	}]
+}

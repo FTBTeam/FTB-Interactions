@@ -1,0 +1,27 @@
+{
+	title: "{interactions.9b11da3e.70a2cc40.title}",
+	x: -12.0d,
+	y: -10.0d,
+	shape: "circle",
+	description: "{interactions.9b11da3e.70a2cc40.description}",
+	dependencies: [
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "a92a3fbd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "scannable:scanner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "343f9af4",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2218"
+	}]
+}

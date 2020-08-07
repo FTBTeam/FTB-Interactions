@@ -1,0 +1,25 @@
+{
+	title: "{interactions.e0f1e33e.666a29ec.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "deepmoblearning:deep_learner"
+	},
+	x: 0.0d,
+	y: -1.5d,
+	shape: "gear",
+	text: [
+		"{interactions.e0f1e33e.666a29ec.text.0}",
+		"{interactions.e0f1e33e.666a29ec.text.1}",
+		"{interactions.e0f1e33e.666a29ec.text.2}"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"cbbc96a7"
+	],
+	tasks: [{
+		uid: "0c8eb7ff",
+		type: "checkmark"
+	}]
+}

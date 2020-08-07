@@ -1,0 +1,50 @@
+{
+	title: "{interactions.154955d3.6819f008.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "gregtech:meta_tool",
+		tag: {
+			GT.ToolStats: {
+				PrimaryMaterial: "flint",
+				MaxDurability: 55,
+				DigSpeed: 6.0f,
+				AttackDamage: 1.0f,
+				HarvestLevel: 1
+			}
+		},
+		Damage: 3s
+	},
+	x: -4.0d,
+	y: 1.0d,
+	shape: "rsquare",
+	description: "{interactions.154955d3.6819f008.description}",
+	text: [
+		"{interactions.154955d3.6819f008.text.0}"
+	],
+	dependencies: [
+		"1d6fe213"
+	],
+	tasks: [{
+		uid: "48860982",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					PrimaryMaterial: "flint",
+					MaxDurability: 55,
+					DigSpeed: 6.0f,
+					AttackDamage: 1.0f,
+					HarvestLevel: 1
+				}
+			},
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

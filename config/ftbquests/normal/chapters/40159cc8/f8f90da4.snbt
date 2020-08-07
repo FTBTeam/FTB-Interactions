@@ -1,0 +1,31 @@
+{
+	title: "{interactions.40159cc8.f8f90da4.title}",
+	x: 0.0d,
+	y: -19.0d,
+	description: "{interactions.40159cc8.f8f90da4.description}",
+	dependencies: [
+		"425146df"
+	],
+	tasks: [{
+		uid: "34591d9a",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:launchpad"
+		}],
+		count: 25L
+	},
+	{
+		uid: "f2c26d80",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:structuretower"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "341574e3",
+		type: "item",
+		item: "enderio:block_fused_quartz",
+		count: 16
+	}]
+}

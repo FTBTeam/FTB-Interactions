@@ -1,0 +1,35 @@
+{
+	x: -18.0d,
+	y: -2.0d,
+	text: [
+		"{interactions.a4a70422.1994d60a.text.0}"
+	],
+	dependencies: [
+		"877f5f61"
+	],
+	tasks: [{
+		uid: "b4bda897",
+		type: "item",
+		items: [{
+			item: "superfactorymanager:cable_output"
+		}]
+	},
+	{
+		uid: "e509491b",
+		type: "item",
+		items: [{
+			item: "superfactorymanager:cable_input"
+		}]
+	}],
+	rewards: [{
+		uid: "626fe76a",
+		type: "item",
+		item: "superfactorymanager:cable",
+		count: 8
+	},
+	{
+		uid: "e6fe6e85",
+		type: "item",
+		item: "thermalfoundation:material 1 513"
+	}]
+}

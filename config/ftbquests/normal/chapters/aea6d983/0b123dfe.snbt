@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: -16.0d,
+	description: "{interactions.aea6d983.0b123dfe.description}",
+	text: [
+		"{interactions.aea6d983.0b123dfe.text.0}"
+	],
+	tasks: [{
+		uid: "5e867e7e",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:smartchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "9d784ee8",
+		type: "item",
+		item: "minecraft:wheat_seeds",
+		count: 8
+	}]
+}

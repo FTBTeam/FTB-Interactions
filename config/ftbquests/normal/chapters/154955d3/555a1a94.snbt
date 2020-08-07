@@ -1,0 +1,23 @@
+{
+	title: "{interactions.154955d3.555a1a94.title}",
+	x: -4.0d,
+	y: 5.0d,
+	text: [
+		"{interactions.154955d3.555a1a94.text.0}"
+	],
+	dependencies: [
+		"29f7cca1"
+	],
+	tasks: [{
+		uid: "11be61eb",
+		type: "item",
+		items: [{
+			item: "minecraft:bone"
+		}]
+	}],
+	rewards: [{
+		uid: "5bbedb82",
+		type: "item",
+		item: "harvestcraft:baconmushroomburgeritem"
+	}]
+}

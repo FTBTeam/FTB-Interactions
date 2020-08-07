@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	text: [
+		"{interactions.5c5ec752.d728580e.text.0}"
+	],
+	dependencies: [
+		"e48023fb",
+		"72a630e9"
+	],
+	tasks: [{
+		uid: "6c73972f",
+		type: "item",
+		items: [{
+			item: "gregtech:machine_casing 1 10"
+		}]
+	}]
+}

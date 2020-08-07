@@ -1,0 +1,7 @@
+{
+	title: "{interactions.b1d7d7b9.chapter.title}",
+	icon: "gregtech:meta_item_1 1 10152",
+	always_invisible: false,
+	group: 368286192,
+	default_quest_shape: ""
+}

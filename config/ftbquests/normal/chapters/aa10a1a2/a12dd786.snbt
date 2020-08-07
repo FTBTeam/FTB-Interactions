@@ -1,0 +1,49 @@
+{
+	title: "{interactions.aa10a1a2.a12dd786.title}",
+	x: -10.5d,
+	y: -6.0d,
+	shape: "rsquare",
+	text: [
+		"{interactions.aa10a1a2.a12dd786.text.0}",
+		"{interactions.aa10a1a2.a12dd786.text.1}"
+	],
+	dependencies: [
+		"b6d28c29"
+	],
+	tasks: [{
+		uid: "7668238c",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					0b,
+					1b,
+					0b,
+					0b,
+					0b,
+					0b
+				]
+			},
+			Damage: 12s
+		},
+		{
+			id: "botania:specialflower",
+			tag: {
+				type: "hopperhock"
+			}
+		},
+		{
+			item: "randomthings:itemcollector"
+		}]
+	}],
+	rewards: [{
+		uid: "6d2d8de8",
+		type: "item",
+		item: "enderio:item_extract_speed_upgrade",
+		count: 64
+	}]
+}

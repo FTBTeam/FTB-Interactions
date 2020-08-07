@@ -1,0 +1,45 @@
+{
+	title: "{interactions.40159cc8.91d4c602.title}",
+	x: 4.0d,
+	y: -21.5d,
+	description: "{interactions.40159cc8.91d4c602.description}",
+	dependencies: [
+		"13f17b12"
+	],
+	tasks: [{
+		uid: "63f82899",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "cryogenichydrogen",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "bd61f21b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "cryogenicoxygen",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "085b0dc7",
+		type: "item",
+		item: "thermalfoundation:material 1 1025",
+		count: 32
+	}]
+}

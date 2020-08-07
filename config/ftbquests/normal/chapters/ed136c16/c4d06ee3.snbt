@@ -1,0 +1,44 @@
+{
+	title: "{interactions.ed136c16.c4d06ee3.title}",
+	x: -8.0d,
+	y: -3.0d,
+	text: [
+		"{interactions.ed136c16.c4d06ee3.text.0}",
+		"{interactions.ed136c16.c4d06ee3.text.1}",
+		"{interactions.ed136c16.c4d06ee3.text.2}"
+	],
+	dependencies: [
+		"c193d3a6"
+	],
+	tasks: [{
+		uid: "69a6044a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "compactmachines3:psd"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "15861256",
+		type: "item",
+		items: [{
+			item: "compactmachines3:fieldprojector"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "3502cde7",
+		type: "item",
+		item: "compactmachines3:machine 1 2"
+	},
+	{
+		uid: "93171d81",
+		type: "item",
+		item: "compactmachines3:tunneltool",
+		count: 2
+	}]
+}

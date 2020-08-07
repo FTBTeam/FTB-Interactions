@@ -1,0 +1,38 @@
+{
+	title: "{interactions.bdc0ae1a.430d8d06.title}",
+	x: -2.5d,
+	y: -1.0d,
+	text: [
+		"{interactions.bdc0ae1a.430d8d06.text.0}",
+		"{interactions.bdc0ae1a.430d8d06.text.1}"
+	],
+	dependencies: [
+		"8daf4c09"
+	],
+	tasks: [{
+		uid: "1966614d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "nacre_fluid",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "1bbf1287",
+		type: "item",
+		item: "minecraft:gold_nugget",
+		count: 16
+	},
+	{
+		uid: "5d5d8822",
+		type: "item",
+		item: "harvestcraft:meringuecookieitem"
+	}]
+}

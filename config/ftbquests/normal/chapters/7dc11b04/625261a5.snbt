@@ -1,0 +1,39 @@
+{
+	x: -6.5d,
+	y: -2.0d,
+	description: "{interactions.7dc11b04.625261a5.description}",
+	text: [
+		"{interactions.7dc11b04.625261a5.text.0}"
+	],
+	dependencies: [
+		"7c314036"
+	],
+	tasks: [{
+		uid: "968914f5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_misc 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "f6577283",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:quartz_paxel",
+			tag: {
+				ench: [{
+					lvl: 1,
+					id: 29
+				},
+				{
+					lvl: 3,
+					id: 73
+				}],
+				RepairCost: 3
+			}
+		}
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	x: 3.0d,
+	y: -6.0d,
+	text: [
+		"{interactions.aea6d983.7c9afcdf.text.0}"
+	],
+	dependencies: [
+		"bad8af80",
+		"39d33b3e"
+	],
+	tasks: [{
+		uid: "371e5531",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:fluixchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "9a09956d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:fluix_enriched_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "c9a70593",
+		type: "item",
+		item: "threng:material",
+		count: 16
+	}]
+}

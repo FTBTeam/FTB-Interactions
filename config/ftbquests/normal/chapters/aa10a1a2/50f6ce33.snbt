@@ -1,0 +1,24 @@
+{
+	title: "{interactions.aa10a1a2.50f6ce33.title}",
+	x: -1.5d,
+	y: 2.5d,
+	shape: "rsquare",
+	text: [
+		"{interactions.aa10a1a2.50f6ce33.text.0}"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"e50a603a",
+		"da0cc52f"
+	],
+	tasks: [{
+		uid: "5b822ca5",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:dieselgenerator_luv"
+			}
+		}]
+	}]
+}

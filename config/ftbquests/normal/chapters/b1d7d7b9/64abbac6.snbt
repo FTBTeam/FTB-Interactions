@@ -1,0 +1,23 @@
+{
+	title: "{interactions.b1d7d7b9.64abbac6.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "oil",
+			Amount: 1000
+		}
+	},
+	x: -6.5d,
+	y: -5.0d,
+	description: "{interactions.b1d7d7b9.64abbac6.description}",
+	text: [
+		"{interactions.b1d7d7b9.64abbac6.text.0}"
+	],
+	tasks: [{
+		uid: "e143e9de",
+		type: "checkmark"
+	}]
+}

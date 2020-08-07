@@ -1,0 +1,36 @@
+{
+	title: "{interactions.b1d7d7b9.820b1cf6.title}",
+	x: -10.5d,
+	y: -9.0d,
+	shape: "diamond",
+	description: "{interactions.b1d7d7b9.820b1cf6.description}",
+	text: [
+		"{interactions.b1d7d7b9.820b1cf6.text.0}",
+		""
+	],
+	tasks: [{
+		uid: "934bfcd7",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 14"
+		}]
+	},
+	{
+		uid: "cd6a072c",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 15"
+		}]
+	}],
+	rewards: [{
+		uid: "29f89fd2",
+		type: "item",
+		item: "cyclicmagic:cable_wireless_fluid"
+	},
+	{
+		uid: "6d9f4491",
+		type: "item",
+		item: "mekanism:basicblock2",
+		count: 42
+	}]
+}

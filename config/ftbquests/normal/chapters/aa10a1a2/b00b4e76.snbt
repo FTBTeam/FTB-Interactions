@@ -1,0 +1,32 @@
+{
+	title: "{interactions.aa10a1a2.b00b4e76.title}",
+	x: -10.5d,
+	y: -2.0d,
+	text: [
+		"{interactions.aa10a1a2.b00b4e76.text.0}",
+		"{interactions.aa10a1a2.b00b4e76.text.1}",
+		"",
+		"{interactions.aa10a1a2.b00b4e76.text.3}"
+	],
+	dependencies: [
+		"9063ed56"
+	],
+	tasks: [{
+		uid: "5d76fb41",
+		type: "item",
+		items: [{
+			item: "contenttweaker:menril_ore_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "c8a414ae",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2196",
+		count: 64
+	},
+	{
+		uid: "055a5287",
+		type: "item",
+		item: "gregtech:machine 1 490"
+	}]
+}

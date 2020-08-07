@@ -1,0 +1,39 @@
+{
+	title: "{interactions.154955d3.792f5e20.title}",
+	x: 2.0d,
+	y: 4.0d,
+	shape: "rsquare",
+	description: "{interactions.154955d3.792f5e20.description}",
+	dependencies: [
+		"b030b92e"
+	],
+	tasks: [{
+		uid: "d5402492",
+		type: "item",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:itembuilderswand"
+		},
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:itembuilderswand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9b043d75",
+		type: "item",
+		item: "littletiles:ltcoloredblock",
+		count: 64
+	},
+	{
+		uid: "372c5e5d",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

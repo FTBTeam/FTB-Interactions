@@ -1,0 +1,91 @@
+{
+	title: "{interactions.5c5ec752.2e003362.title}",
+	icon: "wizardry:blackened_spirit",
+	x: 0.0d,
+	y: 2.5d,
+	description: "{interactions.5c5ec752.2e003362.description}",
+	text: [
+		"{interactions.5c5ec752.2e003362.text.0}",
+		"",
+		"{interactions.5c5ec752.2e003362.text.2}"
+	],
+	dependencies: [
+		"28e5ddea",
+		"481095ef"
+	],
+	tasks: [{
+		uid: "39b7bfa7",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_endergy_ingot"
+		}]
+	},
+	{
+		uid: "74eb1057",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10184"
+		}]
+	},
+	{
+		uid: "f38ba172",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 12L
+	},
+	{
+		uid: "d52521f0",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_brick"
+		}],
+		count: 12L
+	},
+	{
+		uid: "f60693cb",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_bars"
+		}]
+	},
+	{
+		uid: "2c02930f",
+		type: "item",
+		items: [{
+			item: "thaumcraft:salis_mundus"
+		}]
+	}],
+	rewards: [{
+		uid: "1ba7ee4c",
+		type: "item",
+		item: {
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "praecantatio"
+				}]
+			}
+		},
+		count: 20
+	},
+	{
+		uid: "14cc5a96",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2106",
+		count: 64
+	},
+	{
+		uid: "25c8e1e8",
+		type: "item",
+		item: "enderio:item_alloy_endergy_ingot",
+		count: 6
+	},
+	{
+		uid: "96057837",
+		type: "item",
+		item: "thaumcraft:hungry_chest"
+	}]
+}

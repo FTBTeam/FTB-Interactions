@@ -1,0 +1,47 @@
+{
+	title: "{interactions.28fb9cd4.28697112.title}",
+	x: -3.0d,
+	y: 1.5d,
+	description: "{interactions.28fb9cd4.28697112.description}",
+	text: [
+		"{interactions.28fb9cd4.28697112.text.0}"
+	],
+	dependencies: [
+		"b1dded11"
+	],
+	tasks: [{
+		uid: "f35be7c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemsextant",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b7f1231e",
+		type: "item",
+		item: "astralsorcery:itemcraftingcomponent"
+	},
+	{
+		uid: "46b86a4e",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "astralsorcery.liquidstarlight",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		},
+		count: 2
+	}]
+}

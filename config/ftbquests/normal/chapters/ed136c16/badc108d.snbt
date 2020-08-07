@@ -1,0 +1,42 @@
+{
+	title: "{interactions.ed136c16.badc108d.title}",
+	x: -14.0d,
+	y: -4.0d,
+	text: [
+		"{interactions.ed136c16.badc108d.text.0}",
+		"",
+		"{interactions.ed136c16.badc108d.text.2}"
+	],
+	tasks: [{
+		uid: "61bc8931",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "c8ca603d",
+		type: "item",
+		item: {
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "xu_magical_wood"
+			}
+		}
+	},
+	{
+		uid: "54d92390",
+		type: "item",
+		item: {
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "obsidian"
+			}
+		}
+	},
+	{
+		uid: "2258f7b5",
+		type: "item",
+		item: "minecraft:flint"
+	}]
+}

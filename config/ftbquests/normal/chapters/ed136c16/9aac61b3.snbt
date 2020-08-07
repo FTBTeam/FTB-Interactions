@@ -1,0 +1,19 @@
+{
+	x: -6.0d,
+	y: 4.0d,
+	text: [
+		"{interactions.ed136c16.9aac61b3.text.0}"
+	],
+	dependencies: [
+		"75c24ed9"
+	],
+	tasks: [{
+		uid: "120b63c8",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

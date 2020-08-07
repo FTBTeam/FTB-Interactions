@@ -1,0 +1,54 @@
+{
+	title: "{interactions.103abc81.dd0f8ba4.title}",
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {
+			TrophyColorGreen: 49,
+			TrophyVariant: "classic",
+			TrophyItem: {
+				id: "advancedrocketry:rocketbuilder",
+				Count: 1,
+				Damage: 0
+			},
+			TrophyColorBlue: 146,
+			TrophyName: "SPACE",
+			TrophyColorRed: 37,
+			TrophyEarnedAt: 1553222296
+		}
+	},
+	x: 4.0d,
+	y: 7.5d,
+	description: "{interactions.103abc81.dd0f8ba4.description}",
+	text: [
+		"{interactions.103abc81.dd0f8ba4.text.0}"
+	],
+	dependencies: [
+		"78546de8"
+	],
+	tasks: [{
+		uid: "be241b80",
+		type: "dimension",
+		title: "{interactions.103abc81.dd0f8ba4.tasks.0.title}",
+		dim: 145
+	}],
+	rewards: [{
+		uid: "31b23490",
+		type: "item",
+		team_reward: true,
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 49,
+				TrophyVariant: "classic",
+				TrophyItem: {
+					id: "advancedrocketry:rocketbuilder",
+					Count: 1,
+					Damage: 0
+				},
+				TrophyColorBlue: 146,
+				TrophyName: "SPAAAAAAACE!",
+				TrophyColorRed: 37
+			}
+		}
+	}]
+}

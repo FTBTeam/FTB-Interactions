@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	description: "{interactions.251cae50.097e1d70.description}",
+	dependencies: [
+		"50f9234e"
+	],
+	tasks: [{
+		uid: "9bb45558",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 32485"
+		}]
+	}]
+}

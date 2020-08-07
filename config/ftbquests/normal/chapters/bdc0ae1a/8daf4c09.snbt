@@ -1,0 +1,52 @@
+{
+	title: "{interactions.bdc0ae1a.8daf4c09.title}",
+	x: -0.5d,
+	y: -2.0d,
+	shape: "square",
+	text: [
+		"{interactions.bdc0ae1a.8daf4c09.text.0}",
+		"{interactions.bdc0ae1a.8daf4c09.text.1}"
+	],
+	tasks: [{
+		uid: "9823de90",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "mana_fluid",
+				Amount: 1000
+			}
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ceramics:clay_bucket",
+			tag: {
+				fluids: {
+					FluidName: "mana_fluid",
+					Amount: 1000
+				}
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "fb657c8b",
+		type: "item",
+		item: "gregtech:machine 1 2200"
+	},
+	{
+		uid: "e3279da9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:monocle"
+		}
+	}]
+}

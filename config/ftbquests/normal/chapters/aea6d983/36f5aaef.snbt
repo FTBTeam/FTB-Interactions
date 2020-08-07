@@ -1,0 +1,38 @@
+{
+	x: -3.0d,
+	y: -12.0d,
+	text: [
+		"{interactions.aea6d983.36f5aaef.text.0}",
+		"{interactions.aea6d983.36f5aaef.text.1}"
+	],
+	dependencies: [
+		"bad8af80",
+		"c193d3a6"
+	],
+	tasks: [{
+		uid: "5c21ba29",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:polywhatsitchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "b4067124",
+		type: "item",
+		items: [{
+			item: "contenttweaker:polywhatsit_enriched_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "43317fdd",
+		type: "item",
+		item: "minecraft:string",
+		count: 32
+	}]
+}

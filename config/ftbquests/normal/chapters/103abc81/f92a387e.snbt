@@ -1,0 +1,17 @@
+{
+	title: "{interactions.103abc81.f92a387e.title}",
+	x: 4.0d,
+	y: 2.0d,
+	description: "{interactions.103abc81.f92a387e.description}",
+	dependencies: [
+		"cfcc58ad"
+	],
+	tasks: [{
+		uid: "04261b03",
+		type: "item",
+		items: [{
+			item: "sonarcore:stablestonerimmed_black"
+		}],
+		count: 10L
+	}]
+}

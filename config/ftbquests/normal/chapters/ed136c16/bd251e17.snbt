@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: -4.5d,
+	text: [
+		"{interactions.ed136c16.bd251e17.text.0}"
+	],
+	dependencies: [
+		"bcc51b66"
+	],
+	tasks: [{
+		uid: "912720d6",
+		type: "item",
+		items: [{
+			item: "botania:pylon"
+		}]
+	}],
+	rewards: [{
+		uid: "9e42ad32",
+		type: "item",
+		item: "botania:blacklotus 1 1"
+	},
+	{
+		uid: "e8dd03cd",
+		type: "item",
+		item: "harvestcraft:fishandchipsitem"
+	}]
+}

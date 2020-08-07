@@ -1,0 +1,17 @@
+{
+	x: -22.0d,
+	y: 1.0d,
+	description: "{interactions.a4a70422.39f561b0.description}",
+	tasks: [{
+		uid: "ee2938ad",
+		type: "item",
+		items: [{
+			item: "translocators:translocator_part"
+		}]
+	}],
+	rewards: [{
+		uid: "89d0f8fa",
+		type: "item",
+		item: "enderutilities:storage_0"
+	}]
+}

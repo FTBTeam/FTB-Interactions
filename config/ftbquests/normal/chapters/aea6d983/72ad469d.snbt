@@ -1,0 +1,36 @@
+{
+	x: -4.0d,
+	y: -9.0d,
+	text: [
+		"{interactions.aea6d983.72ad469d.text.0}"
+	],
+	dependencies: [
+		"bad8af80"
+	],
+	tasks: [{
+		uid: "d8e69e3b",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:porcelainchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	},
+	{
+		uid: "2458a456",
+		type: "item",
+		items: [{
+			item: "ceramics:unfired_clay 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "bdefbcf1",
+		type: "item",
+		item: "ceramics:unfired_clay 1 4",
+		count: 8
+	}]
+}

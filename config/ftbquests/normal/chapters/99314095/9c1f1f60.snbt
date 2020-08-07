@@ -1,0 +1,22 @@
+{
+	title: "{interactions.99314095.9c1f1f60.title}",
+	x: -1.0d,
+	y: -1.0d,
+	text: [
+		"{interactions.99314095.9c1f1f60.text.0}"
+	],
+	dependencies: [
+		"a916453b"
+	],
+	tasks: [{
+		uid: "7bf2cd81",
+		type: "checkmark",
+		icon: "gregtech:machine 1 681"
+	}],
+	rewards: [{
+		uid: "505e9263",
+		type: "item",
+		item: "gregtech:cable 1 8071",
+		count: 8
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "{interactions.9b11da3e.9779bb2d.title}",
+	icon: "minecraft:packed_ice",
+	x: 0.0d,
+	y: -8.0d,
+	description: "{interactions.9b11da3e.9779bb2d.description}",
+	dependencies: [
+		"c5321cae",
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "08a4938e",
+		type: "checkmark"
+	}]
+}

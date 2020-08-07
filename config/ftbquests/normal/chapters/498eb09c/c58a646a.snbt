@@ -1,0 +1,30 @@
+{
+	title: "{interactions.498eb09c.c58a646a.title}",
+	x: -8.0d,
+	y: -2.0d,
+	description: "{interactions.498eb09c.c58a646a.description}",
+	dependencies: [
+		"31031dcd"
+	],
+	tasks: [{
+		uid: "331e59b9",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 231"
+		}]
+	}],
+	rewards: [{
+		uid: "d1a08192",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "biomass",
+					Amount: 64000
+				}
+			},
+			Damage: 32405s
+		}
+	}]
+}

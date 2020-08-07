@@ -1,0 +1,28 @@
+{
+	title: "{interactions.99314095.95dee4b6.title}",
+	x: -10.0d,
+	y: 2.0d,
+	shape: "rsquare",
+	description: "{interactions.99314095.95dee4b6.description}",
+	text: [
+		"{interactions.99314095.95dee4b6.text.0}",
+		"",
+		"{interactions.99314095.95dee4b6.text.2}",
+		""
+	],
+	dependencies: [
+		"ace65682"
+	],
+	tasks: [{
+		uid: "7453d34a",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 516"
+		}]
+	}],
+	rewards: [{
+		uid: "e22d668c",
+		type: "item",
+		item: "actuallyadditions:item_food 1 14"
+	}]
+}

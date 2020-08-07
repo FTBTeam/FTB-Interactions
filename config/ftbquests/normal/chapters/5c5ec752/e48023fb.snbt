@@ -1,0 +1,22 @@
+{
+	title: "{interactions.5c5ec752.e48023fb.title}",
+	x: -3.5d,
+	y: -3.0d,
+	description: "{interactions.5c5ec752.e48023fb.description}",
+	dependencies: [
+		"c782128e"
+	],
+	tasks: [{
+		uid: "da1bb3ac",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 12094"
+		}]
+	}],
+	rewards: [{
+		uid: "9222e466",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2079",
+		count: 16
+	}]
+}

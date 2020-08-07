@@ -1,0 +1,29 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"{interactions.28fb9cd4.e42d16d8.text.0}",
+		"{interactions.28fb9cd4.e42d16d8.text.1}"
+	],
+	dependencies: [
+		"de2a21ac"
+	],
+	tasks: [{
+		uid: "267386ed",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomore"
+		}]
+	}],
+	rewards: [{
+		uid: "16818b1a",
+		type: "item",
+		item: "minecraft:dye 1 4",
+		count: 8
+	},
+	{
+		uid: "e95a22e7",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

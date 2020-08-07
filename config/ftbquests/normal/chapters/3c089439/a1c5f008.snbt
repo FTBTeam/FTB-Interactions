@@ -1,0 +1,32 @@
+{
+	title: "{interactions.3c089439.a1c5f008.title}",
+	x: -0.5d,
+	y: 3.0d,
+	shape: "pentagon",
+	text: [
+		"{interactions.3c089439.a1c5f008.text.0}",
+		"{interactions.3c089439.a1c5f008.text.1}",
+		"{interactions.3c089439.a1c5f008.text.2}"
+	],
+	dependencies: [
+		"2904b19b"
+	],
+	tasks: [{
+		uid: "e4022a0b",
+		type: "item",
+		items: [{
+			item: "minecraft:end_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "a9f04160",
+		type: "item",
+		item: "minecraft:end_stone",
+		count: 64
+	},
+	{
+		uid: "986d0884",
+		type: "item",
+		item: "harvestcraft:grilledcheeseitem"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 4.0d,
+	y: 3.5d,
+	description: "{interactions.7dc11b04.f813636e.description}",
+	dependencies: [
+		"aa1a6d27"
+	],
+	tasks: [{
+		uid: "4fb256a9",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:smooth_sky_stone_block"
+		}]
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "{interactions.ed136c16.ad7c6a92.title}",
+	x: -0.5d,
+	y: 4.0d,
+	shape: "circle",
+	text: [
+		"{interactions.ed136c16.ad7c6a92.text.0}"
+	],
+	dependencies: [
+		"5633991b"
+	],
+	tasks: [{
+		uid: "23a9ce01",
+		type: "item",
+		items: [{
+			item: "cyberware:hand_upgrades"
+		}]
+	}],
+	rewards: [{
+		uid: "e85f7a1d",
+		type: "item",
+		item: "cyberware:bone_upgrades 1 2"
+	}]
+}

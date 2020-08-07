@@ -1,0 +1,27 @@
+{
+	icon: "gregtech:meta_item_1 1 32406",
+	x: -1.5d,
+	y: -2.5d,
+	shape: "gear",
+	description: "{interactions.15f399f0.0a1e4b24.description}",
+	text: [
+		"{interactions.15f399f0.0a1e4b24.text.0}",
+		"",
+		"{interactions.15f399f0.0a1e4b24.text.2}"
+	],
+	dependencies: [
+		"a916453b"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "2fbc7667",
+		type: "checkmark",
+		title: "{interactions.15f399f0.0a1e4b24.tasks.0.title}"
+	}],
+	rewards: [{
+		uid: "e787db9d",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32762",
+		count: 16
+	}]
+}

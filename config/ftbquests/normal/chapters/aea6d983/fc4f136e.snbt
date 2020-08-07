@@ -1,0 +1,38 @@
+{
+	x: 1.0d,
+	y: -14.5d,
+	shape: "circle",
+	text: [
+		"{interactions.aea6d983.fc4f136e.text.0}"
+	],
+	dependencies: [
+		"bbfd7376"
+	],
+	tasks: [{
+		uid: "45885eca",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:vitriolicchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "754f13bb",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "blue_vitriol_water_solution",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}
+	}]
+}

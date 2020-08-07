@@ -1,0 +1,30 @@
+{
+	title: "{interactions.aa10a1a2.b6d28c29.title}",
+	x: -9.5d,
+	y: -5.5d,
+	text: [
+		"{interactions.aa10a1a2.b6d28c29.text.0}",
+		"",
+		"{interactions.aa10a1a2.b6d28c29.text.2}"
+	],
+	dependencies: [
+		"51878972"
+	],
+	tasks: [{
+		uid: "499ef677",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blocktreebeacon"
+		}]
+	}],
+	rewards: [{
+		uid: "a08f6afe",
+		type: "item",
+		item: "randomthings:advanceditemcollector"
+	},
+	{
+		uid: "f342aac1",
+		type: "item",
+		item: "randomthings:itemfilter"
+	}]
+}

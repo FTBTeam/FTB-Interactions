@@ -1,0 +1,18 @@
+{
+	icon: "dmonsters:mobspawneritem_mutantsteve",
+	x: -3.0d,
+	y: -9.0d,
+	description: "{interactions.9b11da3e.85886af3.description}",
+	text: [
+		"{interactions.9b11da3e.85886af3.text.0}"
+	],
+	dependencies: [
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "1f8caf94",
+		type: "kill",
+		entity: "dmonsters:mutantsteve",
+		value: 1L
+	}]
+}

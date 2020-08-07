@@ -1,0 +1,26 @@
+{
+	title: "{interactions.154955d3.36cbc6c2.title}",
+	x: 4.0d,
+	y: 6.0d,
+	text: [
+		"{interactions.154955d3.36cbc6c2.text.0}",
+		"",
+		"{interactions.154955d3.36cbc6c2.text.2}"
+	],
+	dependencies: [
+		"a9d0a2ad"
+	],
+	tasks: [{
+		uid: "ee194474",
+		type: "item",
+		items: [{
+			item: "rustic:apiary"
+		}]
+	}],
+	rewards: [{
+		uid: "ddfdb55e",
+		type: "item",
+		item: "rustic:cohosh",
+		count: 4
+	}]
+}

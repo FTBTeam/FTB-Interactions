@@ -1,0 +1,15 @@
+{
+	title: "{interactions.aea6d983.chapter.title}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "roost:catcher"
+	},
+	description: [
+		"{interactions.aea6d983.chapter.description.0}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

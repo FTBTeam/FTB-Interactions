@@ -1,0 +1,32 @@
+{
+	title: "{interactions.99314095.9bc4a460.title}",
+	x: -2.0d,
+	y: -2.0d,
+	description: "{interactions.99314095.9bc4a460.description}",
+	tasks: [{
+		uid: "24c4baeb",
+		type: "item",
+		items: [{
+			item: "minecraft:carpet 1 15"
+		}],
+		count: 128L
+	}],
+	rewards: [{
+		uid: "e37e2ae4",
+		type: "item",
+		item: {
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1,
+				id: "minecraft:sheep"
+			}
+		},
+		count: 4
+	},
+	{
+		uid: "370bbae9",
+		type: "item",
+		item: "minecraft:dye",
+		count: 4
+	}]
+}

@@ -1,0 +1,51 @@
+{
+	title: "{interactions.9b11da3e.3a237ce5.title}",
+	icon: "gregtech:ore_terra_infused_0",
+	x: -7.0d,
+	y: -8.0d,
+	description: "{interactions.9b11da3e.3a237ce5.description}",
+	dependencies: [
+		"72df0f6c"
+	],
+	tasks: [{
+		uid: "2f551aa1",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_terra_infused_0"
+		}]
+	},
+	{
+		uid: "ddcf8bc7",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_bentonite_0"
+		}]
+	},
+	{
+		uid: "d3d85bc2",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_magnesite_0"
+		}]
+	},
+	{
+		uid: "9c5e22d1",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_olivine_0"
+		}]
+	},
+	{
+		uid: "1e0314a7",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_green_sapphire_0"
+		}]
+	}],
+	rewards: [{
+		uid: "1e5de250",
+		type: "item",
+		item: "gregtech:meta_item_1 1 2212",
+		count: 4
+	}]
+}

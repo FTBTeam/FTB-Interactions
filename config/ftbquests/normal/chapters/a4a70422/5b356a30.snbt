@@ -1,0 +1,26 @@
+{
+	x: -14.0d,
+	y: 5.0d,
+	text: [
+		"{interactions.a4a70422.5b356a30.text.0}"
+	],
+	dependencies: [
+		"dcabc080"
+	],
+	tasks: [{
+		uid: "05adbe4a",
+		type: "checkmark",
+		title: "{interactions.a4a70422.5b356a30.tasks.0.title}",
+		icon: "enderio:item_redstone_conduit"
+	}],
+	rewards: [{
+		uid: "6dc6065f",
+		type: "item",
+		item: "cyclicmagic:wireless_transmitter"
+	},
+	{
+		uid: "667eaa0f",
+		type: "item",
+		item: "cyclicmagic:wireless_receiver"
+	}]
+}

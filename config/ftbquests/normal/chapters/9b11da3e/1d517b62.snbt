@@ -1,0 +1,15 @@
+{
+	title: "{interactions.9b11da3e.1d517b62.title}",
+	icon: "minecraft:vine",
+	x: 1.0d,
+	y: -7.0d,
+	description: "{interactions.9b11da3e.1d517b62.description}",
+	dependencies: [
+		"c5321cae",
+		"2e6c74d5"
+	],
+	tasks: [{
+		uid: "dce5c3fd",
+		type: "checkmark"
+	}]
+}

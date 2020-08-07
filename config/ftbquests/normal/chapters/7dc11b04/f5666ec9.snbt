@@ -1,0 +1,25 @@
+{
+	x: 1.5d,
+	y: -5.0d,
+	shape: "diamond",
+	description: "{interactions.7dc11b04.f5666ec9.description}",
+	text: [
+		"{interactions.7dc11b04.f5666ec9.text.0}"
+	],
+	dependencies: [
+		"1d37b267",
+		"11fc0573"
+	],
+	tasks: [{
+		uid: "b69f7401",
+		type: "item",
+		items: [{
+			item: "deepmoblearningbm:digital_agonizer"
+		}]
+	}],
+	rewards: [{
+		uid: "7e3cc5c9",
+		type: "item",
+		item: "gregtech:machine 1 10658"
+	}]
+}

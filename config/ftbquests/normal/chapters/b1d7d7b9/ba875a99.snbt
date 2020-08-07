@@ -1,0 +1,44 @@
+{
+	title: "{interactions.b1d7d7b9.ba875a99.title}",
+	x: -0.5d,
+	y: -5.0d,
+	description: "{interactions.b1d7d7b9.ba875a99.description}",
+	dependencies: [
+		"14eeece7"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "cfd32416",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			tag: {
+				Fluid: {
+					FluidName: "hydrogen_sulfide",
+					Amount: 1000
+				}
+			},
+			Damage: 32762s
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "b7ebb494",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2065"
+		}]
+	}],
+	rewards: [{
+		uid: "a1c3be8c",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:blaze"
+				}
+			}
+		}
+	}]
+}

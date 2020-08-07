@@ -1,0 +1,26 @@
+{
+	title: "{interactions.b1e14370.aa9e39d7.title}",
+	x: 0.0d,
+	y: -1.5d,
+	shape: "diamond",
+	text: [
+		"{interactions.b1e14370.aa9e39d7.text.0}",
+		"{interactions.b1e14370.aa9e39d7.text.1}"
+	],
+	dependencies: [
+		"c295d1ae"
+	],
+	tasks: [{
+		uid: "972fa97a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 9001"
+		}]
+	}],
+	rewards: [{
+		uid: "51072f1c",
+		type: "item",
+		item: "gregtech:meta_item_1 1 14001",
+		count: 5
+	}]
+}

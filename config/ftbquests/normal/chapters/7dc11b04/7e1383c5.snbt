@@ -1,0 +1,46 @@
+{
+	title: "{interactions.7dc11b04.7e1383c5.title}",
+	x: 4.0d,
+	y: 2.0d,
+	shape: "diamond",
+	text: [
+		"{interactions.7dc11b04.7e1383c5.text.0}",
+		"{interactions.7dc11b04.7e1383c5.text.1}"
+	],
+	dependencies: [
+		"4f55dcad",
+		"ad93edf9",
+		"ea573063",
+		"bb95207a"
+	],
+	tasks: [{
+		uid: "f95abe43",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:ritual_diviner",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a2b4f7a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fc82716d",
+		type: "item",
+		item: "bloodmagic:demon_crystal"
+	}]
+}

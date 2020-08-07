@@ -1,0 +1,14 @@
+{
+	title: "{interactions.40159cc8.c3e76f1e.title}",
+	icon: "advancedrocketry:stationbuilder",
+	x: 5.0d,
+	y: -15.0d,
+	description: "{interactions.40159cc8.c3e76f1e.description}",
+	dependencies: [
+		"237309c2"
+	],
+	tasks: [{
+		uid: "a3eeac18",
+		type: "checkmark"
+	}]
+}

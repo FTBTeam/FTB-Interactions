@@ -1,0 +1,29 @@
+{
+	title: "{interactions.9b11da3e.47a2cc78.title}",
+	x: -9.0d,
+	y: -9.0d,
+	description: "{interactions.9b11da3e.47a2cc78.description}",
+	dependencies: [
+		"9ae8f543"
+	],
+	tasks: [{
+		uid: "4811f6c4",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_coal_0"
+		}]
+	},
+	{
+		uid: "c1a87ea0",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_lignite_0"
+		}]
+	}],
+	rewards: [{
+		uid: "3d85fed9",
+		type: "item",
+		item: "gregtech:meta_item_1 1 8211",
+		count: 8
+	}]
+}

@@ -1,0 +1,42 @@
+{
+	title: "{interactions.a4a70422.44ad6391.title}",
+	x: -11.121428571428567d,
+	y: -0.28214285714285126d,
+	text: [
+		"{interactions.a4a70422.44ad6391.text.0}",
+		"{interactions.a4a70422.44ad6391.text.1}"
+	],
+	dependencies: [
+		"454cc06c",
+		"39d33b3e"
+	],
+	tasks: [{
+		uid: "73a15daa",
+		type: "item",
+		items: [{
+			item: "logisticsbridge:lb.bridge"
+		}]
+	}],
+	rewards: [{
+		uid: "6afd9611",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:storage_cell_1k",
+			tag: {}
+		}
+	},
+	{
+		uid: "f86291a1",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:fluid_storage_cell_1k",
+			tag: {}
+		}
+	}]
+}

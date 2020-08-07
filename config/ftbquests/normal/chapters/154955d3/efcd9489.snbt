@@ -1,0 +1,25 @@
+{
+	title: "{interactions.154955d3.efcd9489.title}",
+	x: 2.0d,
+	y: 8.0d,
+	shape: "rsquare",
+	text: [
+		"{interactions.154955d3.efcd9489.text.0}"
+	],
+	dependencies: [
+		"b030b92e"
+	],
+	tasks: [{
+		uid: "7232c0cf",
+		type: "item",
+		items: [{
+			item: "randomthings:rainshield"
+		}]
+	}],
+	rewards: [{
+		uid: "b1b5605a",
+		type: "item",
+		item: "rustic:cloudsbluff",
+		count: 4
+	}]
+}

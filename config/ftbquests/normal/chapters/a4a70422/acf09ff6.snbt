@@ -1,0 +1,31 @@
+{
+	title: "{interactions.a4a70422.acf09ff6.title}",
+	x: -10.0d,
+	y: 4.5d,
+	text: [
+		"{interactions.a4a70422.acf09ff6.text.0}"
+	],
+	dependencies: [
+		"f18ebd20"
+	],
+	tasks: [{
+		uid: "f9a47073",
+		type: "item",
+		items: [{
+			item: "volumetricflask:o_interface"
+		}]
+	}],
+	rewards: [{
+		uid: "9bbec655",
+		type: "item",
+		item: {
+			id: "volumetricflask:volumetric_flask_144",
+			tag: {}
+		}
+	},
+	{
+		uid: "e3016851",
+		type: "item",
+		item: "appliedenergistics2:part 1 221"
+	}]
+}

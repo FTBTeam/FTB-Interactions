@@ -1,0 +1,10 @@
+{
+	title: "{interactions.a4a70422.chapter.title}",
+	icon: "minecraft:chest",
+	description: [
+		"{interactions.a4a70422.chapter.description.0}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

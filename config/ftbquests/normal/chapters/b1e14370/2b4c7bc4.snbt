@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	description: "{interactions.b1e14370.2b4c7bc4.description}",
+	tasks: [{
+		uid: "07149139",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2123"
+		},
+		{
+			item: "gregtech:meta_item_1 1 2121"
+		}]
+	}]
+}

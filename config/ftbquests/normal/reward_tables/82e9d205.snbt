@@ -1,0 +1,103 @@
+{
+	title: "stars",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "astralsorcery:itemshiftingstar",
+		tag: {
+			astralsorcery: {
+				starAttunement: "astralsorcery.constellation.discidia"
+			}
+		}
+	},
+	loot_size: 1,
+	rewards: [{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -5570085101611273969L,
+					AS_Amulet_HolderMost: 5678865977197479355L
+				}
+			},
+			id: "astralsorcery:itemshiftingstar",
+			tag: {
+				RepairCost: 0,
+				astralsorcery: {
+					starAttunement: "astralsorcery.constellation.discidia"
+				},
+				display: {
+					Name: "Discidia Irradiant Star"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemshiftingstar",
+			tag: {
+				RepairCost: 0,
+				astralsorcery: {
+					starAttunement: "astralsorcery.constellation.armara"
+				},
+				display: {
+					Name: "Armara Irradiant Star"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemshiftingstar",
+			tag: {
+				RepairCost: 0,
+				astralsorcery: {
+					starAttunement: "astralsorcery.constellation.vicio"
+				},
+				display: {
+					Name: "Vicio Irradiant Star"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemshiftingstar",
+			tag: {
+				RepairCost: 0,
+				astralsorcery: {
+					starAttunement: "astralsorcery.constellation.aevitas"
+				},
+				display: {
+					Name: "Aevitas Irradiant Star"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemshiftingstar",
+			tag: {
+				RepairCost: 0,
+				astralsorcery: {
+					starAttunement: "astralsorcery.constellation.evorsio"
+				},
+				display: {
+					Name: "Evorsio Irradiant Star"
+				}
+			}
+		}
+	}]
+}

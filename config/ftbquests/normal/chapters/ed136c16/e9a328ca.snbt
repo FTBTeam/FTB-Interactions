@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: -6.0d,
+	description: "{interactions.ed136c16.e9a328ca.description}",
+	dependencies: [
+		"09586bfe"
+	],
+	tasks: [{
+		uid: "994c6562",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:handybag"
+		}],
+		ignore_nbt: 1b
+	}]
+}

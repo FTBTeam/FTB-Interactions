@@ -1,0 +1,21 @@
+{
+	title: "{interactions.ed136c16.45cfffdd.title}",
+	x: -3.5d,
+	y: -4.5d,
+	description: "{interactions.ed136c16.45cfffdd.description}",
+	dependencies: [
+		"95a0ca99"
+	],
+	tasks: [{
+		uid: "f3d382ce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:nullifier"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
