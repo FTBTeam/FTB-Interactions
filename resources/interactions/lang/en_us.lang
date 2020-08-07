@@ -1278,7 +1278,7 @@ interactions.9b11da3e.858ab06f.title=Where is the precioussssSes?
 interactions.9b11da3e.858ab06f.description=Scanner for specific blocks can help pinpoin the ores you're really after once you've obtained at least 1 block. Additionally the block scanner can help locate dungeons by searching for chests!
 
 interactions.9b11da3e.880e7a62.title=Ender Slayer
-interactions.9b11da3e.880e7a62.text.0=Prove your worth by asserting dominance over the creatures of the void. Slay 100 enedermen to be granted the Void Star.
+interactions.9b11da3e.880e7a62.text.0=Prove your worth by asserting dominance over the creatures of the void. Slay 100 endermen to be granted the Void Star.
 
 interactions.9b11da3e.8e53eb8c.title=Soapstone Vein
 interactions.9b11da3e.8e53eb8c.description=Spawns in all biomes.
@@ -1659,8 +1659,8 @@ interactions.aa10a1a2.2c93dbb5.text.0=Plant interactor does a right click on cro
 interactions.aa10a1a2.2c93dbb5.text.1=Alternatively you can create a canola chicken to produce your seeds for you!
 
 interactions.aa10a1a2.3e7e47d0.title=The Generation Gap
-interactions.aa10a1a2.3e7e47d0.text.0=a Large boiler, when fully up to max temperature, will produce 900mb of steam per tick. The conversion of steam to LV is 60mb of steam per 32eu. 
-interactions.aa10a1a2.3e7e47d0.text.1=This means a LBB is capable of powering exactly 15 LV turbines. It is suggested you dedicate 4 of these towards powering your blast furnace
+interactions.aa10a1a2.3e7e47d0.text.0=a Large boiler, when fully up to max temperature, will produce 900mb of steam per tick. The conversion of steam to LV is 64mb of steam per 32eu. 
+interactions.aa10a1a2.3e7e47d0.text.1=This means a LBB is capable of powering 14 LV turbines. It is suggested you dedicate 4 of these towards powering your blast furnace
 interactions.aa10a1a2.3e7e47d0.text.2=which will bring you into the MV age. 
 interactions.aa10a1a2.3e7e47d0.text.4=If you setup 2 Large boilers you'll have enough steam to even push into HV with transformers but you
 interactions.aa10a1a2.3e7e47d0.text.5=should probably consider switching to diesel by then. (Boilers can run on diesel and other liquid fuels as well!)
@@ -2378,3 +2378,7 @@ interactions.fd71bc82.2e5abfbb.tasks.0.title=Tungsten Dust
 interactions.fd71bc82.6b69f34f.title=Alien Tungsten Ores
 interactions.fd71bc82.6b69f34f.tasks.0.title=Tungsten Ore
 interactions.fd71bc82.6b69f34f.text.0=Besides electrolyzing end stone, once you've actually made it to the end you can mine tungsten ore directly to more easily process large amounts for all your EV+ Tier Needs.
+
+interactions.crate.title=Dont get carried away
+interactions.crate.description=GT crates can be crafted to store items and you can even attach conveyors or robot arms to pull from nearby invetories and apply gt filtering. These are very useful in ore processing setups.
+interactions.crate.text.0=WARNING: DO Not attempt to Dolly Crates
