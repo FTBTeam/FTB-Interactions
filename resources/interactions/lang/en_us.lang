@@ -644,9 +644,10 @@ interactions.40159cc8.6c94636b.title=Advanced wireless linking tool
 interactions.40159cc8.6c94636b.text.0=Capable of linking those hidden emitters and receivers that are in a lot of these advanced rocketry machinery.
 
 interactions.40159cc8.6f38c8a5.title=Spacey (Not Kevin)
-interactions.40159cc8.6f38c8a5.description=To create a space station you'll need a space station builder on your launch pad, you then construct the station you want, allow it scan with a satellite builder in the upper left UI and an unprogrammed station chip in the right
+interactions.40159cc8.6f38c8a5.description=To create your space station  place the Space Station Assembler next to your launchpad. Now build a station to your liking on the platform, you can build more when you get into space. Once built, access the Space Station Assembler, place your Satellite Bay in the upper left slot and your Space Station ID Chip to the right, hit scan. If all goes well hit build. Grab your Chip and Bay and proceed.
 interactions.40159cc8.6f38c8a5.text.0=Place the builder on top of the Power input for this small little Multiblock to function
 interactions.40159cc8.6f38c8a5.text.1=You can build a small station and build it out when your in space, But you can also build it fully stocked with say a celestial gateway.
+interactions.40159cc8.6f38c8a5.text.2=It is recommended you Copy your station id chip before launching in the event you may one day lose it!
 
 interactions.40159cc8.79bca20b.title=Beam me up Scotty!
 interactions.40159cc8.79bca20b.description=If you want to travel forth and back to your spacestation be sure to use some easier travel options
@@ -694,7 +695,7 @@ interactions.40159cc8.c0b8f931.title=No more swapping out tanks
 interactions.40159cc8.c0b8f931.text.0=What if you could have wireless refilling like how those fancy phones can do? Well, just supply this puppy with oxygen and stand on top, Presto!
 
 interactions.40159cc8.c3e76f1e.title=Space Raced!
-interactions.40159cc8.c3e76f1e.description=Now that you've made it to space you unlock the final tiering of mob staging. Work towards an orbital miner to obtain skystone as well as a Warp drive to explore other worlds. 
+interactions.40159cc8.c3e76f1e.description=Now that you've made it to space you unlock the final tiering of mob staging. Work towards an orbital miner to obtain skystone as well as a Warp drive to explore other worlds. All of the ores to the right of this quest are possible blocks the orbital miner will be able to mine for you.
 
 interactions.40159cc8.c7808115.description=Obtain Skystone from the Orbital Miner
 
@@ -1417,7 +1418,7 @@ interactions.a4a70422.1994d60a.text.0=These two blocks will allow you to send or
 
 interactions.a4a70422.1b5f3a46.text.0=Used to put items into inventories.
 
-interactions.a4a70422.1e84b1e0.description=stores 63 types of fluids, invest 3 get 4x the storage
+interactions.a4a70422.1e84b1e0.description=stores 5 types of fluids, invest 3 get 4x the storage
 
 interactions.a4a70422.2a50dbea.text.0=finally interdimensional fluid transfer, the quick way.
 interactions.a4a70422.2a50dbea.text.1=They're not much good without more than one.
@@ -1439,7 +1440,7 @@ interactions.a4a70422.437c848c.text.0=Has 6x9 storage slots.
 
 interactions.a4a70422.439a50a5.text.0=Limitless Potential...
 
-interactions.a4a70422.44a10c88.description=stores 63 types of fluids, just more
+interactions.a4a70422.44a10c88.description=stores 5 types of fluids, just more
 
 interactions.a4a70422.44ad6391.title=A bridge over troubled logistics
 interactions.a4a70422.44ad6391.text.0=As you migrate from early game into middle and late game it's natural to transition to applied energistics. This adapter can help bridge your two networks to allow you access to everything in your LP network, including your crafting.
@@ -1558,12 +1559,12 @@ interactions.a4a70422.acf09ff6.text.0=Lets you automate autocrafting in machines
 interactions.a4a70422.bb862174.text.0=It is used to store large quantities of items, with an internal inventory capable of holding 2,147,483,647 of a single item
 interactions.a4a70422.bb862174.text.1=The Black Hole Unit will keep its contents when broken and can be cleared by placing it in a crafting grid. 
 
-interactions.a4a70422.bca88813.description=stores 63 types of fluids
+interactions.a4a70422.bca88813.description=stores 5 types of fluids
 
 interactions.a4a70422.be1a2d33.title=Item Conduits
 interactions.a4a70422.be1a2d33.text.0=Item conduits stack with all other enderio conduits and can be covered with a facade. They transport items and can be upgraded with speed upgrades as well as operate on predefined color channels and can be filtered. All around excellent pipes.
 
-interactions.a4a70422.c3762d13.description=stores 63 types of fluids, max size
+interactions.a4a70422.c3762d13.description=stores 5 types of fluids, max size
 
 interactions.a4a70422.c550c34b.text.0=This Seal will check an area (you can configure the size) and look for items that can be picked up by Golems.
 
@@ -1761,7 +1762,7 @@ interactions.aa10a1a2.c4bcc6d3.text.0=That crystalized oil can be turned into se
 
 interactions.aa10a1a2.c5c9f2f6.title=*Slaps engine* This bad boy can fit so much pollution in it.
 interactions.aa10a1a2.c5c9f2f6.description=Multiblock power generator using diesel recipes that defaults to 2k eu/t. By adding oxygen it can be boosted up to 6144 eu/t. If you aren't convinced yet, this also consumes diesel at a more efficient rate than single block generators.
-interactions.aa10a1a2.c5c9f2f6.text.0=You can also use a Gregtech Pump to set exact flowrate to match your production, as this multiblock also needs time to speed up it's rotor. Better to have it running all the time instead of turning on and off bc supply cant keep up!
+interactions.aa10a1a2.c5c9f2f6.text.0=You can also use a Gregtech Pump to set exact flowrate to match your production, as this multiblock also needs time to speed up it's rotor. Better to have it running all the time instead of turning on and off bc supply cant keep up! This multiblock requires a small amount of lubricant to continue operating or it will eventually seize up and stop working.
 
 interactions.aa10a1a2.c726c9c9.title=Congratz on automating steam production!
 
@@ -2377,8 +2378,51 @@ interactions.fd71bc82.2e5abfbb.tasks.0.title=Tungsten Dust
 
 interactions.fd71bc82.6b69f34f.title=Alien Tungsten Ores
 interactions.fd71bc82.6b69f34f.tasks.0.title=Tungsten Ore
-interactions.fd71bc82.6b69f34f.text.0=Besides electrolyzing end stone, once you've actually made it to the end you can mine tungsten ore directly to more easily process large amounts for all your EV+ Tier Needs.
+interactions.fd71bc82.6b69f34f.text.0=Besides electrolyzing or running end stone through the infernal deconclomerator (recommended), once you've actually made it to the end you can mine tungsten ore directly to more easily process large amounts for all your EV+ Tier Needs.
 
 interactions.crate.title=Dont get carried away
 interactions.crate.description=GT crates can be crafted to store items and you can even attach conveyors or robot arms to pull from nearby invetories and apply gt filtering. These are very useful in ore processing setups.
 interactions.crate.text.0=WARNING: DO Not attempt to Dolly Crates
+
+interactions.logistics.mecontroller.title=Flip those Channels
+interactions.logistics.mecontroller.description=AE networks powerful but they are limited to 8 channels normally. By crafting an ME controller you'll gain access to 32 channels per side and can form a multiblock for even more. 
+interactions.logistics.mecontroller.text.0=For all your troubles and as a reward for reaching this point in progression, here's a nice reward.
+
+interactions.fd71bc82.chapter.title=Metallurgy EV+
+
+multiblocktweaker.machine.disassembler.name=Disassembler
+multiblocktweaker.multiblock.disassembler.description=The Disassembler can recover some of the microcomponents and materials that went into crafting many items.
+recipemap.disassembler.name=Item Disassembly
+
+interactions.partygear.antimatter.title=What's the matter? ANTIMATTER!
+interactions.partygear.antimatter.description=Liquid antimatter is a needed fluid to generate flux, a powerful material capable of near limitless energy transmission through void space.
+interactions.partygear.antimatter.text.0=Liquid antimatter is created when life essence comes in contact with lightning. This can happen naturally but is extremely rare, instead 
+interactions.partygear.antimatter.text.1=you should invest in a method of creating this lightning directly such as a rending gale or sigil of storms. 
+interactions.partygear.antimatter.text.2=WARNING: Liquid antimatter is EXTREMELY destructive. It will turn anything it touches into antimatter which will cause a cascade of destruction to all antimatter blocks when mined.
+
+interactiosns.luckystar.dynanism.title=The Dynamic Trio
+interactiosns.luckystar.dynanism.description=Dynanism Gems are created by placing liquid starlight in world with glowstone dust and a rock crystal. They will grow over time and randomly will change to a higher growth state. It's recommended you grow several of these at once to minimize reliance on randomness.
+interactiosns.luckystar.dynanism.text.0=Dyananism Gems come in one of three varieties, Fengarum (White), Ourium (blue) and Ilium (Orange). The type of gem they become depends on what the world time is when they're chance to convert is rolled.
+interactiosns.luckystar.dynanism.text.1=Providing starlight and tick acceleration will allow these to grow faster, once they emit smoke they can be safely harvested. After some time of not being harvested they will revert to a previous growth stage and continue to cycle.
+
+interactions.metallurgyev.implosioncompressor.title=Explosive Progress
+interactions.metallurgyev.implosioncompressor.description=Some materials require far greater pressures to compress than a standard compressor is capable of. For these, the implosion compressor fits the tasks.
+interactions.metallurgyev.implosioncompressor.text.0=While the implosion compressor itself consumes  very little enerhy and performs its job quickly, it requires a constant source of TNT. Please refer to the LV
+interactions.metallurgyev.implosioncompressor.text.1=Chemistry tab showing the path to Toulene and TNT Automation if you already havent done so. It is highly suggested you look into distillation towers for this process by now. 
+interactions.metallurgyev.implosioncompressor.text.2=Steam cracking and distilling oil products can give you all the toulene you need as well as polystyrene chemical and several other useful products. 
+
+interactions.metallurgymaster.vanadium.title=Get in the Vanadium!
+interactions.metallurgymaster.vanadium.description=Remember all that useless vanadium magnetite you were mining while looking for gold and iron? Well, surprise! It has a use afterall. LuV tier machinery will require Vanadium ingots doped with Gallium to create the wiring and other components of some of the most advanced technology in the pack. 
+interactions.metallurgymaster.vanadium.text.0=To cook vanadium gallium ingots your EBF must be capable of 4500K temperatures at a minimum. If you havent already you should upgrade your EBF to tungstensteel coils or superconducting.
+
+interactions.metallurgymaster.ytt.title=Yeet-Rium!
+interactions.metallurgymaster.ytt.description=Yttrium, when alloyed with barium and cuprate forms to make a new type of metal that is a key super conducting component. This will enable the creation of super conducting wires for use in both energy trasnfer, and in the highly advanced machines that require such materials.
+interactions.metallurgymaster.ytt.text.0=Yttrium can be obtained by centrifuging rare earths or pulverizing violet crystal blocks from Aurellia or the orbital miner. Barium is a byproduct of Barite dust which comes from processing certus quartz. 
+
+interactions.metallurgymaster.plutonium.title= I'm radioactive
+interactions.metallurgymaster.plutonium.description=By processing uranium 238 through a series of centrifuge refinements you can obtain first tiny piles of 244 plutonium and then centrifuge those dusts for a chance at 241.
+interactions.metallurgymaster.plutonium.text.0=The chances are low and the process is time and energy intensive so you may want to devote some hefty processing setup towards getting your plutonium. Once you've reach the planet Aurellia you can obtain this more directly from centrifuging ferric sands. Refined Plutonium is a key ingredient in both Naquadah reactors and Fusion reactors.
+
+interactions.ayo.coil.tier0.title=Neglecting your coils is Not 0K.
+interactions.ayo.coil.tier0.description=The type of coil your blast furnace has detemines the amount of heat it is capable of producing.
+interactions.ayo.coil.tier0.text.0=Higher tier coils will allow you to smelt more and more advanced materials and will eventually become a progression bottleneck if you dont keep upgrading your coils. The coil upgrade path has been relatively streamlined in this pack and once you reach tungstensteel you can jump to end game superconducting coils. This questline will assist with the upgrade costs by providing you with half the necessary coils for your first EBF of each tier.
