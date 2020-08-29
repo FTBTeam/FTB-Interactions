@@ -8,7 +8,7 @@ advancements.bronze.root.title=Interactions: The Even Less Place
 advancements.bronze.root.description=Now things are getting spicey, all but the worst monsters known to this world will now be unleashed on you, hope you're prepared, because the rest of us probably aren't, thanks for that.
 
 advancements.nether.root.title=Interactions: The Definitely NOT safe Place
-advancements.nether.root.description=Venturing into even more dangerous dimensions? Well, You are a bright one aren't you. I suppose that means you're ready for the worst of the worst? Well, cant's say I didnt warn you.
+advancements.nether.root.description=Venturing into even more dangerous dimensions? Well, You are a bright one aren't you. I suppose that means you're ready for the worst of the worst? Well, can't say I didn't warn you.
 
 advancements.space.root.title=Interactions: The Space Place
 advancements.space.root.description=Well, you know what they say about curiosity... Your meddling in extradimensional and spacial affairs has welcomed the most deadly enemies in the known universe to your door. Well Done, you've probably killed us all.	
@@ -50,13 +50,13 @@ interactions.103abc81.aaf439c8.text.0=This is it, you're done, you've beat the p
 
 interactions.103abc81.cfcc58ad.title=Choo Choo steam go Brrr
 interactions.103abc81.cfcc58ad.description=At last no more hammering plates together.
-interactions.103abc81.cfcc58ad.text.0=Moving from doing everything by hand to the glorious steam revolution is going to require some primitive machinery. It's not great, but its a start! 
+interactions.103abc81.cfcc58ad.text.0=Moving from doing everything by hand to the glorious steam revolution is going to require some primitive machinery. It's not great, but it's a start!
 interactions.103abc81.cfcc58ad.text.1=The metals in this world need to be stabilized with some zinc for brass which is extremely rare, your best bet it going to be creating alchemical brass with thaumcraft to get started.
 
 interactions.103abc81.chapter.title=Forever Forward
 interactions.103abc81.chapter.description.0=A Very broad overview of primary progression goals.
 interactions.103abc81.chapter.description.2=Tips on which quest lines to focus on as you progress.
-interactions.103abc81.chapter.description.3=If you ever get lost you can reffer back to this quest chain for guidance on which questlines to work on next.
+interactions.103abc81.chapter.description.3=If you ever get lost you can refer back to this quest chain for guidance on which questlines to work on next.
 
 interactions.103abc81.dcd19e05.description=Hey diesel looks pretty good.
 interactions.103abc81.dcd19e05.text.0=Once you're into MV your next materials goal will be producing stainless at HV power. See the Metallurgy and AYO Technology tabs for related tier information.
@@ -74,14 +74,14 @@ interactions.103abc81.f92a387e.description=To get to the Nether, you'll have to 
 
 interactions.154955d3.009703b7.title=I saw that.
 interactions.154955d3.009703b7.description=Maybe save yourself some hunger. Or don't. Put the source block directly under the saw and let it flow.
-interactions.154955d3.009703b7.text.0=If it doesnt work one way, try the other
+interactions.154955d3.009703b7.text.0=If it doesn't work one way, try the other
 interactions.154955d3.009703b7.text.1=Like a USB
 
 interactions.154955d3.054b6992.title=JEI Protips
 interactions.154955d3.054b6992.text.0=- FTBQ has JEI integration, just use the check recipes keybind (default: R) on the quest icon or on the left if there are multiple items.
 interactions.154955d3.054b6992.text.1=- If you have mouse with a back button, it's recommended you bind that key to JEI's "Show previously viewed recipe" instead of backspace. It makes life easier.
 interactions.154955d3.054b6992.text.2=- Holding shift while mousing over an item reveals it ore dictionary tags, many recipes can take multiple similar inputs.
-interactions.154955d3.054b6992.text.3=- If you find yourself repeatedly looking up items, try bookmarking it in JEI. You'll probaly be using this for Circuits, Robot Arms, and Motors.
+interactions.154955d3.054b6992.text.3=- If you find yourself repeatedly looking up items, try bookmarking it in JEI. You'll probably be using this for Circuits, Robot Arms, and Motors.
 
 interactions.154955d3.07930191.title=Primary Quest Chains
 interactions.154955d3.07930191.text.0=Any quest with a square icon denotes the start of a questline
@@ -92,9 +92,9 @@ interactions.154955d3.095258c2.text.0=Villager trading is disabled. Due to this,
 
 interactions.154955d3.0ce8b042.text.0=Candles are much easier to make than torches early and provide similar functionality. Make sure to have a bunch ready when you venture into the darkness. 
 
-interactions.154955d3.0d64bc8a.title=Knowledge Dispensery
+interactions.154955d3.0d64bc8a.title=Knowledge Dispensary
 interactions.154955d3.0d64bc8a.tasks.0.title=Instructional Quests
-interactions.154955d3.0d64bc8a.text.0=Gear shaped quests will offer external links to videos, diagrams or flowcharts that will help you complete quests or production line automations.
+interactions.154955d3.0d64bc8a.text.0=Gear shaped quests will offer external links to videos, diagrams or flowcharts that will help you complete quests or production line automation.
 
 interactions.154955d3.11d2e951.description=Check the tooltip and JEI. You'll want these balls.
 interactions.154955d3.11d2e951.text.0=Seriously. USE THESE. They will save you SO much time early game. Almost grow a plant to full like wheat, around 85%% growth is good. Next, plantball it to duplicate it many times instantly. BetterThanBoneMeal(TM)!
@@ -129,13 +129,13 @@ interactions.154955d3.36cbc6c2.title=What's all the buzz about?
 interactions.154955d3.36cbc6c2.text.0=Crops growing too slow? Tired of being on deaths door? Don't worry, Bee happy, because now you can solve both of your problems. The rustic apiaries, when worked by bees, accelerate crops nearby. This effect stacks.
 interactions.154955d3.36cbc6c2.text.2=In addition, they produce honey which when combined with cohosh can brew potions of regeneration. 
 
-interactions.154955d3.3a0ee9b1.text.0=This wand will form blocks starting at a point you're looking at, very nice for quickly building large platforms at a distance or in directions the standard building wand doesnt allow for. 
+interactions.154955d3.3a0ee9b1.text.0=This wand will form blocks starting at a point you're looking at, very nice for quickly building large platforms at a distance or in directions the standard building wand doesn't allow for.
 
 interactions.154955d3.3b4bd52b.tasks.0.title=Standard interconnecting quest
 interactions.154955d3.3b4bd52b.text.0=Standard circle denotes quest is part of a chain. 
 
 interactions.154955d3.4c1c86a9.title=The Early Game Building Aid
-interactions.154955d3.4c1c86a9.description=Animus Liquid Dirt can be poured and will flow like water. Once it cant flow anymore it will solidify to lots of dirt.
+interactions.154955d3.4c1c86a9.description=Animus Liquid Dirt can be poured and will flow like water. Once it can't flow anymore it will solidify to lots of dirt.
 interactions.154955d3.4c1c86a9.text.0=If you are quick you can pickup the source block before it solidifies and get many uses from a single bucket.
 
 interactions.154955d3.54f0c63a.title=This is how you remind me.
@@ -149,10 +149,10 @@ interactions.154955d3.5a0e0129.title=Hey, Listen! Hey, Listen! Hey, Listen! Hey,
 interactions.154955d3.5a0e0129.description=If you see one of these quest icons, it means that this section contains information that can't be found in JEI or useful tips and tricks to get through the pack.
 interactions.154955d3.5a0e0129.tasks.0.title=Accept
 
-interactions.154955d3.5c197ff1.title=This shouldn't even be neccessary...
+interactions.154955d3.5c197ff1.title=This shouldn't even be necessary...
 interactions.154955d3.5c197ff1.description=But if you somehow joined the exclusive club of losing your Tome without putting it into the table, here's a backup. Can't help you beyond that.
 
-interactions.154955d3.65c2b61d.description=Lotus seeds can blossom into a flower than provide experience to the player when used. Try using the survivalist strainer first. You can automatically process them later in a cetrifuge.
+interactions.154955d3.65c2b61d.description=Lotus seeds can blossom into a flower than provide experience to the player when used. Try using the survivalist strainer first. You can automatically process them later in a centrifuge.
 interactions.154955d3.65c2b61d.text.0=HINT: Items with mending can be held in your offhand or worn and will be repaired when you eat lotus flowers.
 
 interactions.154955d3.6819f008.title=You can have the wood.
@@ -202,7 +202,7 @@ interactions.154955d3.85434674.title=Yeet that Wheat
 interactions.154955d3.85434674.description=The reward is us telling you that you can copy these with Plantballs, you still have to craft them though.
 
 interactions.154955d3.87a33a89.title=Never Give You Up
-interactions.154955d3.87a33a89.description=If you're playing on a team, make sure to sync your gamestages togethger with Together Forever commands.
+interactions.154955d3.87a33a89.description=If you're playing on a team, make sure to sync your gamestages together with Together Forever commands.
 interactions.154955d3.87a33a89.text.0=/tofe invite <player_name>
 interactions.154955d3.87a33a89.text.1=/tofe accept <player_name>
 interactions.154955d3.87a33a89.text.2=/tofe kick <player_name>
@@ -221,7 +221,7 @@ interactions.154955d3.8ffc4093.description=If only I knew how physics worked I c
 
 interactions.154955d3.98f4c3c6.title=The World is Your Table
 interactions.154955d3.98f4c3c6.description=Grab some Gravel from your EMC table, make flint for a Tinkers flint axe head and combine it with a stone stick in your 2x2 crafting grid.
-interactions.154955d3.98f4c3c6.text.0=Note: You can not repair these tools yet, but the void will happily take it as a sacrifice
+interactions.154955d3.98f4c3c6.text.0=Note: You cannot repair these tools yet, but the void will happily take it as a sacrifice
 
 interactions.154955d3.9c5fed89.title=The Wood Barber
 interactions.154955d3.9c5fed89.description=A true expert min-maxes EMC production at all stages.
@@ -243,7 +243,7 @@ interactions.154955d3.a9d0a2ad.description=Further transmute the tallow into can
 interactions.154955d3.b0039b2c.description=Still manual, but a quick way to make the most out of planks in wood.
 
 interactions.154955d3.b030b92e.description=This is basic tier magical crafting. Impossible/Annoying to automate, and poor rewards, but its your first step.
-interactions.154955d3.b030b92e.text.0=HINT: If you're still witing for beef, try transmuting some from chicken.
+interactions.154955d3.b030b92e.text.0=HINT: If you're still waiting for beef, try transmuting some from chicken.
 
 interactions.154955d3.b7027e49.title=Hot or Not?
 interactions.154955d3.b7027e49.description=If you hold a tank or container of lava in your inventory, it's going to burn you. Hold these mitts to negate the effects from hot fluids (and potentially unwanted side effects from holding other fluids).
@@ -256,7 +256,7 @@ interactions.154955d3.c9a2a293.text.0=Exclamation marked circle quests contain i
 
 interactions.154955d3.ca362eca.title=It's a trap!
 interactions.154955d3.ca362eca.description=Must be placed on the same Y Level as the Grass, and have access to at least 5 grass or dirt blocks. It only counts blocks on cardinal directions up to 2 blocks away.
-interactions.154955d3.ca362eca.text.0=We recommend you extend your platform to make room for 4-5 of these traps initially, they're cheap afterall.
+interactions.154955d3.ca362eca.text.0=We recommend you extend your platform to make room for 4-5 of these traps initially, they're cheap after all.
 interactions.154955d3.ca362eca.text.1=Warning: Make sure you put MORE than 1 bait in each trap as the first bait merely activates the trap and is always lost with no byproduct.
 
 interactions.154955d3.chapter.title=The Safe Space
@@ -321,7 +321,7 @@ interactions.20bf08de.1c67b1d7.text.0=Essentia is the "liquid" form of Vis energ
 interactions.20bf08de.1c67b1d7.text.1=Put an Arcane Alembic on top and itll start pulling essential out of the smeltery.
 interactions.20bf08de.1c67b1d7.text.2=Can be speed up temendously with Arcane Bellows on the sides of it too.
 
-interactions.20bf08de.1d2f9478.text.0=Stability is key, if your altar begins to become instable add some tallow candles and mob heads.
+interactions.20bf08de.1d2f9478.text.0=Stability is key, if your altar begins to become unstable add some tallow candles and mob heads.
 interactions.20bf08de.1d2f9478.text.1=Remember symmetry is key, anything you place remember to place a symmetrical counterpart.
 interactions.20bf08de.1d2f9478.text.2=Instability can lead to:
 interactions.20bf08de.1d2f9478.text.3=- loss of item
@@ -333,7 +333,7 @@ interactions.20bf08de.21555ce6.description=This quest unlocks the Hedge Alchemy 
 interactions.20bf08de.21555ce6.text.0=This quest unlocks the Hedge Alchemy research.
 
 interactions.20bf08de.24b878d5.title=An Essential Transmission
-interactions.20bf08de.24b878d5.text.0=Essential transfuers can fill and empty all valid essential sources and destinations such as constructs, alembics and void jars similar to how the infusion altar draws in essentia. These greatly streamline your experience and allow you to bypass
+interactions.20bf08de.24b878d5.text.0=Essentia transfusers can fill and empty all valid essential sources and destinations such as constructs, alembics and void jars similar to how the infusion altar draws in essentia. These greatly streamline your experience and allow you to bypass
 interactions.20bf08de.24b878d5.text.1=the use of essentia piping entirely. When used in conjunction with essentia mirrors you can create a wireless essentia production facility and transport the essentia anywhere you may need it.
 
 interactions.20bf08de.2856b0e6.title=Vis Crystals are Shiny
@@ -356,7 +356,7 @@ interactions.20bf08de.4cd5380d.text.0=Salis mundis can be created in the work ta
 interactions.20bf08de.4d723002.title=I -REALLY- Hate Research. 
 interactions.20bf08de.4d723002.description=Please dear god just give me all the research, I will accept the warp that goes along with it gladly as my payment. 
 interactions.20bf08de.4d723002.text.0=If you really despise research, craft yourself a cheater's thauminomicon and have all research granted to you.
-interactions.20bf08de.4d723002.text.2=Warning: You will recieve all associated warp for ALL the research granted. If you do not know the implications of this consequence, please read up on Thaumcraft a bit more first.
+interactions.20bf08de.4d723002.text.2=Warning: You will receive all associated warp for ALL the research granted. If you do not know the implications of this consequence, please read up on Thaumcraft a bit more first.
 
 interactions.20bf08de.57bfbdc9.tasks.0.title=Artificial Artifice
 interactions.20bf08de.57bfbdc9.text.0=This quest unlocks advanced artifice research, up to and including the infernal furnace.
@@ -381,7 +381,7 @@ interactions.20bf08de.8cb23bd3.text.1=Looks like it has some interesting propert
 interactions.20bf08de.8cd0b5bf.title=Baby's First Alchemical Metallurgy
 interactions.20bf08de.8cd0b5bf.text.0=Brass opens the world to whole new type production.
 interactions.20bf08de.8cd0b5bf.text.1=Your first machines will need brass, so make some extra.
-interactions.20bf08de.8cd0b5bf.text.2=IMPORTANT: You will unlock the requrid research for this by following along in the thauminomicon. Do not attempt to craft until you earn the basic alchemy unlock from the Thauminomicon.
+interactions.20bf08de.8cd0b5bf.text.2=IMPORTANT: You will unlock the required research for this by following along in the thaumonomicon. Do not attempt to craft until you earn the basic alchemy unlock from the Thaumonomicon.
 
 interactions.20bf08de.8eac9d15.text.0=The crucible is your first step into alchemy. It requires salis mundis be used on a cauldron, you then must fill it with water and put fire beneath it.
 interactions.20bf08de.8eac9d15.text.1=IMPORTANT: A Note about JEI - 
@@ -515,7 +515,7 @@ interactions.28fb9cd4.645e1204.text.0=The final tier of starlight crafting altar
 
 interactions.28fb9cd4.6a38accb.title=When the heavens misalign
 interactions.28fb9cd4.6a38accb.text.0=After you've attuned yourself and begin earning perk experience you may decide you've made a mistake and want to reset.
-interactions.28fb9cd4.6a38accb.text.1=The shifting star will completely reset all of your progress and let you reselect a starting attunment. Losing all that xp can be less than desirable however.
+interactions.28fb9cd4.6a38accb.text.1=The shifting star will completely reset all of your progress and let you reselect a starting attunement. Losing all that xp can be less than desirable however.
 interactions.28fb9cd4.6a38accb.text.2=Later you can craft irradiant stars which allow you to stop and keep the experience. To help you on your way we're giving you a one time choice of one of these stars now. Go forth and Shine bright friends!
 
 interactions.28fb9cd4.77432fb3.title=Liquid Starlight
@@ -523,7 +523,7 @@ interactions.28fb9cd4.77432fb3.description=Use a lightwell to create a bucket of
 
 interactions.28fb9cd4.79f5e019.title=Concentrating Starlight
 interactions.28fb9cd4.79f5e019.description=The starlight infuser is a multiblock structure that will allow you to transmute certain items, bypassing some technological requirements as well as create immensely powerful infused tools and weapons.
-interactions.28fb9cd4.79f5e019.text.0=The infuser is available much earlier than it typically is in astral sorcery. Use the sextant to see how to build it if you havent progressed far enough in astral's journal. This is a great method for early game diamond processing as well as lapis
+interactions.28fb9cd4.79f5e019.text.0=The infuser is available much earlier than it typically is in astral sorcery. Use the sextant to see how to build it if you haven't progressed far enough in astral's journal. This is a great method for early game diamond processing as well as lapis
 interactions.28fb9cd4.79f5e019.text.1=and infused weapons/tools.
 
 interactions.28fb9cd4.7f872949.title=Not Quite Diamonds
@@ -535,7 +535,7 @@ interactions.28fb9cd4.90c2c474.description=Using a Tree beacon to gather wood an
 interactions.28fb9cd4.9ca9393d.title=A Link to the Stars
 interactions.28fb9cd4.9ca9393d.text.0=The Starlight linking tool allows you to link starlight sources such as a collector crystal to lenses, prisms, altars, rituals and blocks to direct starlight energy for crafting, powering rituals and transmuting. It is used extensively in this pack.
 
-interactions.28fb9cd4.a0dbf15e.text.0=The stellar refraction table can focus starlight into an enchantment energy that can even exceed the normal limits of enchanting. Things like looting 5+ sharpeness 6+ are more! Be careful not to burn your paper. You can also enchant potions and armor
+interactions.28fb9cd4.a0dbf15e.text.0=The stellar refraction table can focus starlight into an enchantment energy that can even exceed the normal limits of enchanting. Things like looting 5+ sharpness 6+ are more! Be careful not to burn your paper. You can also enchant potions and armor
 interactions.28fb9cd4.a0dbf15e.text.1=by using the enchantments you imprint on specialized glass.
 
 interactions.28fb9cd4.b1dded11.title=Crafting with Starlight
@@ -571,7 +571,7 @@ interactions.3c089439.0476c960.title=Small indium game dev company
 interactions.3c089439.0476c960.text.0=Now that you've got indium you can make indium gallium phosphate for better circuits, you can also create the evil tier you'll need to activate the artificial end portal. 
 
 interactions.3c089439.229c3e3f.title=Concentrate Indi
-interactions.3c089439.229c3e3f.tasks.1.title=Indium Concetrate
+interactions.3c089439.229c3e3f.tasks.1.title=Indium Concentrate
 interactions.3c089439.229c3e3f.text.0=Indium concentrate is combined with aluminium dust to make tiny piles of indium dust to use in circuit fabrication. You'll need a bit of this to tier up your circuit processing.
 
 interactions.3c089439.2904b19b.title=Moon Rocks
@@ -587,23 +587,23 @@ interactions.3c089439.9b9ce474.text.0=Unlike previous higher tier metals, titani
 interactions.3c089439.9b9ce474.text.1=This will provide your first titanium ingots and creates cycle of magnesium recovery. You will be able to recover 1.5 of the 2 dust used per ingot. As you may have imagined, you're gonna need a lot of these ingots.
 
 interactions.3c089439.a1c5f008.title=Alien Stone
-interactions.3c089439.a1c5f008.text.0=Now that you have end stone you can process it into tungstenate dust for further processing. The most efficient way to do this is with ther infernal deconclomerator.
-interactions.3c089439.a1c5f008.text.1=It's schematic is found exclusively in nether dungeons. If you've been unfortunate and not found one, you can also pulverize it and centrifuge which is slightly less efficient but still gets you where you need to be. 
-interactions.3c089439.a1c5f008.text.2=This is the final step in HV metallurgy, Proceed to the EV+ Metallurgy Teir.
+interactions.3c089439.a1c5f008.text.0=Now that you have end stone you can process it into tungstate dust for further processing. The most efficient way to do this is with the infernal deconglomerator.
+interactions.3c089439.a1c5f008.text.1=Its schematic is found exclusively in nether dungeons. If you've been unfortunate and not found one, you can also pulverize it and centrifuge which is slightly less efficient but still gets you where you need to be.
+interactions.3c089439.a1c5f008.text.2=This is the final step in HV metallurgy, Proceed to the EV+ Metallurgy Tier.
 
 interactions.3c089439.chapter.title=Metallurgy HV
 
 interactions.40159cc8.025a49a7.title=Fusing Worlds...
-interactions.40159cc8.025a49a7.text.0=To create the artifacts to guide your space station to the exoplanets you will need powerful fusion crafting. Dont worry about the lower tier inejectors your can directly craft chaotic tier in this pack.
+interactions.40159cc8.025a49a7.text.0=To create the artifacts to guide your space station to the exoplanets you will need powerful fusion crafting. Don't worry about the lower tier injectors your can directly craft chaotic tier in this pack.
 
 interactions.40159cc8.05f17487.title=Precisely!
-interactions.40159cc8.05f17487.description=The precision assembler is used to create some specialized components that require a vacuum sealed compartement and robotic assembly. This will create key ingredients to many of the Advanced Rocketry machinery.
+interactions.40159cc8.05f17487.description=The precision assembler is used to create some specialized components that require a vacuum sealed compartment and robotic assembly. This will create key ingredients to many of the Advanced Rocketry machinery.
 interactions.40159cc8.05f17487.tasks.2.title=2x Coil
 interactions.40159cc8.05f17487.tasks.4.title=7x Hatches or Machine Frames
 interactions.40159cc8.05f17487.tasks.5.title=2x Motor
 
 interactions.40159cc8.16a194f4.title=Photofission Nuclear Chamber
-interactions.40159cc8.16a194f4.text.0=This blueprint can be found in the dungeons on Euclydes and later craftable. It will provide massive amounts of steam capable of generating LuV tier power in turbines when provided with proccessed uranium fuels.
+interactions.40159cc8.16a194f4.text.0=This blueprint can be found in the dungeons on Euclydes and later craftable. It will provide massive amounts of steam capable of generating LuV tier power in turbines when provided with processed uranium fuels.
 
 interactions.40159cc8.1e07ae16.title=To boldly go where no Steve has gone before...
 interactions.40159cc8.1e07ae16.description=Create the Warp core on your Space-Station, feed it with Dilithium Crystals and use the Warp Controller to travel to far away galaxies!
@@ -613,7 +613,7 @@ interactions.40159cc8.1e936edf.title=Diamond and Emerald Veins
 interactions.40159cc8.1f76afbc.text.0=A primary constituent of some higher end alloys, it is found in abundance on Aurellia.
 
 interactions.40159cc8.237309c2.title=Danger, Will Robinson! Danger!
-interactions.40159cc8.237309c2.description=When you reach space, you will unlock a new mob staging that has certain mobs that ignore light level. It is highly recommended you have a Peace Candle (craft only) or a Lucerna Ritual to protec your base.
+interactions.40159cc8.237309c2.description=When you reach space, you will unlock a new mob staging that has certain mobs that ignore light level. It is highly recommended you have a Peace Candle (craft only) or a Lucerna Ritual to protect your base.
 
 interactions.40159cc8.2524e21f.title=Bloody Hell
 interactions.40159cc8.2524e21f.description=By performing the mark of the falling tower bloodmagic ritual with a block of black quartz as the catalyst item you can summon a meteor with highly radioactive materials.
@@ -622,7 +622,7 @@ interactions.40159cc8.2524e21f.text.0=Use this ritual to get thorium ore which y
 interactions.40159cc8.2732c95a.title=Aluminium Production
 
 interactions.40159cc8.2b5f5376.title=Sky Cauldron
-interactions.40159cc8.2b5f5376.text.0=The sky cauldron is found in moon dungeons beneath the surface. It's capable of transforming liquid starlight and directed laser light into an a light cruicible of sorts. Inside it is able to perfect crystaline harmonics, thus purifying them.
+interactions.40159cc8.2b5f5376.text.0=The sky cauldron is found in moon dungeons beneath the surface. It's capable of transforming liquid starlight and directed laser light into an a light crucible of sorts. Inside it is able to perfect crystalline harmonics, thus purifying them.
 
 interactions.40159cc8.2f6967ca.title=Vinteum Ore
 interactions.40159cc8.2f6967ca.text.0=This magically infused metal occurs naturally only on the world of Euclydes. It has otherworldly properties that will enable new magical processes and higher tier technological advancements that would be unachievable with terrestrial materials alone.
@@ -634,7 +634,7 @@ interactions.40159cc8.3d592508.title=Explosive!
 interactions.40159cc8.3d592508.description=By combining cryogenic hydrogen and oxygen in a chemical reactor you'll have a highly reactive mixture capable of rocket propulsion. With production now automated for your rocket you are ready to build and launch into space. 
 
 interactions.40159cc8.425146df.title=Geowhatsit?
-interactions.40159cc8.425146df.description=This highly specialized form on concrete dissipates heat extremely quickly and is a required building block for some machinery as well as your launchpad itself.
+interactions.40159cc8.425146df.description=This highly specialized form of concrete dissipates heat extremely quickly and is a required building block for some machinery as well as your launchpad itself.
 
 interactions.40159cc8.4736aa30.title=Black Quartz Veins
 
@@ -644,22 +644,22 @@ interactions.40159cc8.6c94636b.title=Advanced wireless linking tool
 interactions.40159cc8.6c94636b.text.0=Capable of linking those hidden emitters and receivers that are in a lot of these advanced rocketry machinery.
 
 interactions.40159cc8.6f38c8a5.title=Spacey (Not Kevin)
-interactions.40159cc8.6f38c8a5.description=To create your space station  place the Space Station Assembler next to your launchpad. Now build a station to your liking on the platform, you can build more when you get into space. Once built, access the Space Station Assembler, place your Satellite Bay in the upper left slot and your Space Station ID Chip to the right, hit scan. If all goes well hit build. Grab your Chip and Bay and proceed.
+interactions.40159cc8.6f38c8a5.description=To create your space station place the Space Station Assembler next to your launchpad. Now build a station to your liking on the platform, you can build more when you get into space. Once built, access the Space Station Assembler, place your Satellite Bay in the upper left slot and your Space Station ID Chip to the right, hit scan. If all goes well hit build. Grab your Chip and Bay and proceed.
 interactions.40159cc8.6f38c8a5.text.0=Place the builder on top of the Power input for this small little Multiblock to function
 interactions.40159cc8.6f38c8a5.text.1=You can build a small station and build it out when your in space, But you can also build it fully stocked with say a celestial gateway.
 interactions.40159cc8.6f38c8a5.text.2=It is recommended you Copy your station id chip before launching in the event you may one day lose it!
 
 interactions.40159cc8.79bca20b.title=Beam me up Scotty!
 interactions.40159cc8.79bca20b.description=If you want to travel forth and back to your spacestation be sure to use some easier travel options
-interactions.40159cc8.79bca20b.text.0=Celestial Gateways are perfect to travel inter-dimensional
+interactions.40159cc8.79bca20b.text.0=Celestial Gateways are perfect to travel inter-dimensionally
 
 interactions.40159cc8.8968f5fc.title=Starmetal Veins
 interactions.40159cc8.8968f5fc.description=The only way this vein get could more blue is if it had Gregtech sodium blocks.
-interactions.40159cc8.8968f5fc.text.0=The aluminum in this vein is unique in that it can be directly processed in an infernal furnce, bypassing the need for a blast furnace.
+interactions.40159cc8.8968f5fc.text.0=The aluminum in this vein is unique in that it can be directly processed in an infernal furnace, bypassing the need for a blast furnace.
 
 interactions.40159cc8.8d952225.title="I'm Givin' Her All She's Got, Captain!"
 interactions.40159cc8.8d952225.description=Build an Orbital Miner on your Space Station. This baby sure is power hungry, so give her all you got!
-interactions.40159cc8.8d952225.text.0=Be sure to turn this baby on with a redstone signal and place a lens in to gui. When you play on a server you may need to change X&Y setting if other players have build one as well.
+interactions.40159cc8.8d952225.text.0=Be sure to turn this baby on with a redstone signal and place a lens in the gui. When you play on a server you may need to change X&Y setting if other players have build one as well.
 
 interactions.40159cc8.8fe82d61.title="Logic is the beginning of wisdom, not the end."
 interactions.40159cc8.8fe82d61.description=The Prerequisite quests are materials that will be required to progress through space. Once you have them, make the holoprojector as a guide for the multiblocks and continue. Click to set your machine blueprint, click on the ground and scroll layers.
@@ -669,13 +669,13 @@ interactions.40159cc8.91d4c602.title=H2 4u2
 interactions.40159cc8.91d4c602.description=Use cryotheum as a cryogenic catalyst to supercool hydrogen and oxygen into predecessors of rocket fuel.
 
 interactions.40159cc8.95179e4c.title=Exxon Wifi
-interactions.40159cc8.95179e4c.description=did you really think we would have you take a hose to the rocket with this dangerous stuff?
+interactions.40159cc8.95179e4c.description=Did you really think we would have you take a hose to the rocket with this dangerous stuff?
 
 interactions.40159cc8.97e0a29a.title=The Dark Star Aurellia
 interactions.40159cc8.97e0a29a.description=This planet is orbiting a black hole. Although the atmosphere is earthlike you will find the gravity is greatly increased so near to the blackhole. 
 
 interactions.40159cc8.99cb3721.title=Primal Dusts
-interactions.40159cc8.99cb3721.text.0=With these final ingredients from Euclydes you can now produce primal dust and then primal mana, the ultimate concentration of magical energy. Highly reactive with high enough heat and temperatures in advanced blast furnacing.
+interactions.40159cc8.99cb3721.text.0=With these final ingredients from Euclydes you can now produce primal dust and then primal mana, the ultimate concentration of magical energy. Highly reactive with high enough heat and temperatures in advanced blast furnaces.
 
 interactions.40159cc8.aa00e5cf.title=Here's your quarry.
 interactions.40159cc8.aa00e5cf.description=While there is no direct method of Quarrying large areas of the planet, you can happily destroy other worlds for your resources. Construct these items and analyze the return data with the help of your observatory to launch mining missions.
@@ -719,7 +719,7 @@ interactions.40159cc8.dc8a31e7.description=To send an unmanned rocket to space, 
 
 interactions.40159cc8.dcb34d20.title=Manganese Veins
 
-interactions.40159cc8.df12bbbe.title=Dont get Lost in Space.
+interactions.40159cc8.df12bbbe.title=Don't get Lost in Space.
 interactions.40159cc8.df12bbbe.description=The guidance computer is essential for every rocket, it is where you will insert your destination ID telling the rocket where it should fly.
 
 interactions.40159cc8.e3087d37.title=Silicon Production
@@ -774,13 +774,13 @@ interactions.498eb09c.ccb40f2e.tasks.0.title=Acetone
 interactions.498eb09c.chapter.title=MV Chemistry
 
 interactions.498eb09c.d5bfbf5e.title=Charcoaled byproducts
-interactions.498eb09c.d5bfbf5e.text.0=Charcoal byproducts will turn into 3 key chemicals you'll need for MANY chemical reactions. Obtainign it is up to you. It can be obtained via Industrial foregoing farmers from sludge, from smog chickens that produce sludge, or directly from a
+interactions.498eb09c.d5bfbf5e.text.0=Charcoal byproducts will turn into 3 key chemicals you'll need for MANY chemical reactions. Obtaining it is up to you. It can be obtained via Industrial foregoing farmers from sludge, from smog chickens that produce sludge, or directly from a
 interactions.498eb09c.d5bfbf5e.text.1=pyrolyse oven multiblock.
 
 interactions.498eb09c.d9490983.title=Epoxy Resin Flowchart
 
 interactions.498eb09c.dcf76677.title=Awesome Mix Tape
-interactions.498eb09c.dcf76677.text.0=The MV+ tier mixers will enable several new chemical recipes inlcuding a new way to refine oil to more than double the yield of oil by enriching it with canola.
+interactions.498eb09c.dcf76677.text.0=The MV+ tier mixers will enable several new chemical recipes including a new way to refine oil to more than double the yield of oil by enriching it with canola.
 
 interactions.498eb09c.e59d539f.title=Empowered Oil
 interactions.498eb09c.e59d539f.text.0=By enriching oil a second time to empowered oil your total yield per bucket of oil is now 300%% higher than just using raw oil. Additionally, you will net better byproducts in the distillation process and save energy and time overall on the production
@@ -802,7 +802,7 @@ interactions.5c5ec752.28e5ddea.text.0=Completing this quest will grant you the r
 
 interactions.5c5ec752.2e003362.title=The Infernal Furnace
 interactions.5c5ec752.2e003362.description=The infernal furnace will smelt crude steel ingots into steel at a chance that increases with the more bellows you have on it. Also used for smelting ardite and normal smelting recipes.
-interactions.5c5ec752.2e003362.text.0=Check the thaumonaumicon for instructions on how to build the multiblock. Activate with Salis Mundis.
+interactions.5c5ec752.2e003362.text.0=Check the thaumonomicon for instructions on how to build the multiblock. Activate with Salis Mundis.
 interactions.5c5ec752.2e003362.text.2=The initial rate is 1 crude iron to 2 steel nuggets. Make some bellows first and attach them to the furnace. Each bellow adds 2 steel nuggets to the yield, up to 10 nuggies per crude ingot. You can also place bellows on the bottom.
 
 interactions.5c5ec752.33bb55ec.title=Don't exhaust Yourself!
@@ -812,15 +812,15 @@ interactions.5c5ec752.33bb55ec.text.0=If the venting port on a steam machine is 
 interactions.5c5ec752.38e43a20.title=Steamplosion
 interactions.5c5ec752.38e43a20.description=Never let your boilers run dry! Putting water in a dry, hot boiler will cause an explosion.
 
-interactions.5c5ec752.3fbc06c2.description=The squeezer is a very early and inefficient method of processing ores. It's advantage is that when automated, it can process ores very quickly and keep you progressing towards the LV age. It is recommended as your first ore processor.
+interactions.5c5ec752.3fbc06c2.description=The squeezer is a very early and inefficient method of processing ores. Its advantage is that when automated, it can process ores very quickly and keep you progressing towards the LV age. It is recommended as your first ore processor.
 interactions.5c5ec752.3fbc06c2.text.0=To create the squeezer you'll need to mine and melt iron and cast the iron into a basin for the block. The squeezer can be automated with some redstone and a slime block.
 
 interactions.5c5ec752.481095ef.title=Ally Smelter
 interactions.5c5ec752.481095ef.description=An alloyer that alloys alloys for you and allies. WARNING: Do not put allies in here.
-interactions.5c5ec752.481095ef.text.0=Make sure to read the energy requriements for recipes. Pulsating iron for example requires 48V in an alloy smelter, meaning you need at least an MV Tier alloy smelter to create it!
+interactions.5c5ec752.481095ef.text.0=Make sure to read the energy requirements for recipes. Pulsating iron for example requires 48V in an alloy smelter, meaning you need at least an MV Tier alloy smelter to create it!
 
 interactions.5c5ec752.5170565f.title=A Multiblock Oven!
-interactions.5c5ec752.5170565f.description=Normal furnaces are disabled, but you get an automatic upgrade to the Seared furnace. It will provide you with fast, bulk and efficient smelting early game. pure ores smelt in stacks of 16 a slot. nugget results cant melt unless result is 16 or less 
+interactions.5c5ec752.5170565f.description=Normal furnaces are disabled, but you get an automatic upgrade to the Seared furnace. It will provide you with fast, bulk and efficient smelting early game. pure ores smelt in stacks of 16 a slot. nugget results can't melt unless result is 16 or less
 
 interactions.5c5ec752.5470f8d6.title=Macerator
 interactions.5c5ec752.5470f8d6.description=Macerator was a Decepticon garbage truck killed by Optimus Prime. Also this is your first ore doubling so it's worth to make.
@@ -829,7 +829,7 @@ interactions.5c5ec752.56f69a22.title=Bronze Age is the third best age.
 interactions.5c5ec752.56f69a22.description=Pipe in water from the bottom as all other sides output steam after burning furnace fuels for heat. Also all steam consuming GT machines have an exhaust vent. Make sure that vent is exposed to open air or the machine will jam.
 
 interactions.5c5ec752.669a0a29.title=Not that kind of Coke
-interactions.5c5ec752.669a0a29.description=Your first multiblock that yeilds you 2 important resources early on, creosote and charcoal.
+interactions.5c5ec752.669a0a29.description=Your first multiblock that yields you 2 important resources early on, creosote and charcoal.
 
 interactions.5c5ec752.6d2e1a91.title=How do I build this damn thing?!
 interactions.5c5ec752.6d2e1a91.text.0=All GT's multiblocks can provide an in world preview of the blocks needed thanks to the MultiblockTweaker mod. Once you place down the key block (electric blast furnace for example) you can shift right click on the block to cycle between inworld view
@@ -858,7 +858,7 @@ interactions.5c5ec752.95d931f2.text.0=The first step into proper ore processing 
 interactions.5c5ec752.95d931f2.text.1=From here you'll be able to gather the needed materials to make a tinker's seared furnace and produce some iron to make a squeezer.
 
 interactions.5c5ec752.b56bd273.title=Get ready to enter the age of electricity.
-interactions.5c5ec752.b56bd273.text.0=You can jump into LV now, you might be wise to go and visit the power solutions tab and make sure you have a steam setup that doesnt make you wait forever and ever.
+interactions.5c5ec752.b56bd273.text.0=You can jump into LV now, you might be wise to go and visit the power solutions tab and make sure you have a steam setup that doesn't make you wait forever and ever.
 
 interactions.5c5ec752.c782128e.title=Alchemical Annoyance.
 interactions.5c5ec752.c782128e.text.0=A central theme to this pack is side by side progression of both technology and magic. Some magical materials may be used reasonably in tech and vice versa. To get started in the bronze age you'll need brass which WOULD be plentiful in the nether.
@@ -875,7 +875,7 @@ interactions.5c5ec752.d728580e.text.0=Machines need to be inside something, this
 interactions.5c5ec752.e384c9a5.description=Better ingots to plates conversion, further pulverizes ores, triples as a cobbleworks, and is actually fast. It loses some of it's value in later voltage tiers since Macerators can double, but it makes for a good cobbleworks.
 
 interactions.5c5ec752.e48023fb.title=Get down to brass tacks.
-interactions.5c5ec752.e48023fb.description=Wanted to get started in GregTech? Well you'll need brass and bronze, the former of which needs Zinc which is only availale in the Nether. Until you get there, you'll have to make brass with alchemy first.
+interactions.5c5ec752.e48023fb.description=Wanted to get started in GregTech? Well you'll need brass and bronze, the former of which needs Zinc which is only available in the Nether. Until you get there, you'll have to make brass with alchemy first.
 
 interactions.5c5ec752.fa1162c0.description=Nothing special to say so we'll just remind you again of exposing the exhaust vent of steam machines.
 
@@ -922,7 +922,7 @@ interactions.658f0534.chapter.title=Metallurgy
 interactions.658f0534.chapter.description.0=This tab contains information on ore multiplication and how to navigate some of the metal processing in the pack.
 
 interactions.658f0534.e99902e3.description=All roads lead back to these clusters, I guess magic really is everywhere.
-interactions.658f0534.e99902e3.text.0=Dont forget you can 64x+ your ores by macerating the clusters and utilizing standard GT processing as well.
+interactions.658f0534.e99902e3.text.0=Don't forget you can 64x+ your ores by macerating the clusters and utilizing standard GT processing as well.
 interactions.658f0534.e99902e3.text.1=Additionally these clusters can simply be smelted directly for their ore.
 
 interactions.658f0534.fad424f0.text.0=Once you have crushed ores you'll need to either macerate, forge hammer, or shape craft them with a hammer to turn them into inpure dusts for further processing.
@@ -945,16 +945,16 @@ interactions.7dc11b04.74f35952.title=Automating Demonic Will - Vanilla BM Tutori
 
 interactions.7dc11b04.7c314036.title=Mark of the falling Tower
 interactions.7dc11b04.7c314036.description=Space Rocks Ahoy!
-interactions.7dc11b04.7c314036.text.0=The mark of the falling tower ritual from bloodmagic requires 500k LP to activate and accept 2 unique catalsyts which will each provide you with the resources shown.
+interactions.7dc11b04.7c314036.text.0=The mark of the falling tower ritual from bloodmagic requires 500k LP to activate and accept 2 unique catalysts which will each provide you with the resources shown.
 interactions.7dc11b04.7c314036.text.1=To hold 500k LP in your network you need a master blood orb ( holds 1M LP ).
 
 interactions.7dc11b04.7e1383c5.title=Higher tier rituals, Yes please!
-interactions.7dc11b04.7e1383c5.text.0=Ritual deviner Dusk allows you to run the Resonance of the faceted crystal ritual, which can split a full grown crystal will cluster into clusters of the other 4 types!
+interactions.7dc11b04.7e1383c5.text.0=Ritual diviner Dusk allows you to run the Resonance of the faceted crystal ritual, which can split a full grown crystal will cluster into clusters of the other 4 types!
 interactions.7dc11b04.7e1383c5.text.1=You need a greater tartaric to be able to craft a crystal will cluster, We are sometimes nice guys, so we will hand you one.
 
 interactions.7dc11b04.832823a9.title=Raw Infernal Will
 interactions.7dc11b04.832823a9.description=Demon will can be released into a chunk from a tartaric gem by using a forge or by burning will crystals. 
-interactions.7dc11b04.832823a9.text.0=Alternatively a sustainable method to create demon will exists. By utilizing the foresaken soul ritual, demon will is generated when mobs are killed. Passive and a variety of mobs is essential for maximum yield.
+interactions.7dc11b04.832823a9.text.0=Alternatively a sustainable method to create demon will exists. By utilizing the forsaken soul ritual, demon will is generated when mobs are killed. Passive and a variety of mobs is essential for maximum yield.
 interactions.7dc11b04.832823a9.text.1=The Animus ritual of Peace can provide a constant supply of peaceful mobs for your ritual to kill, as can the Astral sorcery pelotrio ritual.
 interactions.7dc11b04.832823a9.text.2=To harvest the will you'll want to plant demon crystals of each type and use ritual of the fractured crystal to gather them as they grow. 
 interactions.7dc11b04.832823a9.text.3=Finally to collect the shards you'll want to use a ritual of the zephyr or item collectors. 
@@ -1014,7 +1014,7 @@ interactions.9076fdc4.0d819db0.description=I mean you could just use this, inste
 
 interactions.9076fdc4.1c6a7c53.description=Oh good, I'm on fire again.
 
-interactions.9076fdc4.2203d518.description=All this talk of mills and yet theres no grinding involved?
+interactions.9076fdc4.2203d518.description=All this talk of mills and yet there's no grinding involved?
 
 interactions.9076fdc4.2456f826.description=No more research fam.
 interactions.9076fdc4.2456f826.text.0=Why is this not a normally craftable item in other packs? Seriously.
@@ -1051,7 +1051,7 @@ interactions.9076fdc4.7fd67826.description=Dracarys
 
 interactions.9076fdc4.924fb450.description=rollin'
 
-interactions.9076fdc4.9b0c3bd9.description=More mass than the majority of asteriods.
+interactions.9076fdc4.9b0c3bd9.description=More mass than the majority of asteroids.
 
 interactions.9076fdc4.9ee38390.description=The most advanced neural network actionable analytics software that big data institutions use for internet robotics of things. 
 
@@ -1068,7 +1068,7 @@ interactions.9076fdc4.b79d54ea.description=Astral sorcery stuff suddenly runs pr
 
 interactions.9076fdc4.befae8b5.description=Lag inducing discount vein mining.
 
-interactions.9076fdc4.c2abb527.description=Unforunately not actually infinite chickens.
+interactions.9076fdc4.c2abb527.description=Unfortunately not actually infinite chickens.
 interactions.9076fdc4.c2abb527.text.0=You can thank FakoTheGreat for the textures and models of this infinite boi.
 
 interactions.9076fdc4.chapter.title=God's Plan
@@ -1129,7 +1129,7 @@ interactions.99314095.7baaac5e.text.2=This can become extremely frustrating and 
 interactions.99314095.7baaac5e.text.4=This questline will help you determine which items you should bulk craft for each tier and additionally alleviate a small portion of the grind by returning some of the subcomponents used to craft them. 
 
 interactions.99314095.86f1912f.title=The cold never bothered me anyway
-interactions.99314095.86f1912f.description=During the production of super hot metals sometimes they need to flash freeze to prevent internal misalignment. Addiitionally some fluids need to be supercooled to bring about chemically reactive states. For this a Vacuum freezer is ideal.
+interactions.99314095.86f1912f.description=During the production of super hot metals sometimes they need to flash freeze to prevent internal misalignment. Additionally some fluids need to be supercooled to bring about chemically reactive states. For this a Vacuum freezer is ideal.
 interactions.99314095.86f1912f.tasks.1.title=Any input hatch
 interactions.99314095.86f1912f.tasks.2.title=Any input bus
 interactions.99314095.86f1912f.tasks.3.title=Any output bus
@@ -1201,7 +1201,7 @@ interactions.99314095.e54fe206.text.0=In order power your first EBF to smelt Alu
 interactions.99314095.e54fe206.text.1=To compensate for this GTCE Multiblocks can handle more than one energy input hatch.
 interactions.99314095.e54fe206.text.2=In addition an Energy hatch can accept up to 2 separate AMPs of power. This means you only need 2 LV Energy Input hatches to deliver MV power to an EBF, which can provide a total of 4A of LV power.
 interactions.99314095.e54fe206.text.3=You can use this same concept with higher tier recipes. Later you can of course replace the multiple energy input hatches with a single MV energy input hatch. 
-interactions.99314095.e54fe206.text.4=Be sure to account for cable loss, the best way to avoid this at the start is to place the energy inptus on the back corners and place the 4 generators directly against them. 
+interactions.99314095.e54fe206.text.4=Be sure to account for cable loss, the best way to avoid this at the start is to place the energy inputs on the back corners and place the 4 generators directly against them.
 
 interactions.99314095.f183aac6.title=No seriously, check the chemicals tab.
 
@@ -1273,10 +1273,10 @@ interactions.9b11da3e.7b0e1039.title=It's getting hot in here.
 interactions.9b11da3e.7b0e1039.description=Warmer biomes can be found by venturing south.
 
 interactions.9b11da3e.85886af3.description=After entering the Bronze Age, Mutant Steves will rarely spawn. These zombies hit more and have the ability to grief with the same hardness of cobblestone or below.
-interactions.9b11da3e.85886af3.text.0=WARNING: Mutant steve is currently very aggressive with block breaking and can even break your grave. This should change in a future version but for now, be careful.
+interactions.9b11da3e.85886af3.text.0=WARNING: Mutant steve is currently very aggressive with block breaking and can even break your grave. This could change in a future version but for now, be careful.
 
 interactions.9b11da3e.858ab06f.title=Where is the precioussssSes?
-interactions.9b11da3e.858ab06f.description=Scanner for specific blocks can help pinpoin the ores you're really after once you've obtained at least 1 block. Additionally the block scanner can help locate dungeons by searching for chests!
+interactions.9b11da3e.858ab06f.description=Scanner for specific blocks can help pinpoint the ores you're really after once you've obtained at least 1 block. Additionally the block scanner can help locate dungeons by searching for chests!
 
 interactions.9b11da3e.880e7a62.title=Ender Slayer
 interactions.9b11da3e.880e7a62.text.0=Prove your worth by asserting dominance over the creatures of the void. Slay 100 endermen to be granted the Void Star.
@@ -1310,7 +1310,7 @@ interactions.9b11da3e.9d5ccff5.description=You can find pools of mana in natural
 interactions.9b11da3e.9d784334.description=Similar to Granite, and therefore using the transmutative property of world generation, also similar to Basalt.
 
 interactions.9b11da3e.a2f23fb7.title=What's mine is mine
-interactions.9b11da3e.a2f23fb7.description=In GTCE's generation, the world is dividied into 'sections' that are 3x3 chunks big. The oregen is set to generate one large vein every section as a rough approximation. These veins can easily be 2x2 chunks large and hold hundreds of ores.
+interactions.9b11da3e.a2f23fb7.description=In GTCE's generation, the world is divided into 'sections' that are 3x3 chunks big. The oregen is set to generate one large vein every section as a rough approximation. These veins can easily be 2x2 chunks large and hold hundreds of ores.
 interactions.9b11da3e.a2f23fb7.tasks.0.title=Accept
 
 interactions.9b11da3e.a97e02d2.title=What's in your head, in your head, Zombieeeee
@@ -1349,7 +1349,7 @@ interactions.9b11da3e.c6da2f7a.description=Spawns in the same vein as Quartz and
 
 interactions.9b11da3e.c75fe8dc.title=Stibnite for Life
 interactions.9b11da3e.c75fe8dc.description=Spawns in all biomes, including jungles but very rare. Most commonly found in the nether.
-interactions.9b11da3e.c75fe8dc.text.0=This ore is fairly rare in overworld and tends to spawn at high elevations. It is suggested you look in the nether.
+interactions.9b11da3e.c75fe8dc.text.0=This ore is fairly rare in the overworld and tends to spawn at high elevations. It is suggested you look in the nether.
 
 interactions.9b11da3e.cafef103.title=Itsy, bitsy, spider
 interactions.9b11da3e.cafef103.tasks.1.title=Cave Spider
@@ -1390,12 +1390,12 @@ interactions.9b11da3e.f8958b59.title=In the End, it doesn't even matter
 interactions.9b11da3e.f8958b59.text.0=Endermen are more annoying than ever:
 interactions.9b11da3e.f8958b59.text.1=- Can teleport AWAY players who attack them
 interactions.9b11da3e.f8958b59.text.2=- Have a small chance to apply blindness to targets
-interactions.9b11da3e.f8958b59.text.4=To make up for these chances, enderman will always drop at least one enderpearl on death. Also you can prevent the teleportation ability of endermen by keeping an ender pearl in your inventory.
+interactions.9b11da3e.f8958b59.text.4=To make up for these chances, endermen will always drop at least one enderpearl on death. Also you can prevent the teleportation ability of endermen by keeping an ender pearl in your inventory.
 
 interactions.a4a70422.013a3390.title=This collector kinda sucks
 interactions.a4a70422.013a3390.description=One of your first item and XP collector, very useful but has a limited range, later options will provide more range.
 
-interactions.a4a70422.074fc3f0.text.0=To get started, you'll need a programmer, a disk and a program stick to flash the program on to. From there begin researching your Chassis ugprades. Module and Item upgrades can be chiseled to swap between them.
+interactions.a4a70422.074fc3f0.text.0=To get started, you'll need a programmer, a disk and a program stick to flash the program on to. From there begin researching your Chassis upgrades. Module and Item upgrades can be chiseled to swap between them.
 
 interactions.a4a70422.0e6f8cdf.title=A Tank that Sucks
 interactions.a4a70422.0e6f8cdf.description=The enderio tank, while smaller than the upgraded Thermal tanks, have the added benefit of automatically drawing fluids in and pumping out, very useful for automation.
@@ -1414,7 +1414,7 @@ interactions.a4a70422.1645b4b1.description=stores 63 types of items, just more o
 
 interactions.a4a70422.18a905eb.text.0=100 stacks of items on a chip, insanity!
 
-interactions.a4a70422.1994d60a.text.0=These two blocks will allow you to send or recieve redstone signals to your inventory manager. This can be used in conjunction with machine outputs and comperators to create complex logistics supply setups.
+interactions.a4a70422.1994d60a.text.0=These two blocks will allow you to send or receive redstone signals to your inventory manager. This can be used in conjunction with machine outputs and comparators to create complex logistics supply setups.
 
 interactions.a4a70422.1b5f3a46.text.0=Used to put items into inventories.
 
@@ -1450,7 +1450,7 @@ interactions.a4a70422.454cc06c.title=A Simple Request
 interactions.a4a70422.454cc06c.text.0=To start tying it all together craft a request table to allow you to access and craft with all of your aggregated inventories.
 
 interactions.a4a70422.4ae48d26.title=Automating Nether Stars - Ritual of Culling OR something more innovative....
-interactions.a4a70422.4ae48d26.text.0=You're going to need a lot of nehter stars for some of the recipes in this pack. There are many ways you can go about automating that process, the simplest being the culling ritual from bloodmagic. Once there is 100 destructive will in the chunk
+interactions.a4a70422.4ae48d26.text.0=You're going to need a lot of nether stars for some of the recipes in this pack. There are many ways you can go about automating that process, the simplest being the culling ritual from bloodmagic. Once there is 100 destructive will in the chunk
 interactions.a4a70422.4ae48d26.text.1=(created by the ritual killing normal mobs) it will become empowered and able to kill the wither at a cost of 25k LP per kill. This wither killing is instant and happens before the wither even fully forms. Alternatively there are some more innovative
 interactions.a4a70422.4ae48d26.text.2=methods you can employ, one of which is shown in this video by Tazz.
 
@@ -1484,14 +1484,14 @@ interactions.a4a70422.589141bd.description=Your first basic hopper
 interactions.a4a70422.589141bd.text.0=Everything has to start somewhere right?
 
 interactions.a4a70422.5b356a30.tasks.0.title=Redstone conduits
-interactions.a4a70422.5b356a30.text.0=Redstone conduits allow you to pass multiple redstone signals through the same block on different channels as well as set the signal strength. Very useful for enhancing and compacting vanilla automations.
+interactions.a4a70422.5b356a30.text.0=Redstone conduits allow you to pass multiple redstone signals through the same block on different channels as well as set the signal strength. Very useful for enhancing and compacting vanilla automation.
 
 interactions.a4a70422.5b48c63b.text.0=We want to move it move ( item part ), but what actually? entry level filter.
 interactions.a4a70422.5b48c63b.text.1=Oh, and you actually need it to get stuff moving.
 
 interactions.a4a70422.5e3e8b90.text.0=The item valve will allow you to place items or pickup items from the world. It treats the target in world block space as an inventory as far as it's concerned and you can create your programs to interact with that "inventory".
 
-interactions.a4a70422.600d307c.title=Start of lazyness
+interactions.a4a70422.600d307c.title=Start of laziness
 interactions.a4a70422.600d307c.text.0=To start auto crafting, you will need a way to store recipes.
 interactions.a4a70422.600d307c.text.2=The pattern terminal is used to save recipes to patterns.
 
@@ -1500,7 +1500,7 @@ interactions.a4a70422.64d58d0e.text.1=You're gonna need a bunch of these.
 
 interactions.a4a70422.781141fd.description=For when pipes cannot move liquids fast enough.
 interactions.a4a70422.781141fd.text.0=And it's more then 1 block transfer.
-interactions.a4a70422.781141fd.text.1=Fluid lasers can move an ifinite amount of fluid per tick making them ideal for mid to end game steam turbines.
+interactions.a4a70422.781141fd.text.1=Fluid lasers can move an infinite amount of fluid per tick making them ideal for mid to end game steam turbines.
 
 interactions.a4a70422.78401cda.description=stores 63 types of items, max size.
 
@@ -1519,7 +1519,7 @@ interactions.a4a70422.85a2e9c5.text.0=Automating storage importing and exporting
 
 interactions.a4a70422.877f5f61.title=SFM it's SUPER!
 interactions.a4a70422.877f5f61.text.0=Super Factory Manager (Previously Steve's Factory Manager) is an extremely robust logistics system capable of moving vast amounts of liquids and items in a very controlled manner, very quickly. It's also capable of basic autocrafting.
-interactions.a4a70422.877f5f61.text.2=It can place or mine blocks, interact with redstone signals, drop/pickup items from the world and keep inventory and fluids supplied. It is an invaluable tool for compact automations of many GT processes.
+interactions.a4a70422.877f5f61.text.2=It can place or mine blocks, interact with redstone signals, drop/pickup items from the world and keep inventory and fluids supplied. It is an invaluable tool for compact automation of many GT processes.
 interactions.a4a70422.877f5f61.text.3=Be sure to checkout the old mod spotlight from Direwolf20, it still mostly applied as the port from the older version is mostly the same.
 
 interactions.a4a70422.88808d15.text.0=Perhaps one of the most useful blocks in the mod, the block gate is capable of both mining and placing blocks. It can do this very quickly as well. This is perfect for starlight transmutation setups as it will instantly mine the block when it changes
@@ -1592,7 +1592,7 @@ interactions.a4a70422.e1ef7624.text.0=WARNING: Upgrading lower tier modules DOES
 
 interactions.a4a70422.e619360e.title=Laying Pipe
 interactions.a4a70422.e619360e.description=The basic Mekanism mechanical pipe will allow you to pump liquids in and out as well as enable or disable redstone activation. Good early game piping.
-interactions.a4a70422.e619360e.text.0=Did you know? Mekanism pipes can be upgraded to the next tier inworld, simply right click on a line of cables up to 8 long with the next tier alloy and all of them will be ugpraded.
+interactions.a4a70422.e619360e.text.0=Did you know? Mekanism pipes can be upgraded to the next tier inworld, simply right click on a line of cables up to 8 long with the next tier alloy and all of them will be upgraded.
 
 interactions.a4a70422.ec626521.text.0=same thing, just bigger! stacks up to 16 with a size of 64 buckets.. allows 1024 buckets stored in a single slot
 
@@ -1606,7 +1606,7 @@ interactions.a4a70422.f18ebd20.text.2=From left to right, the slots for each fac
 interactions.a4a70422.f6041d91.title=A Logistics Nightmare
 interactions.a4a70422.f6041d91.text.0=As you progress you may find sorting and storage of your inventory as well as crafting and fluid management to continue to get more and more complex. Logistics pipes can offer an elegant solution to managing your connected inventories.
 
-interactions.a4a70422.f60cd511.text.0=Makes for nice and clean setups, what you dont see is what you get.
+interactions.a4a70422.f60cd511.text.0=Makes for nice and clean setups, what you don't see is what you get.
 
 interactions.a4a70422.f74bda48.text.0=Ice Ice Baby, (Vanilla) btw.
 
@@ -1625,7 +1625,7 @@ interactions.a4a70422.ffd4e888.text.0=There are several tiers of enderio fluid c
 interactions.aa10a1a2.0298a797.title=ZPM Diesel Generator
 interactions.aa10a1a2.0298a797.text.0=the ZPM Diesel generator is an upgrade (you can literally upgrade the LUV multiblock) capable of burning diesel to produce an amp of ZPM power. Requires oxygen and diesel input of either infused nitro diesel or naquadriatic fuel.
 
-interactions.aa10a1a2.0e127505.title=The sun is a wondrous body. Like a magnificant father!
+interactions.aa10a1a2.0e127505.title=The sun is a wondrous body. Like a magnificent father!
 interactions.aa10a1a2.0e127505.description=Welcome to endgame fuel generation. This is probably the most complicated multiblock you'll be making, so listen carefully.
 interactions.aa10a1a2.0e127505.text.0=A fusion reactor recipe requires a certain total amount of energy before it starts. Adding energy hatches at the appropriate locations increases the reactor's buffer by 100k. More hatches unlocks more recipes.
 interactions.aa10a1a2.0e127505.text.1=MKI reactor can produce Helium and Oxygen Plasma and manufacture rare materials like Osmium, Iron, Duranium, Draconium and others.
@@ -1649,7 +1649,7 @@ interactions.aa10a1a2.210a1f85.text.1=also make sure you have overflow protectio
 interactions.aa10a1a2.25fe4035.title=Interactions Fuel Flowchart from Diesel to Naquadriatic!
 
 interactions.aa10a1a2.291c85cc.title=Upgrade !
-interactions.aa10a1a2.291c85cc.text.0=When you have a lot of machines running your one boiler cant keep up anymore? why not upgrade your current boiler instead of building more boilers?
+interactions.aa10a1a2.291c85cc.text.0=When you have a lot of machines running your one boiler can't keep up anymore? why not upgrade your current boiler instead of building more boilers?
 interactions.aa10a1a2.291c85cc.text.1=Your whole infrastructure stays the same, the only thing you might need to consider is are your pipes keeping up with production?
 
 interactions.aa10a1a2.2be7c722.title=You've urned this
@@ -1672,7 +1672,7 @@ interactions.aa10a1a2.50f6ce33.text.0=the LuV Diesel generator can burn diesel m
 interactions.aa10a1a2.51878972.tasks.0.title=how to fully automate steam?
 
 interactions.aa10a1a2.579a74b5.title=Almost there!
-interactions.aa10a1a2.579a74b5.text.0=mixing oil with those crystallized seeds turns out to be something thats close to a liquid that can burn for power.
+interactions.aa10a1a2.579a74b5.text.0=mixing oil with those crystallized seeds turns out to be something that's close to a liquid that can burn for power.
 
 interactions.aa10a1a2.634fbd39.text.0=You'll want to store some creosote for both crafting, fuel and mana generation. A steel drum is a good early option as are thermal dynamic tanks or Mekanism dynamic tanks.
 interactions.aa10a1a2.634fbd39.text.2=Thermal Dynamic Portable tanks are especially useful once you enchant them with holding, the upgraded variants can hold HUGE amounts when enchanted.
@@ -1694,11 +1694,11 @@ interactions.aa10a1a2.7d0d44c4.text.0=HV power you EBF to make the materials you
 interactions.aa10a1a2.7eaf5f76.title=1440 EU -> 2Mb
 
 interactions.aa10a1a2.81146e1b.tasks.0.title=Improving your Diesel
-interactions.aa10a1a2.81146e1b.text.0=You have reached HV and are now capable of some improvents of your Diesel, both production and improved end-produce
+interactions.aa10a1a2.81146e1b.text.0=You have reached HV and are now capable of some improvements of your Diesel, both production and improved end-produce
 
 interactions.aa10a1a2.9063ed56.title=Time to find some liquid freedom
 interactions.aa10a1a2.9063ed56.tasks.0.title=Time to get into that black gold, reminder to build your base up a bit as global warming is also real in minecraft!
-interactions.aa10a1a2.9063ed56.text.0=Starting production of your personal breaking bad attemps does not mean you should break down your steam setup, every step in power is a supplement to your production, just like the real world does not depend on one energy source!
+interactions.aa10a1a2.9063ed56.text.0=Starting production of your personal breaking bad attempts does not mean you should break down your steam setup, every step in power is a supplement to your production, just like the real world does not depend on one energy source!
 interactions.aa10a1a2.9063ed56.text.1=Your steam boilers can all run on liquid fuels as well, diesel and higher tiers fuels are particularly efficient. 
 
 interactions.aa10a1a2.9383d06a.title=Praise the Sun \(T)/
@@ -1708,7 +1708,7 @@ interactions.aa10a1a2.9387a9b3.text.0=MV mix those 2 fuels in the correct ratio 
 
 interactions.aa10a1a2.a12dd786.title=collecting the drops
 interactions.aa10a1a2.a12dd786.text.0=Any of these 3 will work for you to collect the drops from the tree beacon, Think about using vanilla mechanics if you build your tree farm away from your base.
-interactions.aa10a1a2.a12dd786.text.1=Early game modded item moving might be a bit expensive at this point, So you maybe build you tree farm above your coke/ boiler setup
+interactions.aa10a1a2.a12dd786.text.1=Early game modded item moving might be a bit expensive at this point, So you maybe build your tree farm above your coke/ boiler setup
 
 interactions.aa10a1a2.ac7d7e38.title=Boiler Fuel Chart for FTB Interactions
 
@@ -1721,7 +1721,7 @@ interactions.aa10a1a2.ad67ba55.text.4=The optimal setup is 1 ICO producing charc
 
 interactions.aa10a1a2.b00b4e76.title=Another one?
 interactions.aa10a1a2.b00b4e76.text.0=Yes, another one, or not your choice. You can add a menril tree to your current tree beacon, it will reduce drop of your current tree of choice tho ( will it still keep up with your coke ovens with a menril tree added ?
-interactions.aa10a1a2.b00b4e76.text.1=besides that, have you considered or already setup a second one with other tree's providing usefull drops maybe.
+interactions.aa10a1a2.b00b4e76.text.1=besides that, have you considered or already setup a second one with other tree's providing useful drops maybe.
 interactions.aa10a1a2.b00b4e76.text.3=Gas turbines can burn gases like methane to produce power. This is useful to contribute to your powergrid if you're producing excess instead of voiding.
 
 interactions.aa10a1a2.b468cef6.description=Feeding this without automated fuel or powerful fuel is a losing battle.
@@ -1738,13 +1738,13 @@ interactions.aa10a1a2.b78c3116.title=Zero Point Matrix
 interactions.aa10a1a2.b78c3116.description=One of the only sane ways of getting power from enriched naquadah.
 interactions.aa10a1a2.b78c3116.text.0=The Zero Point Matrix is capable of refining naquadah at a much more efficient rate than standard processing. The base power consumption and processing time is the same but you can overclock it infinitely simply by giving it more power.
 interactions.aa10a1a2.b78c3116.text.1=This is a special type of overclocking that does NOT increase the total amount of energy needed by a multiplier, it simply produces faster the more energy you give it at base values.
-interactions.aa10a1a2.b78c3116.text.2=Naquadah produces more than twice the amount of EU put in, making it effecitvely an EU doubling mechanic. Further processing into naquadriatic fuel will finally allow you to reach the pinnacle of fuel density in the pack.
+interactions.aa10a1a2.b78c3116.text.2=Naquadah produces more than twice the amount of EU put in, making it effectively an EU doubling mechanic. Further processing into naquadriatic fuel will finally allow you to reach the pinnacle of fuel density in the pack.
 
 interactions.aa10a1a2.b9e859bd.tasks.0.title=Congratz on automating Diesel fuel!
 interactions.aa10a1a2.b9e859bd.text.0=This Diesel can be used directly in a diesel generator or power a boiler, the choice is all yours.
 
 interactions.aa10a1a2.be9f8fc3.description=Diesel may not be as early as steam, but it is a recommended option after going past MV.
-interactions.aa10a1a2.be9f8fc3.text.0=Make sure to check uses in JEI to see what options there are for fuels for each generator type you use. You may find some unique fuels you hadnt considered as well.
+interactions.aa10a1a2.be9f8fc3.text.0=Make sure to check uses in JEI to see what options there are for fuels for each generator type you use. You may find some unique fuels you hadn't considered as well.
 interactions.aa10a1a2.be9f8fc3.text.1=Now that you have diesel you can run it in your boilers to make steam or in diesel generators for on demand power that only consume when they are in use.
 
 interactions.aa10a1a2.c35570d8.text.0=The amount of Steam/Gas/Plasma used depends on the Turbine built in. It slowly speeds up, so it should be used for constant Energy supply. 
@@ -1754,15 +1754,15 @@ interactions.aa10a1a2.c35570d8.text.2=You can use a Gregtech Pump as a cover and
 interactions.aa10a1a2.c48fa03d.tasks.0.title=EV power multiblocks
 interactions.aa10a1a2.c48fa03d.text.0=Time to get rid of all those inefficient single block generators and turbines!
 interactions.aa10a1a2.c48fa03d.text.1=A system using a generator to input power into spectre energy injectors with CEU's, then wireless convert it back to EU with CEF's at the various machine area's.
-interactions.aa10a1a2.c48fa03d.text.2=Spectre coils on CEF's make for a setup that is clean and prevents you a Direwire situation in your base.
-interactions.aa10a1a2.c48fa03d.text.3=Once you can make flux networks you can move even greater amounts of power and distribute it with entire teams intead of it being a singular network.
+interactions.aa10a1a2.c48fa03d.text.2=Spectre coils on CEF's make for a setup that is clean and prevents a Direwire situation in your base.
+interactions.aa10a1a2.c48fa03d.text.3=Once you can make flux networks you can move even greater amounts of power and distribute it with entire teams instead of it being a singular network.
 
 interactions.aa10a1a2.c4bcc6d3.title=Just one more step!
 interactions.aa10a1a2.c4bcc6d3.text.0=That crystalized oil can be turned into several things by distillation, you need to work out and balance how much you make for the last step.
 
 interactions.aa10a1a2.c5c9f2f6.title=*Slaps engine* This bad boy can fit so much pollution in it.
 interactions.aa10a1a2.c5c9f2f6.description=Multiblock power generator using diesel recipes that defaults to 2k eu/t. By adding oxygen it can be boosted up to 6144 eu/t. If you aren't convinced yet, this also consumes diesel at a more efficient rate than single block generators.
-interactions.aa10a1a2.c5c9f2f6.text.0=You can also use a Gregtech Pump to set exact flowrate to match your production, as this multiblock also needs time to speed up it's rotor. Better to have it running all the time instead of turning on and off bc supply cant keep up! This multiblock requires a small amount of lubricant to continue operating or it will eventually seize up and stop working.
+interactions.aa10a1a2.c5c9f2f6.text.0=You can also use a Gregtech Pump to set exact flowrate to match your production, as this multiblock also needs time to speed up it's rotor. Better to have it running all the time instead of turning on and off bc supply can't keep up! This multiblock requires a small amount of lubricant to continue operating or it will eventually seize up and stop working.
 
 interactions.aa10a1a2.c726c9c9.title=Congratz on automating steam production!
 
@@ -1776,7 +1776,7 @@ interactions.aa10a1a2.d2697046.description="Sunshine! That is my glorious magic.
 
 interactions.aa10a1a2.d26ea9a5.title=1920 EU -> 2Mb
 
-interactions.aa10a1a2.ddd91cac.title=Empowering, doesn't that sound promissing.
+interactions.aa10a1a2.ddd91cac.title=Empowering, doesn't that sound promising.
 interactions.aa10a1a2.ddd91cac.text.0=In a HV chemical reactor you can combine the best of both worlds from the stars to rock bottom into your canola.
 
 interactions.aa10a1a2.e06f2bd0.tasks.0.title=Congratz, you now know how to get a better bang for your Buck.
@@ -1789,13 +1789,13 @@ interactions.aea6d983.0b123dfe.description=The base of all and everything!
 interactions.aea6d983.0b123dfe.text.0=Need a smarter chicken? Smack it with a book!
 
 interactions.aea6d983.17f4c598.title=PHENOMENAL COSMIC POWER... itty bitty egg.
-interactions.aea6d983.17f4c598.text.0=This is the ultimate culmination of magic and tech, the infinity chicken. Its egg can be proccessed in half a dozen different ways to produce all sorts of high end materials quickly.
+interactions.aea6d983.17f4c598.text.0=This is the ultimate culmination of magic and tech, the infinity chicken. Its egg can be processed in half a dozen different ways to produce all sorts of high end materials quickly.
 
 interactions.aea6d983.19cae765.title=Radon Man!
 interactions.aea6d983.19cae765.text.0=Radon can be a painfully time consuming process and making plutonium is quite the chore. Once you've obtained a bit though you can consider making the radon chicken. It's products will help you produce radon much faster.
 
 interactions.aea6d983.1ca6ea6f.title=I've lost my...
-interactions.aea6d983.1ca6ea6f.text.0=Apatite has several refinement uses, the most of important of which is phytogrow production. This chicken will directly produce tiny piles to aid in the automation of phytogentic automation. 
+interactions.aea6d983.1ca6ea6f.text.0=Apatite has several refinement uses, the most of important of which is phytogrow production. This chicken will directly produce tiny piles to aid in the automation of phytogenic automation.
 
 interactions.aea6d983.1d1cc9e9.title=The star of chickens
 interactions.aea6d983.1d1cc9e9.text.0=This astral bird lays the celestial egg. Its enriched eggs can be placed in a lightwell as a catalyst for starlight production. They break very quickly but produce a respectable amount of starlight. 
@@ -1817,14 +1817,14 @@ interactions.aea6d983.492570b8.text.0=Well I suppose it was inevitable. All this
 interactions.aea6d983.492570b8.text.1=turned into charcoal byproducts, completely bypassing the need for a pyrolyse oven. For best results apply distillation tower to forehead.
 
 interactions.aea6d983.50f6df4e.title=The Star of Shiny
-interactions.aea6d983.50f6df4e.text.0=This magical beast can help you automate creation of lattice.. yeah sounds better then your used to right? sidenote, it may be a source of nether stars as well.
+interactions.aea6d983.50f6df4e.text.0=This magical beast can help you automate creation of lattice.. yeah sounds better then you're used to right? sidenote, it may be a source of nether stars as well.
 
 interactions.aea6d983.5681a1ea.text.0=Place two chickens in the breeder and the result will be a new chicken with stronger stats. Repeat this process until you obtain your maxed out 10/10/10 chickens for fastest production.
 interactions.aea6d983.5681a1ea.text.1=If you made one 'special' chicken, you can get a second by breeding it with a smart chicken ( or get more smart chicken, love RNG )
 
 interactions.aea6d983.72ad469d.text.0=Porcelain is needed in small amounts early for the porcelain melter but beyond that its primary use is decorative. This chicken can help to produce large amounts of it for decorative purposes and is created cheaply early game.
 
-interactions.aea6d983.7c9afcdf.text.0=Fluix is simple enough to make but all that quartz, netherquarz and redstone gets expensive! This chicken can allow you to produce large amounts of fluix for all your automation needs for free.
+interactions.aea6d983.7c9afcdf.text.0=Fluix is simple enough to make but all that quartz, netherquartz and redstone gets expensive! This chicken can allow you to produce large amounts of fluix for all your automation needs for free.
 
 interactions.aea6d983.7e6df551.title=The Alpha and the OmegLul Chicken
 interactions.aea6d983.7e6df551.text.0=Primal Mana is essential for high end materials like redmatter and can be quite time and energy consuming to produce. The Primal egg can be centrifuged for all of the dusts needed as well as producing deuterium, greatly simplifying the process.
@@ -1835,7 +1835,7 @@ interactions.aea6d983.99f9395f.text.0=Graphite has several uses in a handful of 
 
 interactions.aea6d983.9a85615d.text.0=The vinteum chicken produces several incredible byproducts including vinteum, manasteel and rare earths which can be further processed for many important rare metals. 
 
-interactions.aea6d983.9f3575c5.text.0=You dont want all your chickens running lose, plopping byproducts all over your yard. Give em a good whack with the chicken catcher to transform them into item form that you can put into a chicken coop for more controlled breeding and production.
+interactions.aea6d983.9f3575c5.text.0=You don't want all your chickens running lose, plopping byproducts all over your yard. Give em a good whack with the chicken catcher to transform them into item form that you can put into a chicken coop for more controlled breeding and production.
 
 interactions.aea6d983.b1c239fe.text.0=The ender boi, this chicken can produce enderium dust as well as dew of the void which can power enderio teleporters or be centrifuged for other useful byproducts
 
@@ -1847,16 +1847,16 @@ interactions.aea6d983.bad8af80.title=The biggest sacrifices require the stronges
 interactions.aea6d983.bad8af80.text.0=All recipes want a fully developed smart chicken. Only the smartest chicken can be suited to become special type of chickens.
 interactions.aea6d983.bad8af80.text.1=Each recipe that branches from here will require a 10/10/10 smart chicken as the catalyst plus specific reagents applicable to that chicken. Each chicken quest will unlock as you progress to a point where you could craft it or find it.
 
-interactions.aea6d983.ca174a12.text.0=This versitile chicken produces an egg that can be proccessed in multiple ways (check JEI) to produce a myriad of essential gasses, bypassing the need for electrolyzing and air collecting.
+interactions.aea6d983.ca174a12.text.0=This versatile chicken produces an egg that can be processed in multiple ways (check JEI) to produce a myriad of essential gasses, bypassing the need for electrolyzing and air collecting.
 
 interactions.aea6d983.chapter.title=Environmental and Server friendly, Chickens FTW!
 interactions.aea6d983.chapter.description.0=The combination of magic and GregTech has sprouted a new breed of chicken for all your automation needs!
 
 interactions.aea6d983.d9100e93.text.0=Found only in nether dungeons, can be bread to 10/10/10. Produces netherwart.
 
-interactions.aea6d983.e4411b80.text.0=This guy is avaialble at the start of LV and can completely replace an inworld canola farm. Very useful for compact setups.
+interactions.aea6d983.e4411b80.text.0=This guy is available at the start of LV and can completely replace an inworld canola farm. Very useful for compact setups.
 
-interactions.aea6d983.e7b7c72c.text.0=This bloody abomination can produce the legendary blood apple which when eaten will add LP to your personal network. If eaten near an altar it will add LP to the altar. It can also be proccessed directly into life essence at higher tier voltages.
+interactions.aea6d983.e7b7c72c.text.0=This bloody abomination can produce the legendary blood apple which when eaten will add LP to your personal network. If eaten near an altar it will add LP to the altar. It can also be processed directly into life essence at higher tier voltages.
 
 interactions.aea6d983.f3dada63.title=Not for eating!
 interactions.aea6d983.f3dada63.text.0=This chicken may not produce plastic directly, but it does allow you to bypass several steps in the polyethylene production chain by combining the egg directly with ethanol to produce polyethylene. 
@@ -1868,20 +1868,20 @@ interactions.aea6d983.fee8cda4.text.0=Tree beacons got your fps down? Tired of p
 
 interactions.b1d7d7b9.0220d6bb.title=Buckets? Those are Rookie Numbers
 interactions.b1d7d7b9.0220d6bb.description=You're going to need to pump those numbers UP! Find an oil geyser in an ocean or desert and pump it up. You will need a CEU to convert to FE Energy and some batteries to power it while you're gone.
-interactions.b1d7d7b9.0220d6bb.text.0=To power the pump you can use either a battery buffe and CEU or a spectre wireless energy transmitter. To transport the fluid you can use the Cyclic wirelss fluid transfer node (Same dimension only)
+interactions.b1d7d7b9.0220d6bb.text.0=To power the pump you can use either a battery buffer and CEU or a spectre wireless energy transmitter. To transport the fluid you can use the Cyclic wireless fluid transfer node (Same dimension only)
 
 interactions.b1d7d7b9.0608c105.title=Hydrogen
-interactions.b1d7d7b9.0608c105.description=Highly Flamable!
+interactions.b1d7d7b9.0608c105.description=Highly Flammable!
 interactions.b1d7d7b9.0608c105.tasks.0.title=Nitrogen Cell
 interactions.b1d7d7b9.0608c105.text.0=Hydrogen is used in many organic chemistry recipes as well as an essential component to nearly all fuel production recipes. Some blast furnace recipes will also require it.
 
 interactions.b1d7d7b9.09b74423.tasks.0.title=Oxygen Cell
-interactions.b1d7d7b9.09b74423.text.0=Oxygen is used primarily for certain blast furnace recipes, the arc furnace and many checmical reactions. 
+interactions.b1d7d7b9.09b74423.text.0=Oxygen is used primarily for certain blast furnace recipes, the arc furnace and many chemical reactions.
 
 interactions.b1d7d7b9.11747a7e.tasks.0.title=Heavy Fuel
 
 interactions.b1d7d7b9.14eeece7.tasks.0.title=Hydrogen: GET!
-interactions.b1d7d7b9.14eeece7.text.0=Hydrogen is a core element for chemistry. You'll need a constant supply of this and some buffered. You'll also need to distribute it to several locations so plan accordinling with an LP, Pipe or wireless system.
+interactions.b1d7d7b9.14eeece7.text.0=Hydrogen is a core element for chemistry. You'll need a constant supply of this and some buffered. You'll also need to distribute it to several locations so plan accordingly with an LP, Pipe or wireless system.
 
 interactions.b1d7d7b9.1b0e527b.title=Methane
 interactions.b1d7d7b9.1b0e527b.tasks.0.title=Methane Cell
@@ -1907,34 +1907,34 @@ interactions.b1d7d7b9.4addfa03.description=The transfer node can allow oil to be
 interactions.b1d7d7b9.4addfa03.text.0=The wireless transfer only works within the same dimension but with some creativity some COMPACT setups may allow you to bypass this restriction....
 
 interactions.b1d7d7b9.4bbf5b6a.title=Chlorine
-interactions.b1d7d7b9.4bbf5b6a.description=Chlorine is the basis of many chemical reactions. Luckily, creating it is quite simple. Electrolyzing salt will seperate the chlorine from the Sodium.
+interactions.b1d7d7b9.4bbf5b6a.description=Chlorine is the basis of many chemical reactions. Luckily, creating it is quite simple. Electrolyzing salt will separate the chlorine from the Sodium.
 
 interactions.b1d7d7b9.4be04c93.title=Sulfuric Naphtha
 interactions.b1d7d7b9.4be04c93.description=Look, we're not going to require you to bucket out this useless chemical because that's SUCH. AN. ANNOYING. QUESTBOOK. PRACTICE.
-interactions.b1d7d7b9.4be04c93.text.0=Sulfuric naptha can be obtained by directly distilling oil or by using a distillery, advanced empowered oils also provide this byproduct. 
+interactions.b1d7d7b9.4be04c93.text.0=Sulfuric naphtha can be obtained by directly distilling oil or by using a distillery, advanced empowered oils also provide this byproduct.
 
 interactions.b1d7d7b9.4c03fcd9.text.0=Water and sulfur can be used to create sulfuric acid, an important precursor to several other chemicals.
 
 interactions.b1d7d7b9.54b7c3b0.title=Naphtha
-interactions.b1d7d7b9.54b7c3b0.text.0=Hydrogen and sulfuric naptha will get you purified naptha, this stuff is a fuel on its own but has a much better use...
+interactions.b1d7d7b9.54b7c3b0.text.0=Hydrogen and sulfuric naphtha will get you purified naphtha, this stuff is a fuel on its own but has a much better use...
 
-interactions.b1d7d7b9.5a005611.title=Steam Cracked Naptha
+interactions.b1d7d7b9.5a005611.title=Steam Cracked Naphtha
 interactions.b1d7d7b9.5a005611.description=The real question is why did it get darker if we added steam to it?
 
 interactions.b1d7d7b9.64abbac6.title=Against oil odds
 interactions.b1d7d7b9.64abbac6.description=Oil spawns in large geysers in the overworld in Mesa and Deep Ocean biomes.
 interactions.b1d7d7b9.64abbac6.text.0=Oil can provide power, mana via the petropetunia and be refined into a plethora of useful byproducts for all your chemistry needs. See the fuels progression questline for how to best get started and utilizing petrochemicals.
 
-interactions.b1d7d7b9.6ce21c6c.text.0=Toulene can be refined from oil using several methods, we suggest the smog chicken here but it's ultimately up to you. You will eventually need a lot of this for neutronium and gem production.
+interactions.b1d7d7b9.6ce21c6c.text.0=Toluene can be refined from oil using several methods, we suggest the smog chicken here but it's ultimately up to you. You will eventually need a lot of this for neutronium and gem production.
 
 interactions.b1d7d7b9.710b7cd7.title=Are you Gellin?
-interactions.b1d7d7b9.710b7cd7.description=The fluid solidfier and mold will allow you solidify specific fluids into useful item byproducts.
+interactions.b1d7d7b9.710b7cd7.description=The fluid solidifier and mold will allow you solidify specific fluids into useful item byproducts.
 
 interactions.b1d7d7b9.76c508fd.title=Crystallized Oil
 interactions.b1d7d7b9.76c508fd.description=By mixing crude oil with the crystallized canola seeds a byproduct of refined light and heavy fuels can be creating, ultimately leading to a cheaper production of diesel fuel.
 interactions.b1d7d7b9.76c508fd.text.0=This step is optional to increase yield, you can still directly refine your oil for lower yield. 
 
-interactions.b1d7d7b9.780a058d.text.0=Many recips in the assembler will use rubber such as coating your cables (A welcome replacement to all that carpet). You may also need to use a fluid solidifier to turn rubber into sheets for things like conveyor modules.
+interactions.b1d7d7b9.780a058d.text.0=Many recipes in the assembler will use rubber such as coating your cables (A welcome replacement to all that carpet). You may also need to use a fluid solidifier to turn rubber into sheets for things like conveyor modules.
 
 interactions.b1d7d7b9.79ebddca.tasks.0.title=Light Fuel
 
@@ -1962,7 +1962,7 @@ interactions.b1d7d7b9.be976ee3.text.0=Resin can be used an an alternate and effi
 interactions.b1d7d7b9.c03196f4.title=A pool of who-knows-what
 
 interactions.b1d7d7b9.cdf825f7.title=Home Chemistry Kit
-interactions.b1d7d7b9.cdf825f7.text.0=The basic checmical reactor will be your lv workhorse for long to come, you'll need many reactors of all tiers eventually so plan accordingly.
+interactions.b1d7d7b9.cdf825f7.text.0=The basic chemical reactor will be your lv workhorse for long to come, you'll need many reactors of all tiers eventually so plan accordingly.
 
 interactions.b1d7d7b9.chapter.title=LV Chemistry
 
@@ -1973,7 +1973,7 @@ interactions.b1d7d7b9.f99434e4.title=Cocktail Machine
 interactions.b1d7d7b9.f99434e4.text.0=You'll need a basic mixer to get started enriching and refining your oil to make each bucket go farther.
 
 interactions.b1d7d7b9.fc9b45fc.tasks.0.title=Nitrogen Cell
-interactions.b1d7d7b9.fc9b45fc.text.0=Nitrogen is a precursor to many checmical reactions, you'll want a readily avaialble supply for both the blast furnace and several chemical reactor processes.
+interactions.b1d7d7b9.fc9b45fc.text.0=Nitrogen is a precursor to many chemical reactions, you'll want a readily available supply for both the blast furnace and several chemical reactor processes.
 
 interactions.b1e14370.2b4c7bc4.description=Your main Rutile source early on will be as a product of Bauxite processing. Later on, you'll gain access to Ilmenite.
 
@@ -2011,7 +2011,7 @@ interactions.bc233ece.82176608.title=Polytetrafluoroethylene Production Flow Cha
 
 interactions.bc233ece.ac6213e5.title=Spinny Go Fast
 interactions.bc233ece.ac6213e5.text.0=As you use higher tier machines to produce a better chance at byproducts, so do some materials NEED the higher energy cycles to even produce any byproducts.
-interactions.bc233ece.ac6213e5.text.1=One such matertial is plutonium. By Centrifuging uranium dust in an HV+ centrifuge you have a chance at plutonium dust which will be critical for the production of radon. 
+interactions.bc233ece.ac6213e5.text.1=One such material is plutonium. By Centrifuging uranium dust in an HV+ centrifuge you have a chance at plutonium dust which will be critical for the production of radon.
 
 interactions.bc233ece.chapter.title=HV+ Chemistry
 
@@ -2024,17 +2024,17 @@ interactions.bc233ece.d03a9479.text.2=There is also a radon chicken, well worth 
 interactions.bdc0ae1a.0a6c2138.title=Automated Nacre - Early Method example
 
 interactions.bdc0ae1a.10775b47.title=The Purest of them all
-interactions.bdc0ae1a.10775b47.description=With this pure Daisy, Princess Peach will be jealous she hasnt been named after a flower
+interactions.bdc0ae1a.10775b47.description=With this pure Daisy, Princess Peach will be jealous she hasn't been named after a flower
 
 interactions.bdc0ae1a.1b10cc2d.title=Diluted Dreams
 interactions.bdc0ae1a.1b10cc2d.description=Created a diluted mana pool to get started.
 
 interactions.bdc0ae1a.22644b75.title=Creation of all flowers
-interactions.bdc0ae1a.22644b75.description=Normal Botania flowers dont spawn. Either make the petals, or craft up a Jaded Amaranthus to use mana for flower generation
+interactions.bdc0ae1a.22644b75.description=Normal Botania flowers don't spawn. Either make the petals, or craft up a Jaded Amaranthus to use mana for flower generation
 
 interactions.bdc0ae1a.430d8d06.title=I see you have a nacre for automating things
-interactions.bdc0ae1a.430d8d06.text.0=Automate this. You're going to need ALOT of it eventually.
-interactions.bdc0ae1a.430d8d06.text.1=Nacre is a magical fluid that is used in bult to create key components for several mods. You can create some manually but it's suggested you automate this as you'll need quite a bit.
+interactions.bdc0ae1a.430d8d06.text.0=Automate this. You're going to need A LOT of it eventually.
+interactions.bdc0ae1a.430d8d06.text.1=Nacre is a magical fluid that is used in bulk to create key components for several mods. You can create some manually but it's suggested you automate this as you'll need quite a bit.
 
 interactions.bdc0ae1a.7df3941b.title=Conquer yourself!" — Navi 
 
@@ -2091,7 +2091,7 @@ interactions.e5a2c94a.6b3d5ea4.text.0=- Wither Skeletons are easier to find than
 interactions.e5a2c94a.6b3d5ea4.text.1=- They also get all the other buffs normal Skeletons get
 
 interactions.e5a2c94a.84fe3251.title=Light in the Darkness
-interactions.e5a2c94a.84fe3251.text.0=Glow stone can be mined in the nether, centrifuged from redstone or made renewable via the Amaranth flower. Once you create a flower you can grow it indefinitely in the phytogenic insolator.
+interactions.e5a2c94a.84fe3251.text.0=Glowstone can be mined in the nether, centrifuged from redstone or made renewable via the Amaranth flower. Once you create a flower you can grow it indefinitely in the phytogenic insolator.
 
 interactions.e5a2c94a.aba3c3ae.title=Just Blaze
 interactions.e5a2c94a.aba3c3ae.text.0=- Blazes are easier to find than ever! They spawn everywhere now in the Nether.
@@ -2170,18 +2170,18 @@ interactions.ed136c16.61ac4cf4.title=No Slime Islands
 interactions.ed136c16.61ac4cf4.description=If you want some of the colored slimes for equipment or embossing, you'll have to farm them from the trees.
 
 interactions.ed136c16.635d5fcc.title=Snowflake Air
-interactions.ed136c16.635d5fcc.text.0=Mekanism machinery uses a decondenstrated gaseous form of common GT materials. To conver into the correct type of gas you'll need to put oxygen or hydrogen into a chemical reactor with a configuration 1 circuit to convert to Mekanism fluid.
-interactions.ed136c16.635d5fcc.text.1=Once you have Mekanism oxygen and hydrogen you can then use a rotary condestrator to turn it into a usage gas to power your jetpack, scuba gear or flame thrower.
+interactions.ed136c16.635d5fcc.text.0=Mekanism machinery uses a decondensentrated gaseous form of common GT materials. To conver into the correct type of gas you'll need to put oxygen or hydrogen into a chemical reactor with a configuration 1 circuit to convert to Mekanism fluid.
+interactions.ed136c16.635d5fcc.text.1=Once you have Mekanism oxygen and hydrogen you can then use a rotary condensentrator to turn it into a usage gas to power your jetpack, scuba gear or flame thrower.
 
 interactions.ed136c16.637db57f.title=This was a Triumph
 interactions.ed136c16.637db57f.description=The Device is now more valuable than the organs and combined incomes of everyone in {subject hometown here}.
 interactions.ed136c16.637db57f.text.0=These can be found in dungeons or crafted
 
 interactions.ed136c16.68d1c701.title=I believe I can fly
-interactions.ed136c16.68d1c701.text.0=The Mekanism jetpack is the earliest form of creative style fly. It will allow perfect levitation to aid in building, mining or fighting. It has slow thrust but combined with other mobility tools, can be quite versitile.
+interactions.ed136c16.68d1c701.text.0=The Mekanism jetpack is the earliest form of creative style fly. It will allow perfect levitation to aid in building, mining or fighting. It has slow thrust but combined with other mobility tools, can be quite versatile.
 
 interactions.ed136c16.6d9670fb.title=The Sky is not the Limit!
-interactions.ed136c16.6d9670fb.text.0=Now that you've broken free and obtained your lens and spectral lense you can place a collector crystal above the CM and direct starlight down below to assist with any of those starry endeavors. 
+interactions.ed136c16.6d9670fb.text.0=Now that you've broken free and obtained your lens and spectral lens you can place a collector crystal above the CM and direct starlight down below to assist with any of those starry endeavors.
 
 interactions.ed136c16.702da854.description=These boots aren't even that good, why bother tiering them with rest of Infinity?
 
@@ -2209,7 +2209,7 @@ interactions.ed136c16.85365f2e.text.6=Level 40: Multishot, Endless Quiver
 interactions.ed136c16.85365f2e.text.7=Level 60: Magnetic, Night Vision
 interactions.ed136c16.85365f2e.text.8=Level 80: Block Reach
 
-interactions.ed136c16.85a7d1a3.text.0=Doesnt magic always bring good fortune to it's bearer? make one and find out!
+interactions.ed136c16.85a7d1a3.text.0=Doesn't magic always bring good fortune to it's bearer? make one and find out!
 
 interactions.ed136c16.95a0ca99.title=So much for nothing
 interactions.ed136c16.95a0ca99.description="But it doesn't contain anything!". "No, it contains nothing."
@@ -2229,7 +2229,7 @@ interactions.ed136c16.9ce126e4.text.1=- Immunity to Blindness
 interactions.ed136c16.9ce126e4.text.2=- Night Vision*
 interactions.ed136c16.9ce126e4.text.3=- Better Sight Underwater*
 interactions.ed136c16.9ce126e4.text.4=Along with a couple others.
-interactions.ed136c16.9ce126e4.text.5=* Only avaliable with specific upgrades
+interactions.ed136c16.9ce126e4.text.5=* Only available with specific upgrades
 
 interactions.ed136c16.a14d80ac.title=Ain't nobody got time for that
 interactions.ed136c16.a14d80ac.text.0=The time in a bottle lets you store time as you play as long as the bottle is in your inventory. Once you have some stored simply right click on a block to make it work faster. 
@@ -2238,11 +2238,11 @@ interactions.ed136c16.a14d80ac.text.2=Accelerating steam boilers and producers s
 
 interactions.ed136c16.a79229e7.title=SILENCIO!
 interactions.ed136c16.a79229e7.text.0=Repetitive block and entity sounds can become quite annoying after some time. Silence those villagers, portals and fire noises as well as any other sounds with the random things sound dampener.
-interactions.ed136c16.a79229e7.text.2=The personal dampener is a buable that silences the sounds only for you, the block works in a radius for everyone.
+interactions.ed136c16.a79229e7.text.2=The personal dampener is a bauble that silences the sounds only for you, the block works in a radius for everyone.
 interactions.ed136c16.a79229e7.text.3=To create the sounds you use a recorder to record the sounds and then save them onto a pattern. You then insert the patterns you want to block into the sound dampener and you'll never be bothered by them again.
 
 interactions.ed136c16.ad7c6a92.title=3x3 Crafting in Inventory?
-interactions.ed136c16.ad7c6a92.text.0=As the title suggests this upgrade allows you to craft anywhere. Although it seems pointless the benifits are notable.
+interactions.ed136c16.ad7c6a92.text.0=As the title suggests this upgrade allows you to craft anywhere. Although it seems pointless the benefits are notable.
 
 interactions.ed136c16.affcbb66.title=Hang Ten
 interactions.ed136c16.affcbb66.text.0=Basic glider flight, works great with jetpacks or other items that give you a boost into the air.
@@ -2264,7 +2264,7 @@ interactions.ed136c16.bd251e17.text.0=The botania mana pylon counts for 8 levels
 
 interactions.ed136c16.be691558.title=Advanced Wireless Power Systems Inc.
 interactions.ed136c16.be691558.text.0=With ender coils it can be hard to keep your IV+ machines going.. you want higher transfer rates!
-interactions.ed136c16.be691558.text.1=No AWPSI doesnt do storage, your not blind. Use GT battery buffers to pull your power into AWPSI.
+interactions.ed136c16.be691558.text.1=No AWPSI doesn't do storage, your not blind. Use GT battery buffers to pull your power into AWPSI.
 
 interactions.ed136c16.becdc9a7.description=With the spectre energy injector you can store RF energy in a phantom zone, useful for extractions later. This energy is tied to the player that places the injector!
 
@@ -2273,7 +2273,7 @@ interactions.ed136c16.c42f5354.tasks.0.title=Tool Superiority
 
 interactions.ed136c16.c4d06ee3.title=Welcome to the Machine
 interactions.ed136c16.c4d06ee3.text.0=All this automation can take up a tremendous amount of space, it can also get visually overwhelming. Shrink it all down, LITERALLY. With a compact machine your base really can be bigger on the inside.
-interactions.ed136c16.c4d06ee3.text.1=To get started you'll need 4 miniaturization field projectors placed facing each other in a plus shape. Then follow the recipes in JEI to build the multiblock inside and finally thow in the Catalyst. 
+interactions.ed136c16.c4d06ee3.text.1=To get started you'll need 4 miniaturization field projectors placed facing each other in a plus shape. Then follow the recipes in JEI to build the multiblock inside and finally throw in the Catalyst.
 interactions.ed136c16.c4d06ee3.text.2=To enter the compact machine after it's crafted you'll need a personal shrinking device.
 
 interactions.ed136c16.ca115f5d.title=Other Power Options
@@ -2287,9 +2287,9 @@ interactions.ed136c16.caf422c5.title=Spooky Scary Goo
 interactions.ed136c16.caf422c5.description=Ectoplasm drops from spirits which have a low chance of spawning when a mob is killed. You can also summon them with zen summoning (But not in the void dimension!). In order to hurt them you must use magical damage. IE; a splash potion of harming.
 
 interactions.ed136c16.cc007cac.tasks.0.title=An Eggscelent Endeavor
-interactions.ed136c16.cc007cac.text.0=Hippogriphs make great companions for flying around! This optional quest will let you select a rare egg color of your choice and skip the process of trying to capture and tame one. 
+interactions.ed136c16.cc007cac.text.0=Hippogryphs make great companions for flying around! This optional quest will let you select a rare egg color of your choice and skip the process of trying to capture and tame one.
 interactions.ed136c16.cc007cac.text.1=How would you ever get this many eggs? Perhaps some very smart chickens can help you with that. To the Roosts!
-interactions.ed136c16.cc007cac.text.3=WARNING: Baby, untamed hipogrphs can be violent. You should create a penned enclosure for them to mature before taming with the rabbit feet.
+interactions.ed136c16.cc007cac.text.3=WARNING: Baby, untamed hippogryphs can be violent. You should create a penned enclosure for them to mature before taming with the rabbit feet.
 
 interactions.ed136c16.chapter.title=Party Equipment
 interactions.ed136c16.chapter.description.0=If you can wear it, you can progress it!
@@ -2328,7 +2328,7 @@ interactions.ed136c16.ec1356f5.text.1=- Step Assist*
 interactions.ed136c16.ec1356f5.text.2=- Jump Boost*
 interactions.ed136c16.ec1356f5.text.3=- Negating Fall Damage*
 interactions.ed136c16.ec1356f5.text.4=Along with a couple others.
-interactions.ed136c16.ec1356f5.text.5=* Only avaliable with specific upgrades
+interactions.ed136c16.ec1356f5.text.5=* Only available with specific upgrades
 
 interactions.ed136c16.ec9f3563.title=GT Files
 interactions.ed136c16.ec9f3563.description=Some metals are too soft to make files like copper. Recommended to stick to the main materials like Bronze, Iron, Wrought Iron, Steel, etc.
@@ -2347,7 +2347,7 @@ interactions.ed136c16.f8effd95.text.1= This staff can be incredibly Over Powered
 interactions.ed136c16.f8effd95.text.2= The damage bonus deals 300 damage, plus 30%% of the mob's current health.
 
 interactions.ed136c16.ff35f146.title=The Terminator!
-interactions.ed136c16.ff35f146.tasks.0.title=Futher Augmenting
+interactions.ed136c16.ff35f146.tasks.0.title=Further Augmenting
 interactions.ed136c16.ff35f146.text.0=There are many more augments you can perform to become the ultimate Android.
 interactions.ed136c16.ff35f146.text.1=Have fun, and stay safe.
 
@@ -2369,7 +2369,7 @@ interactions.fcf42610.a6d5688e.text.0=Although you can throw wrought iron into f
 
 interactions.fcf42610.c295d1ae.title=Tiny Progressions
 interactions.fcf42610.c295d1ae.description=You can smelt sapphire and green sapphire dust in the EBF to produce aluminium nuggets to get you started in the MV Age.
-interactions.fcf42610.c295d1ae.text.0=The best way to get this dust is by properly processing sapphire ores by macerating and then centrifuging the ores. If you dont mind the loss of materials however, a squeezer can get it done fast and lossy for now.
+interactions.fcf42610.c295d1ae.text.0=The best way to get this dust is by properly processing sapphire ores by macerating and then centrifuging the ores. If you don't mind the loss of materials however, a squeezer can get it done fast and lossy for now.
 interactions.fcf42610.c295d1ae.text.1=After building a blast furnace progress to the MV Tier of Metallurgy.
 
 interactions.fcf42610.chapter.title=Metallurgy LV
@@ -2378,10 +2378,10 @@ interactions.fd71bc82.2e5abfbb.tasks.0.title=Tungsten Dust
 
 interactions.fd71bc82.6b69f34f.title=Alien Tungsten Ores
 interactions.fd71bc82.6b69f34f.tasks.0.title=Tungsten Ore
-interactions.fd71bc82.6b69f34f.text.0=Besides electrolyzing or running end stone through the infernal deconclomerator (recommended), once you've actually made it to the end you can mine tungsten ore directly to more easily process large amounts for all your EV+ Tier Needs.
+interactions.fd71bc82.6b69f34f.text.0=Besides electrolyzing or running end stone through the infernal deconglomerator (recommended), once you've actually made it to the end you can mine tungsten ore directly to more easily process large amounts for all your EV+ Tier Needs.
 
-interactions.crate.title=Dont get carried away
-interactions.crate.description=GT crates can be crafted to store items and you can even attach conveyors or robot arms to pull from nearby invetories and apply gt filtering. These are very useful in ore processing setups.
+interactions.crate.title=Don't get carried away
+interactions.crate.description=GT crates can be crafted to store items and you can even attach conveyors or robot arms to pull from nearby inventories and apply gt filtering. These are very useful in ore processing setups.
 interactions.crate.text.0=WARNING: DO Not attempt to Dolly Crates
 
 interactions.logistics.mecontroller.title=Flip those Channels
@@ -2402,18 +2402,18 @@ interactions.partygear.antimatter.text.2=WARNING: Liquid antimatter is EXTREMELY
 
 interactiosns.luckystar.dynanism.title=The Dynamic Trio
 interactiosns.luckystar.dynanism.description=Dynanism Gems are created by placing liquid starlight in world with glowstone dust and a rock crystal. They will grow over time and randomly will change to a higher growth state. It's recommended you grow several of these at once to minimize reliance on randomness.
-interactiosns.luckystar.dynanism.text.0=Dyananism Gems come in one of three varieties, Fengarum (White), Ourium (blue) and Ilium (Orange). The type of gem they become depends on what the world time is when they're chance to convert is rolled.
+interactiosns.luckystar.dynanism.text.0=Dynanism Gems come in one of three varieties, Fengarum (White), Ourium (blue) and Ilium (Orange). The type of gem they become depends on what the world time is when they're chance to convert is rolled.
 interactiosns.luckystar.dynanism.text.1=Providing starlight and tick acceleration will allow these to grow faster, once they emit smoke they can be safely harvested. After some time of not being harvested they will revert to a previous growth stage and continue to cycle.
 
 interactions.metallurgyev.implosioncompressor.title=Explosive Progress
 interactions.metallurgyev.implosioncompressor.description=Some materials require far greater pressures to compress than a standard compressor is capable of. For these, the implosion compressor fits the tasks.
-interactions.metallurgyev.implosioncompressor.text.0=While the implosion compressor itself consumes  very little enerhy and performs its job quickly, it requires a constant source of TNT. Please refer to the LV
-interactions.metallurgyev.implosioncompressor.text.1=Chemistry tab showing the path to Toulene and TNT Automation if you already havent done so. It is highly suggested you look into distillation towers for this process by now. 
-interactions.metallurgyev.implosioncompressor.text.2=Steam cracking and distilling oil products can give you all the toulene you need as well as polystyrene chemical and several other useful products. 
+interactions.metallurgyev.implosioncompressor.text.0=While the implosion compressor itself consumes  very little energy and performs its job quickly, it requires a constant source of TNT. Please refer to the LV
+interactions.metallurgyev.implosioncompressor.text.1=Chemistry tab showing the path to Toluene and TNT Automation if you already haven't done so. It is highly suggested you look into distillation towers for this process by now.
+interactions.metallurgyev.implosioncompressor.text.2=Steam cracking and distilling oil products can give you all the toluene you need as well as polystyrene chemical and several other useful products.
 
 interactions.metallurgymaster.vanadium.title=Get in the Vanadium!
-interactions.metallurgymaster.vanadium.description=Remember all that useless vanadium magnetite you were mining while looking for gold and iron? Well, surprise! It has a use afterall. LuV tier machinery will require Vanadium ingots doped with Gallium to create the wiring and other components of some of the most advanced technology in the pack. 
-interactions.metallurgymaster.vanadium.text.0=To cook vanadium gallium ingots your EBF must be capable of 4500K temperatures at a minimum. If you havent already you should upgrade your EBF to tungstensteel coils or superconducting.
+interactions.metallurgymaster.vanadium.description=Remember all that useless vanadium magnetite you were mining while looking for gold and iron? Well, surprise! It has a use after all. LuV tier machinery will require Vanadium ingots doped with Gallium to create the wiring and other components of some of the most advanced technology in the pack.
+interactions.metallurgymaster.vanadium.text.0=To cook vanadium gallium ingots your EBF must be capable of 4500K temperatures at a minimum. If you haven't already you should upgrade your EBF to tungstensteel coils or superconducting.
 
 interactions.metallurgymaster.ytt.title=Yeet-Rium!
 interactions.metallurgymaster.ytt.description=Yttrium, when alloyed with barium and cuprate forms to make a new type of metal that is a key super conducting component. This will enable the creation of super conducting wires for use in both energy trasnfer, and in the highly advanced machines that require such materials.
@@ -2424,5 +2424,5 @@ interactions.metallurgymaster.plutonium.description=By processing uranium 238 th
 interactions.metallurgymaster.plutonium.text.0=The chances are low and the process is time and energy intensive so you may want to devote some hefty processing setup towards getting your plutonium. Once you've reach the planet Aurellia you can obtain this more directly from centrifuging ferric sands. Refined Plutonium is a key ingredient in both Naquadah reactors and Fusion reactors.
 
 interactions.ayo.coil.tier0.title=Neglecting your coils is Not 0K.
-interactions.ayo.coil.tier0.description=The type of coil your blast furnace has detemines the amount of heat it is capable of producing.
-interactions.ayo.coil.tier0.text.0=Higher tier coils will allow you to smelt more and more advanced materials and will eventually become a progression bottleneck if you dont keep upgrading your coils. The coil upgrade path has been relatively streamlined in this pack and once you reach tungstensteel you can jump to end game superconducting coils. This questline will assist with the upgrade costs by providing you with half the necessary coils for your first EBF of each tier.
+interactions.ayo.coil.tier0.description=The type of coil your blast furnace has determines the amount of heat it is capable of producing.
+interactions.ayo.coil.tier0.text.0=Higher tier coils will allow you to smelt more and more advanced materials and will eventually become a progression bottleneck if you don't keep upgrading your coils. The coil upgrade path has been relatively streamlined in this pack and once you reach tungstensteel you can jump to end game superconducting coils. This questline will assist with the upgrade costs by providing you with half the necessary coils for your first EBF of each tier.
