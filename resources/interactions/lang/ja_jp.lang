@@ -1,0 +1,2422 @@
+advancements.peaceful.root.title=Interactions: 安全な場所
+advancements.peaceful.root.description=FTB Interactionsへようこそ： オーバーワールドに行くまでは、平和な場所にいることになります。甘い生活を楽しんでください...これからはもっと大変なことが待っています
+
+advancements.overworld.root.title=Interactions: 安全とは言えない場所
+advancements.overworld.root.description=オーバーワールドへようこそ: この段階では新しい環境に慣れたり、重要なキーとなるタスクを片付けましょう。次に進むにはBrassを用意してください。
+
+advancements.bronze.root.title=Interactions: さらに(安全の)少ない場所
+advancements.bronze.root.description=物事はだんだんと刺激的になってきています。この世界で知られている最悪のモンスター以外はこれから出現するようになります。あなたが準備をしていることを願っています。
+
+advancements.nether.root.title=Interactions: 絶対に安全とは言えない場所
+advancements.nether.root.description=さらに危険なディメンションに踏み込むんですか？えっと、あなたは聡明な方ですね。最悪の事態に備えているということですかね？まあ、警告しなかったとは言えませんが。
+
+advancements.space.root.title=Interactions: 宇宙空間
+advancements.space.root.description=好奇心とはよく言ったもので...。君が異次元の空間に干渉することで、既知の宇宙で最も致命的な敵を迎え入れました。おめでとうございます、あなたのせいで全滅しました。
+
+
+
+interactions.103abc81.0dcfd09c.title=LVを超えるためのより強力な精錬
+interactions.103abc81.0dcfd09c.text.0=MVTierに完全に入るための最大のハードルは、EBFで作らなければならないAluminiumです。この段階では、EBFが主な目標となります。詳細については、Ayo technology と metallurgy LVタブを確認してください。
+
+interactions.103abc81.3308d327.description=ついに本格的な鉱石処理
+interactions.103abc81.3308d327.text.0=HVでは、すべての金属の80%%を精錬できるようになり、さまざまな魔法や技術の素材を利用できるようになりました。遊び方の選択肢が大きく広がります。自動化に力を入れてください。ステンレススチール、PTFEの製造、そして宇宙への進出が次の目標です。
+
+interactions.103abc81.5b1c2607.description=耳を澄ませば爆弾が爆ぜる音が聞こえてくる
+interactions.103abc81.5b1c2607.text.0=エンダードラゴンが支配する虚無と闇の異界。Osmium、Iridium、Platinumなどの素材を入手するにはここの開拓が必須です。直接カオスガーディアンに挑むも良し、闇の星Aurelliaに行って最終段階の技術と魔法をアンロックして自分を強化するのもいいでしょう。
+interactions.103abc81.5b1c2607.text.1=闇の星Aurelliaを訪れ、テクノロジーと魔法の最終段階のアンロックを行いましょう。
+
+interactions.103abc81.60e81255.description=ヘンリー・フォードはあなたを誇りに思うでしょう
+interactions.103abc81.60e81255.text.0=GregTechの先進技術のほとんどは生産に大規模なマルチブロックアセンブリーが必要です。
+
+interactions.103abc81.6672ed55.description=もう石炭を燃やすのはやめてくれませんか？
+interactions.103abc81.6672ed55.text.0=基本的なSteelを作るには、InfernalFurnaceとCrudeSteelIngotを作るためのSteamAlloySmelterが必要です。SteelはLVでの主要な素材となります。
+
+interactions.103abc81.78546de8.tasks.0.title=無限への進行
+interactions.103abc81.78546de8.text.0=VoidWorld(<-ここ重要)からロケットを打ち上げて宇宙へ。ここでは、宇宙ステーションを建設したり、軌道採掘機を設置してSkyStoneを集め、本格的にAE2を取り組むことができます。ここではAstral SorceryのCelestialGatewayがおすすめです。
+
+interactions.103abc81.7ddda4a3.title=これは避けられない(una void able)
+interactions.103abc81.7ddda4a3.description=夜明けはまだですか？
+interactions.103abc81.7ddda4a3.text.0=OverWorldへのポータルを作成すると新しく開拓する大地、鉱石、希少素材、魔法、そしてもちろん……新しい敵が解放されます。
+
+interactions.103abc81.89acf0d3.description=瓶の中の太陽ではダメで、材料も自分で作らないといけないんですか？
+
+interactions.103abc81.9be3aa5b.description=1セントを投げ入れると、底に落ちる前に消えていくのを見ることができます。
+interactions.103abc81.9be3aa5b.text.0=この惑星は、呼吸可能な大気を持っています。 ワープコントローラーとアーティファクトがあれば、あなたの宇宙ステーションでこの世界に飛ぶことができます。ここではいろいろなものが見つかります。vinteum鉱石、ダンジョン、強力なエイリアンの技術、さらには神話生物のうわさまで...。
+
+interactions.103abc81.a7a83e28.description=この惑星にいると太って見える？
+interactions.103abc81.a7a83e28.text.0=Naquadahなどの高級素材や豊富なPlatinumが手に入ります。また、この世界には伝説のEnderChickenを召喚できる条件が揃っており、役に立つかもしれません……。
+
+interactions.103abc81.aaf439c8.text.0=これであなたは成し遂げました。あなたはmodpackを打ち負かしました。解放され、自由気ままに生きる勇敢な魂です… 少なくともInteractons Expert mode…Kappaが出るまでは。 
+
+interactions.103abc81.cfcc58ad.title=蒸気がプシューってなってガー
+interactions.103abc81.cfcc58ad.description=これで少なくともプレートを打ち付ける必要がなくなりました。
+interactions.103abc81.cfcc58ad.text.0=すべてを手作業で行っていた時代から、輝かしい蒸気革命へと移行するには原始的な機械が必要になります。素晴らしいものではありませんが、これがスタートです。
+
+interactions.103abc81.cfcc58ad.text.1=Brassを入手するためにこの世界の金属をZincで安定させる必要がありますが、Zincは非常にレアです。AlchemicalBrassIngotを作成するのが最善の策なので、Thaumcraftを始めましょう。
+
+interactions.103abc81.chapter.title=進行
+interactions.103abc81.chapter.description.0=主要な進行目標の非常に広範囲な概要
+interactions.103abc81.chapter.description.2=どのクエストに注目すればいいのかのヒントがあります。
+interactions.103abc81.chapter.description.3=迷ったときにはこのクエストチェーンを参考にして、次にどのクエストラインに取り組むべきかを考えることができます。
+
+interactions.103abc81.dcd19e05.description=Dieselはなかなかいい感じですね
+interactions.103abc81.dcd19e05.text.0=MVに突入したら、次の素材の目標はHVパワーでStainlessSteelを生産することです。関連するTier情報については、MetallurgyとAYO Technologyのタブを参照してください。
+
+interactions.103abc81.dcd19e05.text.1=より大きなパワーも必要になります。良い選択肢はDieselで、Canolaで濃縮してOil投入量を2倍以上にしたり、HVでさらに濃縮してセタン価を上げたり、最終的にはStarlightを注入したりすることができます。
+
+interactions.103abc81.dcd19e05.text.2=再生不可能な資源というと抵抗があるかもしれませんが、このパックにはその資源を最大限に活用するためのツールが用意されています。油田1つで、ポンプを動かす必要があるまで何日も持ちこたえることができ、最終的にはNeromanticPrimeを起動させます。
+
+interactions.103abc81.dcd19e05.text.3=一週間以上の耐久性があり、ひとかたまりを移動させるだけでOK。この燃料は、ゲーム内で最も強力な燃料であるNaquadriaticFuelは終盤になっても活用できます。
+
+interactions.103abc81.dd0f8ba4.title=ロケットマン
+interactions.103abc81.dd0f8ba4.description=そして、着地して私が再び戻ってくるまでには、長い長い時間がかかると思います。
+interactions.103abc81.dd0f8ba4.tasks.0.title=月ディメンションを訪れる
+interactions.103abc81.dd0f8ba4.text.0=月を訪れると、純Aluminium、BlackQuartz、Starmetalのほか、月面ダンジョンからの強力な戦利品を入手することができます。
+
+interactions.103abc81.f92a387e.title=地獄へのハイウェイ
+interactions.103abc81.f92a387e.description=ネザーに行くには、この10個のポータルブロックを作る必要があります。ネザーに足を踏み入れると、モブも徐々に手強くなっていきます。なお、作業台のレシピではLiquidDeathが必要です。
+
+interactions.154955d3.009703b7.title=ノコギリを見る(I see saw)
+interactions.154955d3.009703b7.description=飢えを防ぐことができるかもしれません。それともやめておきますか？水源をノコギリの真下に置いて流れに任せましょう。
+interactions.154955d3.009703b7.text.0=1つの方法でうまくいかない場合は、他の方法を試してみてください。
+interactions.154955d3.009703b7.text.1=USBの上下を確認するように、水流を変えてみてください。
+
+interactions.154955d3.054b6992.title=JEI活用のコツ
+interactions.154955d3.054b6992.text.0=-FTBQにはJEIとの連携機能があり、クエストアイコンや複数のアイテムがある場合は左にあるチェックレシピのキーバインド(デフォルト:R)を使いましょう。
+interactions.154955d3.054b6992.text.1=-もしあなたが戻るボタン付きのマウスを持っているなら、そのキーをバックスペースの代わりにJEIの「前に見たレシピを表示」にバインドすることをお勧めします。その方が生活が楽になります。
+
+interactions.154955d3.054b6992.text.2=-Shiftキーを押しながらアイテムをマウスオーバーすると、そのアイテムの鉱石辞書タグが表示されます。(Gregアイテムでこれをするとゲームが一瞬フリーズします)
+interactions.154955d3.054b6992.text.3=-何度も調べるのが面倒な場合は、JEIにブックマークしておきましょう。回路やロボットアーム、モーターなどで使うことが多いと思います。
+
+interactions.154955d3.07930191.title=クエストチェーンのはじまり
+interactions.154955d3.07930191.text.0=四角いアイコンがついているクエストは、クエストラインの開始を意味します。
+
+interactions.154955d3.095258c2.title=あなたが重要です(I Heart you)
+interactions.154955d3.095258c2.description=VoidWorldではモブが自然スポーンしないため「ZenSummon」でゾンビ村人を召喚し、村人に変換しないと進めません。しかし、賢者の石を作るには、Heartかエメラルドが必要です。
+interactions.154955d3.095258c2.text.0=村人の取引は無効です。そのため彼らは過剰な量のエメラルドを持っており、時折それを落とすことがあります。
+
+interactions.154955d3.0ce8b042.text.0=Candleは松明よりも簡単に作ることができ、機能も同じです。 暗闇に飛び込む際には必ずたくさん用意しておきましょう。
+
+interactions.154955d3.0d64bc8a.title=情報掲示板
+interactions.154955d3.0d64bc8a.tasks.0.title=指令クエスト
+interactions.154955d3.0d64bc8a.text.0=歯車の形をしたクエストでは、クエストや生産ラインの自動化に役立つ動画や図、フローチャートへの外部リンクが提供されます。
+
+interactions.154955d3.11d2e951.description=ツールチップとJEIをチェックしましょう。このボールが欲しくなる。
+interactions.154955d3.11d2e951.text.0=真面目な話、これを使ってください。ゲーム序盤の時間を大幅に短縮してくれます。だいたい85%%で成長を促します。小麦のように、植物をほぼ完全に成長させます。次に、プラントボールを使って、瞬時に何度も複製します。㍿骨粉の上位互換!
+
+interactions.154955d3.178d064e.title=図書カードを持っていれば、楽しむことは難しくありません
+interactions.154955d3.178d064e.description=この場合、それはあなたのライブラリChiselです。普通の本や、あなたが始めたFTBQuestbookを他のマニュアルに変換することができます。
+interactions.154955d3.178d064e.tasks.0.title=了解
+
+interactions.154955d3.1bb9079a.description=これがあなたの最初のかまどです。このかまどで物を製錬すると、次のステップに役立つ経験値を得ることができます。
+interactions.154955d3.1bb9079a.text.0=精錬には時間がかかるので、最初にいくつかのかまどを作っておくことをお勧めします。
+
+interactions.154955d3.1d3da519.title=fomdog melter
+interactions.154955d3.1d3da519.text.0=これはOverWorldに行くために厳密には必要ではありませんが、SearedStoneの作成を簡単にするもので、後に必要になります。
+
+interactions.154955d3.1d6fe213.title=飢えた職人
+interactions.154955d3.1d6fe213.description=このパックではインワールドでのクラフトを卒業し、BasicWorktableでスタックを一度にクラフトすることができます。しかしこれには材料費がかかり、自動化もできません。そのためには機械が必要になります。また、液体も扱います。
+
+interactions.154955d3.2142a3b2.title=自然スポーンは禁止されてます
+interactions.154955d3.2142a3b2.description=暗い部屋での敵対Mobや草むらでの平和Mobも含めて、voidでの自然スポーンは禁止されています。しかし、技術があれば強制的にスポーンさせることができます。(zen summonでの召喚)
+
+interactions.154955d3.29f7cca1.title=水切りカゴ
+interactions.154955d3.29f7cca1.description=糸を作るために綿を手に入れる前に、麻ひもを使うことができます。錬金テーブルの草は、これを行うための良い植物素材です。
+interactions.154955d3.29f7cca1.text.0=待ち時間を少なくするためにも、4～6台の構築をお勧めします。
+interactions.154955d3.29f7cca1.text.2=サバイバリスト、デンスサバイバリスト、フィッシャーマンズの3種類があります。3つのタイプにはそれぞれ異なるリソースが用意されており、すべてのリソースが必要となります。
+
+interactions.154955d3.2b15bcdb.description=これを生み出してくれる魔法の変換ブロックがあればいいのですが。他のEMCアイテムと同様に、テーブルに十分なEMCがある場合にのみ表示されます。
+
+interactions.154955d3.301f1896.title=クエストチェーンの完了
+interactions.154955d3.301f1896.text.0=大きなひし形のクエストインジケータは、クエストチェーンの終わりを表しています。また、次にどのクエストに挑戦すべきかの説明もあります。
+
+interactions.154955d3.36cbc6c2.title=話題になっているのは？
+interactions.154955d3.36cbc6c2.text.0=作物の成長が遅すぎる？死に瀕するのはうんざりしている？心配することはありません Bee happy、両方の問題を解決することができます。Rusticの養蜂場は、Beeが働くと近くの作物を加速させます。この効果は積み重ねることができます。
+interactions.154955d3.36cbc6c2.text.2=また、Cohoshと組み合わせてElixirofRegenerationを作ることができるHoneycombを生産してくれます。
+
+interactions.154955d3.3a0ee9b1.text.0=この杖は、見ている点を起点にブロックを形成します。離れた場所に大きなプラットフォームを素早く構築したり、標準的な建築用杖ではできない方向に建築するのに非常に適しています。
+
+interactions.154955d3.3b4bd52b.tasks.0.title=標準的な相互接続のクエスト
+interactions.154955d3.3b4bd52b.text.0=標準の円は、クエストがチェーンの一部であることを示します。
+
+interactions.154955d3.4c1c86a9.title=ゲーム序盤の建築支援
+interactions.154955d3.4c1c86a9.description=AnimusのLiquidDirtは注ぐと水のように流れていきます。流れなくなると、固まってたくさんの土になります。
+interactions.154955d3.4c1c86a9.text.0=素早く回収すれば固まる前の液体を拾うことができ、1つのバケツで何度も使用することができます。
+
+interactions.154955d3.54f0c63a.title=こうやって思い出させてくれるんですね
+interactions.154955d3.54f0c63a.description=私たちは完全な透明性を追求しています。テスターがオーバーワールドで死に続けていたため、最初はVoidWorldからスタートします。時間をかけて、JEIとクエストブックを知り、自己責任でパックの進行を急ぎましょう。
+interactions.154955d3.54f0c63a.tasks.0.title=了解
+
+interactions.154955d3.555a1a94.title=Fomdog bone
+interactions.154955d3.555a1a94.text.0=Melter用のPorcelainを作るには、BoneMealが必要です。これは、Strainerの中にあるBoneから得ることができます。
+
+interactions.154955d3.5a0e0129.title=Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen! Hey, Listen!
+interactions.154955d3.5a0e0129.description=これらのクエストアイコンのいずれかが表示された場合、このセクションにはJEIでは見つけられない情報や、パックを乗り越えるための有用なヒントが含まれていることを意味します。
+interactions.154955d3.5a0e0129.tasks.0.title=了解
+
+interactions.154955d3.5c197ff1.title=本来ならば必要のないことなんですが...。
+interactions.154955d3.5c197ff1.description=しかし、もしあなたが錬金大全をテーブルに置かずに失くしてしまったという悲劇的なクラブに参加しているなら、ここにバックアップがあります。それ以上のことはできません。
+
+interactions.154955d3.65c2b61d.description=LotusSeedsは、使用するとプレイヤーに経験値を与える花を咲かせることができます。まずはSurvivalStrainerを使ってみてください。後に遠心分離機で自動処理することができます。
+interactions.154955d3.65c2b61d.text.0=ヒント：修繕がついているアイテムはオフハンドで持ったり、身につけたりしてからLotusBlossomを食べると修復されます。
+
+interactions.154955d3.6819f008.title=木を持っていてもいい
+interactions.154955d3.6819f008.description=それと私の斧! GTアックスには木こり機能が内蔵されていて、序盤での丸太の切り倒しが楽になります。
+interactions.154955d3.6819f008.text.0=ただ単にオーバーワールドに入っていくわけではない
+
+interactions.154955d3.692354d9.title=ウォーターソーの自動化に関するビジュアルガイド
+
+interactions.154955d3.6a3b3b39.title=Piggyback Teleporters by ToAsgaard!
+
+interactions.154955d3.7295ef69.title=左にトゥワーク、右にスプリント、クリスクロス!
+interactions.154955d3.7295ef69.description=みんなで手をたたこう。
+interactions.154955d3.7295ef69.text.0=木の周りでトゥワークしたり、スプリントしたりして、木を早く成長させる。ドルイドになりきって、耳元で甘い言葉を囁く。
+
+interactions.154955d3.74aca1b0.title=常にダブルタップ
+interactions.154955d3.74aca1b0.description=クエストGUIの状態でShiftを2回押すと、検索可能なクエストリストを開くことができます。クエストの依存関係を別のタブで把握しやすくなります。
+
+interactions.154955d3.792f5e20.title=より良い建築ツール
+interactions.154955d3.792f5e20.description=ある程度は。
+
+interactions.154955d3.79371cf9.title=Interactionsへようこそ。日焼け止めを塗って、キーバインドの設定を忘れないでくださいね。
+interactions.154955d3.79371cf9.description=かつて、キーバインドを設定するのを忘れた、迷える小さなマインクラフトプレイヤーがいました。そのプレイヤーは迷ったままでした。そして、もう一人の賢い小さなマインクラフトプレイヤーがいて、彼女はキーバインドを設定するのを忘れませんでした。彼女は記録的な速さでInteractionsを攻略しました。
+interactions.154955d3.79371cf9.tasks.0.title=了解
+interactions.154955d3.79371cf9.text.0=おすすめキーバインド:
+interactions.154955d3.79371cf9.text.1=- クエストブックを開く: NUMPAD 1
+interactions.154955d3.79371cf9.text.2=- JEI材料にブックマーク: ミドルクリック
+interactions.154955d3.79371cf9.text.3=- 可哀想なことに、Rは多くのModで共有されてしまいます
+
+interactions.154955d3.7979431a.title=最初にここまで見にきた人は、頑張り屋さんです
+interactions.154955d3.7979431a.description=このブロックをクラフトしてオーバーワールドに行きたいでしょう。しかし死ぬかもしれないので、ゆっくりとクエストをこなして、より良い装備を手に入れてみてはいかがでしょうか。また、ポータルの反対側を無防備にしてはいけません。
+interactions.154955d3.7979431a.text.0=賢者の石でポータルを起動する
+interactions.154955d3.7979431a.text.2=アニメーションポータルブロックのテクスチャを提供してくれたDJJBanxに感謝します。
+
+interactions.154955d3.7a3fc83a.title=斧で殴る
+interactions.154955d3.7a3fc83a.description=序盤は、ほとんどのやり取りがインワールドで行われます。斧を持って丸太に右クリックを2回すると木材が出てきます。良い方法が見つかるまでは、ハングリー精神が必要です。
+interactions.154955d3.7a3fc83a.text.0=ノコギリ、自動ノコギリを使用するのが早いです。空腹度を使って手で何枚もの板を作る必要はありません。
+interactions.154955d3.7a3fc83a.text.1=この方法で作る木材は8個もあれば足りるでしょう。
+
+interactions.154955d3.7d56d52e.title=Crash Course
+interactions.154955d3.7d56d52e.description=黒曜石を溶岩に変化させるアイテムがあれば。IF ONLY... (ヒント：賢者の石の英名と韻を踏んでいます)
+
+interactions.154955d3.7e2eeed5.description=LowCovalenceDustとStickyResinを錬金術のように配置して、RusticのTallowを作りましょう。
+interactions.154955d3.7ec1b2f7.title=FTB公式ディスコード招待
+
+interactions.154955d3.85434674.title=Yeet that Wheat
+interactions.154955d3.85434674.description=報酬はプラントボールで、これらをコピーすることができることを伝えています。
+
+interactions.154955d3.87a33a89.title=諦めないで
+interactions.154955d3.87a33a89.description=チームでプレイしている場合は、Together Foreverコマンドでゲームステージを同期させてください。
+interactions.154955d3.87a33a89.text.0=/tofe invite <player_name>
+interactions.154955d3.87a33a89.text.1=/tofe accept <player_name>
+interactions.154955d3.87a33a89.text.2=/tofe kick <player_name>
+interactions.154955d3.87a33a89.text.3=/tofe info
+
+interactions.154955d3.87b0ee79.title=コミュニティは重要です
+interactions.154955d3.87b0ee79.text.0=私たちはこのパックの維持、修正、改良に努めていますが、それにはコミュニティのサポートが欠かせません、つまりあなたやあなたのような方のサポートが必要なのです。
+interactions.154955d3.87b0ee79.text.2=バグレポートやパックの改善のためのアイデアは、必ず私たちのトラッカーに提出してください。また、公式のFTB discord #ftb-interactionsチャンネルでは、非常に活発なdiscordコミュニティを展開しています。
+interactions.154955d3.87b0ee79.text.4=上にはTrackerへのリンク、右にはDiscordへのIniviteリンクがありますので、ぜひお立ち寄りください。
+interactions.154955d3.8b136f2b.title=あらゆることを自動化しよう!
+interactions.154955d3.8b136f2b.description=最も早い自動化の方法の一つは、Conveyorを使ったものです。
+
+interactions.154955d3.8ffc4093.title=Water you doing?
+interactions.154955d3.8ffc4093.description=物理学の仕組みさえ知っていれば、氷を溶かして水にすることができる。そして、氷を提供してくれる魔法のブロックがあれば。
+
+interactions.154955d3.98f4c3c6.title=The World is Your Table
+interactions.154955d3.98f4c3c6.description=EMCテーブルから砂利を取り出し、TinkersのFlintAxeHead用のFlintを作り、2x2のクラフトグリッドでStoneStickと組み合わせます。
+interactions.154955d3.98f4c3c6.text.0=注意：これらの道具はまだ修理できませんが、Voidは喜んでそれを生け贄として受け取ります。
+
+interactions.154955d3.9c5fed89.title=木の散髪師
+interactions.154955d3.9c5fed89.description=真のエキスパートは、すべての段階でEMCの生産を最小化します。
+
+interactions.154955d3.9df1d5ee.description=錬金術魔法陣を使って、オークの苗木とスライムボールをRubberTreeSaplingに変換することができます。これにより、StickyResinを落とすRubberTreeを育てることができます。
+
+interactions.154955d3.a0918964.description=Rusticの錬金は、最も初期のHP再生の方法の一つを提供します。 頑張ってください、あなたにはそれが必要です。
+
+interactions.154955d3.a1e8425a.description=パックでは空腹度による自然回復が無効になっています。様々なModを使って体力の総量を増やすか、最終的には自動で回復する方法を見つけなければなりません。しかし、今のところあなたにはHealingSalveとPlasterがあります。
+interactions.154955d3.a1e8425a.text.0=絆創膏をプラスターと呼ぶ国があるのをご存知ですか？
+interactions.154955d3.a1e8425a.text.1=ヒント：通常の草ブロックに骨粉を使うことで、バニラの花を手に入れることができます。
+
+interactions.154955d3.a7bfabb6.title=FTB Interactions 問題追跡
+
+interactions.154955d3.a84dcdad.description=頑張ってください。私はあなたが見つけられないような場所に置いてあります。
+
+interactions.154955d3.a9d0a2ad.description=さらにTallowをCandleberrySeedに変換し、最後にCandleberryを搾ってPressedWaxにして革を固めたり、Candleにして明かりを灯すことができます。
+
+interactions.154955d3.b0039b2c.description=まだ手動ですが、原木から木材を作るための最大限にてっとり早い方法です。
+
+interactions.154955d3.b030b92e.description=これは基本レベルの魔法的なクラフトです。自動化は不可能で、報酬も安いですが、これが最初のステップです。
+interactions.154955d3.b030b92e.text.0=ヒント：牛肉が食べたいときは、鶏肉から変換してみてください。
+
+interactions.154955d3.b7027e49.title=Hot or Not?
+interactions.154955d3.b7027e49.description=インベントリに溶岩のタンクや容器があると、火傷してしまいます。このミットを持っていると、熱い液体による影響（他の液体を持っていることによる不要な副作用の可能性も）を無効にすることができます。
+
+interactions.154955d3.bc16b2a8.title=Filo Stone
+interactions.154955d3.bc16b2a8.description=注意！食べられないし、美味しくもない。
+
+interactions.154955d3.c9a2a293.tasks.0.title=重要なお知らせ
+interactions.154955d3.c9a2a293.text.0=エクスクラメーションマークのついた丸いクエストには、各セクションに関連するパックの重要な情報が含まれています。 これらの情報は、入手したらすぐに確認してください。
+
+interactions.154955d3.ca362eca.title=罠だ！
+interactions.154955d3.ca362eca.description=草ブロックと同じYレベルに配置され、少なくとも5つの草ブロックまたは土ブロックにアクセスできる必要があります。2ブロック先までの方位のブロックのみカウントされます。
+interactions.154955d3.ca362eca.text.0=最初はこのトラップを4～5個設置できるように、拠点を拡張することをお勧めします。
+interactions.154955d3.ca362eca.text.1=Warning:最初のエサは単にトラップを作動させるだけで、副産物なしに必ず失われるので、各トラップに1個以上のエサを入れるようにしてください。
+
+interactions.154955d3.chapter.title=安全な場所
+interactions.154955d3.chapter.description.0=Intetactionsへようこそ このクエストラインから始めましょう。 
+interactions.154955d3.chapter.description.2=void worldを出た後は、タブの中で複数の分岐に分かれて進行することになります。頑張ってくださいね。
+
+interactions.154955d3.d18be8cc.tasks.0.title=糸を必要としている人
+interactions.154955d3.d18be8cc.text.0=糸の入手方法はいくつかあります。多くのレシピでは、PlantFibresで作られた糸を使うことができます。実際に糸が必要な場合は、Strainerに入っているCottonSeedから作ることができます。植物の種を使うと、もっと増えますよ！
+
+interactions.154955d3.d18be8cc.text.2=Cottonの糸がうまくいかない場合はクモの木の苗木を作って、時間が経つと糸が伸びるようにすることもできます…… 最速の方法ではありませんが、うまくいきますよ
+
+interactions.154955d3.d6382de0.title=I am overused-pun-Grout
+
+interactions.154955d3.d7b06269.description=ゾンビになった村人を回復します。ゾンビになってしまった村人たちを。
+
+interactions.154955d3.dad0ccef.title=Fomdog Chicken
+interactions.154955d3.dad0ccef.description=詳しくは、Chickenのクエストラインをご覧ください。
+interactions.154955d3.dad0ccef.text.0=苦労して骨を探すのは大変なので、早めにChickensの力を借りてみてはいかがでしょうか。PorcelainChickenは直接Porcelainを作ることができます。
+
+interactions.154955d3.dcc3168e.title=Cycling through Building Tools
+interactions.154955d3.dcc3168e.description=歩くことなく、自分の基地を作ることができます。
+
+interactions.154955d3.e7d70489.title=ReadMe
+interactions.154955d3.e7d70489.description=錬金テーブルに本を入れてパックを完走します。おめでとうございます。
+
+interactions.154955d3.eb791b4a.description=拠点を美しくするために
+
+interactions.154955d3.ed1c9869.title=FTBUltimine!
+interactions.154955d3.ed1c9869.description=FTBUltimineは、非資源収集の利便性を目的としています。木の葉を刈ったり、アストラル寺院を集めたり、芝生を刈ったりすることができます。FTBUltimineは鉱脈や丸太をブラックリストに載せていますが、これはHammers/Drills/LumberAxesが役に立たなくなるからです。デフォルトのキーはGRAVEです。
+interactions.154955d3.ed1c9869.tasks.0.title=了解
+
+interactions.154955d3.ee31eaaf.title=InfinityDust
+interactions.154955d3.ee31eaaf.description=火打ち石をもって岩盤を左クリックすると入手できます。これは4レベル以上のExpを消費し、ほとんどの場合は火打ち石を破壊します。暗い部屋の床に置いておくと、ダストがVoidから敵を召喚する確率が高くなります。
+interactions.154955d3.ee31eaaf.text.0=InfinityDustによって召喚されたクリーチャーは、高確率でGrainsofInfinityを落とし、これを利用して粒とダストの持続的なサイクルを作ることができます。
+interactions.154955d3.ee31eaaf.text.1=警告:丸石を遠ざけてください。丸石はエンダーマイトを怒らせ、殺すのがほぼ不可能になります。
+interactions.154955d3.ee31eaaf.text.2=最後の注意:このパックでは、通常のように岩盤を燃やして作成することはできません。
+
+interactions.154955d3.efcd9489.title=あーした てんきに なーあれ！
+interactions.154955d3.efcd9489.text.0=雨の日は憂鬱ですか？大きなシールドで大雨から身を守りましょう。RandomThingsのRainShieldは、5チャンクのエリアの雨を永遠に防ぎます。 あなたの前には晴れた空が広がっていますよ。
+
+interactions.154955d3.f1fb89b5.tasks.0.title=オプションクエスト
+interactions.154955d3.f1fb89b5.text.0=丸い四角のクエストは任意のクエストですが、推奨されるクエストです。
+
+interactions.154955d3.f887a5d9.title=Void Speed Run Challenge - もしBugzyのタイムを破ったら、その動画を投稿して、クエストブックで勝利者に代えてくださいね。
+interactions.154955d3.f887a5d9.description=27 minutes, 59 seconds.
+
+interactions.15f399f0.0a1e4b24.description=リトル・ビリーはかつて飲んでいたが、もう飲まない。H2Oだと思っていたものがH2SO4だったからだ。
+interactions.15f399f0.0a1e4b24.tasks.0.title=化学とあなた!
+interactions.15f399f0.0a1e4b24.text.0=少なくとも蒸気時代に入ると、これらのクエストのチャプターがアンロックされ始めます。Gregtechの各主要Tierでは、他の化学物質や先端材料の製造に使用される新しい化学プロセスが必要となります。
+interactions.15f399f0.0a1e4b24.text.2=このガイドは、必要な化学物質を入手するための手順を大まかに説明したものです。他にも様々なレシピがありますが、ここでは必要なものを手に入れるための最もわかりやすいルートを紹介しています。
+
+interactions.15f399f0.chapter.title=All good titles Argon
+interactions.15f399f0.chapter.description.0=あなたの法的な、そして法的ではない化学的なニーズのすべてに対応します。
+interactions.15f399f0.chapter.description.1=このタブは、GTCEの様々な化学処理システムのすべてを案内するためのものです。
+
+interactions.20bf08de.0d7b471a.text.0=ブランクの焦点は、フォーカル・マニピュレーターで修正することができ、採掘、ダメージ、ヒーリングなど、無数の効果を生み出すことができます。
+
+interactions.20bf08de.11fc0573.text.0=Gregtechのツールとしては最適で、初期のたくさんの用途があり、かなりの量が必要になります。
+
+interactions.20bf08de.15b336ea.description=最初のグローストーンは面倒くさくて作れませんが、後に錬金術で複製できたり、ネザーで採掘したりすることができます。
+
+interactions.20bf08de.1c67b1d7.text.0=エッセンシアはVisのエネルギーの「液体」で、エッセンシアを利用するにはスメルターが必要になります。
+interactions.20bf08de.1c67b1d7.text.1=Arcane Alembic（アルケイン・アレンビック）を上に乗せると、スメルターからエッセンシアを引き出し始めます。
+interactions.20bf08de.1c67b1d7.text.2=サイドにArcane Bellowsを置くとスピードアップすることもできます。
+
+interactions.20bf08de.1d2f9478.text.0=祭壇が不安定になり始めたら、獣脂キャンドルとモブヘッドを追加してください。
+interactions.20bf08de.1d2f9478.text.1=何を置くにしても、対称となるように置くことを忘れてはいけません。
+interactions.20bf08de.1d2f9478.text.2=不安定な状態が続くと: 
+interactions.20bf08de.1d2f9478.text.3=- アイテムが紛失する
+interactions.20bf08de.1d2f9478.text.4=- 汚染される
+interactions.20bf08de.1d2f9478.text.5=- 雷に打たれる
+
+interactions.20bf08de.21555ce6.title=Hedging our Bets
+interactions.20bf08de.21555ce6.description=このクエストでは、Hedge Alchemyの研究が解禁されます。
+interactions.20bf08de.21555ce6.text.0=このクエストでは、Hedge Alchemyの研究が解禁されます。
+
+interactions.20bf08de.24b878d5.title=エッセンシアの送信
+interactions.20bf08de.24b878d5.text.0=エッセンシャル・トランスフューザーは、注入の祭壇がエッセンスを取り込むのと同様に、コンストラクト、アレンビック、ボイドジャーなどの有効なエッセンスの供給源や供給先をすべて満たしたり、空にしたりすることができます。これにより、経験が大幅に効率化され、次のようなことを回避することができます。
+interactions.20bf08de.24b878d5.text.1=エッセンシアの配管を完全に使用することができます。エッセンシアミラーと一緒に使えば、ワイヤレスのエッセンシア生産施設を作ることができ、必要な場所にエッセンシアを運ぶことができます。
+
+interactions.20bf08de.2856b0e6.title=Vis結晶は輝く
+interactions.20bf08de.2856b0e6.text.0=眠ることができないので、サリス・ムンドゥスに向けてソームクラフトの研究を可能にするために、VISクリスタルを拾うだけでよい。
+interactions.20bf08de.2856b0e6.text.2=infused鉱石は、ワールド内で採掘することができます（「less safe space」タブを確認してください）。ピュアデイジーの周りに鉱石を置くと、その鉱石の種類のVis結晶に変化します。
+interactions.20bf08de.2856b0e6.text.4=ヒント：Vis結晶は石の上で育ちますが、草の上で変形させると自動収穫されます。
+
+interactions.20bf08de.2e58c215.tasks.0.title=これらのエルドリッチ・デライトにはエルドリッチ・エンドがある。
+interactions.20bf08de.2e58c215.text.0=このクエストでは、エルドリッチタブの研究が解禁されます。警告：歪みの影響を受けますので、自己責任でお願いします。
+
+interactions.20bf08de.3d944c30.description=ジェムリファイナーにマナと熱を加えて使用すると、よくない品質の宝石をより完璧な形に変えることができます。
+interactions.20bf08de.3d944c30.text.0=これをふるいにかけることもできますが、どちらを選ぶかはあなた次第です。
+
+interactions.20bf08de.43e61bff.text.0=ソーモノミコンを作成して、難解な魔術の深淵への旅を始めましょう。注意してほしいのは、この魔法には代償が伴うということです。狂気の世界に入り込めば入り込むほど、現実への影響も大きくなります。
+interactions.20bf08de.43e61bff.text.1=Thaumcraftは、触手を生み出し、土地を汚すフラックスの裂け目という形で、世界に永続的な影響を与えます。狂気はあなたの心にも伝わり、あなたの現実を歪め、あらゆる種類の奇妙なものの道標となります。
+interactions.20bf08de.43e61bff.text.2=このクエストブックでは、歪みやフラックスの扱い方を教えてくれるわけではありません。
+
+interactions.20bf08de.4cd5380d.text.0=サリス・ムンドゥスは、任意のタイプのVis結晶、250mBの液体マナ、8つの低共有性粉を使って、作業台で作成することができます。
+
+interactions.20bf08de.4d723002.title=私は研究が大嫌いです
+interactions.20bf08de.4d723002.description=どうか、神様、私にすべての研究成果を与えてください。それに伴う歪みは対価として受け入れます。
+interactions.20bf08de.4d723002.text.0=本当に研究が嫌いなら、自分でチーターソーモノミコンを作って、すべての研究を認めてもらう。
+interactions.20bf08de.4d723002.text.2=警告 あなたは、与えられたすべての研究に関連するすべての歪みを受け取ります。この結果の意味を知らない人は、まずThaumcraftについてもう少し読んでください。
+
+interactions.20bf08de.57bfbdc9.tasks.0.title=人工的なアーティフィス
+interactions.20bf08de.57bfbdc9.text.0=このクエストでは、InfernalFurnaceを含む高度なアーティフィス研究が解禁されます。
+
+interactions.20bf08de.5d8818d8.tasks.0.title=They be rollin, they decantin...
+interactions.20bf08de.5d8818d8.text.1=このクエストでは、バイオソーミックマインドを含む、高度なゴーレマンシー研究が解禁されます。
+
+interactions.20bf08de.5e649aa2.tasks.0.title=You're an auror now harry.
+interactions.20bf08de.5e649aa2.text.0=このクエストでは、ヒーリングフォーカスを含むオーロマンシー研究がアンロックされます。
+
+interactions.20bf08de.6cd9406c.title=振り落とす
+interactions.20bf08de.6cd9406c.text.0=シフターは、ほとんどの宝石を処理するためのより洗練された方法です。単純なAutoclave処理よりも高品質の宝石が得られ、全体的な収穫量も多くなります。
+
+interactions.20bf08de.85a2b7d1.text.0=るつぼは機能的には問題ありませんが、オフガスが発生しやすく、廃棄物やフラックスが発生しやすいのです。錬金術用の構造体を作成して、レシピを格納し、自動化することで、より良い結果を得ることができます。詳しくはソーモノミコンを参照してください。
+
+interactions.20bf08de.86372210.text.0=Runic Altar/Infusion Altarを右クリックして起動する際に使用します。
+interactions.20bf08de.86372210.text.1=呪文を唱えるのにも使えます。
+
+interactions.20bf08de.8cb23bd3.text.0=序盤に使える安価な燃料ですが、今はあまり意味がありません。
+interactions.20bf08de.8cb23bd3.text.1=燃やすことに関しては、面白い特性があるようですね。
+
+interactions.20bf08de.8cd0b5bf.title=赤ちゃんの初めての錬金術
+interactions.20bf08de.8cd0b5bf.text.0=Brassは、世界に新しいタイプの生産をもたらします。
+interactions.20bf08de.8cd0b5bf.text.1=最初の機械にはBrassが必要なので、余分に作っておきましょう。
+interactions.20bf08de.8cd0b5bf.text.2=重要: ソーモノミコンに沿って進めていくことで、必要な研究をアンロックすることができます。ソーモノミコンで基本的な錬金術のアンロックを獲得するまでは、クラフトを試みないでください。
+
+interactions.20bf08de.8eac9d15.text.0=るつぼは錬金術の第一歩です。るつぼにサリス・ムンドゥスを使用する必要があり、水を入れてその下に火を入れなければなりません。
+interactions.20bf08de.8eac9d15.text.1=重要：JEIについての注意事項-。
+interactions.20bf08de.8eac9d15.text.2=パックによるレシピの変更に備えて、jeiではすべてのレシピを見ることができるように設定されていますが、アイテムを作る前に適切な研究を行う必要があります。
+interactions.20bf08de.8eac9d15.text.4=例えば、底なしの壷を作りたい場合、JEIでいつでもレシピを見ることができますが、やはりソーモノミコンに示されているように、前提条件であるヘッジの錬金術研究が必要になります。
+
+interactions.20bf08de.961eb3ac.title=私は研究が嫌いです
+interactions.20bf08de.961eb3ac.text.0=このクエストホイールは完全に任意のものです。Thaumcraftの進行に問題を抱えている人のために、通常のMODを進行させることなく、このエリアから重要な必須研究を手に入れることができます。推奨はしませんが、お好きな方はどうぞ。
+interactions.20bf08de.961eb3ac.text.1=クエストを進めたい場合は、手動でリサーチを行った後に、これらをチェックすることができます。
+
+interactions.20bf08de.b4f9e445.title=これを注入してください
+interactions.20bf08de.b4f9e445.text.0=このクエストでは、インフュージョンの研究が解禁されます。
+
+interactions.20bf08de.b721d7a5.text.0=フォーカル・マニピュレーターは、キャスティング・ガントレット用のフォーカルを作成し、アップグレードすることができます。これにより、ゲーム序盤に様々なユーティリティを付与することができます。特に、必要に応じて自分自身を回復するためのヒーリングフォーカスをお勧めします。
+
+interactions.20bf08de.bcf33fda.title=私は研究が大好きです!
+interactions.20bf08de.bcf33fda.text.0=木のテーブルにスクライビングツールを使って、初めての研究用テーブルを作る
+
+interactions.20bf08de.chapter.title=なんだこの魔術は
+interactions.20bf08de.chapter.description.0=魔術についてあまり詳しくないガイド
+
+interactions.20bf08de.da041c64.text.0=グローストーンを手に入れるには、レッドストーンを遠心分離機にかけるか、ネザーから採掘するか、錬金術の魔法陣を使ってTinyPileofGlowstoneDustを作り、それを組み合わせて完全なダストにする必要があります。
+interactions.20bf08de.da041c64.text.2=一度手に入れたものは、ソームクラフトで無限に複製することができます。
+interactions.20bf08de.da041c64.text.4=注：Nitorは単一の形状のクラフトレシピで再着色することができます...
+
+interactions.20bf08de.e10dabbe.description=宝石精製機の設計図は、オーバーワールドのダンジョンから取得できます。熱とマナを利用して、通常の宝石を完璧な宝石に精製することができます。
+
+interactions.20bf08de.e6692d66.text.0=慎重に練り上げられた下品なvis。
+interactions.20bf08de.fcbe45ca.text.0=ナクレの自動化は重要で、神秘の石の使い道はたくさんあります。
+
+interactions.20bf08de.fcf52cc5.text.0=隣接するタンクにゆっくりと水を供給します。
+interactions.20bf08de.fcf52cc5.text.1=水性アキュムレータにすることもできるし、たぶんそうすべきだと思います。
+
+interactions.20bf08de.ff3d03e4.description=Autoclaveに入れたResinとCertusQuartzSeedでクラフト。
+
+interactions.251cae50.097e1d70.description=アセンブリやスパコンなどで使用される。Redditによると、あなたのコンピュータでMinecraftをより速く走らせ、読み込みを速くし、クリーパーの爆発を防ぎ、髪を伸ばし、プライバシーを守ります。
+
+interactions.251cae50.1118d70b.description=シリコンストックがブール市場を牽引している。
+
+interactions.251cae50.1207a7cd.title=ZPM時代
+interactions.251cae50.1207a7cd.description=この行のアイテムは、ほとんどのZPMレシピで使用されます。
+
+interactions.251cae50.165a3388.title=LuV時代
+interactions.251cae50.165a3388.description=この列のアイテムは、ほとんどのLuVレシピで使用されます。
+
+interactions.251cae50.255cde8c.title=SMDコンポーネント
+interactions.251cae50.255cde8c.text.0=回路にはさまざまな部品が使われています。後悔しないためには、SMDタイプの部品の生産を自動化することです。LVからWetwareまでのレシピに使用されています。
+
+interactions.251cae50.27253a8f.title=HV時代
+interactions.251cae50.27253a8f.description=この行のアイテムは、ほとんどのHVレシピで使用されます。
+
+interactions.251cae50.31d4520f.title=EV時代
+interactions.251cae50.31d4520f.description=この列のアイテムは、ほとんどのEVレシピで使用されます。
+
+interactions.251cae50.326abe93.title=IV時代
+interactions.251cae50.326abe93.description=この行のアイテムは、ほとんどのIVレシピで使用されます。
+
+interactions.251cae50.3ab2fbc0.title=MV時代
+interactions.251cae50.3ab2fbc0.description=この列のアイテムは、ほとんどのMVレシピで使用されます。
+
+interactions.251cae50.3c172ef4.description=回路のパーツの中では2番目に作りやすいパーツですが、ゲーム後半になると回路基板のクラフトが重なり合うようになります。
+interactions.251cae50.3c172ef4.tasks.0.title=回路基板
+
+interactions.251cae50.4b2655c5.title=UV時代
+interactions.251cae50.4b2655c5.description=この列のアイテムは、UV時代でクラフトすることができます。
+
+interactions.251cae50.84a5a212.title=LV時代
+interactions.251cae50.84a5a212.description=この列のアイテムは、LV時代でクラフトすることができます。
+
+interactions.251cae50.8ef056b5.title=MAX時代
+interactions.251cae50.8ef056b5.description=この行のアイテムは、ほとんどのMAXレシピに使用されています。
+
+interactions.251cae50.a912b4b8.text.0=ガリウムは、より良い回路を作るためのレアメタルです。ネザーで発見されたボーキサイトや閃Zinc鉱を加工する際の副産物として入手できる。
+
+interactions.251cae50.a916453b.title=LV時代
+interactions.251cae50.a916453b.description=この行のアイテムは、ほとんどのLVレシピに使用されています。
+
+interactions.251cae50.b06b5e7b.title=EV時代
+interactions.251cae50.b06b5e7b.description=この行のアイテムは、ほとんどのEVレシピに使用されています。
+
+interactions.251cae50.b99f707f.title=IV時代
+interactions.251cae50.b99f707f.description=この列のアイテムは、ほとんどのIVレシピに使用されています。
+
+interactions.251cae50.bbd4247f.title=LuV時代
+interactions.251cae50.bbd4247f.description=この行のアイテムは、ほとんどのLuVレシピに使用されています。
+
+interactions.251cae50.c193d3a6.title=MV時代
+interactions.251cae50.c193d3a6.description=この行のアイテムは、ほとんどのMVレシピに使用されています。
+
+interactions.251cae50.chapter.title=偽の電気工学
+interactions.251cae50.chapter.description.0=このクエストラインでは、プロセッサーの全体的なプログレッションの概要と、各Tierへの到達方法を説明しています。
+interactions.251cae50.chapter.description.2=進行中に新しい回路が必要になったときには、このタブで回路の作り方を確認することができます。
+interactions.251cae50.chapter.description.3=一般的には1つ下の階層の技術でも回路を作ることができますが、リソースコストが高くなることに注意してください。これは、より高いマシン・Tierに到達するためには、望ましいルートであり、時には必要なルートでもあります。
+
+interactions.251cae50.d1a98f7f.title=UV時代
+interactions.251cae50.d1a98f7f.description=この行のアイテムは、ほとんどのUVレシピで使用されています。
+
+interactions.251cae50.d94602f8.title=HV時代
+interactions.251cae50.d94602f8.description=この列のアイテムは、ほとんどのHVレシピで使用されています。
+
+interactions.251cae50.ea9f723e.title=ZPM時代
+interactions.251cae50.ea9f723e.description=この列のアイテムは、ほとんどのZPMレシピで使用されています。
+
+interactions.251cae50.ffc526b6.title=Bronze時代
+interactions.251cae50.ffc526b6.description=この列のアイテムは、Bronze時代でクラフトできます。
+interactions.251cae50.ffc526b6.tasks.0.title=了解
+
+interactions.28fb9cd4.00fd92b4.title=正しいスタートを切るためには
+interactions.28fb9cd4.00fd92b4.text.0=このパックでは、MODとの相互作用が解決されないため、ステップアシストのVicioパークが無効になっています。代わりに、ステップアシストの美味しさを、身長のリンゴで提供します。どうぞ、お試しください。
+
+interactions.28fb9cd4.1d37b267.title=光の祭壇
+interactions.28fb9cd4.1d37b267.description=エッセンスを注入した新しいタイプのスチールを利用することで、星の光をよりよく集中させる祭壇を作る方法を見つけました。これにより、多くの新しいタイプの魔法クラフトが可能になります。
+
+interactions.28fb9cd4.26a248a1.title=スターゲイザー
+interactions.28fb9cd4.26a248a1.description=天体図鑑を手に入れたら、今度は望遠鏡を作って、空に浮かぶ星座を探してみましょう。
+
+interactions.28fb9cd4.28697112.title=暗闇の中で自分の道を探す
+interactions.28fb9cd4.28697112.description=六分儀を使えば、神殿などにも行きやすくなりますよ。
+interactions.28fb9cd4.28697112.text.0=六分儀は、重要な構造物のブロック（儀式用の台座や注入器など）の上で右クリックすると、AS構造物の構築方法をインワールドでプレビューすることができます。
+
+interactions.28fb9cd4.287cd5e6.title=スターメタル鉱石
+interactions.28fb9cd4.287cd5e6.description=月面ではスターメタル鉱石が採掘されます。
+interactions.28fb9cd4.287cd5e6.text.0=星の光で変身することはできませんが、ジャーナルによると、これは月にしかありません。
+interactions.28fb9cd4.522b5dbb.title=混沌をまとう
+interactions.28fb9cd4.522b5dbb.text.0=最上階の祭壇では、「星屑のマント」と呼ばれるAstral Sorceryのパワーアーマーを作成することができます。アチューンメントの方法によって様々なバリエーションが存在し、着用者に強力な効果をもたらします。
+interactions.28fb9cd4.522b5dbb.text.2=他にもカオスダメージをほぼ完全に防ぐことができるので、カオスの力に頼って破壊する強敵と戦う際には非常に有効です。(追記：アルマラの恩恵が一番安定します)
+
+interactions.28fb9cd4.645e1204.text.0=Starlightクラフトの最終段階の祭壇です。この祭壇では、最も遠い星からの光を集めて、アイテムやクリスタルを新たな方法で強化することができます。また、星屑マントのような非常に強力な装備品を作ることもできます。
+
+interactions.28fb9cd4.6a38accb.title=天の位置がずれたとき
+interactions.28fb9cd4.6a38accb.text.0=アチューンメントを行い、天恵の経験値を稼ぎ始めた後、間違いを犯したことに気付き、リセットしたいと思うかもしれません。
+interactions.28fb9cd4.6a38accb.text.1=シフティングスターは、これまでの歩みを完全にリセットし、スタート時のアチューンメントを選択し直すことができます。しかし、すべてのXPを失うことは好ましくありません。
+interactions.28fb9cd4.6a38accb.text.2=その後、「イラディアント・スター」を製作することができ、これを使用すると、停止しても経験を維持することができます。そのために、今ならこの星を1回だけ選択することができます。さあ友よ、輝け
+
+interactions.28fb9cd4.77432fb3.title=LiquidStarlight
+interactions.28fb9cd4.77432fb3.description=ライトウェルを使って、LiquidStarlightのバケツを作る。Nitorはスタート時の触媒として最適です。注：飲んでも安全です
+
+interactions.28fb9cd4.79f5e019.title=Starlightの集中
+interactions.28fb9cd4.79f5e019.description=StarlightInfuserはマルチブロック構造で、特定のアイテムを変換して技術的な要件を回避したり、非常に強力なInfusedToolや武器を作成したりすることができます。
+interactions.28fb9cd4.79f5e019.text.0=Infuserは、AstralSorceryでは一般的なものよりもずっと早く入手できます。六分儀を使って、アストラルのジャーナルで十分に進んでいない場合は、作り方を確認してください。この方法は、ゲーム序盤のダイヤモンドやラピスの加工に最適です。
+interactions.28fb9cd4.79f5e019.text.1=そして、武器・道具に注入できます。
+interactions.28fb9cd4.7f872949.title=ダイヤモンドではない
+interactions.28fb9cd4.7f872949.description=Aquamarineは、いくつかの魔法のプロセスで重要な成分です。サファイアから精製する技術はまだありませんが、世界中に散らばる古代の寺院で見つけることができるかもしれません。
+
+interactions.28fb9cd4.90c2c474.title=初めての植林場
+interactions.28fb9cd4.90c2c474.description=TreeBeaconを使って、より簡単に木や苗木を集めることができます。
+
+interactions.28fb9cd4.9ca9393d.title=星へのつながり
+interactions.28fb9cd4.9ca9393d.text.0=StarlightLinkingToolは、コレクタークリスタルなどのStarlightソースをLens、Prism、Alter、Ritual、ブロックにリンクさせ、クラフト、Ritualのパワー、TransmutationのためのStarlightエネルギーを導くことができます。本パックでは、このツールが幅広く使用されています。
+
+interactions.28fb9cd4.a0dbf15e.text.0=星の屈折表は、星の光をエンチャントのエネルギーに集中させることができ、通常のエンチャントの限界をも超えることができます。ルート5+、シャプネス+6のようなものそしてもっと! 紙を燃やさないように注意してください。ポーションやアーマーにもエンチャントできます
+interactions.28fb9cd4.a0dbf15e.text.1=専用グラスに刻印したエンチャントを使用して
+
+interactions.28fb9cd4.b1dded11.title=星の光でクラフト
+interactions.28fb9cd4.b1dded11.description=Astral Sorceryのクラフトを始めるには、「発光クラフトテーブル」が必要です。クエストをクリアするには、必ずこれを手に入れてください。
+
+interactions.28fb9cd4.b46714b7.text.0=天空の祭壇をクラフトすると、多くの中層から上級のレシピがアンロックされます。これらのレシピは、特に自己強化やゲーム中の魔法の効用に役立ちます。また、新しいTierの天空の紙を作ることができるようになります。
+
+interactions.28fb9cd4.ba92ee4f.title=Celestial Research Note
+interactions.28fb9cd4.ba92ee4f.description=星座に関するさまざまな天文学的研究ノートが、StarlightCraftingAlterにアクセスしてクラフトできるようになりました。今後の研究やアチューンメントのために、興味のある基本的なバリエーションをいくつか作ることができるでしょう。なお、これらはTempleには出現しなくなりました。
+
+interactions.28fb9cd4.be1cd5e2.title=軸がぶれない
+interactions.28fb9cd4.be1cd5e2.description=砥石はAstralSorceryの道具や水晶を研ぐのに使われますが、大きさを犠牲にしていますが、LiquidStarlightにアイテムを浸すことで大きくすることができます。さらに、ほとんどの武器を研ぐことができ、恒久的にダメージを追加することができます。
+
+interactions.28fb9cd4.chapter.title=マイ・ラッキースター
+
+interactions.28fb9cd4.d390454a.title=星の力を借りる
+interactions.28fb9cd4.d390454a.description=アチューンメントの基本がわかったところで、クリスタルにも星座をアチューンメントすることができます。アチューンされたクリスタルは、使用する星座に応じたエリア効果を発揮します。好きなクリスタルを使って、儀式用の台座を作ります。
+interactions.28fb9cd4.d390454a.text.0=このクエストで入手したクリスタルを使って、Vicioの儀式を行うことができます。この儀式は、その範囲内でクリエイティブ飛行を可能にします。拠点周辺の創造的な構築に最適です。
+
+interactions.28fb9cd4.d85bce55.title=MineralisRitual
+interactions.28fb9cd4.d85bce55.description=AstralSorceryのMineralisRitualは、ありふれた石を貴重な鉱石に変えることができます。ただし、生成できる範囲は限られており、ここで紹介する鉱石しか生成できません。
+
+interactions.28fb9cd4.de2a21ac.title=Bippity Boppity Boo
+interactions.28fb9cd4.de2a21ac.description=共鳴する杖は、隠されたロッククリスタル鉱石を発見したり、発光するクラフトテーブルでクラフトするための主要なツールとして機能します。
+
+interactions.28fb9cd4.e42d16d8.text.0=地表の奥深くには、はるか昔に化石化した星の光の結晶があります。この原石の結晶は、星の光を集めてコントロールするユニークな性質を持っています。それを見つけるためには、共鳴の杖を手に持つかオフハンドに持ち、向こう側を見てみましょう。
+interactions.28fb9cd4.e42d16d8.text.1=夜になると地表に出てきます。鉱石を見つけるために掘るべき場所を示すかすかなきらめきが見えます。また、岩盤の近くでも同様の現象が見られ、低い位置から見ることができます。幸運の道具を使って採掘することをお勧めします。
+
+interactions.28fb9cd4.efa75c67.title=Skywalker
+interactions.28fb9cd4.efa75c67.description=アチューンメント祭壇の力で、星の力を自分に吹き込むことができます。祭壇を作り、好きな星座のパターンをセットして、星空の時にアチューンメントを行います。
+
+interactions.3c089439.0476c960.title=Small indium game dev company
+interactions.3c089439.0476c960.text.0=Indiumが手に入ったことで、より良い回路を作るためにIndiumGalliumPhosphideDustを作ることができ、エンドポータルを作動させるために必要な邪悪な涙も作ることができます。
+
+interactions.3c089439.229c3e3f.title=Concentrate Indi
+interactions.3c089439.229c3e3f.tasks.1.title=Indium Concetrate
+interactions.3c089439.229c3e3f.text.0=凝縮インジウムは、アルミニウムダストと組み合わせて、回路加工に使用するインジウムダストの小さな山を作ります。回路加工を強化するためには、これが少し必要になります。
+
+interactions.3c089439.2904b19b.title=月の石
+interactions.3c089439.2904b19b.description=Tungstenの加工を始めるには、まずMoonTurfを手に入れ、Starlight経由でエンドストーンに変換する必要があります。
+
+interactions.3c089439.468e3e2d.title=Indium Gogo
+interactions.3c089439.468e3e2d.tasks.2.title=硫酸
+interactions.3c089439.468e3e2d.text.0=高Tierの回路処理チェーンでは、インジウムという希少な素材が必要になります。これを作るには、精製したSphalerite、Galena、硫酸を組み合わせて凝縮インジウムを作る必要があります。
+
+interactions.3c089439.9b9ce474.title=シンク・イン・ザ・ピンク
+interactions.3c089439.9b9ce474.tasks.0.title=四塩化チタンの生産
+interactions.3c089439.9b9ce474.text.0=これまでの高Tierの金属とは異なり、チタンを作るには特別なプロセスが必要です。ルチルに塩素と炭素を加えて四塩化チタンという液体を作ります。これをマグネシウムと一緒にHVパワーで溶鉱炉にかけるのです。
+interactions.3c089439.9b9ce474.text.1=これにより、最初のチタンインゴットが得られ、マグネシウムの回収サイクルが生まれます。1つのインゴットにつき、使用した2つのダストのうち1.5つを回収することができます。想像した通り、このインゴットは大量に必要になります。
+
+interactions.3c089439.a1c5f008.title=Alien Stone
+interactions.3c089439.a1c5f008.text.0=エンドストーンを手に入れたら、TungstateDustにしてさらに加工することができます。最も効率的な方法は、infernalDeconclomeratorです。
+interactions.3c089439.a1c5f008.text.1=その回路図はネザーダンジョンでしか見られない。不運にも見つからなかった場合は、粉砕して遠心分離機にかけることもできますが、効率は少し落ちます。
+interactions.3c089439.a1c5f008.text.2=HV metallugyの最終段階である「EV+ Metallugy Tier」に進む。
+
+interactions.3c089439.chapter.title=Metallurgy HV
+
+interactions.40159cc8.025a49a7.title=Fusing Worlds...
+interactions.40159cc8.025a49a7.text.0=宇宙ステーションを太陽系外惑星に導くためのアーティファクトを作るには、強力なフュージョンクラフトが必要です。このパックでは、低レベルのInjectorの心配する必要はありませんが、ChaoticFusionCraftInjectorを直接作ることができます。
+
+interactions.40159cc8.05f17487.title=Precisely!
+interactions.40159cc8.05f17487.description=PrecisionAssemblerは、真空密閉された部品とロボットによる組み立てを必要とするいくつかの特殊な部品を作成するために使用されます。これは、多くの高度なロケット工学の機械の重要な素材を作成します。
+interactions.40159cc8.05f17487.tasks.2.title=2x コイル
+interactions.40159cc8.05f17487.tasks.4.title=7x ハッチまたはマシンフレーム
+interactions.40159cc8.05f17487.tasks.5.title=2x モーター
+
+interactions.40159cc8.16a194f4.title=光核分裂炉
+interactions.40159cc8.16a194f4.text.0=この設計図はEuclydesのダンジョンで見つけることができ、後にクラフト可能になります。加工されたウラン燃料があれば、タービンでLuV級の電力を生み出すことができる大量の蒸気を供給することができます。
+
+interactions.40159cc8.1e07ae16.title=スティーブが行ったことのないところへ果敢に行くために...
+interactions.40159cc8.1e07ae16.description=宇宙ステーションにWarpCoreを作り、DilithiumCrystalを供給し、WarpControllerを使ってはるか彼方の銀河へと旅立つ。
+
+interactions.40159cc8.1e936edf.title=ダイヤモンドとエメラルドの鉱脈
+
+interactions.40159cc8.1f76afbc.text.0=一部の高級合金の主成分であり、Aurelliaに豊富に存在している。
+
+interactions.40159cc8.237309c2.title=危険、ウィル・ロビンソン! 危険だ！
+interactions.40159cc8.237309c2.description=宇宙に到達すると、光源を無視する特定のモブがいる新しいモブステージングが解除されます。基地を守るために、ピースキャンドル（クラフトのみ）や(Astral Sorcery)Lucerna 祭壇を用意することを強くお勧めします。
+
+interactions.40159cc8.2524e21f.title=血まみれ地獄
+interactions.40159cc8.2524e21f.description=BlackQuartzの塊を触媒アイテムとして、血魔術の儀式「崩れる塔の印」を行うことで、高濃度の放射性物質を含む流星を召喚することができます。
+interactions.40159cc8.2524e21f.text.0=この儀式でトリウムの鉱石を手に入れ、それをウランに変換し、さらにプルトニウムに加工してラドンにすることができます。
+
+interactions.40159cc8.2732c95a.title=Aluminium生産
+
+interactions.40159cc8.2b5f5376.title=Sky Cauldron
+interactions.40159cc8.2b5f5376.text.0=Skycauldronの設計図は、月のダンジョンで見つかります。LiquidStarlightやレーザー光をSkyCauldronにため込むことができます。その中でクリスタルのような調律を完成させ、浄化することができます。
+
+interactions.40159cc8.2f6967ca.title=Vinteum鉱石
+interactions.40159cc8.2f6967ca.text.0=Euclydesの世界にのみ自然に存在する魔法の金属です。地上の素材だけでは実現できない新しい魔法のプロセスや、より高度な技術を可能にする異世界の特性を持っています。
+
+interactions.40159cc8.323ae2d3.title="誰か嘔吐袋をくれないか？"
+interactions.40159cc8.323ae2d3.description=宇宙ステーションを打ち上げる準備ができたら、ロケットを作ってパッドで組み立てます。組み立て終わったら、ステーションのIDチップをGuidanceComputerに挿入し、宇宙ステーションをSatelliteBayに入れます。
+
+interactions.40159cc8.3d592508.title=Explosive!
+interactions.40159cc8.3d592508.description=極低温の水素と酸素を化学反応器で結合することで、ロケットの推進力となる反応性の高い混合物を得ることができます。これで、ロケットの製造が自動化され、ロケットを作って宇宙に打ち上げる準備が整いました。
+
+interactions.40159cc8.425146df.title=Geowhatsit?
+interactions.40159cc8.425146df.description=非常に特殊な形をしたこのコンクリートは、熱の放散が非常に速く、発射台そのものだけでなく、いくつかの機械にも必要な構成要素です。
+
+interactions.40159cc8.4736aa30.title=BlackQuartz鉱脈
+
+interactions.40159cc8.64dd4174.title=Nickel鉱脈
+
+interactions.40159cc8.6c94636b.title=高機能ワイヤレスリンクツール
+interactions.40159cc8.6c94636b.text.0=最先端のロケット機器に搭載されている隠れたエミッターとレシーバーをリンクさせることができる。
+
+interactions.40159cc8.6f38c8a5.title=スペイシー(ケビンではありません)
+interactions.40159cc8.6f38c8a5.description=宇宙ステーションを作るには、発射台の横に「宇宙ステーション組立機」を置きます。プラットフォーム上にお好みのステーションを構築してください。宇宙に出たら、さらに構築することができます。建設が完了したら、Space Station Assemblerにアクセスして、左上のスロットにSatellite Bayを、右にSpace Station ID Chipを置いて、Scanを押します。問題がなければ「ビルド」をクリック。チップとベイを持って先に進みます。
+interactions.40159cc8.6f38c8a5.text.0=この小さなマルチブロックを機能させるために、ビルダーを電源入力の上に置きます。
+interactions.40159cc8.6f38c8a5.text.1=小さなステーションを建設して、宇宙にいるときにそれを構築することもできますが、例えばCelestialGatewayのように、完全にストックされたステーションを建設することもできます。
+interactions.40159cc8.6f38c8a5.text.2=打ち上げ前にステーションIDチップをコピーしておくと、万が一紛失しても安心です。
+
+interactions.40159cc8.79bca20b.title=Beam me up Scotty!
+interactions.40159cc8.79bca20b.description=宇宙ステーションを行き来するには、より簡単な移動手段を利用するとよいでしょう。
+interactions.40159cc8.79bca20b.text.0=CelestialGatewayは次元間移動に最適です
+
+interactions.40159cc8.8968f5fc.title=StarMetal鉱脈
+interactions.40159cc8.8968f5fc.description=この鉱脈がもっと青くなるには、GregtechのSodiumブロックが必要です。
+interactions.40159cc8.8968f5fc.text.0=この鉱脈のAluminiumは、EBFを必要とせず、直接InfernalFurnaceで処理できるという特徴があります。
+
+interactions.40159cc8.8d952225.title="I'm Givin' Her All She's Got, Captain!"
+interactions.40159cc8.8d952225.description=宇宙ステーションにOrbitalLaserDrillを作る。この子はパワーに飢えているので、すべてを与えてあげてください。
+interactions.40159cc8.8d952225.text.0=レッドストーンシグナルでこの子をオンにして、GUIにレンズを設置してください。サーバーでプレイする際、他のプレイヤーがビルドしている場合はXとYの設定を変更する必要があります。
+
+interactions.40159cc8.8fe82d61.title="論理は知恵の始まりであって、終わりではない"
+interactions.40159cc8.8fe82d61.description=前提条件のクエストは、宇宙を進むために必要となる素材です。それらを手に入れたら、マルチブロックのガイドとなるホロプロジェクタを作り、次に進みます。マシンの設計図を設定するには、地面をクリックし、ホイールスクロールしてレイヤーを変更します。
+interactions.40159cc8.8fe82d61.text.0=また、マルチブロックを選択した状態でホロプロジェクタにカーソルを合わせると、必要なものが表示されます。
+
+interactions.40159cc8.91d4c602.title=H2 4u2
+interactions.40159cc8.91d4c602.description=Cryotheumを低温触媒として使用し、水素と酸素を過冷却してロケット燃料の前身とする。
+
+interactions.40159cc8.95179e4c.title=Exxon Wifi
+interactions.40159cc8.95179e4c.description=こんなに危険なものを、ロケットにホースで運ばせるとでも思ったのか？
+
+interactions.40159cc8.97e0a29a.title=闇の星Aurellia
+interactions.40159cc8.97e0a29a.description=この惑星はブラックホールの周りを回っています。大気は地球に似ていますが、ブラックホールの近くでは重力が非常に大きくなっていることがわかります。 
+
+interactions.40159cc8.99cb3721.title=Primal Dusts
+interactions.40159cc8.99cb3721.text.0=Euclydesからの最終的な材料で、PrimalManaDust、そして究極の魔法エネルギーであるPrimalManaを作り出すことができます。高度な溶鉱炉で十分に高い熱と温度で高い反応性を示します。
+
+interactions.40159cc8.aa00e5cf.title=これがあなたの獲物です
+interactions.40159cc8.aa00e5cf.description=惑星の広い範囲を採石する直接的な方法はありませんが、資源のために他の世界を喜んで破壊することができます。これらのアイテムを建設し、帰還したデータを観測所で分析して、採掘ミッションを開始します。
+
+interactions.40159cc8.aaff7676.title=シアン色の死の水
+interactions.40159cc8.aaff7676.text.0=Euclydesの海は、やや酸性の青い液体で満たされているようです。分析の結果、Copperの含有量が非常に多いことがわかりました。これを汲み上げて精製すれば、無限のCopperの供給源になるかもしれません。
+interactions.40159cc8.aaff7676.text.1=この液体を作ることができる遺伝子組み換えされた鶏の噂もあります...。
+
+interactions.40159cc8.b7776072.title="長生きしてね！"
+interactions.40159cc8.b7776072.description=大気のないところで生き延びるためには、保護用の宇宙服と酸素が必要です。基本的なスーツを作った後は、作業台、胸部のエアタンクを中心に、オプションのモジュールを使ってアップグレードする必要があります。
+interactions.40159cc8.b7776072.text.0=酸素ボンベには必ずGregtechの酸素を入れてください。
+interactions.40159cc8.b7776072.text.1=宇宙服の代わりに、オプションで装備に気密性を高めるエンチャントを使用することができます。
+
+interactions.40159cc8.bf1555f2.title=PolyvinylChlorideの生産
+
+interactions.40159cc8.c0b8f931.title=タンクを交換する手間が省ける
+interactions.40159cc8.c0b8f931.text.0=携帯電話のように、ワイヤレスで酸素を補給できるとしたら？この子犬に酸素を供給して上に立つだけで、すぐに終わります。
+
+interactions.40159cc8.c3e76f1e.title=宇宙競争!
+interactions.40159cc8.c3e76f1e.description=宇宙への進出を果たしたあなたは、モブステージングの最終段階をアンロックします。OrbitalLaserDrillでスカイストーンを入手し、ワープドライブで他の世界を探索します。このクエストの右側にあるすべての鉱石は、OrbitalLaserDrillが採掘できるブロックです。
+
+interactions.40159cc8.c7808115.description=OrbitalLaserDrillから「スカイストーン」を入手
+
+interactions.40159cc8.c9964942.title=CobaltとStarmetalの鉱脈
+interactions.40159cc8.c9964942.description=青は私の好きな色ではありません。
+
+interactions.40159cc8.cfd3a738.title=MVAssemblingMachine
+
+interactions.40159cc8.chapter.title=宇宙
+interactions.40159cc8.chapter.description.0=宇宙で一番好きなものは何ですか？私は宇宙です。このタブには、鉱石生成についての情報と、さまざまな太陽系外惑星の進行状況が含まれています。また、SPAAAAAACE!
+
+interactions.40159cc8.d7ea4c5b.description=トリウムを使ってプルトニウム244を作り、ラドンを作るとImproved Ender Eyesのロックが解除されます。
+interactions.40159cc8.d7ea4c5b.text.0=ラドンの生成に関する詳細は、「HV Chemistry」タブを参照してください。
+
+interactions.40159cc8.da0cc52f.title=Euclydes Prime
+interactions.40159cc8.da0cc52f.description=この世界に行くためには、Euclydes Prime Artifactを作り、それをWarpControllerで使用する必要があります。
+interactions.40159cc8.da0cc52f.text.0=アニメーションのテクスチャを提供してくれたDJJBanx氏に感謝します。
+
+interactions.40159cc8.dc8a31e7.title=無人ロケットでSpaaaceee!
+interactions.40159cc8.dc8a31e7.description=無人のロケットを宇宙に飛ばすには、RocketMonitoringStationが必要です。無人のロケットに必ずリンクさせてください。
+
+interactions.40159cc8.dcb34d20.title=Manganes鉱脈
+
+interactions.40159cc8.df12bbbe.title=宇宙で迷子にならないでください
+interactions.40159cc8.df12bbbe.description=誘導コンピュータは、ロケットには欠かせないもので、ここに目的地のIDを入力して、ロケットがどこを飛ぶべきかを指示します。
+
+interactions.40159cc8.e3087d37.title=Siliconの生産
+
+interactions.40159cc8.ef34b526.title=Magnesium鉱脈
+
+interactions.40159cc8.f1db3ede.description=新しい素材と高度な加工機があれば、技術を飛躍的に向上させることができる新しい素材を作ることができるはずです。
+interactions.40159cc8.f1db3ede.text.0=AE2や自動クラフトには欠かせない合金です。
+
+interactions.40159cc8.f8f90da4.title=フライトの基礎
+interactions.40159cc8.f8f90da4.description=ロケットを発射するためには、宇宙ステーションの構築とスキャン、そしてロケット自体のスキャンと発射の両方に適した発射台が必要です。発射台は正方形で、片側に構造物の塔があり、その横にそびえ立っています。
+
+interactions.40159cc8.fe50d67e.title=これは一人の人間にとっては小さな一歩だが、人類にとっては偉大な一歩である
+interactions.40159cc8.fe50d67e.description=月面に最初の一歩を踏み出したことで、「1969年の月面着陸は演出だったんだ！」ということがよくわかります。
+interactions.40159cc8.fe50d67e.text.0=GuidanceComputerに「PlanetIDChip」を装着すると、他の惑星に旅行することができます。
+interactions.40159cc8.fe50d67e.text.1=重要：月はVoidWorldの月であり、OverWorldの月ではありません。月を有効な目的地として見るためには、VoidWorldから出発しなければならない。
+
+interactions.40159cc8.fe5903e5.text.0=この世界の最深部には、変わった性質を持つ不思議な砂があるようだ。それは...他の用途があるかもしれない。
+
+interactions.40159cc8.fef2395c.title=MVLaserEngraver
+interactions.498eb09c.31031dcd.title=バイオマス
+interactions.498eb09c.31031dcd.description=最高の触媒はBotania 花弁ですが、信じられない場合はJEIで再確認してください。
+
+interactions.498eb09c.33705eac.title=High Powered Hootch
+interactions.498eb09c.33705eac.text.0=エタノールはバイオマスから生成することができますが、これは植物と蜂蜜から生成するのが最も効果的です。Rusticの養蜂場から採れるハチミツは豊富で、ボタニアの花は、色のついたアマランサスを使って自動化したり、白金属をマナで複製したりすることができます。
+
+interactions.498eb09c.46ef265b.title=フッ素
+interactions.498eb09c.46ef265b.description=レピドライトを中心とした様々な塩を電気分解して得ることができる。黒雲母のダストから再生可能に合成される。
+interactions.498eb09c.46ef265b.text.0=フッ素チキンを作ることもできます。鶏は本当に何でも解決してくれますよね。ブラッシングには適さないかもしれません。
+
+interactions.498eb09c.562511fd.title=持つには冷たすぎる
+interactions.498eb09c.562511fd.description=空気をVacuumFreezerに通すと、低温と圧縮により液体になり、遠心分離することで大量の有用なガスを得ることができます。
+interactions.498eb09c.562511fd.tasks.0.title=持つには冷たすぎる
+interactions.498eb09c.562511fd.text.0=これでガスが発生し、Centrifugeにかけることで様々な副産物を得ることができます。また、同じようにガスを出すChickenもいます。どちらを選ぶかはあなた次第ですが、大量に必要になるでしょう。
+
+interactions.498eb09c.76231851.title=Resistance is Rutile
+interactions.498eb09c.76231851.description=ボーキサイトダスト39個を電気分解してルチルダスト2個だけを得るか、精製したボーキサイト3個を遠心分離してルチル1個を得る。幸運なことに、ボーキサイトの鉱脈がネザーで発見され、より豊富なルチルの鉱脈が遠く離れたEuclydesの世界で検出されました。
+
+interactions.498eb09c.829ccb26.title=拠点の化学キット
+interactions.498eb09c.829ccb26.text.0=MV化学に取り組むには、高度なChemical Reactorが必要です。これは、Dieselの生産、より高速なPlastic、その他多くの高次の化学レシピのための重要な機械です。最終的にはこれもいくつか使うことになるだろう。
+
+interactions.498eb09c.92121a82.tasks.0.title=Ethenon
+
+interactions.498eb09c.ab1191d2.title=私はプラスチックでできています、素晴らしいですね
+
+interactions.498eb09c.c58a646a.title=蒸留器は常に中庸の精神である
+interactions.498eb09c.c58a646a.description=レシピやマシンの中には、他よりも動作が速いものがありますので、ボトルネックに注意してください。また、チェーンに含まれるレシピの中には最低電圧が異なるものがあるため、オーバークロックされて計算がさらに複雑になることもあります。
+
+interactions.498eb09c.ccb40f2e.tasks.0.title=Asetone
+
+interactions.498eb09c.chapter.title=MV化学
+
+interactions.498eb09c.d5bfbf5e.title=CharcoalByproduct
+interactions.498eb09c.d5bfbf5e.text.0=CharcoalByproductは、多くの化学反応に必要な3つの重要な化学物質に変わります。その入手方法はあなた次第です。SludgeからIndustrialForegoingのRefineryを経由して入手したり、Sludgeを生産するSmogChickenから入手したり、
+interactions.498eb09c.d5bfbf5e.text.1=あるいはPyrolyseOvenから直接入手したり。
+
+interactions.498eb09c.d9490983.title=EpoxyResinのフローチャート
+
+interactions.498eb09c.dcf76677.title=Awesome Mix Tape
+interactions.498eb09c.dcf76677.text.0=MV以降のミキサーは、キャノーラで濃縮することで油の収量を2倍以上にする新しい精製方法をはじめ、いくつかの新しい化学レシピを可能にします。
+
+interactions.498eb09c.e59d539f.title=Empowerd Oil
+interactions.498eb09c.e59d539f.text.0=Oilを2回目に濃縮してEmpowerdOilにすることで、バケツ1杯分のオイルの総獲得量は、RawOilを使う場合に比べて300%%も高くなります。さらに、蒸留の過程でより良い副産物を得ることができ、生産にかかるエネルギーと時間を全体的に節約することができます。
+
+interactions.498eb09c.f8f095e1.title=PolyEthyleneフローチャート
+
+interactions.498eb09c.fbf13869.title=環境にやさしいビール。そしてエネルギー
+interactions.498eb09c.fbf13869.description=大規模なEthanolのセットアップをするなら、これを数十個作るといいかもしれません。
+
+interactions.5c5ec752.25ea6a5e.title=改良型コーク...。地獄のような薬
+interactions.5c5ec752.25ea6a5e.description=ImprovedCokeOvenの設計図を作成し、その構造を構築することで、石炭や木炭をはるかに効率的に処理できるようになります。木炭をCoalCokeにすることもできます。このプロセスは通常のCokeOvenの約2倍の速さです。
+interactions.5c5ec752.25ea6a5e.text.0=多くのマルチブロックと同様に、ImprovedCokeOvenは上下のブロックを他のOvenに共有することができます。このOvenを3台稼働させれば、大型Boilerを十分に稼働させることができます。1つのオーブンで木炭を生産し、2つのオーブンで木炭からCoalCokeを作ります。
+
+interactions.5c5ec752.26b1817a.title=TazzによるSqueezerオートメーションのインサイト
+
+interactions.5c5ec752.28e5ddea.title=地獄の研究
+interactions.5c5ec752.28e5ddea.description=LVを始め、より高度な金属を作るために。
+interactions.5c5ec752.28e5ddea.text.0=このクエストをクリアすると、InfernalFurnaceの建設に必要な研究成果が得られます。これがSteelとLVマシンへの道です。
+
+interactions.5c5ec752.2e003362.title=Infernal Furnace
+interactions.5c5ec752.2e003362.description=InfernalFurnaceは、Bellowsの数が多いほど高い確率で、CrudeStellIngotをSteelに製錬します。また、Arditeの精錬や通常の精錬レシピにも使用します。
+interactions.5c5ec752.2e003362.text.0=マルチブロックの構築方法は、Thaumonomiconを確認してください。SalisMundusで起動します。
+interactions.5c5ec752.2e003362.text.2=初期レートはCrudeSteelが1に対してSteelナゲットが2個です。まずBellowsを作って、InfernalFurnaceに取り付けます。Bellows1つにつき鉄ナゲットが2個追加され、CrudeSteel1個につき最大10個のSteelナゲットが得られます。底面にBellowsを設置することもできます。
+
+interactions.5c5ec752.33bb55ec.title=疲れないための工夫
+interactions.5c5ec752.33bb55ec.description=GTCEのWrenchを持って蒸気機械の側面を右クリックすると、蒸気の排出口を変更できることをご存知でしたか？(デフォルトでは背面)
+interactions.5c5ec752.33bb55ec.text.0=蒸気機械の排気口が塞がれると機能しなくなります。幸い、LV時代以降になるとこの問題はなくなりますが、とりあえず覚えておいてください。
+
+interactions.5c5ec752.38e43a20.title=蒸気爆発
+
+interactions.5c5ec752.38e43a20.description=Boilerを絶対に空焚きしないでください 乾いた高温のBoilerに水を入れると爆発してしまいます。
+
+interactions.5c5ec752.3fbc06c2.description=Squeezerは、非常に初期の非効率的な鉱石処理方法です。自動化されていれば、非常に早く鉱石を処理することができ、LV時代に向けて進歩し続けることができるという利点があります。最初の鉱石処理機としてお勧めです。
+interactions.5c5ec752.3fbc06c2.text.0=Squeezerを作るには、鉄を採掘して溶かし、CastiongBasinに鉄を鋳込(いこ)む必要があります。Squeezerは、レッドストーンとスライムブロックがあれば自動化できます。
+
+interactions.5c5ec752.481095ef.title=Ally Smelter
+interactions.5c5ec752.481095ef.description=あなたと味方のために合金を作るAlloyer。警告：ここには味方を入れないでください。
+interactions.5c5ec752.481095ef.text.0=レシピのエネルギー要求量を必ずお読みください。例えば、Pulsating Ironは合金製錬所で48Vを必要とするため、これを作るには最低でもMVTierの合金製錬所が必要になります。
+
+interactions.5c5ec752.5170565f.title=マルチブロック・オーブン!
+interactions.5c5ec752.5170565f.description=通常のかまどは使用できませんが、SearedFurnaceに自動的にアップグレードされます。純粋な鉱石は1つのスロットに16個スタックして溶かせます。
+
+interactions.5c5ec752.5470f8d6.title=Macerator
+interactions.5c5ec752.5470f8d6.description=Maceratorは、オプティマスプライムに殺されたディセプティコンのゴミ収集車です。また、これはあなたの最初の鉱石倍増法なので、作る価値があります。(元ネタ：映画トランスフォーマー)
+
+interactions.5c5ec752.56f69a22.title=Bronze時代は3番目に良い時代です
+interactions.5c5ec752.56f69a22.description=かまど燃料を燃やして熱を得ると、他の面からは蒸気が出るので、下から水を配管します。また、蒸気を消費するGT機械には必ず排気口があります。この排気口が外気に触れていないと、機械が詰まってしまいます。
+
+interactions.5c5ec752.669a0a29.title=そのコークではない
+interactions.5c5ec752.669a0a29.description=最初のマルチブロックでは、Creosoteと木炭という2つの重要な資源を早い段階で得ることができます。
+
+interactions.5c5ec752.6d2e1a91.title=どうやって組み立てればいいんだよ！？
+interactions.5c5ec752.6d2e1a91.text.0=すべてのGTのマルチブロックは、MultiblockTweakerModにより、必要なブロックのインワールドプレビューを提供します。キーとなるブロック（例：EBF）を配置し、ブロックを右クリックしてインワールドビューを切り替えることができます。
+interactions.5c5ec752.6d2e1a91.text.1=不足しているブロックや間違っているブロックは赤で表示されます。
+interactions.5c5ec752.6d2e1a91.text.2=また、マシンコントロールカバーを使えば、SoftHammerに頼ることなく、レッドストーンでマシンのオン/オフを切り替えることができ、一部の自動化に役立ちます。
+
+interactions.5c5ec752.72a630e9.title=Bronzeの鋲を打つ
+
+interactions.5c5ec752.7b7b6eb6.description=Bronze時代を始めるには、かなりの量のBronzeが必要になります。
+interactions.5c5ec752.7b7b6eb6.text.0=Copperやスズのインゴットを作って、それをモルタルで固めてもいいし、すでにSqueezerを作っていたら、そこに鉱石をそのまま入れて、ダストを手に入れてもいいでしょう。ダストをBronzeダストに加工し、それを製錬して最初のBronzeインゴットを作ります。
+
+interactions.5c5ec752.870986f2.title=どんな機械でもいいから選んでくれ
+interactions.5c5ec752.870986f2.description=これでどんな機械でも安全にツルハシで回収できるようになりました。マジで。使ってみてください。挑戦してみてください。私たちはあなたに勇気を与えます。また、雨の中でも機械は問題なく動きます。さあ、試してみてください、あえて。ただしThermalExpansionのドリルのAoE(範囲採掘)は機械を破壊します。
+interactions.5c5ec752.870986f2.text.0=これは、マシンを誤って破壊してしまわないようにするための便宜的な機能に過ぎません。レンチを使った方がより早くGTマシンを回収することができます。
+
+interactions.5c5ec752.893f1a30.title=Boxes without Borders
+interactions.5c5ec752.893f1a30.description="多くのGregtechとModular Machineryのマルチブロックは、天井、床、壁、そしてコイルにもブロックを共有して構築することができます。これを活用し、大量のリソースを節約しましょう。" 
+interactions.5c5ec752.893f1a30.text.0=また、チャンクボーダーについての警告です。デフォルトでF9を押すと、チャンクの境界がハイライトされます。読み込み時のエラーによる不幸な産業事故を避けるために、各マルチブロックを同じチャンク内に構築することを強くおすすめします。
+
+interactions.5c5ec752.8f66d6f7.title=決して花嫁ではなく、いつもBoilerメイド。
+interactions.5c5ec752.8f66d6f7.description=通常の蒸気機械でも、より多くの蒸気を使用し、より高速なアップグレード版を作ることができますが、通常はこれを省略しています。ああごめんなさい、ダジャレがうまくなかったですね。
+interactions.5c5ec752.8f66d6f7.text.0=LV型蒸気タービンをフル稼働させるには、このBoilerが5台必要です。
+
+interactions.5c5ec752.95d931f2.title=Copperを使いこなす
+interactions.5c5ec752.95d931f2.text.0=適切な鉱石処理の最初のステップは、Copperから得ることです。これにはGTハンマーかTiCツルハシを使うとよいでしょう。ある程度のCopperOreが手に入ったら、TiCのMelterで溶かしてインゴットの形に鋳造します。
+interactions.5c5ec752.95d931f2.text.1=ここから必要な材料を集めてSearedFurnaceを作り、Squeezerを作るための鉄を生産することができます。
+
+interactions.5c5ec752.b56bd273.title=電気時代を迎える準備をしましょう
+interactions.5c5ec752.b56bd273.text.0=今すぐLVに飛び込むこともできますが、パワーソリューションのタブを見に行って、いつまでも待たされないようなSteamの設定をしておくのが賢明かもしれません。
+
+interactions.5c5ec752.c782128e.title=Alchemical Annoyance.
+interactions.5c5ec752.c782128e.text.0=このパックの中心的なテーマは、技術と魔法の両方を並行して進行させることです。魔法の材料の中には、技術に適したものがあり、その逆もまた然りです。Bronze時代を始めるためには、Brassが必要ですが、これの材料はネザーに豊富にあるはずです。
+interactions.5c5ec752.c782128e.text.1=しかし、現在はネザーにアクセスできないため、最初のBrassの破片を作るには魔法に頼らなければなりません。Brassを作るためには、初期のThaumcraftに少しの時間と資源を投入する必要があります。詳細は「What is this Sorcery」クエストラインを参照してください。
+
+interactions.5c5ec752.chapter.title=Steamパワーと最初のマルチブロック
+interactions.5c5ec752.chapter.description.0=すべての工業化は蒸気から始まり、馬から始まったという議論もありますが、彼らは機械なのでしょうか？
+
+interactions.5c5ec752.d6801307.title=Get to the Coppa
+interactions.5c5ec752.d6801307.text.0=Gregtechの初期に光り輝くものはすべてCopperです。Copperを採掘し、TiCのMelterでインゴットを作り、工業化を始めましょう。
+
+interactions.5c5ec752.d728580e.text.0=機械は何かの中に入っていなければなりませんが、この筐体はほとんどの機械に対応しています。
+
+interactions.5c5ec752.e384c9a5.description=より良いインゴットからPlateへの変換、さらに鉱石の粉砕、玉石混交の3倍、そして実際に高速です。Maceratorが2倍になるので、電圧の低いTierでは価値が下がりますが、良い丸石製造機になります。
+
+interactions.5c5ec752.e48023fb.title=本題に入ります
+interactions.5c5ec752.e48023fb.description=Gregtechを始めてみたいと思いませんか？BrassとBronzeが必要ですが、前者はネザーでしか手に入らないZincを必要とします。それまでは、錬金術でBrassを作らなければなりません。
+
+interactions.5c5ec752.fa1162c0.description=特に言うことはありませんので、蒸気機械の排気口を露出させることをもう一度思い出してください。
+
+interactions.5c5ec752.fc94860d.description=蒸気Boilerはゆっくりと水を使いますが、チャンクロードを計画している場合は、最終的に無限の水源が必要になります。 警告x2:Boilerが爆発する唯一の方法は、乾燥して空になったBoilerに水を加えた場合です。Boilerを絶対に空にしないでください。
+
+interactions.658f0534.254a6531.title=StarlightTransmutationで鉱石を4倍に
+interactions.658f0534.254a6531.description=メカニズムは鉱石を5倍にできる？おこちゃまの話だね。
+interactions.658f0534.254a6531.text.0=あなたの小さな青い杖で、CollectorCrystallに鉱石に魔法をかけてください。鉱石増殖の世界に住むようになると、気がつけば資源がどんどん増えていきます。
+
+interactions.658f0534.2e40345e.title=魔法と電気で鉱石を8倍にする
+interactions.658f0534.2e40345e.text.0=MVTier以降では、鉱石とBloodMagicから得られるLifeEssenceとManaを組み合わせて、ConcentratedBloodShardを作ることができ、鉱石の生産量をさらに増やすことができます。
+
+interactions.658f0534.2f4525e2.text.0=ワールドでは通常の採掘ではなく、Gregtechハンマーを使って鉱石を粉砕して砕くことができます。これを行うと、Maceratorのように生来の確率で鉱石が2倍になり、幸運のエンチャントで3倍以上にもなります。
+interactions.658f0534.2f4525e2.text.1=鉱石を砕いた後は、インベントリにあるハンマーでImpureOreDustに加工し、最後に大釜で1スタックずつ洗浄します。
+interactions.658f0534.2f4525e2.text.2=また、機械があればハンマーを使わずに直接鉱石を粉砕することもできます。
+
+interactions.658f0534.57ca62b6.title=8xが8重なら、16xは……
+interactions.658f0534.57ca62b6.description=灼熱のプラズマアーク炉は体にいいんです、信じて。
+interactions.658f0534.57ca62b6.text.0=プラズマアーク炉でパイロテウムを燃焼させると、破片はさらに浄化された結晶になります。
+
+interactions.658f0534.5c340434.title=岩を砕く
+interactions.658f0534.5c340434.text.0=基本的なGTの鉱石処理は単独でも機能しますし、Interactionsの鉱石処理と併用することでさらに高い歩留まりを得ることができます。チェーンのスタートは常にClusterや鉱石の粉砕です。
+
+interactions.658f0534.658bbfe7.title=それが解決してよかったね
+interactions.658f0534.658bbfe7.text.0=鉱石を加工するスターターチュートリアルを完了しました。さあ、採掘を始めましょう！たくさん必要になりますよ。
+interactions.658f0534.658bbfe7.text.1=基本的な鉱石処理が完了したら、「LV Metallurgy」タブに進みましょう。
+
+interactions.658f0534.b3aee2cb.title=汚れを落とす
+interactions.658f0534.b3aee2cb.text.0=ImpureDustを手に入れた後は、鉱石によって異なる最終処理を行う必要があります。直接製錬できるものもあれば、大釜やWashingPlantで洗うもの、Autoclaveするものもあります。JEIをご覧ください。
+
+interactions.658f0534.b83f091b.title=鉱石を32倍に
+interactions.658f0534.b83f091b.text.0=このクエストをクリアするために、UU-Matterのフルバケツを要求することはありません。
+interactions.658f0534.b83f091b.text.1=Interactionsのカスタム処理チェーンの最後のステップは、UUmatterをクリスタルと一緒にAutoclaveに入れて、大量のOreClusterを生産することです。
+
+interactions.658f0534.bed220ce.title=掛け算を覚える
+interactions.658f0534.bed220ce.tasks.0.title=任意の鉱石鉄
+interactions.658f0534.bed220ce.text.0=このクエストラインは、鉱石を使用インゴットに加工するまでの道のりを示すものです。右側の道はゲーム序盤の処理で、標準的な収量が得られます。ゲームを進めていくと、以下の工程に取り組むことができるようになります。
+interactions.658f0534.bed220ce.text.1=以下のパスは、あなたの技術や魔法の進行状況に応じて、1つの鉱石から4、8、16、32、最大64倍の成果を得ることができます。
+
+interactions.658f0534.ca00a3cb.title=Lonely at the Top
+interactions.658f0534.ca00a3cb.description=すべての鉱石が最高の増殖プロセスを経るのに十分な純度を持っているわけではありませんので、鉱石の用途を確認して、どれだけ高く増殖できるかを確認してください。
+
+interactions.658f0534.chapter.title=Metallurgy
+interactions.658f0534.chapter.description.0=このタブには、鉱石の増殖に関する情報と、パック内のいくつかの金属加工をナビゲートする方法が含まれています。
+
+interactions.658f0534.e99902e3.description=すべての道はこのClusterにつながっている、魔法はどこにでもあるのだと思います。
+interactions.658f0534.e99902e3.text.0=Clusterを粉砕し、標準的なGT処理を利用することで、鉱石を64倍以上にすることができることも忘れてはならない。
+interactions.658f0534.e99902e3.text.1=また、これらのClusterは、そのまま製錬して鉱石を得ることができます。
+
+interactions.658f0534.fad424f0.text.0=鉱石を砕いた後は粉砕、打砕、ハンマーとクラフトするなどして、次の加工のためにImpureOreDustにする必要があります。
+
+interactions.6f37a0c0.2e6c74d5.title=Dimensionality
+interactions.6f37a0c0.2e6c74d5.text.0=それぞれの次元を進んでいくと、新たな素材、新たな課題、新たな場所が解放されていきます。それぞれのディメンションに特化したガイドを、タブごとにここで確認してください。
+
+interactions.76839e0d.chapter.title=Master Metallurgy
+interactions.6f37a0c0.chapter.description.0=このクエストグループでは、あなたが必要とする、あるいは役に立つと思われる次元の高い情報に焦点を当てています。
+interactions.6f37a0c0.chapter.title=Dimensionality
+
+interactions.7dc11b04.4fa0097b.text.0=スレートの2番目のTierで、より複雑な魔法クラフトに使用されます。
+
+interactions.7dc11b04.5c32716d.description=Tier5 祭壇用のブロックを作るには、Euclydes Primeを訪れてvinteumを入手する必要がある。
+
+interactions.7dc11b04.625261a5.description=Mined on the Moon (Luna)
+interactions.7dc11b04.625261a5.text.0=MarkoftheFallingTowerの印を作成し、BlackQuartzのブロックを触媒として使用することで、宇宙から放射性鉱石を召喚することができます。さらにStarmetalOreは、より多くのStarmetal、RockCrystal、その他多くの魔法の鉱石を得るためのブロックとして機能します。
+
+interactions.7dc11b04.74f35952.title=Automating Demonic Will - Vanilla BM Tutorial. 他のオプションについては、AnimusモジュールのEldritch will ritualを参照してください。
+
+interactions.7dc11b04.7c314036.title=MarkoftheFallingTowerの印
+interactions.7dc11b04.7c314036.description=Space Rocks Ahoy!
+interactions.7dc11b04.7c314036.text.0=Blood MagicのMarkoftheFallingTowerの儀式は、500kLPで起動し、2つのユニークな触媒を受け取り、それぞれが表示されているリソースを提供します。
+interactions.7dc11b04.7c314036.text.1=50万LPをネットワークで保持するには、マスター・ブラッド・オーブ(100万LPを保持できる)が必要です。
+
+interactions.7dc11b04.7e1383c5.title=もっといい祭壇がほしい！
+interactions.7dc11b04.7e1383c5.text.0=Ritual deviner Duskでは、成長したクリスタルのClusterを他の4つのタイプのClusterに分割することができる「ファセット・クリスタルの共鳴」の儀式を行うことができます！この儀式では、成長したクリスタルのClusterを他の4つのタイプのClusterに分割することができます。
+interactions.7dc11b04.7e1383c5.text.1=クリスタル・ウィル・Clusterを作るには、より大きなTartaricGemが必要ですが、私たちは時に親切なので、あなたに渡します。
+
+interactions.7dc11b04.832823a9.title=Raw Infernal Will
+interactions.7dc11b04.832823a9.description=DemonicWillは、炉を使ったり、意志の結晶を燃やしたりすることで、TartaricGemから塊にして放出することができます。
+interactions.7dc11b04.832823a9.text.0=また、持続的に悪魔の意志を生み出す方法も存在する。foresaken soul ritualを利用して、モブを殺すとDemonWillが生成される。最大の収穫を得るためには、パッシブで様々な種類のモブが必要である。
+interactions.7dc11b04.832823a9.text.1=Animusの平和の儀式は、AstralSorceryのペロトリオの儀式と同様に、あなたの儀式が殺すための平和なモブを常に供給することができます。
+interactions.7dc11b04.832823a9.text.2=ウィルを収穫するには、それぞれの種類の魔水晶を植え、成長に合わせて破魔水晶の儀式を使って集めていきます。
+interactions.7dc11b04.832823a9.text.3=欠片を集めるには、ゼファーの儀式やアイテムコレクターを使うといいでしょう。
+
+interactions.7dc11b04.9d77f61f.text.0=スレートの第1Tier、多くの基本的な魔法クラフトに使用されます。例えば、8つのルーンを作り、血の祭壇をアップグレードすることができます。
+
+interactions.7dc11b04.bb95207a.text.0=ritual divinerでは、shift+マウススクロールで儀式を選択し、儀式の形をプレビューして、インベントリにある儀式石を使ってマスター儀式石をshift右クリックすると、自動的に儀式を構築することができます。
+interactions.7dc11b04.bb95207a.text.2=duskのルーンを必要とする高次の儀式には、dusk ritual divinerとawakened activation crystalが必要です。
+
+interactions.7dc11b04.cc3f0bae.tasks.0.title=RNG or work for 100%% success.
+interactions.7dc11b04.cc3f0bae.text.0=特別なタイプのウィルクリスタルがスポーンする確率はかなり低いので、確実に成功させたい場合は右のクエストをチェックしてみてください。
+
+interactions.7dc11b04.chapter.title=Blood for the blood gods
+
+interactions.7dc11b04.d9796a1f.title=Upgrade your tartaric powers
+interactions.7dc11b04.d9796a1f.text.0=WILL（意志）、地獄から鍛えることができるソース。あなたは私たちから小額のものを手に入れたのだから、もう少し収納力のあるものにアップグレードした方がいいでしょう。
+interactions.7dc11b04.d9796a1f.text.1=この剣は、タルタルジェムで意志を集めることができ、意志を集めれば集めるほど強くなります。
+
+interactions.7dc11b04.dfc5c81e.title=Poisonous Will
+interactions.7dc11b04.dfc5c81e.tasks.0.title=Poisonous Will
+interactions.7dc11b04.dfc5c81e.text.0=Animusの儀式 "Eldritch Will"は、3x3のエリアのフラックスを悪魔の意志のオーラに変換して浄化し、安全に回収することができます。この2つを併用することで、無限に意志を生み出し、危険な麺がマルチブロックを侵食するのを防ぐことができます。
+
+interactions.7dc11b04.ea573063.title=儀式、いくつかは進行の鍵となります!
+
+interactions.7dc11b04.f4e12100.title=やつらの首を切れ!
+interactions.7dc11b04.f4e12100.text.0=スカルファイヤーソードは、通常のスケルトンを燃やして、ウィザースケルトンの頭を落とすことができます。自分用に作ってみてはいかがでしょうか。
+
+interactions.7dc11b04.f5666ec9.description=デジタルモブアゴナイザーは、プログラムされたデータモジュールと、オプションで触媒を受け取ります。触媒が優れていてデータモデルが高ければ高いほど、リンクされた祭壇のために多くの血を生み出すことができる。
+interactions.7dc11b04.f5666ec9.text.0=犠牲のルーンを追加すると、Agonizerが生み出す血の量も増えます。
+
+interactions.7dc11b04.f813636e.description=Tier4の祭壇ブロックには、スカイストーンブロックが必要です。
+
+interactions.7dc11b04.fda10774.description=Tier3の祭壇キャップにはネザライトブロックが必要です。この金属はネザーの古代住民によって設立されたもので、彼らは資源をその奥深くに隠しています。
+interactions.7dc11b04.fda10774.text.0=ネザーの中でY<17の深さにランダムに存在する。
+interactions.7dc11b04.fda10774.text.2=この素材を使ってネザライトのインゴットを作り、Tier3の血の祭壇のためのブロックにしたり、さらにEnderIOの無数のマシンのためのソウラリウムに加工することができます。
+
+interactions.8b3e4520.57ab5c66.title=Dragon's Heart
+interactions.8b3e4520.57ab5c66.text.0=到着すると、エンダードラゴンが立ちはだかります。エンダードラゴンを倒して心臓を手に入れよう。すでに倒されている場合は、先にエンダードラゴンを再召喚する儀式を行う必要があります。
+
+interactions.8b3e4520.90552e70.title=Chaos鉱脈
+interactions.8b3e4520.90552e70.description=ChaosDragonは、自分たちの島にある豊富なレアメタルの鉱脈を守っています。
+interactions.8b3e4520.90552e70.text.0=もしドラゴンと戦う準備ができていないのであれば、島の下に飛んでDigitalMinerを展開して鉱石を手に入れることは、臆病者の行動としては十分に有効です。 
+
+interactions.8b3e4520.ba6da38e.title=終わりの始まり
+interactions.8b3e4520.ba6da38e.description=要塞はOverWorldでは生成されません。これらの材料を使って、自分でEnd Portalを作る必要があります。
+interactions.8b3e4520.ba6da38e.text.0=これらの材料をワールド内で使用することで、RandomThingsから人工的なエンドポータルを構築し、最終的にエンドディメンションにアクセスすることができます。
+
+interactions.8b3e4520.chapter.title=La Fin
+interactions.8b3e4520.chapter.description.0=このタブが何のためにあるのかわからない人は、あなたのパターン認識力に問題があるかもしれません。
+
+interactions.8b3e4520.fef0a72c.title=カオス・マイニング
+interactions.8b3e4520.fef0a72c.description=ChaosIslandは1万ブロックではなく、5千ブロックに1回生成されます。また、Yレベル180以上で出現し、レアメタルの大きな鉱脈が密集しています。DraconicEvolutionにアクセスするには、ここで採掘をしなければなりません。
+
+interactions.9076fdc4.0652b350.description=実はお酒ではありません
+
+interactions.9076fdc4.0d819db0.description=つまり、視覚的に面白いマナの設定の代わりに、これを使うことができるということです。
+
+interactions.9076fdc4.1c6a7c53.description=いいね、また燃えてきたよ
+
+interactions.9076fdc4.2203d518.description=これだけミルの話が出ているのに、研磨はしないのですか？
+
+interactions.9076fdc4.2456f826.description=No more research fam.
+interactions.9076fdc4.2456f826.text.0=なぜ他のパックでは普通にクラフト可能なアイテムではないのか？まじかよ。
+
+interactions.9076fdc4.277ecf67.description=生物の心を使って動く機械？これを映画化すべきだ。
+
+interactions.9076fdc4.27eb0703.description=98%%は水素、1.9%%はヘリウム、0.1%%はその他、微量金属を含む。
+
+interactions.9076fdc4.3a4f987c.description=100%% ethical power storage.
+
+interactions.9076fdc4.41c8c50f.title=Infinity AE Energy
+interactions.9076fdc4.41c8c50f.description=デジタルの進化を支える無限のパワー
+
+interactions.9076fdc4.429acd41.description=ようやく正常な自動化が実現し、本物のチェストを手に入れることができました。
+
+interactions.9076fdc4.5b5ff6d2.description=このアイテムは壊れているので、壊れたテクスチャーを持っているようにさえ見えます。
+
+interactions.9076fdc4.62e17374.title=おめでとうございます!
+interactions.9076fdc4.62e17374.description=あなたはパックを完成させ、すべてのInteractionsをマスターし、他の人が完成させることのできないクエストに挑戦しました。FTBチームを代表してお礼申し上げます。また、プレイをお楽しみいただけたことを心より願っております。
+interactions.9076fdc4.62e17374.text.0=Interactions 2のリリース日を隠したイースターエッグを見つけることができましたか？
+interactions.9076fdc4.62e17374.text.1=絶妙なバランスで...
+interactions.9076fdc4.62e17374.text.2=すべてがそうであるように
+
+interactions.9076fdc4.63ae8828.description=Blood for the blood gods.
+
+interactions.9076fdc4.72c549f8.description=複製できるのに採掘する必要はないでしょう？
+
+interactions.9076fdc4.75c24ed9.description=WAKE ME UP, WAKE ME UP INSIDE.
+
+interactions.9076fdc4.7bbe3c0d.title=星の力
+interactions.9076fdc4.7bbe3c0d.description=星のオナラは何百もの文明に力を与えることができます。
+
+interactions.9076fdc4.7fd67826.description=Dracarys
+
+interactions.9076fdc4.924fb450.description=rollin'
+
+interactions.9076fdc4.9b0c3bd9.description=大半の天体よりも質量が大きい。
+
+interactions.9076fdc4.9ee38390.description=ビッグデータ機関がインターネット・ロボティクス・オブ・シングスのために使用する、最先端のニューラルネットワーク・アクショナブルアナリティクスソフトウェアです。
+
+interactions.9076fdc4.9f5830da.title=インフィニティアーマー
+interactions.9076fdc4.9f5830da.description=速く走れ
+
+interactions.9076fdc4.a6760e11.description=チャンクをきれいにしましょう。
+
+interactions.9076fdc4.b144fdf3.description=ボトルに入ったクリーパーのようなものですが、それを燃やします。
+
+interactions.9076fdc4.b27bc8a1.description=雪の結晶はどれもユニークですが、これは違うかもしれませんね。
+
+interactions.9076fdc4.b79d54ea.description=Astral Sorceryは急に走るようになりましたよね？
+
+interactions.9076fdc4.befae8b5.description=ラグを誘発する割引鉱脈採掘。
+
+interactions.9076fdc4.c2abb527.description=残念ながら、実際には無限の鶏ではありません。
+interactions.9076fdc4.c2abb527.text.0=この無限のボイのテクスチャーとモデルについては、FakoTheGreatに感謝してください。
+
+interactions.9076fdc4.chapter.title=God's Plan
+interactions.9076fdc4.chapter.description.0=申し訳ありませんが、私はCreativeBatteryだけを愛しています。
+
+interactions.9076fdc4.e7fa718c.description=言わせてもらえば、かなりの拡張性です。
+
+interactions.9076fdc4.ecb42a44.description=99.999%% pure neutronium if you ignore the fine layer of dust growing on it.
+
+interactions.9076fdc4.f242419e.description=Just missing a power flower tin fountain.
+
+interactions.9076fdc4.f3e033d0.description=水をかけても問題ないでしょう？
+
+interactions.9076fdc4.f68ab509.description=目が覚めないです。
+
+interactions.9076fdc4.f9d0db7a.description=今回は、ただの図書館ではないことをお約束します。
+
+interactions.99314095.01b704ae.title=Through the Wire
+interactions.99314095.01b704ae.description=カニエ・ウェストがデビュー曲を歌う際、交通事故で顎をワイヤーで塞いだ状態でラップしたことを知っていますか？そうそう、これだとワイヤーが効率よく使えるんですよね。
+
+interactions.99314095.2a4b928a.description=回路を作るための複数のパーツを作るのに使用されますが、砂岩を彫る作業を自動化したい場合以外は、LVのバリエーションを作る価値はありません。
+
+interactions.99314095.2db695fd.title=化学物質のクエストタブ「All the good titles Argon」を確認しましょう
+interactions.99314095.2db695fd.description=ElectricBlastFurnaceがメインのブースですが、これはサイドリグです。この機械には多くの化学物質やアイテムが組み合わされているだろうが、LVでは1つで済ませることができます。
+interactions.99314095.2db695fd.text.0=化学の各Tierにはこれがたくさん必要になります。
+
+interactions.99314095.3bd1ecaf.description=誤解を恐れずに言えば、蒸気を消費してエネルギーを作りましょう。
+interactions.99314095.3bd1ecaf.text.0=1Aの32EUを出力するので、1台で1台のLVマシンを駆動することができますが、2台くらい作ってもいいかもしれません。
+
+interactions.99314095.3c25bd45.tasks.0.title=電流を損しないための工夫
+interactions.99314095.3c25bd45.text.0=パワーの各Tierには、ケーブルに加工できる独自の魔法の金属があります。これらのケーブルは、そのTierの他のケーブルよりも優れており、基本的に4アンペアの伝送が可能で、距離によるEUの損失はありません。
+
+interactions.99314095.56b12c95.title=LV時代
+
+interactions.99314095.62760199.description=AlloySmelterの電気版。これについては他に言うことがないので、これがAlloySmelterの最後のクエストとなる。上位のバージョンではレシピをオーバークロックして、より早く処理することができます。
+
+interactions.99314095.627ad98a.title=Assembling Machine: Infinity War
+
+interactions.99314095.69c3da6b.title=そして、ベストカラーのGTインゴット賞を受賞しました
+interactions.99314095.69c3da6b.description=ご存知のように、TungstenseelはIVTierのGTクラフトのほとんどに使われています。Tungstensteelのケーシングを見たことはありますか？
+
+interactions.99314095.6c59ad93.title=Extruder Alert!
+interactions.99314095.6c59ad93.description=これにより、ほとんどのGTパックでは、素材に最適なインゴットとRodの変換率を得ることができます。さらにこのパックでは、
+のToolForgeTierのパーツを押し出すことができるようになりました。
+
+interactions.99314095.6d8e6cdf.title=Switch, Upgrad It.
+interactions.99314095.6d8e6cdf.description=InfernalFurnaceをHellfireKilnにアップグレード。
+interactions.99314095.6d8e6cdf.text.0=InfernalFurnaceもいいんですが、不要な汚染を引き寄せてしまうようで、……他の問題も発生します。
+interactions.99314095.6d8e6cdf.text.1=私たちには、この粗悪な設計を改良する技術があります。独自の通気口を設けることで、そのパワーを完全にクリーンでフリーな基本的な製錬施設にするとができます。
+
+interactions.99314095.75685738.description=SteamMaceratorに依存していないことがわかりますか？また、これは実際に2倍になります 価値があります。
+
+interactions.99314095.7b1c1668.title=Amp it up
+interactions.99314095.7b1c1668.description=これらのシングルブロックジェネレーターは、1Tickあたり最大で1A（1アンペア）相当の電力を生成します。都合のいいことに、GTCEのほとんどのシングルブロックマシンは、最大で1A分の電力しか受け付けません。
+
+interactions.99314095.7baaac5e.tasks.0.title=Welcome to Microcrafting Hell.
+interactions.99314095.7baaac5e.text.0=Gregtechでは、中間素材という概念を用いて、アイテムの複雑さとリソースコストを実現しています。必要に応じて中間素材を作成しようとすると、すぐにマイクロクラフトの無限のサイクルに陥ってしまいます。
+interactions.99314095.7baaac5e.text.2=これは非常にイライラすることであり、パックの楽しさを大きく損なってしまいます。Gregtechでこのコンセプトに取り組む方法は、マイクロクラフトではなく、大量にクラフトすることです。常に過剰生産することで、いずれは使用することになります。
+interactions.99314095.7baaac5e.text.4=このクエストでは、各Tierでどのアイテムをバルククラフトすべきかを判断し、さらにクラフトに使用した中間素材の一部を返却することで、反復を少しでも軽減することができます。
+
+interactions.99314095.86f1912f.title=寒いのは苦にならない
+interactions.99314095.86f1912f.description=超高温の金属を製造する際には、内部のズレを防ぐために瞬間的に凍結させる必要があります。また、化学反応を起こすために過冷却する必要がある液体もあります。このような場合には、真空凍結装置が理想的です。
+interactions.99314095.86f1912f.tasks.1.title=Any input hatch
+interactions.99314095.86f1912f.tasks.2.title=Any input bus
+interactions.99314095.86f1912f.tasks.3.title=Any output bus
+interactions.99314095.86f1912f.tasks.4.title=Any output hatch
+
+interactions.99314095.89c652f7.title=イオンはこのままでいい
+interactions.99314095.89c652f7.description=電気を使って物質を化学的に分解する。その意味はともかく。物が入り、電力が入り、欲しい物と欲しくない物が出てくる。MVになると、アルミのような特定のゴミを取るのが非常に楽になります。
+
+interactions.99314095.8c10705e.description=EVTierでは、Maceratorが法的に新しい名称を申請し、現在はPulverizerと呼ばれています。
+
+interactions.99314095.8e99c795.description=より強く・良く・速く・強く。高速化だけで、このブロックの機能は高電圧でも変わりません。
+
+interactions.99314095.95dee4b6.title=The Multi-Smelter
+interactions.99314095.95dee4b6.description=ParallelizedHeatApplicationとして知られるアプリケーション。化学的還元、メイラード反応、非酵素的褐変の一形態として、初期のコールドスタートマシンからの熱伝達と処理速度を向上させることができます。
+interactions.99314095.95dee4b6.text.0=最下層TierはCupronickelCoilでスタートしますが、マルチブロックをアップグレードするためにコイルを変更することができます。
+interactions.99314095.95dee4b6.text.2=これは、やりすぎなレベルの速さです。完全にアップグレードされたこのSmelterは、Modの中でも最も速い精錬機の1つであり、最大オーバークロックされたIC2のSmelterだけがMulti-Smelterに勝っているかもしれません。
+
+interactions.99314095.9bc4a460.title=Ba-Ba-Black Sheep
+interactions.99314095.9bc4a460.description=大雑把な低Tierのケーブルには、同じように大雑把な低Tierのカバーが必要です。また、隣人の家に侵入してカーペットを破り、電気絶縁材にするというアイデアも面白いですね。
+
+interactions.99314095.9c1f1f60.title=Battery Charger
+interactions.99314095.9c1f1f60.text.0=Gregtechの電動工具を作って、BatteryChargerで充電できるのをご存知ですか？また、遠隔地で使用する外出用Batteryの充電にも便利です。
+
+interactions.99314095.9f80387d.title=Welcome Ohm
+interactions.99314095.9f80387d.description=電圧だけを気にする多くのFEシステムとは異なり、GTはアンペア数も実装しています。すべてのGT機械のレシピには、電圧とアンペア数が設定されています。必ずJEIで電圧とアンペア数の要件を確認してください。
+
+interactions.99314095.a096da71.title=Assembling Machine: Age of Ultron
+
+interactions.99314095.a1d50784.title=Avengers, Assemble!
+
+interactions.99314095.a2383210.title=OwO これは何ですか？chemicalsのタブをチェックしましたか？
+
+interactions.99314095.a73d5e3d.title=私は防弾、失うものは何もない、さあ、どんどん来い
+interactions.99314095.a73d5e3d.description=EVTier クラフトに使われる主要インゴット。
+interactions.99314095.a73d5e3d.text.0=ナイスワーク! あなたは今、激アツです。いや本当に。HotIngotはあなたを燃やします。落とすなよ！友達に渡せ！
+
+interactions.99314095.a8393bdf.title=Bender! Bender! We want Bender!
+interactions.99314095.a8393bdf.description="私の話はあなたとよく似ていますが、ロボットが絡んでいるのでもっと面白いですよ" この機械は、インゴットから1:1の割合でプレートを作るものです。ちょっとすごいですよね。この機械の上位機種は、同じことをより速く行うことができます。
+
+interactions.99314095.a8780d79.title=このパックはChromeよりもRAMを使用しますか？
+interactions.99314095.a8780d79.description=ボットネットは含みません
+
+interactions.99314095.ace65682.title=Ale-Lu-Mini-Um
+interactions.99314095.ace65682.description=MV時代を乗り切るためには、それなりの量を作ることになります。
+
+interactions.99314095.c13fb853.title=スチールトラップのような心
+interactions.99314095.c13fb853.description=錆びついていて、ほとんどの場所で違法です。もっと真面目な話をすると、このコラムに掲載されているインゴットは、各Tierの主力となるものです。LVでは大量のSteelを作ることになります。
+
+interactions.99314095.c852eac5.title=Ohm my god. Becky. Look at her watt.
+
+interactions.99314095.cd295b50.title="su"を使わないさびないスチール
+interactions.99314095.cd295b50.description=GT初心者の場合、HVはほとんどのプレイヤーがインフラを本格的に構築し始める時期であり、処理ラインには他の金属よりも多くのステンレススチールを使用することになるでしょう。
+
+interactions.99314095.ce90c6aa.description=これが私が作る最後のCompressorクエストです。配信者の方は、視聴者のためにも、ぜひボイスコンプレッサーを使ってみてください。
+
+interactions.99314095.chapter.title=Ayo Technology
+interactions.99314095.chapter.description.0=これがメインのテクノロジープログレッションタブです。魔法のタブとは別に、複数のタブを同時に進めていかなければなりません。
+
+interactions.99314095.de4bf80e.title=Vanilla or shock-a-lot?
+interactions.99314095.de4bf80e.description=例えば、Extruderの「Tinker's Copper Hammer Head」のレシピを見てみましょう。このレシピは最低でも120EU/tを必要とするため、LVのExtruderでは1アンペアでそれだけのパワーを処理することができず、事実上MVレベルのExtruderの後ろにゴールが設定されています。
+
+interactions.99314095.e3ecd838.title=They see me storin', they chargin'
+interactions.99314095.e3ecd838.text.0=雨の日に備えてエネルギーを蓄えよう！ Trubineは稼働しなければ蒸気を消費しませんが、タービン1台につき1台以上の機械を動かすには、Batteryに電力を蓄える必要があります。
+interactions.99314095.e3ecd838.text.1=つまり、8台のBatteryで8台の機械を動かすことができるのです。タービンが8台なくても、Batteryが消耗してしまうと、再びBatteryが充填されるのを待つことになります。
+
+interactions.99314095.e54fe206.title=Electric Best Friend
+interactions.99314095.e54fe206.description=洒落ではありません。これは、あなたが最も頼りにすることになるマシンです。タイルアクセラレーションやオーバークロックをしなければ、終盤に差し掛かった頃には、このマルチブロック炉を20～32個作ることになるでしょう。
+interactions.99314095.e54fe206.text.0=最初のEBFでアルミニウムを精錬するためには、MVレベルの電力（120EU）が必要です。しかし、現在はLVエネルギー入力ハッチしか作ることができず、MVパワーを与えられると爆発してしまいます。
+interactions.99314095.e54fe206.text.1=これを補うために、GTCEマルチブロックは複数のエネルギー入力ハッチを扱うことができます。
+interactions.99314095.e54fe206.text.2=さらに、エネルギーハッチは最大で2つの独立したAMPの電力を受け入れることができます。つまり、合計4AのLV電力を供給できるEBFにMV電力を供給するためには、2つのLVエネルギー入力ハッチが必要なのです。
+interactions.99314095.e54fe206.text.3=これと同じコンセプトで、より高いレベルのレシピを作ることができます。後に、複数のエネルギー入力ハッチを単一のMVエネルギー入力ハッチに置き換えることもできます。
+interactions.99314095.e54fe206.text.4=ケーブルの損失を考慮する必要があります。最初にこれを避けるための最良の方法は、エネルギー・インプタスを後ろの角に配置し、4つの発電機をそれらに直接当てることです。
+
+interactions.99314095.f183aac6.title=いや、真面目な話、chemicalsのタブをチェックしてみてください。
+
+interactions.99314095.f285bd07.title=Overclocking Generators
+interactions.99314095.f285bd07.description=計算は簡単で、MVの発電機はLVの発電機に比べて1Tickあたり4倍のEUを生成しますが、同時に4倍の燃料を使用し、燃料効率は向上も低下もしません。
+
+interactions.99314095.feb88166.title=Assembling Machine: End Game
+interactions.99314095.feb88166.text.0=アセンブリラインは、下部にあるアイテムのULV入力と、ケーシングや入力ハッチ、電源入力の組み合わせで構成される、大きな繰り返しのマルチブロックです（jeiプレビュー参照）。
+interactions.99314095.feb88166.text.2=この組立機は、より高いレベルのエネルギーハッチを追加するだけで大幅にオーバークロックすることができ、エンドゲームの目標に向けた自動化ラインの頂点を体現しています。
+
+interactions.9b11da3e.030d69d3.description=エヴォーカーは今までと変わらず、一部のダンジョンではよく見かけます。また、エヴォーカーのスパイク攻撃を再現できる杖が戦利品として出てくることもあります。
+
+interactions.9b11da3e.08750993.description=地下によくある球状で生成される！
+
+interactions.9b11da3e.0989f65a.description=地下によくある球状で生成される？
+
+interactions.9b11da3e.1bf130ae.title=Copper鉱脈
+interactions.9b11da3e.1bf130ae.description=すべてのバイオームで生成されるが、ジャングルではMalachiteを含むCopperの濃度が高い。
+
+interactions.9b11da3e.1d517b62.title=Vines, Vines Baby
+interactions.9b11da3e.1d517b62.description=東に行くと、より湿ったバイオームがあります。
+
+interactions.9b11da3e.29e24faa.description=Bronze時代に入ると、カルト信者はほとんど出現しなくなります。ネザーに入ると、探索中にCrimsonKnightやLeader、さらにはカルト信者を産み出すポータルが時々スポーンするようになります。
+
+interactions.9b11da3e.2d3eff32.description=アップグレードするごとに、Scannerの範囲が半径32ブロック分広がります。
+
+interactions.9b11da3e.3a237ce5.title=OlivineとTerraの鉱脈
+interactions.9b11da3e.3a237ce5.description=森の中やジャングル、魔法の森などで生成されます。
+
+interactions.9b11da3e.3e8fad6d.title=ラピスとAquaの鉱脈
+interactions.9b11da3e.3e8fad6d.description=すべてのバイオームで生成されますが、世界の創造神話では、雪の女王が最高の嫁であり、寒いバイオームには彼女の好きな鉱物が多く含まれていると言われています。
+
+interactions.9b11da3e.3fd662cb.title=エメラルドとAirの鉱脈
+interactions.9b11da3e.3fd662cb.description=ジャングル、砂漠、崖、極端な丘など、世界の圧力で山や丘が形成されているバイオームで生成されます。
+
+interactions.9b11da3e.43694448.title=Ligma鉱脈
+interactions.9b11da3e.43694448.description=ジャングル以外のすべてのバイオームで生成されるので、余計に腹が立ちます。
+
+interactions.9b11da3e.4601090f.title=Veni Vidi, Vindicated!
+
+interactions.9b11da3e.47a2cc78.title=Coal鉱脈
+interactions.9b11da3e.47a2cc78.description=すべてのバイオームに生成されますが、時には困ったことになります。
+
+interactions.9b11da3e.4ba17bdc.title=Sandstorm
+interactions.9b11da3e.4ba17bdc.description=乾燥したバイオームは、西に移動することで見つけることができます。
+
+interactions.9b11da3e.56ae2c80.title=Diamond鉱脈
+interactions.9b11da3e.56ae2c80.description=すべてのバイオームで生成されますが、希少性があります。しかし、クリスタルの森は、地中に豊富にあるダイヤモンドの鉱脈から生まれたことが知られています。
+
+interactions.9b11da3e.5a0c4ddc.title=Iron鉱脈
+interactions.9b11da3e.5a0c4ddc.description=すべてのバイオームで生成されますが、ジャングルは鉄とNickelの供給源が多いです。
+
+interactions.9b11da3e.656a9599.title=Great Basalz of Fire
+interactions.9b11da3e.656a9599.description=Blizzは寒いバイオームで、Basalzのバイオームは山間部のバイオームで、Blitzのバイオームは乾燥したバイオームでスポーンします。
+
+interactions.9b11da3e.6751003f.title=Copper-Gemの鉱脈
+interactions.9b11da3e.6751003f.description=ジャングルを除く、すべてのバイオームで生成されます。
+
+interactions.9b11da3e.6aa5a786.title=レッドストーン鉱脈
+interactions.9b11da3e.6aa5a786.description=どこにもスポーンしません。嘘でーすw すべてのバイオームでスポーンします。
+
+interactions.9b11da3e.6b6fb393.title=レッドストーンとIgnisの鉱脈
+interactions.9b11da3e.6b6fb393.description=Ignis-infused、ルビーの濃度が高いレッドストーン鉱脈は、高温で乾燥したバイオームで生成されます。
+
+interactions.9b11da3e.70a2cc40.title=花だけでは満足できないとき
+interactions.9b11da3e.70a2cc40.description=この強化されたScannerは、クラフトすることもできるし、TransmutationTabletで入手することもできます。デフォルトの範囲は32ブロックですが、Rare Ores upgradeを入れると全てのGT鉱石を検出することができます。射程距離は2回、32ブロックずつアップグレードできます。
+
+interactions.9b11da3e.7b0e1039.title=暑くなってきましたね
+interactions.9b11da3e.7b0e1039.description=温暖なバイオームは南に行くとあります。
+
+interactions.9b11da3e.85886af3.description=Broze時代に入ってからは、MutantSteveがまれにスポーンするようになります。このゾンビはヒット数が多く、丸石以下の同じ硬さのブロックを破壊する能力を持っています。
+interactions.9b11da3e.85886af3.text.0=警告：MutantSteveは現在、ブロック崩しに非常に積極的で、あなたの墓を壊すこともあります。これは将来のバージョンで変更される予定ですが、今のところは注意が必要です。
+
+interactions.9b11da3e.858ab06f.title=貴重品はどこにありますかーーー?！
+interactions.9b11da3e.858ab06f.description=特定のブロックを探すためのScannerは、少なくとも1つのブロックを手に入れれば、目的の鉱石をピンポイントで探すことができます。また、ブロックScannerは、チェストを探すことでダンジョンの位置を確認することができます。
+
+interactions.9b11da3e.880e7a62.title=エンダースレイヤー
+interactions.9b11da3e.880e7a62.text.0=Voidの生物を支配することで、自分の価値を証明する。100体のエンダーマンを倒すと、VoidStarがもらえます。
+
+interactions.9b11da3e.8e53eb8c.title=SoapStone鉱脈
+interactions.9b11da3e.8e53eb8c.description=すべてのバイオームで生成されます。
+
+interactions.9b11da3e.8fc0f4b9.title=Bone to be wild
+interactions.9b11da3e.8fc0f4b9.text.0=スケルトンはこれまで以上に合理化されています。
+interactions.9b11da3e.8fc0f4b9.text.1=-装備品を落とすボススケルトンが出現する可能性があります。
+interactions.9b11da3e.8fc0f4b9.text.2=-最大HP20からHP30へ。
+interactions.9b11da3e.8fc0f4b9.text.3=-以前よりも早く射撃できるようになりました。
+interactions.9b11da3e.8fc0f4b9.text.4=-ランダムにエンチャントされたアーマーや武器を持ってスポーンします。
+interactions.9b11da3e.8fc0f4b9.text.6=しかし、これらの要因のバランスをとるために、ウィザーのスケルトンはこれまで以上に多く見られるようになりました。実際、ネザーのあらゆる場所でスポーンされます。
+
+interactions.9b11da3e.9779bb2d.title=Ice, Ice Baby
+interactions.9b11da3e.9779bb2d.description=寒冷地のバイオームは、北に行けばあります。
+
+interactions.9b11da3e.9c4530c1.title=Slime Time
+interactions.9b11da3e.9c4530c1.text.0=スライムは以前よりもスリムになりました。
+interactions.9b11da3e.9c4530c1.text.1=-サイズに応じてより多くのノックバックを与えます
+interactions.9b11da3e.9c4530c1.text.2=-以前よりもさらにジャンプできるようになりました
+interactions.9b11da3e.9c4530c1.text.3=-殴ると追加のスライムが発生することがあるので、必ず大きなダメージを与えるようにしましょう。
+
+interactions.9b11da3e.9cae6118.title=Apatite鉱脈
+interactions.9b11da3e.9cae6118.description=極端に高温または低温の場所を除くすべてのバイオームで生成されます。沼地の植物は、その下に隠れた大きなApatite鉱脈で繁栄する傾向がある。
+
+interactions.9b11da3e.9d5ccff5.title=Mana Leak
+interactions.9b11da3e.9d5ccff5.description=Manaのプールは、OverWorldの自然にできた池の中にあります。
+
+interactions.9b11da3e.9d784334.description=花崗岩に似ているため、世界生成の変換特性を利用し、玄武岩にも似ています。
+
+interactions.9b11da3e.a2f23fb7.title=採掘は私のものです(What's mine is mine)
+interactions.9b11da3e.a2f23fb7.description=GTCEの世代では、世界は3x3チャンクの大きさの「セクション」に分けられています。その際、大まかな目安として、各セクションに1つの大きな鉱脈が生成されるように設定されています。これらの鉱脈は簡単に2x2チャンクの大きさになり、何百もの鉱石を保持します。
+interactions.9b11da3e.a2f23fb7.tasks.0.title=了解
+
+interactions.9b11da3e.a97e02d2.title=What's in your head, in your head, Zombieeeee
+interactions.9b11da3e.a97e02d2.text.0=ゾンビはこれまで以上にバランスのとれたものになっています
+interactions.9b11da3e.a97e02d2.text.1=-ランダムにエンチャントされたアーマー（ヘルメットを含む）を持って生まれることがあります。
+interactions.9b11da3e.a97e02d2.text.2=-キュートなゾンビポニーに乗っているチャンスがある
+interactions.9b11da3e.a97e02d2.text.3=-ジャンプ攻撃ができるようになり、自分に空腹をかけられるようになりました。ジムに通っているそうです。
+interactions.9b11da3e.a97e02d2.text.4=-HPが20ではなく30になり、ノックバック耐性もあります。
+interactions.9b11da3e.a97e02d2.text.5=-Candle、Jacko'Lantern、CaveIllminator、PeaceCandleなど、光を放つ特定のブロックを壊すことができます。(これはクエスト文のミスで、実際には行いません)
+interactions.9b11da3e.a97e02d2.text.7=その代わりに、赤ちゃんゾンビは日光で焼けるようになったのですから、すごいことですよね。
+
+interactions.9b11da3e.ad657e6e.title=Say aloe to my little friend.
+interactions.9b11da3e.ad657e6e.description=PlantsModの植物は、大きな鉱脈の上に生えています。特定の鉱脈の上で育つように適応した品種もあり、地下に鉱石がある場所を示しています。
+
+interactions.9b11da3e.b345409a.title=Galena鉱脈
+interactions.9b11da3e.b345409a.description=ジャングル以外のすべてのバイオームで生成されます。
+
+interactions.9b11da3e.b7732c9d.title=夜は暗くて恐怖に満ちているから...
+interactions.9b11da3e.b7732c9d.text.0=LiquidStarlightでNightVisionPotionを強化することで、このクエストの長さを超延長する効果を定期的に得ることができます。(繰り返しクリア可能クエストです)
+
+interactions.9b11da3e.bdeb88ad.title=二重三重の苦労と悩み
+interactions.9b11da3e.bdeb88ad.text.0=魔女は今まで以上にアンフェアな存在です。
+interactions.9b11da3e.bdeb88ad.text.1=-周りの敵モブにランダムなバフをかけます。
+interactions.9b11da3e.bdeb88ad.text.2=-スプラッシュポーションの代わりに残留ポーションを投げることができます。
+interactions.9b11da3e.bdeb88ad.text.3=-死んだらコウモリになってしまいます
+
+interactions.9b11da3e.c5321cae.title=ぐるぐる回っている
+interactions.9b11da3e.c5321cae.description=ワールドでは、数千ブロックごとにループするバイオームマップが使われています。
+interactions.9b11da3e.c5321cae.text.0=ここでは、寒冷地と温暖地、乾燥地と湿潤地のパターンを紹介しています。寒冷地のバイオームにいる場合、北か南に移動すれば、最終的には温暖なバイオームにたどり着きます。
+
+interactions.9b11da3e.c6998f1b.title=Nickelback
+interactions.9b11da3e.c6998f1b.description=ジャングルを除くすべてのバイオームで生成されます。
+
+interactions.9b11da3e.c6da2f7a.title=EntropyとQuartz鉱脈
+interactions.9b11da3e.c6da2f7a.description=Quartzと同じ鉱脈や魔法の森で生成されます。
+
+interactions.9b11da3e.c75fe8dc.title=Stibnite for Life
+interactions.9b11da3e.c75fe8dc.description=ジャングルを含むすべてのバイオームで生成されますが、非常に稀です。最もよく見られるのはネザーである。
+interactions.9b11da3e.c75fe8dc.text.0=この鉱石はオーバーワールドではかなり希少で、高所で生成される傾向があります。ネザーで探すことをおすすめします。
+
+interactions.9b11da3e.cafef103.title=Itsy, bitsy, spider
+interactions.9b11da3e.cafef103.tasks.1.title=洞窟グモ
+interactions.9b11da3e.cafef103.text.0=クモたちはこれまで以上に脚力があります。
+interactions.9b11da3e.cafef103.text.1=-落下ダメージを受けなくなりました
+interactions.9b11da3e.cafef103.text.2=-モブが乗っている状態でスポーンするチャンスがあります
+
+interactions.9b11da3e.cf64fb04.description=ほぼすべてのGT鉱石を見つけるためには、ScannerModule: Rare Oresが必要です。
+
+interactions.9b11da3e.chapter.title=安全でない場所
+interactions.9b11da3e.chapter.description.0=オーバーワールドのバイオームと鉱石のガイド
+
+interactions.9b11da3e.db330a1e.title=Tin鉱脈
+interactions.9b11da3e.db330a1e.description=すべてのバイオームで生成されます。また、Cassitrite鉱石は、通常のTin鉱石よりも2倍のTinを生成します。
+
+interactions.9b11da3e.de9eadd0.title=But I'm a creep
+interactions.9b11da3e.de9eadd0.text.0=クリーパーは以前よりも混乱しています。
+interactions.9b11da3e.de9eadd0.text.1=-プレイヤーから3ブロック以内にいると透明になります
+interactions.9b11da3e.de9eadd0.text.2=-燃えると爆発します
+interactions.9b11da3e.de9eadd0.text.4=今回は追加の特典はありません、頑張ってください
+
+interactions.9b11da3e.e01b7b0d.title=Magnetite鉱脈
+interactions.9b11da3e.e01b7b0d.description=すべてのバイオームで生成されますが、ジャングルの鉱脈は金の濃度が高いです。
+
+interactions.9b11da3e.e10ac745.title=OrdoとSapphireの鉱脈
+interactions.9b11da3e.e10ac745.description=寒冷地のバイオームでのみ生成されます。
+
+interactions.9b11da3e.e10ce5b3.title=Manganese鉱脈
+interactions.9b11da3e.e10ce5b3.description=すべてのバイオームで生成されますが、数に限りがあります。
+interactions.9b11da3e.e10ce5b3.text.0=これらはオーバーワールドではひっっっっっっじょーに珍しいものです。一番のおすすめはネザーで探すことです。
+
+interactions.9b11da3e.e2685d91.description=地下でたまに、球状に生成されます。
+
+interactions.9b11da3e.e529bf92.title=あなたはMarbleのように鋭い
+interactions.9b11da3e.e529bf92.description=Marbleは古代の寺院で見つけることができますが、注意が必要です。古いものなので、軽く触れるだけでMarbleが崩れてしまうことがあります。幸いなことに、崩れたMarbleを修復する別の方法があるかもしれません。
+
+interactions.9b11da3e.f8958b59.title=最終的には、それは問題ではありません
+interactions.9b11da3e.f8958b59.text.0=エンダーマンたちは今まで以上に迷惑な存在です。
+interactions.9b11da3e.f8958b59.text.1=-攻撃してきたプレイヤーをテレポートで遠ざけることが可能です
+interactions.9b11da3e.f8958b59.text.2=-ターゲットに盲目を適用するチャンスがわずかにあります
+interactions.9b11da3e.f8958b59.text.4=このような可能性を補うために、エンダーマンは死亡時に最低1つのエンダーパールを必ず落とします。また、インベントリにエンダーパールを入れておくことで、エンダーマンのテレポート能力を防ぐことができます。
+
+interactions.a4a70422.013a3390.title=This collector kinda sucks
+interactions.a4a70422.013a3390.description=最初のアイテムとXPコレクターの1つで、非常に便利ですが範囲が限られています。後のオプションでより多くの範囲が提供されます。
+
+interactions.a4a70422.074fc3f0.text.0=始めるためには、プログラマー、ディスク、プログラムを書き込むためのスティックが必要です。そこから、シャーシのアップグレードを検討します。モジュールやアイテムのアップグレードは、それらを交換するために必要なものです。
+
+interactions.a4a70422.0e6f8cdf.title=A Tank that Sucks
+interactions.a4a70422.0e6f8cdf.description=EnderIO タンクは、アップグレードされたサーマルタンクよりも小さいですが、自動で液体を吸い込み、ポンプで排出することができるという利点があり、自動化に非常に役立ちます。
+
+interactions.a4a70422.10923797.description=液体の高速シングルブロック転送、ロジスティック規制オプション付き。グローストーンでスピードアップ、レッドストーンのトグルでレッドストーンを追加できます。
+
+interactions.a4a70422.11a49dad.description=最後に、すべてのStarlightを保存できるものを。
+
+interactions.a4a70422.123eb389.text.0=64スタックを収納でき、アップグレードも可能なので、TreeBeaconなどに最適です。ボイドアップグレードで災害を防ぐことができます。
+
+interactions.a4a70422.138632e1.text.0=自動化の初期の形で、後にいくつかの工芸品に使われました!
+
+interactions.a4a70422.13eb8b3a.text.0=自動化のためのスペースが不足している場合、このようなものが役に立つかもしれません。
+
+interactions.a4a70422.1645b4b1.description=stores 63 types of items, just more of them.
+
+interactions.a4a70422.18a905eb.text.0=100 stacks of items on a chip, insanity!
+
+interactions.a4a70422.1994d60a.text.0=この2つのブロックでは、インベントリーマネージャーにレッドストーンの信号を送受信することができます。この機能は、マシンの出力やコンピーターと組み合わせて、複雑な物流供給のセットアップを行うことができます。
+
+interactions.a4a70422.1b5f3a46.text.0=インベントリにアイテムを入れる際に使用します。
+
+interactions.a4a70422.1e84b1e0.description=5種類の液体を貯蔵し、3つの投資で4倍の貯蔵量を得られます。
+
+interactions.a4a70422.2a50dbea.text.0=最終的には、異次元液体の移動を、迅速に行います。
+interactions.a4a70422.2a50dbea.text.1=2つ以上ないと意味がありません。
+
+interactions.a4a70422.3047c09c.title=Starlight StarBright, wont you autocraft for me tonight...
+interactions.a4a70422.3047c09c.text.0=AE2自動クラフトを始めるには、OrbitalLaserDrillからスカイストーン、月の素材から作られたステラアロイ、そして最後にウィザーを倒してネザースタープレートが必要です。
+
+interactions.a4a70422.33a91876.description=63種類のアイテムを収納できます
+
+interactions.a4a70422.3770c1fb.title=Logistical Butler
+interactions.a4a70422.3770c1fb.description=モジュール式ストレージを含むストレージに提供シールを追加することで、ゴーレムはゴーレムベルを使って必要なアイテムを持ってくることができます。ゲーム序盤のワイヤレスAEのようなものですね。
+
+interactions.a4a70422.39d33b3e.text.0=MEネットワークの機器間でデータやエネルギーを伝送するためのケーブルで、8チャンネルを同時に伝送することができます。また、16色のグラスケーブルがあり、適切な染料を使ってクラフトすることができます。
+interactions.a4a70422.39d33b3e.text.1=また、16色のグラスケーブルがあり、適切な染料でクラフトすることができます。カラーケーブルは、同じ色以外のケーブルとは信号を共有せず、接続せずに隣接することができます。
+
+interactions.a4a70422.39f561b0.description=アイテムの高速シングルブロック転送、ロジスティック規制オプション付き。グローストーンでスピードアップ、レッドストーントグルのためにレッドストーンを追加、規制のためにダイヤモンドナゲットを追加しましょう。
+
+interactions.a4a70422.437c848c.text.0=6x9のストレージスロットがあります。
+interactions.a4a70422.439a50a5.text.0=無限の可能性を秘めている...。
+
+interactions.a4a70422.44a10c88.description=stores 5 types of fluids, just more
+
+interactions.a4a70422.44ad6391.title=困難な物流を乗り越えるための架け橋
+interactions.a4a70422.44ad6391.text.0=ゲーム序盤から中盤、後半へと移行していく中で、AE2に移行していくのは自然なことです。このアダプターは、2つのネットワークの架け橋となり、クラフトを含むLPネットワークのすべてにアクセスできるようになります。
+interactions.a4a70422.44ad6391.text.1=これにより、統一されたシステムを構築し、移行時に使用することができます。
+
+interactions.a4a70422.454cc06c.title=シンプルなリクエスト
+interactions.a4a70422.454cc06c.text.0=すべてを結びつけるために、リクエストテーブルを作成し、集約されたすべてのインベントリにアクセスして作業ができるようにします。
+
+interactions.a4a70422.4ae48d26.title=ネザースターの自動化 - 苦痛の井戸、または革新的な方法で...。
+interactions.a4a70422.4ae48d26.text.0=このパックのレシピの中には、大量のネザースターが必要になるものがあります。そのプロセスを自動化する方法はたくさんありますが、最もシンプルなのはBlood Magicの苦痛の井戸の儀式です。チャンクに100個の破壊の意志が必要です。
+interactions.a4a70422.4ae48d26.text.1=(儀式が通常のMobを殺して作られたもの)は力を得て、1回のキルにつき、25kLPのコストでWitherを殺すことができるようになる。このWitherの殺害は即座に行われ、Witherが完全に形成される前に起こります。また、もっと革新的な方法もあります。
+interactions.a4a70422.4ae48d26.text.2=その一つが、このビデオで紹介されているTazz氏の方法です。
+
+interactions.a4a70422.4ae7792c.title=Away, but not without
+interactions.a4a70422.4ae7792c.text.0=リモートリクエストパイプとリモートリクエスターを設置することで、どこからでも物流ネットワークにアイテムを預けたり、リクエストしたりすることが可能になります。さあ、試してみてください。
+
+interactions.a4a70422.4bad2007.text.0=1ブロック以上の高い転送率。
+interactions.a4a70422.4bad2007.text.1=設定可能なアイテムリレーは、アイテムを移動させるためのすっきりとした方法ですが、必ずしも理想的なソリューションではありません。
+
+interactions.a4a70422.4bbcd095.title=機械があなたのために仕事をしてくれる
+interactions.a4a70422.4bbcd095.text.0=最後に、実際に工作を行うためのクラフティングコプロセッサが必要です。
+interactions.a4a70422.4bbcd095.text.2=マルチブロックは立方体の形をしていて、クラフト用のコプロセシングユニットとクラフト用のストレージユニットが最低1つずつ必要です。どのブロックからでもMEシステムに接続することができます。
+
+interactions.a4a70422.4d2f1f7f.text.0=アイテム、液体、パワーを無線で、しかも次元を超えて...これ以上何を望むのか？クッキー！？
+
+interactions.a4a70422.518a088a.text.0=インポートチェストをセットアップするには、チェストにシャーシを取り付け、エクストラクタのアップグレード（または複数）を追加します。その際、LPネットワークから電力が供給されていることを確認してください。次に、基本的なLPパイプを別のチェストに取り付け、パイプマネージャを使ってデフォルトルートに設定します。
+
+interactions.a4a70422.526ca953.title=バニラの自動化
+interactions.a4a70422.526ca953.description=初期アイテムの物流で最も有効なのは、水を使ったバニラ輸送と、水とベルトコンベアを組み合わせた輸送です。
+
+interactions.a4a70422.543b941a.description=Diamonds not included.
+interactions.a4a70422.543b941a.text.0=バニラのエンダーチェストにチャンネルを付けたように、ラッチにダイヤモンドを付けてロックします。
+interactions.a4a70422.543b941a.text.1=(こちらもパイプでの入出力が可能です)
+
+interactions.a4a70422.558bc2e1.description=ホールディングでは、非常に優れた携帯型の液体ストレージを提供しています。
+
+interactions.a4a70422.578d70df.title=Cache me outside, how about that?
+interactions.a4a70422.578d70df.text.0=序盤の大容量ストレージ、基本層では20.000個のアイテムを収納可能! アップグレードキットを使えば、さらに収納量を増やすことができますが、唯一の欠点は、ボイドアップグレードができないことです。
+
+interactions.a4a70422.589141bd.description=はじめてのホッパー
+interactions.a4a70422.589141bd.text.0=何事もどこかでスタートしなければならないのです。
+
+interactions.a4a70422.5b356a30.tasks.0.title=レッドストーン導管
+interactions.a4a70422.5b356a30.text.0=レッドストーン導管は、複数のレッドストーン信号を同じブロックに異なるチャンネルで通したり、信号の強さを設定したりすることができます。バニラの自動化を強化し、コンパクトにするのに非常に便利です。
+
+interactions.a4a70422.5b48c63b.text.0=We want to move it move ( item part ), but what actually? entry level filter.
+interactions.a4a70422.5b48c63b.text.1=そして、実際に物を動かすためには必要なものでもあります。
+interactions.a4a70422.5e3e8b90.text.0=アイテムバルブでは、アイテムを配置したり、ワールドからアイテムをピックアップしたりすることができます。ワールドブロック空間のターゲットを限りなくインベントリとして扱い、その「インベントリ」と対話するプログラムを作成することができます。
+
+interactions.a4a70422.600d307c.title=怠け者の始まり
+interactions.a4a70422.600d307c.text.0=オートクラフトを始めるには、レシピを保存する手段が必要です。
+interactions.a4a70422.600d307c.text.2=パターンターミナルは、レシピをパターンとして保存するための端末です。
+
+interactions.a4a70422.64d58d0e.text.0=多様な液体を輸送・保管するための液体容器で、積み重ねることができます。ホットバーに表示されている状態で、液体を右クリックすると、その液体を集めることができます。
+interactions.a4a70422.64d58d0e.text.1=大量に必要になりますね。
+interactions.a4a70422.781141fd.description=パイプでは液体を十分に流せない場合に使用します。
+interactions.a4a70422.781141fd.text.0=しかも、1ブロック以上の移動になります。
+interactions.a4a70422.781141fd.text.1=液体レーザーは、1回のクリックで無限の液体を動かすことができるので、ゲーム中盤から終盤にかけての蒸気タービンに最適です。
+
+interactions.a4a70422.78401cda.description=63種類のアイテムを最大サイズで収納します。
+
+interactions.a4a70422.78652784.title=Hop to It
+interactions.a4a70422.78652784.description=ホッパーホックは、特に樹林地からのアウトプットを扱うのが得意です。アイテムフレームがある隣のインベントリに優先的に仕分けをします。残ったものはアイテムフレームのない隣のゴミ箱に入れられます。
+
+interactions.a4a70422.7dba0de1.title=Deep Sink
+interactions.a4a70422.7dba0de1.description=これで本格的な貯蔵が可能になります。基本的な量子タンクでも128kバケツの液体を保存できます。
+
+interactions.a4a70422.817ad1ca.text.0=9x12の収納スロットがあります。
+
+interactions.a4a70422.81b3b7e4.text.0=1つのスロットにさらに多くのバケットを収納できます。16個のバケットをスタックし、それぞれ256個のバケットを収納できるので、1つのスロットに4096個のバケットを収納できます。
+interactions.a4a70422.85a2e9c5.title=Integrated Tunnel を使ったアイテム
+interactions.a4a70422.85a2e9c5.text.0=ストレージのアイテムのインポートとエクスポートを自動化します。例えば、リスト整数を使って大量のフィルタリングを行うことができます（サーボや他のフィルタでは小さすぎて必要なものすべてを送信できない場合があります）。
+
+interactions.a4a70422.877f5f61.title=SFM it's SUPER!
+interactions.a4a70422.877f5f61.text.0=スーパーファクトリーマネージャー（旧スティーブズファクトリーマネージャー）は、膨大な量の液体やアイテムを制御された方法で素早く移動させることができる、非常に堅牢な物流システムです。また、基本的なオートクラフトの機能も備えています。
+interactions.a4a70422.877f5f61.text.2=ブロックの配置や採掘、レッドストーン信号との対話、ワールドからのアイテムのドロップ/ピックアップ、インベントリや液体の供給などを行うことができます。多くのGTプロセスをコンパクトに自動化するための貴重なツールとなっています。
+interactions.a4a70422.877f5f61.text.3=Direwolf20の古いMODスポットライトをぜひご覧ください。
+
+interactions.a4a70422.88808d15.text.0=ブロックゲートは、本Modの中でも最も便利なブロックのひとつで、採掘とブロックの設置の両方を行うことができます。これは非常に素早く行うことができます。ブロックが変わると即座に採掘されるので、スターライト変換のセットアップに最適です。
+interactions.a4a70422.88808d15.text.1=さらに新しいブロックに置き換えることができます。ブロックゲートがブロックを置くことができない場合でも、ルールが許せばブロックを置こうとするので、結果的にアイテムを投げてしまうことになるので、元のブロックと置き換えられたブロックのブラックリストを使用することが重要です。
+
+interactions.a4a70422.8b1fb884.title=SFM Tutorial by Direwolf20
+interactions.a4a70422.8b1fb884.description=(古いコードですが、それでもチェックアウトしています)
+
+interactions.a4a70422.9431e9ff.text.0=9x9のストレージスロットを持っています。
+
+interactions.a4a70422.995e98b6.title=レシピの保存
+interactions.a4a70422.995e98b6.text.0=あとは、レシピを保存する場所が必要です。
+interactions.a4a70422.995e98b6.text.2=マスアセンブラはマルチブロックで、端はマスアセンブラのフレームブロック、壁はマスアセンブラのベント、そしてベントの代わりに壁にマスアセンブラのコントローラが1つずつ入っています。このコントローラブロックにMEシステムを接続します。
+interactions.a4a70422.995e98b6.text.4=アセンブラは最大で8x8x8の立方体の形をしている必要があります。内側には、少なくとも1つのMAパターンプロバイダーと少なくとも1つのMAクラフト コプロセッサが必要です。残りのブロックは、空気またはそれ以上のパターンプロバイダとクラフトコプロセッサにすることができます。
+
+interactions.a4a70422.a00ff5a7.text.0=このシールは、ストアシールとよく似ていますが、一定量のアイテムをコンテナの中に入れておくことで、最低限のアイテムを確保し、在庫過多になるのを防ぐことができます。
+
+interactions.a4a70422.a058147f.text.0=ああ、昔ながらのバニラホッパーは、今も変わらず仕事をこなしている。
+
+interactions.a4a70422.aa455b11.text.0=We want to move it move ( liquid part ) but what actually? entry level filter.
+
+interactions.a4a70422.aa752963.description=初めての液体貯蔵庫。
+interactions.a4a70422.aa752963.text.0=より高いレベルのドラム缶は、クエストの報酬やダンジョンでしか入手できません。基本的な石のドラム缶だけがクラフト可能です。より大きなストレージを必要とする場合は、他の種類のタンクを検討してください（多くの種類があります）。
+
+interactions.a4a70422.ab0c7325.text.0=他のすべてのノードは脳なしで、このノードはその脳です。
+interactions.a4a70422.ab7e2f6f.title=Integrated tunneling with fluids.
+interactions.a4a70422.ab7e2f6f.text.0=より複雑なオプションを利用して何か変わったことをしたいなら、Integrated tunnelsはあなたのロジパイプ以上です。
+
+interactions.a4a70422.ab81e260.text.0=ポンプは部品を作るだけではありません！任意のGTマシンに置き、ドライバーを使ってGUIを開きます。
+
+interactions.a4a70422.ac6cf1f2.description=63種類のアイテムを収納でき、3個の投資で4倍の収納が可能です。
+
+interactions.a4a70422.acf09ff6.title=もう回避策はありません!
+interactions.a4a70422.acf09ff6.text.0=液体を必要とする機械でのオートクラフトを自動化することができます。必要な液体のレシピにメススフラスコを必要なサイズで追加するだけで、このインターフェースが自動的に液体を機械に送り込みます。
+
+interactions.a4a70422.bb862174.text.0=大量のアイテムを保管するために使用され、内部の在庫は1つのアイテムで21億4,748万3,647個を保管することが可能です。
+interactions.a4a70422.bb862174.text.1=ブラックホールユニットは壊しても中身が残るので、クラフト用のグリッドに置くことでクリアできます。
+
+interactions.a4a70422.bca88813.description=stores 5 types of fluids
+
+interactions.a4a70422.be1a2d33.title=アイテム導管
+interactions.a4a70422.be1a2d33.text.0=アイテム導管は、他のすべてのEnderIOコンジットとスタックし、ファサードで覆うことができます。アイテムを輸送し、スピードアップでアップグレードすることができ、あらかじめ定義されたカラーチャンネルで動作し、フィルタリングも可能です。全てにおいて優れたパイプです。
+
+interactions.a4a70422.c3762d13.description=stores 5 types of fluids, max size
+
+interactions.a4a70422.c550c34b.text.0=このシールは、エリア（大きさは設定可能）をチェックし、Golemが拾うことができるアイテムを探します。
+
+interactions.a4a70422.chapter.title=Supply Chain Management
+interactions.a4a70422.chapter.description.0=ロジスティクスのあらゆるニーズに対応します。
+
+interactions.a4a70422.d16f1470.description=これらの強力なアイテムコレクターは、ダンジョンで見つけたり、高価なレシピで作ることができます。
+
+interactions.a4a70422.db77a821.title=The Wonky Wobblers
+interactions.a4a70422.db77a821.description=これらのパイプは、アイテムをA地点からB地点に移動させるという基本的な仕事をしっかりとこなしてくれますが、オートメーションに挑戦するにはいくつかのクセがあります。スターターパイプとしては最適ですが、ベストではありません。
+
+interactions.a4a70422.dcabc080.text.0=コンジットバインダーは簡単に早く作ることができますが、便利なコンジットにするための他の材料は、今のところ手が届かないかもしれません。ここでは、そんなあなたの悩みを解消するためのサテライトパイプをご紹介します。
+
+interactions.a4a70422.dd9ecae2.text.0=容量フィラーは、システム内に適切なサイズのフラスコがあれば、保存されている液体の種類に関わらず、どんなサイズのフラスコでも作ることができます。
+
+interactions.a4a70422.e03e9a01.title=異なるドラムのビートに合わせて
+interactions.a4a70422.e03e9a01.description=Bronzeドラムは、ゲーム序盤で液体をスポット的に保存するのに適したストレージオプションです。
+
+interactions.a4a70422.e18a9565.description=より大きなバケツ
+interactions.a4a70422.e18a9565.text.0=サーマルタンクやキャッシュのように、ホルダーでエンチャントできます。とても大きなバケツです。
+
+interactions.a4a70422.e1ef7624.title=ストレージの拡張
+interactions.a4a70422.e1ef7624.description=Tier3のストレージモジュールを利用すれば、わずか数台のモジュール式ストレージをロジスティックネットワークで結び、後続のストレージオプションにつながる本格的なストレージとして利用することができます。
+interactions.a4a70422.e1ef7624.text.0=警告：下位のモジュールをアップグレードしても、インベントリは保持されず、すべての内容が失われます。
+
+interactions.a4a70422.e619360e.title=Laying Pipe
+interactions.a4a70422.e619360e.description=基本的なMekanismの機械式パイプは、液体の出し入れや、レッドストーンの起動の有効化・無効化を可能にします。ゲーム序盤の良い配管です。
+interactions.a4a70422.e619360e.text.0=ご存知ですか？Mekanismのパイプは、インワールドで次のレベルにアップグレードすることができます。次のレベルの合金を使用した8本までのケーブルのライン上で右クリックするだけで、すべてのケーブルがアップグレードされます。
+
+interactions.a4a70422.ec626521.text.0=同じですが、より大きくなりました！最大16スタック、64バケツのサイズで、1つのスロットに1024バケツを保存できます。
+
+interactions.a4a70422.ee48409e.title=Steel Drum Band
+interactions.a4a70422.ee48409e.description=スチールを手に入れると、スチールドラムはBronzeよりも容量が大きくなりますが、機能は似ています。一般的には、Gregtechのドラムをスチールからアップグレードする価値はありません。
+interactions.a4a70422.f18ebd20.text.0=その名の通り、MEネットワークとFluiduct、Tank、Drumなどの液体貯蔵・輸送システムとのインターフェースとなります。
+interactions.a4a70422.f18ebd20.text.1=それぞれの側面は、独立して異なる液体に設定することができます。搬出する液体を設定するには、その液体の入ったバケツを、その面に対応する空のスロットに置くことが必要です。
+interactions.a4a70422.f18ebd20.text.2=各面のスロットは、左から順に、下、上、北、南、西、東となっています。また、長方形のスロットにカーソルを合わせると、この情報を確認することができます。このスロットは、10,000 mBまたは10個のバケットの内部バッファを表しています。
+
+interactions.a4a70422.f6041d91.title=物流の悪魔
+interactions.a4a70422.f6041d91.text.0=インベントリの仕分けや保管、クラフトや液体の管理など、ゲームを進めていくうちにどんどん複雑になっていくことでしょう。Logistics Pipeは、接続されたインベントリを管理するためのエレガントなソリューションを提供します。
+
+interactions.a4a70422.f60cd511.text.0=綺麗で清潔なセットアップを実現します。
+
+interactions.a4a70422.f74bda48.text.0=Ice Ice Baby, (Vanilla) btw.
+
+interactions.a4a70422.fcd1bb3f.text.0=アップグレードされたキャッシュ 十分なストレージではなく、この悪い子はあなたのために4096k個のアイテムを保存します。
+
+interactions.a4a70422.fe00a2c1.text.0=そう、別のタイプのレンチです!
+
+interactions.a4a70422.fe360712.text.0=インベントリからアイテムを取り出す際に使用します。
+
+interactions.a4a70422.fe54b011.title=これを伝えてください
+interactions.a4a70422.fe54b011.text.0=コンベアは単なるクラフト素材ではありません。任意のGTマシンに設置し、ドライバーでGUIを開きます。
+
+interactions.a4a70422.ffd4e888.tasks.0.title=エンダー液体導管
+interactions.a4a70422.ffd4e888.text.0=EnderIOの液体導管にはいくつかのTierがありますが、最上位のTierはエンダー液体導管です。液体の供給源から目的地までを瞬時にテレポートすることができ、より高度なGT処理に最適です。
+
+interactions.aa10a1a2.0298a797.title=ZPM Diesel発電機
+interactions.aa10a1a2.0298a797.text.0=ZPMDiesel発電機は、Dieselを燃焼させて1アンペアのZPMパワーを発生させることができるアップグレードです（LuVのマルチブロックを文字通りアップグレードすることができます）。酸素と、ニトロDieselまたはNacadriaticFuelのDieselインプットが必要です。
+
+interactions.aa10a1a2.0e127505.title=太陽は不思議な体をしています。立派な父親のように!
+interactions.aa10a1a2.0e127505.description=終盤の燃料生成へようこそ。これはおそらく、あなたが作るマルチブロックの中で最も複雑なものですので、よく聞いてください。
+interactions.aa10a1a2.0e127505.text.0=FusionReactorのレシピは、開始前に一定の総エネルギー量を必要とします。適切な場所にEnergyHatchを追加することで、Reactorのバッファが10万増加します。ハッチが増えると、より多くのレシピがロックされます。
+interactions.aa10a1a2.0e127505.text.1=Mk.1 FusionReactorは、Heliumと酸素のプラズマを生成し、Osmium、鉄、Duranium、Draconiumなどの希少物質を製造することができる。
+
+interactions.aa10a1a2.0e39506b.title=そろそろ、必要なものを必要な場所に移動させる時期ですね
+interactions.aa10a1a2.0e39506b.text.0=Conveyorは、ゲーム序盤でアイテムや液体を移動させる方法です。Conveyorの上でPlasticを右クリックすることで拾うことを防ぎ、グローストーンでスピードを上げることができます。
+interactions.aa10a1a2.0e39506b.text.2=可能な限り、より優れた配管オプションに移行することをお勧めしますが、特に液体の輸送にはMekanismのパイプが次善の策となるでしょう。
+
+interactions.aa10a1a2.185b535b.title=原子の分裂 - LuV+パワー
+interactions.aa10a1a2.185b535b.text.0=PhotonuclearFissionChamberは、UraniumHexafluorideを使って膨大な量の蒸気を作り出すことができます。その出力を処理するために複数のSteamTurbineが必要になりますが、それでLuVクラスの電力を生産することができるでしょう。
+interactions.aa10a1a2.185b535b.text.2=この機械の設計図はEuclydesPrimeのダンジョンで見つけることができますし、できるようになったらクラフトすることもできます。
+
+interactions.aa10a1a2.2054d6e9.description=つまり、どの蒸留方法を選ぶかではなく、すべての蒸留方法を手に入れることができるのです。
+interactions.aa10a1a2.2054d6e9.text.0=蒸留塔の高さはかなりのものです。JEIのレシピをご覧ください。使用するレシピの出力ハッチ数＋ベースレイヤー数と同じ高さにする必要があります。
+interactions.aa10a1a2.2054d6e9.text.1=Steam-Cracked Heavy Fuelは最大11種類の出力があるので、12の高さのタワーを建てれば、すべてのレシピが使用可能です。
+
+interactions.aa10a1a2.210a1f85.title=原木や木炭を収納する
+interactions.aa10a1a2.210a1f85.text.0=その原木をどこかに保存しておく必要があります。
+interactions.aa10a1a2.210a1f85.text.1=また、オーバーフロー対策も万全です(報酬のVoidUpgradeを覚えていますか？)
+
+interactions.aa10a1a2.25fe4035.title=Interactions燃料フローチャート DieselからNaquadriaticまで!
+
+interactions.aa10a1a2.291c85cc.title=Upgrade !
+interactions.aa10a1a2.291c85cc.text.0=たくさんの機械を動かしていると1台のBoilerでは追いつかなくなります。 Boilerを増設するのではなく、現在のBoilerをアップグレードしてはいかがでしょうか。
+interactions.aa10a1a2.291c85cc.text.1=インフラ全体はそのままで、唯一考慮しなければならないのは、パイプが生産に追いついているかどうかです。
+
+interactions.aa10a1a2.2be7c722.title=You've urned this
+interactions.aa10a1a2.2be7c722.description=LVの時代に進むと、より良い水源を作ることができます。用水集出装置は無料で水を作りますが、メカニズムポンプははるかに早く水を作りますがエネルギーが必要です。選択はあなた次第です。
+
+interactions.aa10a1a2.2c93dbb5.title=自動農場がほしい！
+interactions.aa10a1a2.2c93dbb5.text.0=PlantInteractorは、作物を右クリックしてその作物を採取してくれます。このクエストラインでは、キャノーラ農場を作りたいと思います。
+interactions.aa10a1a2.2c93dbb5.text.1=あるいは、CanolaSeedを生産してくれるCanolaChickenを作ることもできます。
+
+interactions.aa10a1a2.3e7e47d0.title=The Generation Gap
+interactions.aa10a1a2.3e7e47d0.text.0=LargeBronzeBoilerの場合、最高温度に達すると1Tickあたり900mBの蒸気を生産します。蒸気をLVに換算すると、32EUあたり64mBの蒸気となります。
+interactions.aa10a1a2.3e7e47d0.text.1=つまり、LBBは14台のLVタービンを動かすことができるのです。このうち4台をEBFの電源にすることをお勧めします。
+interactions.aa10a1a2.3e7e47d0.text.2=MV時代に突入することになります。
+interactions.aa10a1a2.3e7e47d0.text.4=LargeBronzeBoilerを2台設置すれば、変圧器を使ってHVに押し込むことも可能なほどの蒸気が得られますが
+interactions.aa10a1a2.3e7e47d0.text.5=それまでにDieselに切り替えることを検討すべきでしょう。(BoilerはLightFuelや他の液体燃料でも動くんですよ！)
+
+interactions.aa10a1a2.50f6ce33.title=Wouldn't you just LuV a better diesel gen?
+interactions.aa10a1a2.50f6ce33.text.0=LuV Diesel発電機は、Dieselを最も効率的に燃焼させ、1アンペアのLuVパワーを生み出すことができます。酸素とNitroDiesel、またはNaquadriatic燃料のいずれかのDieselの入力が必要です。
+
+interactions.aa10a1a2.51878972.tasks.0.title=蒸気を完全に自動化するには？
+
+interactions.aa10a1a2.579a74b5.title=Almost there!
+interactions.aa10a1a2.579a74b5.text.0=そのCrystallizedCanolaにOilを混ぜると、液体に近い状態で燃やして電力を得ることができるのです。
+
+interactions.aa10a1a2.634fbd39.text.0=クラフト、燃料、マナ生成のためにCreosoteを蓄えておくといいでしょう。初期の段階ではSteelDrumが良いでしょうし、ThermaDynamicsのTankやMekanismのDynamicTankも良いでしょう。
+interactions.aa10a1a2.634fbd39.text.2=ThermalDynamicsのPortableTankはエンチャントをすると特に便利で、アップグレードされたタイプはエンチャントをすると膨大な量を保持できます。
+interactions.aa10a1a2.634fbd39.text.4=もう一つの素晴らしい選択肢はMekanismのDynamicTankで、 非常に大きな量を安価に保持することができ、マルチブロックとしての見栄えも良いです。
+
+interactions.aa10a1a2.6b915af8.title=Remote power
+interactions.aa10a1a2.6b915af8.text.0=汚染された機械の近くで作物が育つのか？ おそらくそうでしょうが、遠隔地から電力を供給する方法があれば、より望ましい選択肢になります。
+interactions.aa10a1a2.6b915af8.text.1=CEF/CEUコンボを使用して、RFとGT電力を変換することができます。SpectreEnergyInjectorに電力を供給して、RFパワーを遠隔地に分配し、必要に応じてGT電力に変換することができます（または変換しない）。
+
+interactions.aa10a1a2.7185860a.title=pumping up the black gold.
+interactions.aa10a1a2.7185860a.text.0=また、Gregtechのポンプも使えます。何でもありですが、良いものもあれば悪いものもあります。
+
+interactions.aa10a1a2.73fa51ac.title=もっと熱く熱くなれればなぁ
+interactions.aa10a1a2.73fa51ac.description=MK.1Reactorに似た構造ですが、FusionCoilを使用しており、ZPMとUV EnergyHatchを使用した場合にのみ機能する。
+
+interactions.aa10a1a2.7d0d44c4.title=EBFをHVパワーにアップグレードする時期
+interactions.aa10a1a2.7d0d44c4.text.0=HVパワーを用いてEBFでHVに進むための材料を作る。
+
+interactions.aa10a1a2.7eaf5f76.title=1440 EU -> 2mB
+
+interactions.aa10a1a2.81146e1b.tasks.0.title=Dieselの改善
+interactions.aa10a1a2.81146e1b.text.0=HVに到達したことで、Dieselの生産と改良された最終製品の両方で、いくつかの改良ができるようになりました。
+
+interactions.aa10a1a2.9063ed56.title=液体の自由を手に入れる時
+interactions.aa10a1a2.9063ed56.tasks.0.title=地球温暖化はマインクラフトでも起きていることなので、拠点を少しでも大きくすることを忘れないでください。
+interactions.aa10a1a2.9063ed56.text.0=現実世界が1つのエネルギー源に依存していないように、パワーのすべてのステップはあなたの生産を補完するものです。
+interactions.aa10a1a2.9063ed56.text.1=SteamBoilerはすべて液体燃料で運転することができ、特にDieselや高次の燃料は効率的です。
+
+interactions.aa10a1a2.9383d06a.title=Praise the Sun \(T)/
+
+interactions.aa10a1a2.9387a9b3.title=これで、なぜ「金色に輝く」と呼ばれるのかがわかります
+interactions.aa10a1a2.9387a9b3.text.0=MVでは、この2つの燃料を適切な比率で混合することで、真のDieselを得ることができます。
+
+interactions.aa10a1a2.a12dd786.title=滴を集める
+interactions.aa10a1a2.a12dd786.text.0=TreeBeaconからのドロップを集めるには、この3つのうちどれかが有効です。拠点から離れた場所に植林場を作る場合は、バニラの仕組みを使うことを考えてください。
+interactions.aa10a1a2.a12dd786.text.1=ゲーム序盤のModアイテムでの移動は、この時点では少し高価かもしれません。そのため、CokeOvenやBoilerのセットアップの上に植林場を作るといいでしょう。
+
+interactions.aa10a1a2.ac7d7e38.title=FTB Interactions のためのBoiler燃料表
+
+interactions.aa10a1a2.ad67ba55.title=More coke ovens!
+interactions.aa10a1a2.ad67ba55.description=パワータワーと呼ばれることもある（ヒント: ブロックの共有)
+interactions.aa10a1a2.ad67ba55.text.0=ImprovedCokeOven(ICO)を3つ重ねることで、LargeBronzeBoilerを最大効率でうまく動かすことができ、さらにCreosoteとCokeOvenのバッファーを作ることができます。
+interactions.aa10a1a2.ad67ba55.text.1=オリジナルのコークス炉にImprovedCokeOvenを追加接続するには、9個のBronzeレンガの筐体、アイテムの搬入出、液体の搬入出、4個のCokeOvenBricksが必要です。
+interactions.aa10a1a2.ad67ba55.text.3=この機会に、古いCokeOvenを再利用してみてはいかがでしょうか。
+interactions.aa10a1a2.ad67ba55.text.4=最適な設定は、1つのICOで木炭を生産し、2つのICOでCoalCokeを生産し、CoalCokeとCreosoteをすべてLargeBronzeBoilerに配管してフルパワーで稼働させることです。
+
+interactions.aa10a1a2.b00b4e76.title=Another one?
+interactions.aa10a1a2.b00b4e76.text.0=はい、もう1つ。現在のTreeBeaconにMenrilTreeを追加することができます。現在選択している木のドロップ率が下がりますが（MenrilTreeを追加してもCokeOvenに追いつくでしょうか？
+interactions.aa10a1a2.b00b4e76.text.1=それ以外にも、他の木で有用なドロップを提供するために2つ目の木を検討したり、すでに設定したりしているかもしれません。
+interactions.aa10a1a2.b00b4e76.text.3=GasTurbineは、Methaneなどのガスを燃やして発電することができます。これは、Voidではなく余剰分を生産している場合、電力網に貢献するのに便利です。
+
+interactions.aa10a1a2.b468cef6.description=自動化された燃料や強力な燃料なしにこれを供給するのは、負け戦です。
+interactions.aa10a1a2.b468cef6.text.0=-水の入力ハッチが必要です。
+interactions.aa10a1a2.b468cef6.text.1=-炉の燃料を燃やすにはInputBusが必要です。また、InputHatchを代わりに使用すれば、Diesel発電機用燃料や半固形燃料も有効利用できます。
+interactions.aa10a1a2.b468cef6.text.2=- Steamが出るためのOutputBusが必要です。このバスは、インベントリにある液体を自動的に出力します。
+interactions.aa10a1a2.b468cef6.text.3=アイテムと液体を同時に燃料として使用することができ、InprovedCokeOvenから出るCoalColeやCreosoteの燃焼にお勧めです。
+
+interactions.aa10a1a2.b6d28c29.title=logs not in short supply
+interactions.aa10a1a2.b6d28c29.text.0=すべてのスターターパワーオプションの基礎となるもので、たくさんの原木が必要です。その際には、必ず近くで。
+interactions.aa10a1a2.b6d28c29.text.2=重要：空へのアクセスが必要です。木がBeaconの上に生えていると、星の光が遮られて動作が遅くなるので、木がBeaconの上に生えていないことを確認してください。
+
+interactions.aa10a1a2.b78c3116.title=Zero Point Matrix
+interactions.aa10a1a2.b78c3116.description=EnrichedNaquadahから電力を得る唯一のまともな方法の一つ。
+interactions.aa10a1a2.b78c3116.text.0=ZeropointMatrixは、標準的な処理よりもはるかに効率的な速度でNaquadahを精製することができます。基本的な消費電力や処理時間は同じですが、電力を与えるだけで無限にオーバークロックすることができます。
+interactions.aa10a1a2.b78c3116.text.1=これは特殊なオーバークロックで、乗算器が必要とするエネルギーの総量を増加させることはなく、単に基本値でエネルギーを与えるほど高速に生成されます。
+interactions.aa10a1a2.b78c3116.text.2=ナクアダは投入されたEUの2倍以上の量を生産し、実質的にEUを倍増させるメカニズムとなっています。さらにNaquadriaticFuelに加工することで、ついにパック内の燃料密度の頂点に到達することができます。
+
+interactions.aa10a1a2.b9e859bd.tasks.0.title=Diesel燃料の自動化、おめでとうございます!
+interactions.aa10a1a2.b9e859bd.text.0=このDieselは、直接Diesel発電機に使用したり、Boilerに使用したりすることができ、その選択はあなた次第です。
+
+interactions.aa10a1a2.be9f8fc3.description=Dieselは蒸気ほど早くはないかもしれませんが、MVを超えた後のお勧めの選択肢です。
+interactions.aa10a1a2.be9f8fc3.text.0=JEIの用途を確認して、使用する発電機の種類ごとに燃料の選択肢があることを確認してください。今まで考えもしなかったようなユニークな燃料が見つかるかもしれません。
+interactions.aa10a1a2.be9f8fc3.text.1=Dieselがあれば、Boilerで蒸気を発生させたり、DieselGeneratorで使用時にのみ電力を消費するオンデマンド発電が可能になります。
+
+interactions.aa10a1a2.c35570d8.text.0=蒸気・ガス・プラズマの使用量は、内蔵されているTurbineBladeによって異なります。ゆっくりとスピードを上げていくので、常にエネルギーを供給したい場合に使用します。
+interactions.aa10a1a2.c35570d8.text.1=LargeSteamTurbineには、TurbineRotorが必要です。TurbineRotorはサイズや素材によって大きく異なり、Turbineの稼働に必要な効率性、耐久性、最適な流れの調整に貢献します。
+interactions.aa10a1a2.c35570d8.text.2=Gregtechのポンプをカバーとして使い、ScrewDriverを使ってGUIを開き、最適な流量を設定することで、燃料や蒸気の生産量に合わせて出力を最適化することができます。
+
+interactions.aa10a1a2.c48fa03d.tasks.0.title=EVパワーマルチブロック
+interactions.aa10a1a2.c48fa03d.text.0=非効率的なシングルブロックの発電機やTurbineをすべて撤去する時が来ました。
+interactions.aa10a1a2.c48fa03d.text.1=発電機を使用して、CEUを備えたSpectreEnergyInjectorに電力を入力し、各マシンエリアでCEFを備えたEUにワイヤレスで変換するシステムです。
+interactions.aa10a1a2.c48fa03d.text.2=CEFのSpectreCoilはクリーンなセットアップを可能にし、拠点での感電の事故を防ぐことができます。
+interactions.aa10a1a2.c48fa03d.text.3=FluxNetworkを作ることができれば、さらに大きなパワーを動かすことができ、単一のネットワークではなく、チーム全体でそれを分配することができます。
+
+interactions.aa10a1a2.c4bcc6d3.title=あともう一息！
+interactions.aa10a1a2.c4bcc6d3.text.0=そのCrystallizedOilは、蒸留によっていくつかのものに変えることができるので、最後の工程でどれだけ作るかを工夫してバランスを取る必要があります。
+
+interactions.aa10a1a2.c5c9f2f6.title=*Slaps engine* This bad boy can fit so much pollution in it.
+interactions.aa10a1a2.c5c9f2f6.description=デフォルトで2000EU/tのDieselレシピを使用したマルチブロック発電機。酸素を添加することで6144EU/tまで上昇させることができます。まだ納得していない方は、シングルブロックジェネレーターよりも効率的にDieselを消費することができます。
+interactions.aa10a1a2.c5c9f2f6.text.0=Gregtechのポンプを使って、生産量に合わせて正確な流量を設定することもできます。供給が追いつかないからといって、オンオフを繰り返すのではなく、常に稼働させておく方が良いでしょう。このマルチブロックには少量のLubricantが必要で、そうしないと最終的には焼き付いて動かなくなります。
+
+interactions.aa10a1a2.c726c9c9.title=蒸気生産の自動化、おめでとうございます!
+
+interactions.aa10a1a2.chapter.title=このパーティーをどうやって盛り上げるか
+interactions.aa10a1a2.chapter.description.0=プロセスや自動化に必要なエネルギーに困っていませんか？
+interactions.aa10a1a2.chapter.description.2=私は99の問題を抱えているが、パワーはその一つではありません。
+interactions.aa10a1a2.chapter.description.3=進行状況に応じて、ここをチェックして、各Tierに推奨されるパワーオプションを確認してください。これらはあくまでも提案であり、もしあなたが他のクリエイティブな方法で拠点をパワーアップさせることができれば、さらにパワーアップすることになるでしょう...。
+
+interactions.aa10a1a2.d2697046.title=無慈悲な太陽"クールエル・サン"
+interactions.aa10a1a2.d2697046.description="「太陽」 偉大なる我が魔力"(元ネタ：漫画 七つの大罪のエスカノール)
+
+interactions.aa10a1a2.d26ea9a5.title=1920 EU -> 2mB
+
+interactions.aa10a1a2.ddd91cac.title=エンパワーメント、期待できそうですね。
+interactions.aa10a1a2.ddd91cac.text.0=HV化学反応器では、スターからロックボトムまで、両方の世界の最高のものをキャノーラに組み合わせることができます。
+
+interactions.aa10a1a2.e06f2bd0.tasks.0.title=おめでとうございます。これであなたは、自分のお金でより良いものを手に入れる方法を知ったことになります。
+
+interactions.aa10a1a2.e50a603a.tasks.0.title=効率アップ、ででん!
+
+interactions.aa10a1a2.edd7042e.title=そこにはどんな魔法がかかっているのか、種がキラキラと輝き始め、可能性が見えてきました。
+
+interactions.aea6d983.0b123dfe.description=全ての、そして全てのベースとなるものです
+interactions.aea6d983.0b123dfe.text.0=賢い鶏が必要？本で叩いてみましょう。
+
+interactions.aea6d983.17f4c598.title=驚異的な宇宙の力……ちっぽけな卵
+interactions.aea6d983.17f4c598.text.0=魔法と技術の究極の融合、それが「Infinity Chicken」です。その卵は6種類の方法で加工され、あらゆる種類の高級素材を素早く作り出すことができます。
+
+interactions.aea6d983.19cae765.title=Radon Man!
+interactions.aea6d983.19cae765.text.0=ラドンは手間がかかりますし、プルトニウムを作るのも大変な作業です。しかし、少しでも手に入れば、ラドンチキンを作ることを検討することができます。そのアイテムを使えば、ラドンをより早く作ることができます。
+
+interactions.aea6d983.1ca6ea6f.title=I've lost my...
+interactions.aea6d983.1ca6ea6f.text.0=アパタイトにはいくつかの精製用途がありますが、その中でも最も重要なのがPhyto-groの生産です。このチキンは、フィトジェンティクの自動化を助けるSmall Pileを直接生産します。
+
+interactions.aea6d983.1d1cc9e9.title=ニワトリの星
+interactions.aea6d983.1d1cc9e9.text.0=このアストラルバードは、天空の卵を産みます。濃縮された卵をライトウェルに入れておくと、スターライト生成の触媒となる。すぐに割れてしまいますが、それなりの量のスターライトを生成します。
+
+interactions.aea6d983.2b146c3e.text.0=基本的な鶏舎です。ここには同じ種類、同じ強さの鶏を16羽まで置くことができ、常に副産物を生産することができます。
+
+interactions.aea6d983.2b6440fd.text.0=これを置いておけば、ねぐらのアイテムを集めてくれるので、自動化がしやすいです
+interactions.aea6d983.2f08e09a.text.0=一連の魔法の注入によって作られたこの鶏は、マナの卵を直接生産することができ、望むならマナの生産を完全に排除することができます...もちろん、エネルギーは犠牲になりますが。
+
+interactions.aea6d983.2fbee4dd.text.0=スターメタル、BlackQuartz、スカイストーンを無限に作ることができるヤツです。そのためには自分で資源を手に入れる必要がありますが、手に入れた後はコイツが活躍してくれます。
+
+interactions.aea6d983.36f5aaef.text.0=最も役に立たない鶏の一つ。糸になる材料を大量に生産します。
+interactions.aea6d983.36f5aaef.text.1=また、オーバーワールドのダンジョンでも入手できます。
+
+interactions.aea6d983.4362463c.text.0=スパイスを使った料理を作りたいと思っても、そのスパイスを手に入れるのは難しいものです。
+
+interactions.aea6d983.492570b8.text.0=まあ、それは仕方のないことだと思います。しかし、自然は適応するものであり、私はSmog Chickenを開発しました。この鶏は廃棄物を住処とし、卵から汚泥を生成して、それを直接利用することができます。
+interactions.aea6d983.492570b8.text.1=Charcoal Byproductは、熱分解炉の必要性は全くありません。最良の結果を得るためには、DistillationTowerを適用します。
+
+interactions.aea6d983.50f6df4e.title=輝きの星
+interactions.aea6d983.50f6df4e.text.0=この魔法の獣は、ラティスの作成を自動化するのに役立ちます...。今までよりも良い音がするでしょう？ 余談ですが、これはネザースターの供給源でもあるかもしれません。
+
+interactions.aea6d983.5681a1ea.text.0=2羽のニワトリをブリーダーに入れると、より強いステータスを持った新しい鶏が生まれます。このプロセスを繰り返して、生産量が最大の10/10/10のニワトリを手に入れてください。
+interactions.aea6d983.5681a1ea.text.1=特別なチキンを1羽作ったら、スマートチキンと交配して2羽目を作ることができます（または、スマートチキンをもっと増やすことができます。）
+
+interactions.aea6d983.72ad469d.text.0=陶器は序盤ではTiCメルターのために少量必要ですが、それ以外の主な用途は装飾です。このチキンは、装飾用に大量に生産するのに役立ち、ゲーム序盤で安価に作成できます。
+
+interactions.aea6d983.7c9afcdf.text.0=Fluixは簡単に作ることができますが、石英やネザークォーツ、レッドストーンなどは高価ですよね。このチキンを使えば、自動化に必要なFluixを無料で大量に生産することができます。
+
+interactions.aea6d983.7e6df551.title=The Alpha and the OmegLul Chicken
+interactions.aea6d983.7e6df551.text.0=プライマルマナはレッドマターのようなハイエンドの素材には欠かせないものですが、その製造にはかなりの時間とエネルギーを要します。プライマルエッグを遠心分離することで、重水素を生成するとともに、必要なダストをすべて取り出すことができ、プロセスを大幅に簡略化することができます。
+
+interactions.aea6d983.986aec2d.text.0=この便利な鶏は、その卵を直接製錬して乾燥ゴムにし、工業用の部品、コンベヤー、アドオンを製造したり、Sulfurと一緒に製錬して、樹脂や生のゴムパルプの代わりにゴムを製造したりすることができます。
+
+interactions.aea6d983.99f9395f.text.0=グラファイトは、いくつかのレシピで使用されています。採掘することもできますが、こいつを使えば、いつでも無限に供給することができます。後にグラフェン製造を自動化するのにも最適です。
+
+interactions.aea6d983.9a85615d.text.0=vinteumチキンは、vinteum、マナスティール、レアアースなどの素晴らしい副産物を生み出し、これらはさらに多くの重要なレアメタルに加工されます。
+
+interactions.aea6d983.9f3575c5.text.0=飼っている鶏が逃げ出して、庭中に副産物を撒き散らすようなことは避けたいものです。チキンキャッチャーで叩いてアイテムにして、鶏舎に入れれば、よりコントロールされた繁殖と生産が可能になります。
+
+interactions.aea6d983.b1c239fe.text.0=エンダーボイ。この鶏は、EnderIOテレポーターの動力源となるエンダリウムダストと、その他の有用な副産物のために遠心分離することができるdew of the voidを生成することができる。
+
+interactions.aea6d983.b5162011.text.0=モブやロータスの農場の代わりに、Learning Chickenの卵を採取して液体の経験値を得ることができます。
+
+interactions.aea6d983.b9354c30.text.0=花崗岩からフッ素を自動抽出することはできますが、機械を何台も使って時間をかけて行います。このチキンを使えば、卵からフッ素の一部を抽出することができるので、その点を軽減することができます。経口摂取には適していません。
+
+interactions.aea6d983.bad8af80.title=最大の犠牲には最強の意志が必要である
+interactions.aea6d983.bad8af80.text.0=すべてのレシピは、完全に発達したスマートな鶏を求めています。特別なタイプの鶏になるには、賢い鶏だけが適しています。
+interactions.aea6d983.bad8af80.text.1=ここから分岐する各レシピには、触媒として10/10/10のスマートチキンと、そのチキンに適用される特定の試薬が必要となります。それぞれのチキンのクエストは、それを作ることができたり、見つけることができるところまで進むとアンロックされます。
+
+interactions.aea6d983.ca174a12.text.0=この汎用性の高い鶏は、電解や空気の収集の必要性を回避して、無数の必須ガスを生成するために、複数の方法(JEIを参照)で処理できる卵を生み出します。
+
+interactions.aea6d983.chapter.title=環境とサーバーに優しい、Chickens FTW!
+interactions.aea6d983.chapter.description.0=魔法とGregtechの組み合わせで、自動化に必要な新種のチキンが誕生しました。
+
+interactions.aea6d983.d9100e93.text.0=ネザーダンジョンでのみ発見され、10/10/10に育てることができる。ネザーウォートを生成します。
+
+interactions.aea6d983.e4411b80.text.0=こいつはLV開始時に入手可能で、インワールドのキャノーラ農場を完全に置き換えることができる。コンパクトなセットアップにはとても便利です。
+
+interactions.aea6d983.e7b7c72c.text.0=この血塗られた忌まわしいものは、伝説の血のリンゴを作り出すことができ、それを食べるとあなたのパーソナルネットワークにLPが追加されます。祭壇の近くで食べると、その祭壇にLPが追加されます。また、より高い電圧でライフエッセンスに直接変換することもできます。
+
+interactions.aea6d983.f3dada63.title=食用じゃありません！
+interactions.aea6d983.f3dada63.text.0=この鶏は、直接プラスチックを生産することはできませんが、卵を直接エタノールと組み合わせてポリエチレンを生産することで、ポリエチレンの生産チェーンのいくつかのステップを回避することができます。
+
+interactions.aea6d983.fc4f136e.text.0=Euclydesのダンジョンで発見される。精製すると無限にCopperが得られる硫酸銅溶液が得られます。
+
+interactions.aea6d983.fee8cda4.title=ツリーファームを必要としている人は?
+interactions.aea6d983.fee8cda4.text.0=TreeBeaconでfpsが低下？大量の丸太をパイプで運ぶのに疲れましたか？そんな悩みを解決してくれるのが、このメンリル・チキンです。このニワトリを10/10/10まで繁殖させれば、Diesel生産ライン全体をまかなえるだけのMenril Crystalを素早く生産することができます。
+
+interactions.b1d7d7b9.0220d6bb.title=Buckets? Those are Rookie Numbers
+interactions.b1d7d7b9.0220d6bb.description=その数字を上げるためには、ポンプが必要です。海や砂漠でOilの間欠泉を見つけて、それを汲み上げてください。FEエネルギーに変換するためのCEUと、留守中に電力を供給するためのBatteryが必要になります。
+interactions.b1d7d7b9.0220d6bb.text.0=ポンプに電力を供給するためには、BatteryバッファとCEU、またはSpectreEnergyTransmitterを使用することができます。液体の移送には、CyclicのFluidTransfer Nodeを使用することができます(同じディメンションのみ)。
+
+interactions.b1d7d7b9.0608c105.title=水素
+interactions.b1d7d7b9.0608c105.description=燃えやすい
+interactions.b1d7d7b9.0608c105.tasks.0.title=窒素セル
+interactions.b1d7d7b9.0608c105.text.0=水素は多くの有機化学レシピで使用されており、ほぼすべての燃料生産レシピに不可欠な成分です。また、一部のEBFレシピでも水素が必要になります。
+
+interactions.b1d7d7b9.09b74423.tasks.0.title=酸素セル
+interactions.b1d7d7b9.09b74423.text.0=酸素は、主にEBFやArcFurnace、多くの化学反応に使用されます。
+
+interactions.b1d7d7b9.11747a7e.tasks.0.title=Heavy Oil
+
+interactions.b1d7d7b9.14eeece7.tasks.0.title=Hydrogen: GET!
+interactions.b1d7d7b9.14eeece7.text.0=水素は、化学の中核となる元素です。これを常時供給し、バッファリングしたものが必要になります。また、複数の場所に分配する必要があるので、LP、パイプ、ワイヤレスシステムなどを利用して調整します。
+
+interactions.b1d7d7b9.1b0e527b.title=Methane
+interactions.b1d7d7b9.1b0e527b.tasks.0.title=MethaneCell
+
+interactions.b1d7d7b9.1c570525.title=爆発的な面白さ
+
+interactions.b1d7d7b9.2853e86e.title=Rubber Band Man
+interactions.b1d7d7b9.2853e86e.description=これで、原料を有用なRubberに加工できるようになりました。どちらのルートでもSulfurが必要ですが、RawRubberを使うか、Resinを使うかはあなた次第です。
+interactions.b1d7d7b9.2853e86e.text.0=Sulfurは辰砂鉱石を加工して得られるほか、少量であれば銀や鉛からも得ることができます。ネザーに行けば、Sulfurは鉱石として豊富にあり、ブレイズパウダーから精製することもできます。
+
+interactions.b1d7d7b9.29825601.title=塩水
+interactions.b1d7d7b9.29825601.description=塩水を遠心分離機にかけると、塩水と液体リチウムの両方が得られます。塩水は、化学で使う塩素を作るのに適しています。リチウムはリチウムダストにして、Batteryやその他の用途に使うことができます。
+interactions.b1d7d7b9.29825601.text.0=また、型を使って、塩水を直接塩にする方法もあります。こちらの方が早く塩を作ることができますが、副産物がなくなってしまいます。
+
+interactions.b1d7d7b9.2d5c8742.title=Log log it's better than bad it's wood
+interactions.b1d7d7b9.2d5c8742.description=Menrilの原木を抽出することで、MenrilCrystalが得られます。この結晶を遠心分離すると、LiquidMenril・Methane・Carbonなど、多くの有用な副産物が得られます。
+
+interactions.b1d7d7b9.496aec7e.title=Watching water boil
+interactions.b1d7d7b9.496aec7e.description=BrineとLithiumを作るためにEvaporationTowerを加熱するには、有効な熱源が必要です。ResistiveHeaterのために木材や燃料を燃やしたり、FEエネルギーを使用します。
+
+interactions.b1d7d7b9.4addfa03.title=A Wireless transmission of Freedom
+interactions.b1d7d7b9.4addfa03.description=FluidTransferNodeを使えば、離れた場所にOilを配管することができ、何度もOilタンクを集めに行く必要がなくなります。この装置があれば、たまにBatteryを交換するために戻ってくるだけで済みます。
+interactions.b1d7d7b9.4addfa03.text.0=ワイヤレス転送は同じディメンション内でしか機能しませんが、工夫次第でこの制限を回避できるコンパクトなセットアップもあります。
+interactions.b1d7d7b9.4bbf5b6a.title=Chlorine
+interactions.b1d7d7b9.4bbf5b6a.description=Chlorineは多くの化学反応の基礎となります。幸いなことに、Chlorineを作るのはとても簡単です。塩を電気分解すると、ChlorineとSodiumに分離されます。
+
+interactions.b1d7d7b9.4be04c93.title=Sulfuic Naphtha
+interactions.b1d7d7b9.4be04c93.description=このような無駄な化学物質をバケツに入れることを要求するつもりはありません。もう、うざったい! クエストブック、実践！
+interactions.b1d7d7b9.4be04c93.text.0=SulfuicNaphthaは、Oilを直接蒸留するか、またはDistileryを使って得ることができ、高度なEmpowerd Oilではこの副産物も得られる。
+
+interactions.b1d7d7b9.4c03fcd9.text.0=水とSulfurを使って、いくつかの化学物質の重要な前駆体である硫酸を作ることができます。
+
+interactions.b1d7d7b9.54b7c3b0.title=Naphtha
+interactions.b1d7d7b9.54b7c3b0.text.0=水素と硫化ナフサで精製ナフサができます。これはそのままでも燃料になりますが、もっといい使い方があります。
+
+interactions.b1d7d7b9.5a005611.title=Steam-Cracked Naphtha
+interactions.b1d7d7b9.5a005611.description=マジで疑問なんだが、なぜ蒸気を加えると黒くなったのか？
+
+interactions.b1d7d7b9.64abbac6.title=Against oil odds
+interactions.b1d7d7b9.64abbac6.description=Oilは、オーバーワールドのMesaとDeep Oceanのバイオームにある大きな間欠泉で生成されます。
+interactions.b1d7d7b9.64abbac6.text.0=Oilはパワーを供給し、PetroPetuniaを介してマナを供給し、さらに精製して数多くの有用な副産物を生成し、あらゆる化学的ニーズに応えることができます。石油化学製品を利用するための最適な方法については、燃料進行クエストラインを参照してください。
+
+interactions.b1d7d7b9.6ce21c6c.text.0=Tolueneはいくつかの方法でOilから精製することができます。ここではSmogChickenをお勧めしますが、最終的にはあなた次第です。最終的にはNeutoroniumや宝石の生産に大量に必要になります。
+
+interactions.b1d7d7b9.710b7cd7.title=Are you Gellin?
+interactions.b1d7d7b9.710b7cd7.description=液体を固める装置と金型があれば、特定の液体を有用な副産物として固めることができます。
+
+interactions.b1d7d7b9.76c508fd.title=Crystallized Oil
+interactions.b1d7d7b9.76c508fd.description=OilとCrystallized Canola Seedを混合することで、精製された重油の副産物を作ることができ、最終的にはより安価なDiesel燃料の生産につながります。
+interactions.b1d7d7b9.76c508fd.text.0=歩留まりを上げるためには、このステップは任意です。歩留まりが悪い場合は、直接Oilを精製することもできます。
+
+interactions.b1d7d7b9.780a058d.text.0=Assemblerの多くのレシピでは、ケーブルの被覆などにゴムを使用します（カーペットの代わりになります）。また、ConveyorModuleなどのためにゴムをシート状にするためにFluidSolidifirerを使用する必要があるかもしれません。
+
+interactions.b1d7d7b9.79ebddca.tasks.0.title=Light Fuel
+
+interactions.b1d7d7b9.7f0e32a6.text.0=水を電気分解すれば、化学的に必要な酸素と水素が得られます。また、GassyChickenの卵を使って直接水素を作ることもできます。 
+
+interactions.b1d7d7b9.820b1cf6.title=Gettin' Salty
+interactions.b1d7d7b9.820b1cf6.description=Aquamanは世界の塩分濃度を回復させるためにあなたの助けを必要としています。
+interactions.b1d7d7b9.820b1cf6.text.0=ThermalExpansionでLithiumから火と氷の塩を作ることにつながる処理連鎖の始まりです。
+
+interactions.b1d7d7b9.9a162cda.title=大量のLithium
+interactions.b1d7d7b9.9a162cda.description=やっと本物の電池を火の中に放り込むことができるようになりました。
+interactions.b1d7d7b9.9a162cda.tasks.0.title=Lithium Dust
+
+interactions.b1d7d7b9.b2980d2e.title=エレメンタルダスト
+interactions.b1d7d7b9.b2980d2e.description=Brineに元素の特性を注入すると、元素の粉ができ、様々な用途に使えるようになるようです。
+
+interactions.b1d7d7b9.ba875a99.title=硫酸
+interactions.b1d7d7b9.ba875a99.description=硫酸は簡単に言えば、Sulfurと水です。Sulfurは、ブレイズデータモデルを備えたSimulationChamberで入手できるブレイズパウダーや、その他多くの情報源から得ることができます。
+
+interactions.b1d7d7b9.bd9959ca.title=StickyBusiness
+interactions.b1d7d7b9.bd9959ca.description=木の根元に設置された「ArborealExtractor」を使ってResinを抽出し、さらにRubberに加工することができます。これがRubberを作る3つの方法のうちの1つです。
+
+interactions.b1d7d7b9.be976ee3.text.0=Resinは、Rubberの代替となる効率的な製造方法として利用できます。
+
+interactions.b1d7d7b9.c03196f4.title=誰が何をしたかわからないプール
+
+interactions.b1d7d7b9.cdf825f7.title=家庭用化学キット
+interactions.b1d7d7b9.cdf825f7.text.0=基本的なChemicalReactorは、今後長い間、LVの主力となりますが、最終的にはすべてのTierのReactorが必要になるので、それに合わせて計画を立ててください。
+
+interactions.b1d7d7b9.chapter.title=LV化学
+
+interactions.b1d7d7b9.eebe34c9.description=えっ？コンプレッサーで空のセルを圧縮して空気を集めさせるとでも思っていたのか？
+interactions.b1d7d7b9.eebe34c9.text.0=これらの製品の多くは、「Gassy Chicken」から直接生産することができます。
+
+interactions.b1d7d7b9.f99434e4.title=カクテルマシン
+interactions.b1d7d7b9.f99434e4.text.0=基本的なミキサーがあれば、バケツ1杯分のOilをより多くの量にするために、Oilの濃縮と精製を始めることができます。
+
+interactions.b1d7d7b9.fc9b45fc.tasks.0.title=窒素セル
+interactions.b1d7d7b9.fc9b45fc.text.0=窒素は多くの化学反応の前駆体であり、EBFといくつかのケミカルリアクターのプロセスの両方で、すぐに利用できる供給源が必要です。
+
+interactions.b1e14370.2b4c7bc4.description=初期の主なルチルの供給源は、ボーキサイトの処理によるものです。その後、イルメナイトが手に入るようになります。
+
+interactions.b1e14370.4ee33ddb.title=粘土の自動化のためのビジュアル・ガイド
+
+interactions.b1e14370.4fc0c539.title=バランスの取れた電解
+interactions.b1e14370.4fc0c539.description=MVに入ると、アルミに電気分解できるダストの種類が増えます。私たちは、バランスのとれた粘土が好きです。
+interactions.b1e14370.4fc0c539.text.0=また、粘土を電気分解すると、シリコンなどの重要な副産物が得られますし、粘土はいくつかの方法で再生可能になります。早めにセッティングしておく価値はあります。
+
+interactions.b1e14370.aa9e39d7.title=進歩のかけら
+interactions.b1e14370.aa9e39d7.text.0=最初のアルミナゲットを製錬することで、MV時代の幕開けとなります。稼動させるためにはかなりの量のアルミニウムが必要になるので、EBFは決して休ませてはいけません。
+interactions.b1e14370.aa9e39d7.text.1=このRodを使って新しい時代を切り開く……そんな使い方をしてみてはいかがでしょうか。
+
+interactions.b1e14370.bdd30c0d.title=Resistance is Rutile
+interactions.b1e14370.bdd30c0d.text.0=ボーキサイトを十分に電気分解した後、塩素、二酸化炭素、マグネシウムが必要になります。これを四塩化チタンにして、EBFにかけると実際のチタンができます。
+interactions.b1e14370.bdd30c0d.text.1=この最後のステップで、HV Metallurgyのプログレッションタブに入ります。
+
+interactions.b1e14370.chapter.title=Metallurgy MV
+
+interactions.bc233ece.076bfb96.title=ポリテトラフ... テフロン。これはテフロンです。
+interactions.bc233ece.076bfb96.text.0=MVからは、特殊な回路や機械に使用される宇宙時代の材料の異なる種類を生産することができます。PTFEチェーンは難しいものですが、私たちはそれを簡素化するためにいくつかの手順を実行し、この気の利いたフローチャートを提供しました。
+interactions.bc233ece.076bfb96.text.1=user Turtle#1231.
+
+interactions.bc233ece.19612041.title=Breakin' Bad
+
+interactions.bc233ece.3c8719d8.tasks.0.title=インフィニティの自動化？
+interactions.bc233ece.3c8719d8.text.0=インフィニティの粒を自動化するには、いくつかの方法があります。最も簡単な方法は、インフィニティダストでモブをスポーンさせる方法です。あなた（またはユーザー）がダストを持って地面を右クリックすると、モブをスポーンさせる霧が発生します。
+interactions.bc233ece.3c8719d8.text.1=この霧で発生したモブは、インフィニティの粒を落とします。この粒はライトウェルでナイトメアの液体に加工され、さらに粒に戻るという自己増殖的なループになります。自動的にモブを殺してスポーンさせる方法を探しましょう！
+interactions.bc233ece.3c8719d8.text.2=クリックすると、チャレンジが完了します。この霧の中では、わずかな確率で点火済みTNTが発生することに注意してください。Animusの淘汰の儀式は、これらのTNTを即座に破壊させます。
+
+interactions.bc233ece.5c13f17c.title=Empowered Oil
+interactions.bc233ece.5c13f17c.description=電力インフラが十分に整ったら、Crystallized Canora Seedにインフィニティの粒と液体スターライトを加えて、燃料の生産量をさらに増やし、軽油や重油を使わずに直接Dieselを生産できるようになります。
+
+interactions.bc233ece.82176608.title=ポリテトラフルオロエチレンの製造フローチャート
+
+interactions.bc233ece.ac6213e5.title=Spinny Go Fast
+interactions.bc233ece.ac6213e5.text.0=より高いレベルの機械を使って副産物を作るチャンスを増やすように、副産物を作るために高エネルギーのサイクルを必要とする素材もあります。
+interactions.bc233ece.ac6213e5.text.1=そのような物質の一つがプルトニウムです。HV以降の遠心分離機でウランダストを遠心分離すれば、ラドンの生成に不可欠なプルトニウムダストを得ることができます。
+
+interactions.bc233ece.chapter.title=HV以降の化学
+
+interactions.bc233ece.d03a9479.title=Radon \m/
+interactions.bc233ece.d03a9479.description=ラドンは、化学反応器でプルトニウム244のかなり単純なプロセスです。これはダストになり、再溶解してサイクルを続けることができます。しかし、このプロセスは非常に多くのエネルギーと時間を必要とします。この作業を少なくとも4回は並行して行うことをお勧めします。
+interactions.bc233ece.d03a9479.text.0=最初のプルトニウムを手に入れるには、BlackQuartzブロックの触媒を使った崩れる塔の儀式を行います。これによりトリウムが得られ、これを星の光で変換してウランにし、遠心分離してプルトニウム244の小さな山を得ることができます。
+interactions.bc233ece.d03a9479.text.1=ラドンがあれば、改良エンダーアイやネザースター、ハイエンドエミッターの重要なエンパワーメントコンポーネント、その他のEV以降のTierコンポーネントを作ることができます。
+interactions.bc233ece.d03a9479.text.2=また、ラドンチキンもあり、投資する価値は十分にあります。
+
+interactions.bdc0ae1a.0a6c2138.title=自動化されたNacre - 初期の方法の例
+
+interactions.bdc0ae1a.10775b47.title=最も純粋なもの
+interactions.bdc0ae1a.10775b47.description=このピュアデイジーを持つピーチ姫は、花の名前を付けられなかったことに嫉妬するでしょう。
+
+interactions.bdc0ae1a.1b10cc2d.title=希薄な夢
+interactions.bdc0ae1a.1b10cc2d.description=Diluted Mana Poolを作ってスタートしました。
+
+interactions.bdc0ae1a.22644b75.title=すべての花を創造する
+interactions.bdc0ae1a.22644b75.description=通常のボタニアの花は生成されません。花びらを作るか、「Jaded Amaranthus」をクラフトしてマナを使って花を生成しましょう。
+
+interactions.bdc0ae1a.430d8d06.title=自動化に興味があるようですね
+interactions.bdc0ae1a.430d8d06.text.0=これを自動化してください。最終的にはたくさん必要になります。
+interactions.bdc0ae1a.430d8d06.text.1=Nacreは魔法のような液体で、いくつかのMODの重要な部品を作るために使われます。手動で作成することもできますがかなりの量が必要になるため、自動化することをお勧めします。
+
+interactions.bdc0ae1a.7df3941b.title=Conquer yourself!"　Navi 
+
+interactions.bdc0ae1a.8daf4c09.title=Beware of Watery Tarts lobbing scimitars.
+interactions.bdc0ae1a.8daf4c09.text.0=マナは、本パックのすべての魔法を支える原始的な原動力です。マナは液体であり、小さなプールとして世界に存在しています。また、マナエクストラポレーターでスプレッダーが使用するエネルギー形態のマナに変えることができます。
+interactions.bdc0ae1a.8daf4c09.text.1=エクストラポレーターはエネルギーとしてのマナを液体に戻すこともできますが、総容量が約10%%と少し減ってしまいます。
+
+interactions.bdc0ae1a.a1389ac0.description=欠陥のないダイヤモンドを探すか、Gem Refinerの回路図を入手する必要があります。
+
+interactions.bdc0ae1a.b9a6f02c.title=Mana Creation
+interactions.bdc0ae1a.b9a6f02c.description=マナを作る時です。スタート時の花は「ペトロペチュニア」か「ダンデライフォン」のどちらかです。他の生産法はまだ決まっていません。
+interactions.bdc0ae1a.b9a6f02c.text.0=PetroPetuniaは、CreosoteやDieselなど、どんな可燃性の燃料でも燃やすことができ、タンクから直接吸いだすこともできます。
+
+interactions.bdc0ae1a.cf7568e6.title= "私を2回も倒そうとしたことを覚えていますか？"
+
+interactions.bdc0ae1a.chapter.title=Mana.. Mahna Mahna 
+
+interactions.e0f1e33e.2f81abca.text.0=飛行の力を利用するか、退屈なのでルーン文字を作るか。
+
+interactions.e0f1e33e.666a29ec.title=Data Storage
+interactions.e0f1e33e.666a29ec.text.0=欠陥のあるモデルに必要な初期データを追加するには、Deep Learnerが必要です。
+interactions.e0f1e33e.666a29ec.text.1=データモデルをソケット化するには、Shift+右クリックをする必要があります。ソケット化した後は、そのモブタイプを倒すたびに1つのデータが追加されます。
+interactions.e0f1e33e.666a29ec.text.2=Basic Tierに達したモデルは、ポリマークレイをSimulation Chamberで使用することでデータを得ることができます。
+
+interactions.e0f1e33e.6d257ec8.title=30日間の無料体験
+interactions.e0f1e33e.6d257ec8.text.0=試練はボタニアの深い魔法への入り口であり、グリッチハートはさらにグリッチインゴットに加工され、ルニック祭壇やグリッチアーマーを作ることができます。
+
+interactions.e0f1e33e.9c1e319b.text.0=黒曜石に叩きつけてみてください。
+
+interactions.e0f1e33e.b32e5958.text.0=少しの金、ラピス、水を加えれば、何かあるかもしれない。
+
+interactions.e0f1e33e.cbbc96a7.text.0=シミュレーション・チャンバーは、Deep Mob Learningの世界への入り口です。
+interactions.e0f1e33e.cbbc96a7.text.1=エンダーパールやブレイズパウダーなどのモブドロップは、ポリマークレイを使って何もないところから作ることができます。
+interactions.e0f1e33e.cbbc96a7.text.2=この機能を利用するには、希望のモブタイプのDeep Learning Moduleを作成し、Deep Leanerで少しレベルを上げる必要があります。準備ができたらモジュールを挿入し、Learnerにパワーを与えてドロップの生産を開始します。
+
+interactions.e0f1e33e.chapter.title=Simulating Consciousness
+
+interactions.e5a2c94a.1c1dd182.title=Arditeと金鉱脈
+interactions.e5a2c94a.1c1dd182.description=Yレベル30～150の間で生成されます。
+
+interactions.e5a2c94a.1deb0b04.title=暗くて熱い地獄
+interactions.e5a2c94a.1deb0b04.description=火や溶岩があるネザーには素晴らしい光源があると思うでしょうが、テーマ的にはその通りです。しかし機能的には、ナイトビジョンを持っていくことをお勧めします。
+
+interactions.e5a2c94a.400d79c0.title=Infernal Deconglomerator
+interactions.e5a2c94a.400d79c0.description=マナとエネルギーを使ってありふれたブロックをレアな素材に分解する、地獄のような仕掛けです。
+
+interactions.e5a2c94a.4be8d618.description=Yレベル30～100の間で生成されます。
+
+interactions.e5a2c94a.5368852e.title="Relax, give him some space." -3rd Dimension
+interactions.e5a2c94a.5368852e.description=この鉱石は、ネザー内の単一な鉱脈として生成されます。
+
+interactions.e5a2c94a.6b3d5ea4.title=苦しむ方が精神的に高貴であるか
+interactions.e5a2c94a.6b3d5ea4.text.0=-ウィザースケルトンはこれまで以上に見つけやすくなっています。ネザーのいたるところに出現します。
+interactions.e5a2c94a.6b3d5ea4.text.1=-また、通常のスケルトンが持つすべてのバフも受けています。
+
+interactions.e5a2c94a.84fe3251.title=闇の中の光
+interactions.e5a2c94a.84fe3251.text.0=グローストーンはネザーで採掘したり、レッドストーンから遠心分離したり、FaintAmaranthを使って再生可能です。一度作成した花は、PhytogenicInsolatorで無限に育てることができます。
+
+interactions.e5a2c94a.aba3c3ae.title=燃え盛れ
+interactions.e5a2c94a.aba3c3ae.text.0=-ブレイズはこれまで以上に見つけやすくなっています。ブレイズはネザー内のあらゆる場所に出現します。
+interactions.e5a2c94a.aba3c3ae.text.1=-また、以前よりもHPが10アップしています。
+interactions.e5a2c94a.aba3c3ae.text.2=-倒されるときに小さな爆発を起こすので気を付けてください。
+interactions.e5a2c94a.aba3c3ae.text.3=-ブレイズは、近接武器で攻撃するとノックバックを受け、反動でダメージを受けてしまいます。
+interactions.e5a2c94a.aba3c3ae.text.4=-接近するときは触らないようにしないと、炎上してしまいます。
+
+interactions.e5a2c94a.c23e1424.title=攻撃的な豚の声
+interactions.e5a2c94a.c23e1424.text.0=-ゾンビピッグマンは、これまで以上に攻撃的になっています。触れると敵意をむき出しにします。
+interactions.e5a2c94a.c23e1424.text.1=-また、ゾンビピッグマンは、近くでブロックを壊すと怒る可能性があります。
+interactions.e5a2c94a.c23e1424.text.2=-また、通常のゾンビと同じように、すべてのボーナスを得ることができます。
+
+interactions.e5a2c94a.ca1eeee1.title=遂にZincが登場!
+interactions.e5a2c94a.ca1eeee1.description=Yレベル10～70の間で産出します。Sphaleriteには、ZincとGalliumという非常に有用な副産物があります。
+
+interactions.e5a2c94a.ccff9ca8.description=Yレベル40～110の間でよく生成されます。
+
+interactions.e5a2c94a.ce3dc75f.title=ネザーのManganes鉱脈
+interactions.e5a2c94a.ce3dc75f.description=Yレベル5～40の間で生成されます。Bauxite鉱脈にはManganesの副産物もあるので、必要ならばそちらをどうぞ。
+
+interactions.e5a2c94a.chapter.title=絶対に安全ではない空間
+interactions.e5a2c94a.chapter.description.0=このタブには、鉱石生成やモブの行動、ダンジョンなど、ネザーの変化に関する情報が含まれています。
+
+interactions.e5a2c94a.e7cd2094.title=ネザーのStibniteとTetrahedriteの鉱脈
+
+interactions.ed136c16.080f8d40.title=電源投入
+interactions.ed136c16.080f8d40.text.0=サイバーウェアの改造には電力が必要なので、内部に電源を用意する必要があります。コンデンサを取り付けた後、充電器の上に立って充電します。
+interactions.ed136c16.080f8d40.text.1=また、初期のエネルギーとして骨髄電池も良い選択肢です。
+
+interactions.ed136c16.09586bfe.title=サーマル・ヴィトン
+interactions.ed136c16.09586bfe.description=これらをエンチャントテーブルでエンチャントすると、より高いTierのストレージを手に入れることができます。
+
+interactions.ed136c16.15ffdafc.text.0=フラックスボア（ドリル）とは、RFを使ってブロックを採掘する道具です。つるはしとシャベルの両方の役割を果たします。
+
+interactions.ed136c16.160488c2.title=Rage against the Machine
+interactions.ed136c16.160488c2.text.0=このようなコンパクトなマシンは素晴らしいものですが、あまりにも窮屈なので、何か脱出方法がないかと考えています。魔法のような方法で出口を塞ぎ、あなたの創造力を解き放ちましょう。
+
+interactions.ed136c16.1d985202.description=3つの砂利で1つの火打石が得られます。乳鉢と乳棒を使うとその効率が上がりますし、窯で焼くのも良いでしょう。
+
+interactions.ed136c16.255c4b59.title=Building Gadgets Mod Spotlight
+
+interactions.ed136c16.36ebc706.description=スペクターコイルは、スペクターストレージを設置した人からエネルギーを抽出します。RFを使用するあらゆる機器のワイヤレスパワーに最適です。
+
+interactions.ed136c16.3b2493ea.text.0=このHammer Headには、非常に高い耐久性に加えて、素晴らしいエンチャントが組み込まれています。
+
+interactions.ed136c16.45cfffdd.title=Null Square
+interactions.ed136c16.45cfffdd.description=ここに保存されたアイテムは削除される可能性があります。重要なファイルをゴミ箱に保存するのはやめましょう。
+
+interactions.ed136c16.46df4789.text.0=泣く黒曜石ブロックにリンクさせることで、エンティティをバインドすることができます。この方法でバインドされた生物は、死んでもそこで復活します。
+interactions.ed136c16.46df4789.text.2=この危険な世界でペットの安全を守るために役立ちます。
+
+interactions.ed136c16.495cac08.title=Forging Party Equipment
+interactions.ed136c16.495cac08.description=これをクラフトするには、あらゆるTiC素材（鉄、Copper、Bronzeなど）を使うことができます。しかし、ほとんどのツールフォージレベルのツールパーツは、MV後に利用可能です。
+
+interactions.ed136c16.4a664dce.title=Detroit Become Human
+interactions.ed136c16.4a664dce.text.0=これが、あなたのAndroidの未来の始まりです。P.S. ロボサージョンは、ダンジョンの中で見つけることができます。
+
+interactions.ed136c16.4d2f6dce.title=廉価版ツール
+interactions.ed136c16.4d2f6dce.text.0=より良い金属を適切に成形するための高度な機械を手に入れるまでは、TiCには低価格で安価な素材しか使用できません。
+interactions.ed136c16.4d2f6dce.text.2=石の道具でも、レッドストーンやダイヤモンド、研磨キットを使ってアップグレードすれば、工夫次第で十分に活躍できます。また、石材を使って安価に修理できるのも魅力的です。
+
+interactions.ed136c16.562ac0bd.description=Hell-infusionされた本棚は、それぞれ通常の本棚の2倍のエンチャント力を持ち、エンチャントレベル50を超える（最大150まで）ために必要です。
+
+interactions.ed136c16.5633991b.tasks.0.title=寛容さ!
+interactions.ed136c16.5633991b.text.0=ロボサージョンの右端にあるバーは、あなたの許容範囲を示しています。耐性は100しかありませんが、赤になると体があなたのサイバーウェアを拒否し始めますのでご注意ください。
+interactions.ed136c16.5633991b.text.1=免責事項: 拒絶は死を招く！
+
+interactions.ed136c16.5c4fb85c.text.0=ワイバーンチェストプレートの能力に加えて、ドラコニックチェストプレートはプレイヤーに空を飛ぶ能力を与え、プレイヤーが空中に浮いているときの採掘速度の低下を取り除き、プレイヤーに火炎に対する免疫を与えます。
+
+interactions.ed136c16.600b4273.text.0=ワイバーンブーツの能力に加えて、ドラコニックブーツは、あらゆる高さからの落下ダメージからプレイヤーを保護し、最大ジャンプ高を増加させ、1つのブロックを階段のように歩くことができます。
+
+interactions.ed136c16.6163cd79.description=ワイヤレスは、個人のストレージからスペクトルエネルギーを抽出し、それを使ってツールやフラックスボアなどのインベントリーのアイテムを充電します。
+
+interactions.ed136c16.61ac4cf4.title=スライム島はありません
+interactions.ed136c16.61ac4cf4.description=装備品やエンボス加工のためにカラースライムが欲しい場合は、木から採取する必要があります。
+
+interactions.ed136c16.635d5fcc.title=Snowflake Air
+interactions.ed136c16.635d5fcc.text.0=Mekanismの機械は、一般的なGT素材を分解してガス状にしたものを使用する。正しい種類の気体に変換するためには、設定1の回路を使って化学反応器に酸素や水素を入れて、Mekanism液体に変換する必要がある。
+interactions.ed136c16.635d5fcc.text.1=Mekanismの酸素と水素を手に入れたら、Rotary Condensentratorを使って、ジェットパックやスキューバギア、火炎放射器を動かすためのガスに変えることができます。
+
+interactions.ed136c16.637db57f.title=これがトライアンフだ
+interactions.ed136c16.637db57f.description=The Device is now more valuable than the organs and combined incomes of everyone in {subject hometown here}.
+interactions.ed136c16.637db57f.text.0=これらはダンジョンで見つけたり、クラフトで作ったりすることができます。
+
+interactions.ed136c16.68d1c701.title=私は飛べると信じている
+interactions.ed136c16.68d1c701.text.0=Mekanismのジェットパックは、クリエイティブスタイルの飛行の最も初期の形です。完璧な浮遊状態を実現し、建築、採掘、戦闘などに役立ちます。推力は遅いが、他のモビリティツールと組み合わせることで、かなりの汎用性を発揮します。
+
+interactions.ed136c16.6d9670fb.title=空に制限はない！
+interactions.ed136c16.6d9670fb.text.0=レンズと分光レンズを手に入れたあなたは、コンパクトマシーンの上にコレクタークリスタルを置き、星の光を下に導いて、星空を楽しむことができます。
+
+interactions.ed136c16.702da854.description=このブーツはそれほど良いものでもないのに、なぜわざわざ他のインフィニティと一緒に並べるのでしょうか？
+
+interactions.ed136c16.74be1a3a.text.0=3x3のマイニング、お願いします。また、寿命を延ばすためにエンチャントする価値もあります。
+
+interactions.ed136c16.764cd4cb.title=このバッグの背面はとんでもないことになっている
+interactions.ed136c16.764cd4cb.description=前作に比べて50%%以上の余剰があります。もし、まだインベントリをいっぱいにしているなら、何か間違ったことをしているか、信じられないほど正しいことをしているかのどちらかです。
+
+interactions.ed136c16.7f51a952.title=Digital Extraction
+interactions.ed136c16.7f51a952.text.0=デジタルマイナーは消費電力が大きいですが、特定の鉱石をピンポイントで採掘することができます。従来のクアーリーよりも、世界に穴を開けずに済むため、環境にも優しい。
+
+interactions.ed136c16.8163fb2a.description=オークの苗木にエクトプラズムを使用すると、それをスペクターの苗木に変えることができます。これらの木は時間とともに成長し、再生可能なエクトプラズムの供給源となります。エクトプラズムを安く手に入れるためには、いくつかの木が必要かもしれません。
+interactions.ed136c16.8163fb2a.text.0=ヒント：TreeBeaconとの連携
+
+interactions.ed136c16.85365f2e.title=エンチャント 最低限必要なレベル
+interactions.ed136c16.85365f2e.description=このパックに特有の最小レベルの調整の詳細
+interactions.ed136c16.85365f2e.tasks.0.title=最小限のレベル調整
+interactions.ed136c16.85365f2e.text.0=Level 1: スイープエッジ、ベノム
+interactions.ed136c16.85365f2e.text.1=Level 10: 気密性、リーチ、ライフメンディング
+interactions.ed136c16.85365f2e.text.2=Level 12: リーパー、スカベンジャー
+interactions.ed136c16.85365f2e.text.3=Level 15: ヴォーパル
+interactions.ed136c16.85365f2e.text.4=Level 20: クイックドロー、安定した足場
+interactions.ed136c16.85365f2e.text.5=Level 30: 衰弱、ソウルバウンド
+interactions.ed136c16.85365f2e.text.6=Level 40: マルチショット、無限の矢筒
+interactions.ed136c16.85365f2e.text.7=Level 60: Magnetic、ナイトビジョン
+interactions.ed136c16.85365f2e.text.8=Level 80: ブロックリーチ
+
+interactions.ed136c16.85a7d1a3.text.0=魔法は持ち主に幸運をもたらすものではないのでしょうか？ 作ってみてください。
+
+interactions.ed136c16.95a0ca99.title=何もしないでいると
+interactions.ed136c16.95a0ca99.description="でも、何も入っていないじゃないか！"。"いいえ、無が入っています"
+interactions.ed136c16.95a0ca99.text.0=ボイドサッチェルは、インベントリに散らばって欲しくないアイテムを自動的にボイドするように設定することができます。
+
+interactions.ed136c16.9aac61b3.text.0=ドラコニックレギンスは、ワイバーンレギンスよりもさらに速く動くことができます。
+
+interactions.ed136c16.9b3bb0f4.title=Multiblock Mastery
+interactions.ed136c16.9b3bb0f4.text.0=テンプレートマネージャーでは、保存された構造をコピーペーストガジェットにインポート・エクスポートすることができます。これは構築にかかる時間を大幅に短縮することができます。
+interactions.ed136c16.9b3bb0f4.text.1=注意: タイルエンティティをコピー／ペーストすることはできないので、例えばモジュラーマシンをペーストした場合、マシンコントローラとタイルエンティティを持つブロックを手動で配置する必要があります。
+
+interactions.ed136c16.9b793344.title=私は泳げると信じています
+interactions.ed136c16.9b793344.description=水中基地の建設や、海洋ダンジョンの深部に潜るには、長時間の酸素源が必要になることがあります。mekanismのスキューバタンクを使えば、水中での滞在時間を大幅に延長することができます。
+
+interactions.ed136c16.9ce126e4.text.0=Cybereyesは、ユーザーが以下のような幅広いことを行うことを可能にします。
+interactions.ed136c16.9ce126e4.text.1=- 盲目への免疫
+interactions.ed136c16.9ce126e4.text.2=- ナイトヴィジョン*
+interactions.ed136c16.9ce126e4.text.3=- 水中での視認性向上*
+interactions.ed136c16.9ce126e4.text.4=他にもいくつかあります。
+interactions.ed136c16.9ce126e4.text.5=* 特定のアップグレードでのみ利用可能です。
+
+interactions.ed136c16.a14d80ac.title=誰もそんなことをしている暇はない
+interactions.ed136c16.a14d80ac.text.0=Time in a bottleは、インベントリにボトルがある限り、プレイ中に時間を貯めることができます。貯めた時間をブロックに右クリックで使用すると、ブロックの動作が速くなります。
+interactions.ed136c16.a14d80ac.text.1=警告：エネルギー供給に使用すると、ケーブルに過電圧がかかり、燃える可能性があります。
+interactions.ed136c16.a14d80ac.text.2=SteamBoilerの生産の加速化は、他の多くのものと同様にうまくいくはずです。
+
+interactions.ed136c16.a79229e7.title=SILENCIO!
+interactions.ed136c16.a79229e7.text.0=繰り返されるブロックやエンティティの音は、時間が経つと非常に煩わしくなります。Random Things Sound Dampenerを使えば、村人やポータル、火の燃えるの音など、さまざまな音を消すことができます。
+interactions.ed136c16.a79229e7.text.2=パーソナルダンパは自分のためだけに音を消すことができる貴重なもので、ブロックはみんなのために半径方向に働きます。
+interactions.ed136c16.a79229e7.text.3=音を作るには、レコーダーで音を録音し、それをパターンに保存します。遮断したいパターンを消音器に挿入すれば、二度と音に悩まされることはありません。
+
+interactions.ed136c16.ad7c6a92.title=3x3 インベントリ内でのクラフト?
+interactions.ed136c16.ad7c6a92.text.0=タイトルの通り、このアップグレードはどこでもクラフトできるようにします。一見無意味なように見えますが、そのメリットは大きいです。
+
+interactions.ed136c16.affcbb66.title=Hang Ten
+interactions.ed136c16.affcbb66.text.0=基本的なグライダー飛行で、ジェットパックなどの空中に浮くアイテムとの相性は抜群です。
+
+interactions.ed136c16.b1177c9e.description=中世の雰囲気を醸し出す
+
+interactions.ed136c16.b67b247d.text.0=ワイバーンヘルムの高いダメージ耐性に加え、水に浸かっても呼吸ができるようになりました。
+interactions.ed136c16.b67b247d.text.1=このヘルメットは暗視機能を持ち、あらゆるポーションの効果を回復し、水との親和性があり、水に浸かったときに起こる採掘速度の低下を取り除き、視認性のためにゴーグルとして機能します。
+
+interactions.ed136c16.badc108d.title=Crafting Party Equipment
+interactions.ed136c16.badc108d.text.0=ツールステーションと、パターンチェスト、ステンシルメーカー、パーツビルダーなどの基本的なTiCブロックを手に入れるといいでしょう。このクエストではこれらのブロックをすべて作らせるわけではありませんが、ツールステーションは必要です。
+interactions.ed136c16.badc108d.text.2=最初は普通に鉄のパーツを鋳造したり、パーツビルダーで丸石のパーツを作ることができます。より高度な素材は、金属を形成するための機械が必要になります。レッドストーンでスピードアップした初期の段階では、丸石は簡単に修理できる便利な素材となります。
+
+interactions.ed136c16.bcc51b66.description=バニラのエンチャントは、Animusの「分解の儀式」でエンチャントを複製し、Botaniaの「マナエンチャンター」やApotheosisによる「金床」と組み合わせることで、全く新しいレベルに到達します。
+interactions.ed136c16.bcc51b66.text.0=この新しい力には、いくつかの新しい制限もあります。ある種のエンチャントは、表示を開始する前に最低レベルを必要とし、レベル30以上を必要とするものは、エンチャンターが地獄を注入した本棚を持つ必要があります。
+interactions.ed136c16.bcc51b66.text.2=ヒント: これはどんなエンチャントされた本でも受け付けます。工作台で本とエメラルドを使ってflim flamのエンチャント本を作ることができます。
+
+interactions.ed136c16.bd251e17.text.0=ボタニアのマナパイロンは8レベル、ガイアのマナパイロンは15レベルとなっていますが、どちらもレベル30のボーナスを超えることはできません。また、マナパイロンはマナエンチャンターのコアゲートとなります。
+
+interactions.ed136c16.be691558.title=Advanced Wireless Power Systems Inc.
+interactions.ed136c16.be691558.text.0=エンダーコイルでは、IV以降の機械を維持するのは難しいかもしれませんが、より高い転送率を目指しましょう
+interactions.ed136c16.be691558.text.1=AWPSIはストレージを行いませんが、あなたは盲目ではありません。GTBatteryのバッファーを使って、AWPSIに電力を引き込む。
+
+interactions.ed136c16.becdc9a7.description=SpectreEnergyInjectorを使えば、RFエネルギーをファントムゾーンに蓄えることができ、後で抽出するのに役立ちます。このエネルギーは、Injectorを設置したプレイヤーに関連付けられています。
+
+interactions.ed136c16.c42f5354.description=主要な魔法の材料は、レンチ、ハンマー、ドライバーなどの一般的な工具を非常に強力に変化させます。これらの材料を探すことで、通常の工具の数を大幅に減らすことができますので、ぜひお試しください。
+interactions.ed136c16.c42f5354.tasks.0.title=ツールの優位性
+
+interactions.ed136c16.c4d06ee3.title=Welcome to the Machine
+interactions.ed136c16.c4d06ee3.text.0=このような自動化は、膨大なスペースを必要とし、視覚的にも圧倒されてしまいます。そこで、文字通り、すべてを縮小するのです。コンパクトマシンを使えば、拠点に余裕ができます。
+interactions.ed136c16.c4d06ee3.text.1=まず、4つの小型化フィールド・プロジェクターをプラスの形に向かい合って配置します。その後、JEIのレシピに従って内部のマルチブロックを構築し、最後に触媒を投入します。
+interactions.ed136c16.c4d06ee3.text.2=作成後のコンパクトマシンに入るには、Personal Shrinking Deviceが必要です。
+
+interactions.ed136c16.ca115f5d.title=その他のパワーオプション
+interactions.ed136c16.ca115f5d.tasks.0.title=その他のパワーオプション
+interactions.ed136c16.ca115f5d.text.0=他にもインターパワーの選択肢はあります。
+interactions.ed136c16.ca115f5d.text.1=- 心血管カプラー
+interactions.ed136c16.ca115f5d.text.2=- ソーラースキン
+interactions.ed136c16.ca115f5d.text.3=- メタボリックジェネレーター
+
+interactions.ed136c16.caf422c5.title=不気味で怖いべたべた
+interactions.ed136c16.caf422c5.description=エクトプラズムは、モブが殺されたときに低確率で生成されるスピリットからドロップする。また、zen summonでも召喚することができます（ただし、voidディメンションでしか召喚できません！）。彼らにダメージを与えるためには、魔法ダメージを与えなければなりません。例えば、負傷のスプラッシュポーションなどです。
+
+interactions.ed136c16.cc007cac.tasks.0.title=An Eggscelent Endeavor
+interactions.ed136c16.cc007cac.text.0=ヒッポグリフは、空を飛び回るのに最適な仲間です このオプションクエストでは、好きな色のレアエッグを選び、捕獲して飼いならすまでのプロセスを省略することができます。
+interactions.ed136c16.cc007cac.text.1=こんなにたくさんの卵をどうやって手に入れるの？賢いニワトリたちが教えてくれるかもしれません。ニワトリの巣箱へ!
+interactions.ed136c16.cc007cac.text.3=警告：手なずけられていない赤ちゃんのヒッポグリフは凶暴です。うさぎの足で飼いならす前に、成熟させるための囲いを作るべきです。
+
+interactions.ed136c16.chapter.title=パーティー用品
+interactions.ed136c16.chapter.description.0=着用できれば、とってもはかどる!
+
+interactions.ed136c16.d2963c1f.text.0=最初のマジックメタル・ヘッドは、無料で何かを提供しています。
+
+interactions.ed136c16.d65a5425.title=The Dire Gadgets
+interactions.ed136c16.d65a5425.text.0=Building gadgetsでは、建造物の建設、建造物のインポート/エクスポート、建造物の撤去に役立つ様々なユーティリティーアイテムを提供しています。
+interactions.ed136c16.d65a5425.text.1=また、DW20氏によるMODスポットライトもご覧ください。
+interactions.ed136c16.d65a5425.text.2=ヒント：このパックに含まれるマルチブロックのいくつかは、回路図として見つけることができるかもしれませんので、製作時間を短縮することができます。
+interactions.ed136c16.d65a5425.text.4=チャージパッドは、RFパワーが供給されると、ホットバー内のRFアイテムを充電します。
+
+interactions.ed136c16.d73f9773.title=Hammer, stoptime!
+interactions.ed136c16.d73f9773.description=クラフトグリッドとインワールドの両方で粉砕します。鉱石で試してみてください。最初に見つけた鉱石の種類によっては、Bronzeハンマーが適しているかもしれません。
+
+interactions.ed136c16.da9258f9.title=OUT OF AWPSI
+interactions.ed136c16.da9258f9.text.0=さて、これはどうなることやら...。
+
+interactions.ed136c16.e215f0b3.title=Arboreally Arcane
+interactions.ed136c16.e215f0b3.text.0=魔法の木は、エンチャントパワーの強力な増倍剤となります。本棚のようにエンチャントテーブルの周りに魔法の木を置くことで、エンチャントパワーを30以上、最大で60まで高めることができます。
+
+interactions.ed136c16.e66e3fa8.title=INTO AWPSI
+interactions.ed136c16.e66e3fa8.text.0=これを発電出力のバッファに使ってください。
+
+interactions.ed136c16.e8981061.title=The mob Randomizer
+interactions.ed136c16.e8981061.text.0=クラインの星を作成して、TransmutationTableにチャージすることで、パーソナルEMCを強化することができるようになりました。これを手に入れれば、賢者の石の投擲物を起動することができます（キーバインドを確認）。
+interactions.ed136c16.e8981061.text.1=この弾はモブを他のモブに変えてしまう。ブレイズが必要？厄介なクリーパーをそれに変えます。
+interactions.ed136c16.e8981061.text.2=Mutant steve camping your corpse? How now brown cow...
+interactions.ed136c16.e8981061.text.4=クラインの星を変換タブレットのインターフェースの左側に置いてEMCを吸収します。テーブルの右側の中央に置くと、EMCをテーブルに戻すことができます。友人との共有にも最適です。
+
+interactions.ed136c16.e9a328ca.description=インベントリを開くたびに開くので、ホットバーのスロットを占有する必要がありません。また、ティアリング可能なメモリーカードを使用できるので、他のバッグよりもはるかに大きなストレージ容量があります。
+
+interactions.ed136c16.ec1356f5.title=サイバーレッグス
+interactions.ed136c16.ec1356f5.text.0=サイバーレッグスでは、以下のようなニッチなアップグレードが可能です。
+interactions.ed136c16.ec1356f5.text.1=- ステップアシスト*
+interactions.ed136c16.ec1356f5.text.2=- ジャンプブースト*
+interactions.ed136c16.ec1356f5.text.3=- 落下ダメージを防ぐ*
+interactions.ed136c16.ec1356f5.text.4=他にもいくつかあります。
+interactions.ed136c16.ec1356f5.text.5=* 特定のアップグレードでのみ利用可能
+
+interactions.ed136c16.ec9f3563.title=GT やすり
+interactions.ed136c16.ec9f3563.description=金属の中には、Copperのように柔らかすぎてヤスリがかけられないものもあります。Bronze、鉄、WroughtIron、Steelなどの主要な素材にこだわることをお勧めします。
+
+interactions.ed136c16.ee5c345f.title=Anchored in Spirit
+interactions.ed136c16.ee5c345f.text.0=スペクターアンカーは、装備品を死後も手元に置いておけるように自分に縛り付ける安価な方法です。スペクターアンカーを作成して、重要なアイテムに取り付ければ、それらを守ることができます。
+
+interactions.ed136c16.eff2efc7.title=Manufacturing Party Equipment
+interactions.ed136c16.eff2efc7.description=高Tierの材料や強い特性を持つ材料は、工具部品として使用するためには鋳造ではなく押出成形が必要です。
+
+interactions.ed136c16.f3bb5a4a.description=少なくとも、あなたの皮膚が引き裂かれることはもうありません。
+
+interactions.ed136c16.f8effd95.title=お前はもう死んでいる
+interactions.ed136c16.f8effd95.text.0=強力な多目的ツールです。効果の採掘範囲は、Shift+右クリックで、プロファイルから調整できます
+interactions.ed136c16.f8effd95.text.1= この杖は、膨大な量の体力を持つモブに対して非常に大きな威力を発揮します。
+interactions.ed136c16.f8effd95.text.2= ダメージボーナスは、300ダメージに加えて、モブの現在のヘルスの30%%を与えます。
+
+interactions.ed136c16.ff35f146.title=ターミネーター!
+interactions.ed136c16.ff35f146.tasks.0.title=Futher Augmenting
+interactions.ed136c16.ff35f146.text.0=この他にも、究極のアンドロイドになるための追加機能がたくさんあります。
+interactions.ed136c16.ff35f146.text.1=楽しんで、そして安全にお過ごしください。
+
+interactions.fcf42610.03be141d.title=小さな山、大きな問題。- ToAsgaard社のTiny dust automation - 極小・少量の粉塵発生に対処するための数多くのオプションの一つです。
+
+interactions.fcf42610.067e7877.title=そもそも焼きなましとは何でしょうか？(What is Annealed anyway?)
+interactions.fcf42610.067e7877.text.0=焼きなましとは、素材の特性を変化させる熱処理のことです。この場合、Copperを焼きなますことで導電性が高まり、より多くの用途に使用できるようになります。
+interactions.fcf42610.067e7877.text.1=新しいPlasmaArcFurnaceを使って、EBFよりもはるかに簡単にAnnealedCopperを作ることができます。
+
+interactions.fcf42610.430f5fa1.tasks.0.title=より簡単なスチール
+interactions.fcf42610.430f5fa1.text.0=電気炉で錬鉄を作ると、融剤を作らずにSteelを大量に生産することができます。大量の自動化に便利です。
+
+interactions.fcf42610.72dc249f.title=The Arc to Power
+interactions.fcf42610.72dc249f.text.0=錬鉄やAnnealedCopperなどの素材は、アーク炉と酸素を利用することで非常に簡単に自動化でき、素早く生産することができます。多くの用途があり、早期に投資する価値があることがわかるでしょう。
+interactions.fcf42610.72dc249f.text.1=WroghtIronを素早く生産できるようになったら、それを素早くEBFにかけることで、無融剤方式の鉄鋼生産をさらに自動化することができます。 
+
+interactions.fcf42610.a6d5688e.title=Wrought with Iron
+interactions.fcf42610.a6d5688e.text.0=鉄を火の中に放り込んで鍛造する方法もあるが、自動化のためには不便なこともあるので、プラズマアーク炉で錬鉄を早く精錬することもできます。
+
+interactions.fcf42610.c295d1ae.title=Tiny Progressions
+interactions.fcf42610.c295d1ae.description=EBFでサファイアやグリーンサファイアの粉を精錬してアルミナゲットを作り、MV時代のスタートを切ることができます。
+interactions.fcf42610.c295d1ae.text.0=このダストを手に入れるには、サファイア鉱石を粉砕してから遠心分離するという適切な処理が必要です。しかし、材料の損失を気にしないのであれば、Squeezerを使えば、今のところ、早くて損失の少ない方法で処理することができます。
+interactions.fcf42610.c295d1ae.text.1=EBFを建設した後は、MV Tier of Metallurgyに進みます。
+
+interactions.fcf42610.chapter.title=Metallurgy LV
+
+interactions.fd71bc82.2e5abfbb.tasks.0.title=タングステンダスト
+
+interactions.fd71bc82.6b69f34f.title=エイリアンのタングステン鉱石
+interactions.fd71bc82.6b69f34f.tasks.0.title=タングステン鉱脈
+interactions.fd71bc82.6b69f34f.text.0=エンドストーンを電気分解するかinfernal deconclomeratorに通す（推奨）以外にも、エンドに到達した後は、タングステン鉱石を直接採掘してEV以降Tierで必要なものを大量に処理することができます。
+
+interactions.crate.title=調子に乗らないこと
+interactions.crate.description=GTクレートは、アイテムを保管するために作成することができ、コンベアやロボットアームを取り付けて、近くのインベトーリから引き出してGTフィルタリングを行うこともできます。これらは、鉱石処理のセットアップに非常に役立ちます。
+interactions.crate.text.0=警告：クレートをDollyしようとしないでください。
+
+interactions.logistics.mecontroller.title=チャンネルを変える
+interactions.logistics.mecontroller.description=AEネットワークは強力ですが、通常は8チャンネルに制限されています。MEコントローラーを作ることで、片側32チャンネルを利用できるようになり、マルチブロックを組むことでさらに多くのチャンネルを利用できるようになります。
+interactions.logistics.mecontroller.text.0=苦労してここまで来たご褒美に、素敵なプレゼントを用意しました。
+
+interactions.fd71bc82.chapter.title=Metallurgy EV+
+
+multiblocktweaker.machine.disassembler.name=Disassembler
+multiblocktweaker.multiblock.disassembler.description=分解機(Disassembler)は、多くのアイテムの製造に使われたマイクロコンポーネントや材料の一部を復元することができます。
+recipemap.disassembler.name=Item Disassembly
+
+interactions.partygear.antimatter.title=なんだこれ？反物質だ！
+interactions.partygear.antimatter.description=液体アンチマターはフラックスを生成するために必要な液体であり、Voidスペースに無限に近いエネルギーを伝達できる強力な素材である。
+interactions.partygear.antimatter.text.0=液体アンチマターは、ライフエッセンスが雷と接触することで生まれます。これは自然に起こることもありますが、非常に稀なことで、代わりに 
+interactions.partygear.antimatter.text.1=この雷を直接発生させる方法として、Reliquaryの「Rending Gale」や、Animusの「Sigil of Storms」などに投資するとよいでしょう。
+interactions.partygear.antimatter.text.2=警告：液体アンチマターは非常に大きな破壊力を持っています。触れたものを反物質に変えてしまい、採掘されるとすべての反物質ブロックに破壊の連鎖を引き起こします。
+
+interactiosns.luckystar.dynanism.title=The Dynamic Trio
+interactiosns.luckystar.dynanism.description=ダイナニズム・ジェムは、液体スターライトをグローストーンダストとロッククリスタルと共にワールド内に置くことで作られます。宝石は時間の経過とともに成長し、ランダムに成長度の高い状態に変化します。ランダム性に頼ることを最小限にするため、一度に複数個を育てることをお勧めします。
+interactiosns.luckystar.dynanism.text.0=Dyananism Gemsには、Fengarum(白)、Ourium(青)、Ilium(オレンジ)の3種類があります。宝石の種類は、変換チャンスが出た時のワールドタイムによって変わります。
+interactiosns.luckystar.dynanism.text.1=スターライトと加速を与えることで、これらはより早く成長し、パーティクルを発するようになったら、安全に収穫することができます。しばらく収穫されないでいると、以前の成長段階に戻り、サイクルを続けます。
+
+interactions.metallurgyev.implosioncompressor.title=爆発的な進歩
+interactions.metallurgyev.implosioncompressor.description=材料の中には、標準的なコンプレッサーでは圧縮できないほどの圧力を必要とするものがあります。このような場合には、内破爆縮機が適しています。
+interactions.metallurgyev.implosioncompressor.text.0=内破爆縮機は、消費電力が少なく、短時間でその役割を果たすことができますが、常にTNTの供給源が必要となります。LVを参照してください。
+interactions.metallurgyev.implosioncompressor.text.1=TolueneとTNTの自動化への道を示すChemistryタブ（まだやっていない場合）。このプロセスのためにDistillationTowerを検討することを強くおすすめします。
+interactions.metallurgyev.implosioncompressor.text.2=水蒸気分解や蒸留油の製品は、必要なTolueneやポリスチレン化学品などの有用なアイテムを提供してくれます。
+
+interactions.metallurgymaster.vanadium.title=Get in the Vanadium!
+interactions.metallurgymaster.vanadium.description=金や鉄を探すときに、無駄なバナジウム磁鉄鉱を採掘していたのを覚えていますか？驚きましたね。結局は使い道があるのです。LuVTierの機械は、パック内の最先端技術の配線やその他の部品を作るために、ガリウムを添加したバナジウムインゴットを必要とします。
+interactions.metallurgymaster.vanadium.text.0=バナジウム・ガリウムインゴットを作るためには、EBFは最低でも4500Kの温度に対応していなければなりません。まだお持ちでない方は、EBFをタングステンスチールコイルか超伝導にアップグレードしてください。
+
+interactions.metallurgymaster.ytt.title=Yeet-Rium!
+interactions.metallurgymaster.ytt.description=イットリウムは、バリウムや銅酸化物と合金化することで、超伝導の鍵となる新種の金属を作ることができます。これにより、エネルギー輸送や、そのような材料を必要とする高度な機械に使用される超伝導ワイヤーを作ることができます。
+interactions.metallurgymaster.ytt.text.0=イットリウムは、レアアースを遠心分離したり、Aurelliaや軌道採掘機からのバイオレットクリスタルブロックを粉砕して得られる。バリウムは、サータスクォーツを加工して得られるバライトダストの副産物である。
+
+interactions.metallurgymaster.plutonium.title= 私は放射性物質です
+interactions.metallurgymaster.plutonium.description=ウラン238を何度も遠心分離機にかけることで、まずプルトニウム244の小さな粉を手に入れ、その塵を遠心分離機にかけることで241を手に入れることができるのです。
+interactions.metallurgymaster.plutonium.text.0=可能性は低く、時間とエネルギーがかかるので、プルトニウムを手に入れるために多額の処理費用をかけたほうがいいだろう。惑星Aurelliaに到着すると、Oxidized Ferric Sandを遠心分離することで、より直接的にプルトニウムを得ることができる。精製されたプルトニウムは、ナクアダ反応炉とフュージョン反応炉の両方で重要な成分となります。
+
+interactions.ayo.coil.tier0.title=コイルをおろそかにするのはNot 0Kです
+interactions.ayo.coil.tier0.description=EBFの熱量は、コイルの種類によって決まります。
+interactions.ayo.coil.tier0.text.0=コイルの温度が高ければ高いほど、より高度な素材の製錬が可能になりますが、コイルをアップグレードし続けなければ、最終的にはパック進行のボトルネックになってしまいます。本パックではコイルのアップグレード経路が比較的簡素化されており、Tungstensteelに到達すると、エンドゲームのSuperconduconductiongCoilにジャンプすることができます。このクエストでは、各Tierの最初のEBFに必要なコイルの半分を提供することで、アップグレードを支援します。
