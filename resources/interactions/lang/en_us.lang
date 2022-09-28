@@ -745,7 +745,7 @@ interactions.498eb09c.31031dcd.title=Biomass
 interactions.498eb09c.31031dcd.description=Best catalyst is Botania Petals, but you can double check in JEI if you don't believe us.
 
 interactions.498eb09c.33705eac.title=High Powered Hootch
-interactions.498eb09c.33705eac.text.0=Ethanol can be produced from biomass, which can be in turn produced by plant matter and honey for best results. Honey from rustic apiaries is plentiful and botania flowers can be automed via a jaded amaranthus or by duplicating white metals with mana
+interactions.498eb09c.33705eac.text.0=Ethanol can be produced from biomass, which can be in turn produced by plant matter and honey for best results. Honey from rustic apiaries is plentiful and botania flowers can be automed via a jaded amaranthus or by duplicating white petals with mana
 
 interactions.498eb09c.46ef265b.title=Fluorine
 interactions.498eb09c.46ef265b.description=Can be obtained by electrolyzing many different salts, primarily lepidolite. Can be synthesized renewably from biotite dust. 
@@ -2036,7 +2036,7 @@ interactions.bdc0ae1a.430d8d06.title=I see you have a nacre for automating thing
 interactions.bdc0ae1a.430d8d06.text.0=Automate this. You're going to need A LOT of it eventually.
 interactions.bdc0ae1a.430d8d06.text.1=Nacre is a magical fluid that is used in bulk to create key components for several mods. You can create some manually but it's suggested you automate this as you'll need quite a bit.
 
-interactions.bdc0ae1a.7df3941b.title=Conquer yourself!" — Navi 
+interactions.bdc0ae1a.7df3941b.title="Conquer yourself!" — Navi 
 
 interactions.bdc0ae1a.8daf4c09.title=Beware of Watery Tarts lobbing scimitars.
 interactions.bdc0ae1a.8daf4c09.text.0=Mana is a primal driving force behind all magic in this pack. It is a liquid that populates the world in small pools and can be turns into an energetic form of mana used by spreaders in the Mana Extrapolator. 
